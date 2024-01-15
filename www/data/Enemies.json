@@ -1,0 +1,7583 @@
+[
+    null,
+    {
+        "id": 1,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "03_Rat_C",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 50,
+        "name": "イビルラット",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            200,
+            0,
+            3,
+            50,
+            1,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 2,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "029_Axebeak_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 50,
+        "name": "コウヨウチョウ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1100,
+            0,
+            3,
+            50,
+            2,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 3,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "004_Flower_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 5,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 50,
+        "name": "☆拘束の妖花",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？\n\n魔法防御→2のとき、エロ攻撃あり",
+        "params": [
+            1200,
+            1,
+            3,
+            50,
+            3,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 4,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Evilgod",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 124,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 3000,
+        "name": "★触手の王",
+        "note": "<book:no>\n敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            9999,
+            1,
+            5,
+            50,
+            4,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 5,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "020_Beetlescratch_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 142,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 60,
+        "name": "ニードルアイ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            220,
+            0,
+            6,
+            50,
+            5,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 6,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Machinerybee",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 125,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 60,
+        "name": "マシンビー",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1024,
+            0,
+            6,
+            50,
+            6,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 7,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Gnome",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 60,
+        "name": "ミニマタンゴ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            500,
+            0,
+            6,
+            50,
+            7,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 8,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Anaconda",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 1000,
+        "name": "★巻き付く悪魔",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            500,
+            1,
+            8,
+            50,
+            8,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 9,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Kamaitachi",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 129,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 70,
+        "name": "カマイタチ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            300,
+            0,
+            8,
+            50,
+            9,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 10,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "015_Mask_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 130,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 70,
+        "name": "バットデーモン",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1300,
+            0,
+            8,
+            50,
+            10,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 11,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Matango",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 70,
+        "name": "オニマタンゴ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1500,
+            0,
+            8,
+            50,
+            11,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 12,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Treant",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 127,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 1500,
+        "name": "★夜の魔界樹",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4000,
+            0,
+            10,
+            50,
+            12,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 13,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Brownbear",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 129,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 80,
+        "name": "ストールンベア",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            500,
+            0,
+            15,
+            50,
+            13,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 14,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Sylph",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 130,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 80,
+        "name": "ニンフィー",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            2000,
+            0,
+            12,
+            50,
+            14,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 15,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "005_Mushroom_2_Ab",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 80,
+        "name": "☆破断の触手魔",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4000,
+            1,
+            14,
+            50,
+            15,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 16,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "boss1_alt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 2000,
+        "name": "エレクトオルタ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            6000,
+            0,
+            8,
+            50,
+            16,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 17,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Crab",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "シザーハンズ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            600,
+            0,
+            12,
+            50,
+            17,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 18,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "KillerFish_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "アクマウオ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            2200,
+            0,
+            14,
+            50,
+            18,
+            30,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 19,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Ketos",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "ビッグマウス",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4000,
+            0,
+            16,
+            50,
+            19,
+            30,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 20,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "33_Jellyfish_D",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "☆揺らめく触手",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            3700,
+            1,
+            15,
+            50,
+            20,
+            30,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 21,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "01_BigSlime_C",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "☆毒々しい液塊",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            3000,
+            2,
+            12,
+            50,
+            21,
+            30,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 22,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Kraken",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 90,
+        "name": "☆命を吸う吸盤",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            3900,
+            1,
+            16,
+            50,
+            22,
+            30,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 23,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Undine",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 127,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 2000,
+        "name": "★水月の姫",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            9000,
+            2,
+            17,
+            50,
+            23,
+            30,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 24,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "PoisonToad_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "ポイズントード",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            700,
+            0,
+            14,
+            50,
+            24,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 25,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "HauntedTree_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "デストレント",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4000,
+            0,
+            20,
+            50,
+            25,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 26,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Kraken_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "ドクトパス",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            5000,
+            0,
+            20,
+            50,
+            26,
+            30,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 27,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "041_Slime2_B",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "☆魔法の粘液",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            3000,
+            2,
+            18,
+            50,
+            27,
+            30,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 28,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "041_Slime2_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "☆剣撃の粘液",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            3000,
+            2,
+            18,
+            50,
+            28,
+            30,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 29,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Dryad_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 100,
+        "name": "☆毒沼の妖女",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4500,
+            1,
+            19,
+            50,
+            29,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 30,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Evilgod",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 124,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 3000,
+        "name": "★触手の王",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            9999,
+            1,
+            22,
+            50,
+            30,
+            30,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 31,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Mechascorpion",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "メカスコルピ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            512,
+            0,
+            16,
+            50,
+            31,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 32,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Evilbook",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "ダークノート",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            900,
+            0,
+            15,
+            50,
+            32,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 33,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "039_Lizagon_F",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "クロコゲイル",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            6500,
+            0,
+            20,
+            50,
+            33,
+            30,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 34,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "053_CaveBeast_J",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "バフォメット",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1000,
+            0,
+            19,
+            50,
+            34,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 35,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Redogre",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "☆金棒の使徒",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1000,
+            3,
+            18,
+            50,
+            35,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 36,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Sanshouo_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 110,
+        "name": "☆ヌメヌメ吐き",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            700,
+            2,
+            15,
+            50,
+            36,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 37,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "boss2",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 4000,
+        "name": "メターフオルタ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            10000,
+            1,
+            17,
+            50,
+            37,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 38,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "024_Scorpion_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "スコルピオ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1000,
+            0,
+            16,
+            50,
+            38,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 39,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Wolf",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "デザートウルフ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1000,
+            0,
+            17,
+            50,
+            39,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 40,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Crow",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "デスクロウ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4500,
+            0,
+            22,
+            50,
+            40,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 41,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "022_zu_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "ズー",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            7000,
+            0,
+            19,
+            50,
+            41,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 42,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Worm_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "☆地を這う触手",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            800,
+            1,
+            17,
+            50,
+            42,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 43,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Cyclops_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 120,
+        "name": "☆一つ目の巨悪",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1100,
+            3,
+            21,
+            50,
+            42,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 44,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Sandworm",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 5000,
+        "name": "★顕現する隠棲",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4000,
+            1,
+            22,
+            50,
+            44,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 45,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "019_Mimic_3_C",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "フレアウォール",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            6000,
+            0,
+            23,
+            50,
+            45,
+            30,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 46,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Phoenix",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "フェニックス",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            7500,
+            0,
+            24,
+            50,
+            46,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 47,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Salamander",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "フラマトカゲ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            5000,
+            0,
+            23,
+            50,
+            47,
+            30,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 48,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "030_MythrilDragon_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "ボルケニオス",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            6500,
+            0,
+            25,
+            50,
+            48,
+            30,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 49,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Dragon",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "レッドドラゴン",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            9000,
+            0,
+            26,
+            50,
+            49,
+            30,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 50,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Cyborg",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 130,
+        "name": "☆淫欲の像",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1100,
+            3,
+            21,
+            50,
+            50,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 51,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Giant_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 6000,
+        "name": "★地底に潜む者",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            5600,
+            3,
+            25,
+            50,
+            51,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 52,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "035_IronGiant_A",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "ガーディアン",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1500,
+            0,
+            26,
+            50,
+            52,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 53,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Hydra",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "ハイドラ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            9500,
+            0,
+            27,
+            50,
+            53,
+            30,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 54,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Lich",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "リッチ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1400,
+            0,
+            28,
+            50,
+            54,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 55,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Medusa",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "☆蛇の化身",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1300,
+            1,
+            25,
+            50,
+            55,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 56,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Blueogre",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "☆運び鬼",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1200,
+            3,
+            24,
+            50,
+            56,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 57,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Ogre",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 140,
+        "name": "☆青の巨人",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1600,
+            3,
+            27,
+            50,
+            57,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 58,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Gem_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 7000,
+        "name": "★友好的な魔物",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            12000,
+            3,
+            40,
+            50,
+            58,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 59,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Plasma",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 150,
+        "name": "試験体アルファ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1024,
+            0,
+            30,
+            50,
+            59,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 60,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Mechasphere",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 150,
+        "name": "試験体ベータ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1024,
+            0,
+            30,
+            50,
+            60,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 61,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Securityrobot",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 150,
+        "name": "試験体ガンマ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1024,
+            0,
+            31,
+            50,
+            61,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 62,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Drone",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 150,
+        "name": "試験体デルタ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            4096,
+            0,
+            31,
+            50,
+            62,
+            30,
+            2,
+            1
+        ]
+    },
+    {
+        "id": 63,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Workrobot",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 147,
+        "name": "試験体プサイ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            1024,
+            0,
+            32,
+            50,
+            63,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 64,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Slaughterrobot",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 150,
+        "name": "試験体オメガ",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            2048,
+            0,
+            33,
+            50,
+            64,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 65,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Demon_of_universe",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 8000,
+        "name": "マモノコア",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            8192,
+            0,
+            35,
+            50,
+            65,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 66,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "boss3",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 126,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 10000,
+        "name": "帰ってきた剛腕",
+        "note": "敏捷性\n1:特徴なし\n\n2:対空ミサイルのみ有効\n3:魚雷のみ有効\n4:電撃弾のみ有効\n\n5:火炎放射が弱点\n6:放水が弱点\n7:竜殺砲が弱点\n\n魔法力、魔法防御、運は何に使う？\n→運は継続してレベルのままで良いかも。\n\n魔法力は行動パターンにしちゃうか\n\n防御力x\n(1-x)/10とか？",
+        "params": [
+            16384,
+            0,
+            100,
+            50,
+            66,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 67,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 68,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 69,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 70,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 71,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 72,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 73,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Worm_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 0,
+        "name": "☆エロ触手",
+        "note": "<book:no>",
+        "params": [
+            9999,
+            1,
+            1,
+            50,
+            99,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 74,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "01_BigSlime_C",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 0,
+        "name": "☆エロスライム",
+        "note": "<book:no>",
+        "params": [
+            9999,
+            2,
+            1,
+            50,
+            99,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 75,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 39
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Cyclops_mvt",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 2,
+                "denominator": 1000
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 2
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "gold": 0,
+        "name": "☆エロオーガ",
+        "note": "<book:no>",
+        "params": [
+            9999,
+            3,
+            1,
+            50,
+            99,
+            30,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 76,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 77,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 78,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 79,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 80,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 81,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 82,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 83,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 84,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 85,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 86,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 87,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 88,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 89,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 90,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 91,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 92,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 93,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 94,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 95,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 96,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 97,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 98,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 99,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 100,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

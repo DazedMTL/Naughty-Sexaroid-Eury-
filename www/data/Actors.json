@@ -1,0 +1,49 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 2,
+        "characterName": "makina2",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            3,
+            250,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 50,
+        "name": "エウリィ",
+        "nickname": "",
+        "note": "<SBI画像:menu>\n<SBI画像拡大率X:100>\n<SBI画像拡大率Y:100>\n<equipSlotEx:1 4 5 5 5> ",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "rei",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "レイ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

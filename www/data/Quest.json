@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "name": "hage0",
+        "cond_s": 0,
+        "cond_v": {
+            "id": 0,
+            "value": 0
+        },
+        "message": {
+            "displayed": [],
+            "hidden": [],
+            "started": [],
+            "finished": []
+        },
+        "reward": [
+            {
+                "type": "weapon",
+                "id": 1,
+                "value": 0
+            }
+        ],
+        "requester": "a"
+    }
+]
