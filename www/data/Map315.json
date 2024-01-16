@@ -3017,7 +3017,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:酒場"
+                                "info:Tavern"
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:ゲーム部屋"
+                                "info:Game_Room"
                             ]
                         },
                         {
@@ -5239,7 +5239,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:宿屋"
+                                "info:Inn"
                             ]
                         },
                         {
@@ -6555,7 +6555,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:基地に帰還する"
+                                "info:Return_to_Base"
                             ]
                         },
                         {
@@ -7062,7 +7062,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:回想終了"
+                                "info:End_of_flashback"
                             ]
                         },
                         {

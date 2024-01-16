@@ -4240,7 +4240,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:道場"
+                                "info:Dojo"
                             ]
                         },
                         {
@@ -4307,7 +4307,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:転送ポッド"
+                                "info:Transfer_Pod"
                             ]
                         },
                         {
@@ -4829,7 +4829,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:研究者の家"
+                                "info:Researcher's_House"
                             ]
                         },
                         {
@@ -6222,7 +6222,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:？？？の家"
+                                "info:The_House_of_???"
                             ]
                         },
                         {
@@ -6280,7 +6280,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:レイの家"
+                                "info:Rei's_House"
                             ]
                         },
                         {

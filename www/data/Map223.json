@@ -11205,7 +11205,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:転送ポッド"
+                                "info:Transfer_Pod"
                             ]
                         },
                         {
@@ -11910,7 +11910,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:穴"
+                                "info:Hole"
                             ]
                         },
                         {

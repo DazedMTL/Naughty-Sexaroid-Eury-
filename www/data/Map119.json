@@ -2910,7 +2910,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:周辺のパトロール"
+                                "info:Patrol_of_the_Surrounding_Area"
                             ]
                         },
                         {
@@ -3495,7 +3495,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:周辺のパトロール"
+                                "info:Patrol_of_the_Surrounding_Area"
                             ]
                         },
                         {
@@ -4071,7 +4071,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:周辺のパトロール"
+                                "info:Patrol_of_the_Surrounding_Area"
                             ]
                         },
                         {
@@ -4695,7 +4695,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:周辺のパトロール"
+                                "info:Patrol_of_the_Surrounding_Area"
                             ]
                         },
                         {
@@ -7128,7 +7128,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:魔物退治"
+                                "info:Monster_Extermination"
                             ]
                         },
                         {

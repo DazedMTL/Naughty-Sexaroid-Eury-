@@ -6210,7 +6210,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:娼館"
+                                "info:Brothel"
                             ]
                         },
                         {
@@ -6687,7 +6687,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:子ども"
+                                "info:Child"
                             ]
                         },
                         {
@@ -6928,7 +6928,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:逆ナン"
+                                "info:Reverse_Pickup"
                             ]
                         },
                         {
@@ -7162,7 +7162,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:壁"
+                                "info:Wall"
                             ]
                         },
                         {
@@ -7850,7 +7850,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:レイ"
+                                "info:Rei"
                             ]
                         },
                         {
@@ -9003,7 +9003,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:魔物戦闘"
+                                "info:Monster_Battle"
                             ]
                         },
                         {
@@ -9430,7 +9430,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:緊縛"
+                                "info:Bondage"
                             ]
                         },
                         {
@@ -9891,7 +9891,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:ゲーム"
+                                "info:Game"
                             ]
                         },
                         {
@@ -10614,7 +10614,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:浮浪者"
+                                "info:Vagrant"
                             ]
                         },
                         {
@@ -10862,7 +10862,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:夜配信"
+                                "info:Night_Broadcast"
                             ]
                         },
                         {
@@ -12060,7 +12060,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:クリア特典"
+                                "info:Clear_Bonus"
                             ]
                         },
                         {
@@ -12261,7 +12261,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:酒場"
+                                "info:Tavern"
                             ]
                         },
                         {
@@ -13417,7 +13417,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:催眠"
+                                "info:Hypnosis"
                             ]
                         },
                         {
@@ -15708,7 +15708,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:マッサージ"
+                                "info:Massage"
                             ]
                         },
                         {
@@ -16403,7 +16403,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:配信"
+                                "info:Streaming"
                             ]
                         },
                         {
@@ -17318,7 +17318,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:トイレ"
+                                "info:Toilet"
                             ]
                         },
                         {
@@ -18460,7 +18460,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:道場"
+                                "info:Dojo"
                             ]
                         },
                         {
@@ -20510,7 +20510,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:ボス敗北"
+                                "info:Boss_Defeat"
                             ]
                         },
                         {
@@ -22521,7 +22521,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:強姦魔"
+                                "info:Rapist"
                             ]
                         },
                         {
@@ -24569,7 +24569,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:声の設定"
+                                "info:Voice_Settings"
                             ]
                         },
                         {

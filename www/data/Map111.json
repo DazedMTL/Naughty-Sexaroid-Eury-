@@ -3017,7 +3017,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:酒場"
+                                "info:Tavern"
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:ゲーム部屋"
+                                "info:Game_Room"
                             ]
                         },
                         {
@@ -7427,7 +7427,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:宿屋"
+                                "info:Inn"
                             ]
                         },
                         {
