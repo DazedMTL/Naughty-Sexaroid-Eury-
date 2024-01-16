@@ -3038,8 +3038,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do it",
+                                    "Don't patrol"
                                 ],
                                 1,
                                 0,
@@ -3623,8 +3623,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do it",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -4199,8 +4199,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do it",
+                                    "I won't"
                                 ],
                                 1,
                                 0,
@@ -4823,8 +4823,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do it",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -5463,8 +5463,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "行く",
-                                    "行かない"
+                                    "Let's go",
+                                    "I won't go"
                                 ],
                                 1,
                                 0,
@@ -5485,12 +5485,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "街周辺の魔物退治（コア：\\v[301]/1）",
-                                    "if(s[3])未解禁",
-                                    "少し遠くの魔物退治（コア：\\v[302]/2）",
-                                    "if(!s[522])en(s[522])未解禁",
-                                    "if(s[522])雷が落ちる森（コア：\\v[303]/3）",
-                                    "if(!s[523])en(s[523])未解禁"
+                                    "Subjugate the monsters around town (cores: \\v[301]/1)",
+                                    "if(s[3])Not yet unlocked",
+                                    "Slay distant monsters (cores: \\v[302]/2)",
+                                    "if(!s[522])en(s[522])Not yet unlocked",
+                                    "if(s[522])Thunderstruck forest (cores: \\v[303]/3)",
+                                    "if(!s[523])en(s[523])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -5924,12 +5924,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[523])危険な浜辺（コア：\\v[304]/4）",
-                                    "if(!s[524])en(s[524])未解禁",
-                                    "if(s[524])魔物の潜む毒沼（コア：\\v[305]/5）",
-                                    "if(!s[525])en(s[525])未解禁",
-                                    "if(s[525])魑魅魍魎の廃校（コア：\\v[306]/6）",
-                                    "if(!s[526])en(s[526])未解禁"
+                                    "if(s[523])Dangerous beach (cores: \\v[304]/4)",
+                                    "if(!s[524])en(s[524])Not yet unlocked",
+                                    "if(s[524])Poison swamp, where monsters lurk (cores: \\v[305]/5)",
+                                    "if(!s[525])en(s[525])Not yet unlocked",
+                                    "if(s[525])Haunted school of monsters (cores: \\v[306]/6)",
+                                    "if(!s[526])en(s[526])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -6363,12 +6363,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[526])人の消える荒野（コア：\\v[307]/7）",
-                                    "if(!s[527])en(s[527])未解禁",
-                                    "if(s[527])帰らずの火山（コア：\\v[308]/8）",
-                                    "if(!s[528])en(s[528])未解禁",
-                                    "if(s[528])禍々しき深淵（コア：\\v[309]/9）",
-                                    "if(!s[529])en(s[529])未解禁"
+                                    "if(s[526])The wasteland where people vanish (cores: \\v[307]/7)",
+                                    "if(!s[527])en(s[527])Not yet unlocked",
+                                    "if(s[527])Endless volcano (cores: \\v[308]/8)",
+                                    "if(!s[528])en(s[528])Not yet unlocked",
+                                    "if(s[528])Sinister abyss (cores: \\v[309]/9)",
+                                    "if(!s[529])en(s[529])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -6802,8 +6802,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[529])マモノ基地（コア：\\v[310]/10）",
-                                    "やめる"
+                                    "if(s[529])Monster base (cores: \\v[310]/10)",
+                                    "Cancel"
                                 ],
                                 -2,
                                 0,
@@ -7246,8 +7246,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "行く",
-                                    "行かない"
+                                    "Let's go",
+                                    "I won't go"
                                 ],
                                 1,
                                 0,
@@ -7268,12 +7268,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "街周辺の魔物退治（コア：\\v[301]/1）",
-                                    "if(s[3])未解禁",
-                                    "少し遠くの魔物退治（コア：\\v[302]/2）",
-                                    "if(!s[522])en(s[522])未解禁",
-                                    "if(s[522])雷が落ちる森（コア：\\v[303]/3）",
-                                    "if(!s[523])en(s[523])未解禁"
+                                    "Subjugate the monsters around town (cores: \\v[301]/1)",
+                                    "if(s[3])Not yet unlocked",
+                                    "Slay monsters a bit further away (cores: \\v[302]/2)",
+                                    "if(!s[522])en(s[522])Not yet unlocked",
+                                    "if(s[522])Thunderstruck forest (cores: \\v[303]/3)",
+                                    "if(!s[523])en(s[523])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -7707,12 +7707,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[523])危険な浜辺（コア：\\v[304]/4）",
-                                    "if(!s[524])en(s[524])未解禁",
-                                    "if(s[524])魔物の潜む毒沼（コア：\\v[305]/5）",
-                                    "if(!s[525])en(s[525])未解禁",
-                                    "if(s[525])魑魅魍魎の廃校（コア：\\v[306]/6）",
-                                    "if(!s[526])en(s[526])未解禁"
+                                    "if(s[523])Dangerous beach (cores: \\v[304]/4)",
+                                    "if(!s[524])en(s[524])Not yet unlocked",
+                                    "if(s[524])Poison swamp, where monsters lurk (cores: \\v[305]/5)",
+                                    "if(!s[525])en(s[525])Not yet unlocked",
+                                    "if(s[525])Haunted school ruins (cores: \\v[306]/6)",
+                                    "if(!s[526])en(s[526])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -8146,12 +8146,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[526])人の消える荒野（コア：\\v[307]/7）",
-                                    "if(!s[527])en(s[527])未解禁",
-                                    "if(s[527])帰らずの火山（コア：\\v[308]/8）",
-                                    "if(!s[528])en(s[528])未解禁",
-                                    "if(s[528])禍々しき深淵（コア：\\v[309]/9）",
-                                    "if(!s[529])en(s[529])未解禁"
+                                    "if(s[526])The wilderness where people vanish (cores: \\v[307]/7)",
+                                    "if(!s[527])en(s[527])Not yet unlocked",
+                                    "if(s[527])Endless volcano (cores: \\v[308]/8)",
+                                    "if(!s[528])en(s[528])Not yet unlocked",
+                                    "if(s[528])Ominous abyss (cores: \\v[309]/9)",
+                                    "if(!s[529])en(s[529])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -8585,8 +8585,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[529])マモノ基地（コア：\\v[310]/10）",
-                                    "やめる"
+                                    "if(s[529])Monster base (cores: \\v[310]/10)",
+                                    "Cancel"
                                 ],
                                 -2,
                                 0,
@@ -9395,12 +9395,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|395|148",
-                                    "dammy_map|89|183",
-                                    "dammy_map|446|312",
-                                    "dammy_map|320|507",
-                                    "dammy_map|92|498",
-                                    "dammy_map|685|400"
+                                    "Dammy_map|395|148",
+                                    "Dammy_map|89|183",
+                                    "Dammy_map|446|312",
+                                    "Dammy_map|320|507",
+                                    "Dammy_map|92|498",
+                                    "Dammy_map|685|400"
                                 ],
                                 -2,
                                 3,
@@ -9839,8 +9839,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|243|37",
-                                    "dammy_cancel|771|5"
+                                    "Dammy_map|243|37",
+                                    "Dammy_cancel|771|5"
                                 ],
                                 1,
                                 -1,
@@ -10516,8 +10516,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11030,8 +11030,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11512,8 +11512,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12037,8 +12037,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12832,8 +12832,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

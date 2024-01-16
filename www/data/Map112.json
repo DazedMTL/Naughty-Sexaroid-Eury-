@@ -3163,10 +3163,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[33]>0)レベルアップ（コア：\\v[33]個）",
-                                    "if(!s[605])メンテナンス（ふりなおし）",
-                                    "アイテム変換",
-                                    "やめる"
+                                    "en(v[33]>0)Level up (cores: \\v[33] pieces)",
+                                    "if(!s[605])Maintenance (redo)",
+                                    "Item conversion",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -4042,12 +4042,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "en(v[86]<10&&v[33]>=v[261])toumeichoice|309|150",
-                                    "en(v[87]<10&&v[33]>=v[262])toumeichoice|309|243",
-                                    "en(v[88]<10&&v[33]>=v[263])toumeichoice|309|337",
-                                    "en(v[89]<10&&v[33]>=v[264])toumeichoice|309|432",
-                                    "en(v[90]<10&&v[33]>=v[265])toumeichoice|309|525",
-                                    "dammy_batten|775|-5"
+                                    "en(v[86]<10&&v[33]>=v[261])Toumeichoice|309|150",
+                                    "en(v[87]<10&&v[33]>=v[262])Toumeichoice|309|243",
+                                    "en(v[88]<10&&v[33]>=v[263])Toumeichoice|309|337",
+                                    "en(v[89]<10&&v[33]>=v[264])Toumeichoice|309|432",
+                                    "en(v[90]<10&&v[33]>=v[265])Toumeichoice|309|525",
+                                    "Dammy_batten|775|-5"
                                 ],
                                 -2,
                                 0,
@@ -8435,8 +8435,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13669,12 +13669,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "グロウコアください！",
-                                    "if(!s[605])私を最強にして！",
-                                    "淫乱度を下げて！上げて！",
-                                    "名前の由来教えて！",
-                                    "if(v[222]==70)あなたのエロシーンはないの？",
-                                    "特に用はないです"
+                                    "Please give me the grow core!",
+                                    "if(!s[605])Make me the strongest!",
+                                    "Lower my lewdness! raise it!",
+                                    "Tell me the origin of your name!",
+                                    "if(v[222]==70)Don't you have a sex scene?",
+                                    "I don't need anything in particular"
                                 ],
                                 5,
                                 0,
@@ -13728,8 +13728,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13901,8 +13901,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19102,12 +19102,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|395|148",
-                                    "dammy_map|89|183",
-                                    "dammy_map|446|312",
-                                    "dammy_map|320|507",
-                                    "dammy_map|92|498",
-                                    "dammy_map|685|400"
+                                    "Dammy_map|395|148",
+                                    "Dammy_map|89|183",
+                                    "Dammy_map|446|312",
+                                    "Dammy_map|320|507",
+                                    "Dammy_map|92|498",
+                                    "Dammy_map|685|400"
                                 ],
                                 -2,
                                 1,
@@ -19864,8 +19864,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|243|37",
-                                    "dammy_cancel|771|5"
+                                    "Dammy_map|243|37",
+                                    "Dammy_cancel|771|5"
                                 ],
                                 1,
                                 -1,

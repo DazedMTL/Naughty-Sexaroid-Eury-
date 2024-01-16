@@ -2432,8 +2432,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2612,8 +2612,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2873,8 +2873,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3202,8 +3202,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3531,8 +3531,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3709,8 +3709,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4538,12 +4538,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|395|148",
-                                    "dammy_map|89|183",
-                                    "dammy_map|446|312",
-                                    "dammy_map|320|507",
-                                    "dammy_map|92|498",
-                                    "dammy_map|685|400"
+                                    "Dammy_map|395|148",
+                                    "Dammy_map|89|183",
+                                    "Dammy_map|446|312",
+                                    "Dammy_map|320|507",
+                                    "Dammy_map|92|498",
+                                    "Dammy_map|685|400"
                                 ],
                                 -2,
                                 -1,
@@ -4982,8 +4982,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "dammy_map|243|37",
-                                    "dammy_cancel|771|5"
+                                    "Dammy_map|243|37",
+                                    "Dammy_cancel|771|5"
                                 ],
                                 1,
                                 0,
@@ -5857,8 +5857,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6142,8 +6142,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6428,8 +6428,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -11954,12 +11954,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿屋",
-                                    "マキナ基地",
-                                    "中央エリア",
-                                    "街の出入口",
-                                    "東エリア",
-                                    "西エリア"
+                                    "To the inn",
+                                    "Machina base",
+                                    "To the central area",
+                                    "The town gate",
+                                    "East area",
+                                    "West area"
                                 ],
                                 -2,
                                 0,
@@ -12296,8 +12296,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "北エリア",
-                                    "やめる"
+                                    "North area",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -13231,8 +13231,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13499,8 +13499,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13851,8 +13851,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14205,8 +14205,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14559,8 +14559,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14913,8 +14913,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

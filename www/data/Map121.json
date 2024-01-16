@@ -3173,9 +3173,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[33]>0)レベルアップ（コア：\\v[33]個）",
-                                    "アイテム変換",
-                                    "やめる"
+                                    "en(v[33]>0)Level up (cores: \\v[33] pieces)",
+                                    "Item conversion",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -6553,11 +6553,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "en(v[86]<10&&v[33]>=v[261])toumeichoice|118|140",
-                                    "en(v[87]<10&&v[33]>=v[262])toumeichoice|118|232",
-                                    "en(v[88]<10&&v[33]>=v[263])toumeichoice|118|324",
-                                    "en(v[89]<10&&v[33]>=v[264])toumeichoice|118|417",
-                                    "en(v[90]<10&&v[33]>=v[265])toumeichoice|118|508"
+                                    "en(v[86]<10&&v[33]>=v[261])Toumeichoice|118|140",
+                                    "en(v[87]<10&&v[33]>=v[262])Toumeichoice|118|232",
+                                    "en(v[88]<10&&v[33]>=v[263])Toumeichoice|118|324",
+                                    "en(v[89]<10&&v[33]>=v[264])Toumeichoice|118|417",
+                                    "en(v[90]<10&&v[33]>=v[265])Toumeichoice|118|508"
                                 ],
                                 -2,
                                 0,

@@ -3163,10 +3163,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[33]>0)レベルアップ（コア：\\v[33]個）",
-                                    "if(!s[605])メンテナンス（ふりなおし）",
-                                    "アイテム変換",
-                                    "やめる"
+                                    "en(v[33]>0)Level up (cores: \\v[33] pieces)",
+                                    "if(!s[605])Maintenance (redo)",
+                                    "Item conversion",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -4042,12 +4042,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "en(v[86]<10&&v[33]>=v[261])toumeichoice|309|150",
-                                    "en(v[87]<10&&v[33]>=v[262])toumeichoice|309|243",
-                                    "en(v[88]<10&&v[33]>=v[263])toumeichoice|309|337",
-                                    "en(v[89]<10&&v[33]>=v[264])toumeichoice|309|432",
-                                    "en(v[90]<10&&v[33]>=v[265])toumeichoice|309|525",
-                                    "dammy_batten|775|-5"
+                                    "en(v[86]<10&&v[33]>=v[261])Toumeichoice|309|150",
+                                    "en(v[87]<10&&v[33]>=v[262])Toumeichoice|309|243",
+                                    "en(v[88]<10&&v[33]>=v[263])Toumeichoice|309|337",
+                                    "en(v[89]<10&&v[33]>=v[264])Toumeichoice|309|432",
+                                    "en(v[90]<10&&v[33]>=v[265])Toumeichoice|309|525",
+                                    "Dammy_batten|775|-5"
                                 ],
                                 -2,
                                 0,
@@ -8428,8 +8428,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10051,10 +10051,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "en(v[33]>0)レベルアップ（コア：\\v[33]個）",
-                                    "if(!s[605])メンテナンス（ふりなおし）",
-                                    "アイテム変換",
-                                    "やめる"
+                                    "en(v[33]>0)Level up (cores: \\v[33] pieces)",
+                                    "if(!s[605])Maintenance (redo)",
+                                    "Item conversion",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -10930,12 +10930,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "en(v[86]<10&&v[33]>=v[261])toumeichoice|309|150",
-                                    "en(v[87]<10&&v[33]>=v[262])toumeichoice|309|243",
-                                    "en(v[88]<10&&v[33]>=v[263])toumeichoice|309|337",
-                                    "en(v[89]<10&&v[33]>=v[264])toumeichoice|309|432",
-                                    "en(v[90]<10&&v[33]>=v[265])toumeichoice|309|525",
-                                    "dammy_batten|775|-5"
+                                    "en(v[86]<10&&v[33]>=v[261])Toumeichoice|309|150",
+                                    "en(v[87]<10&&v[33]>=v[262])Toumeichoice|309|243",
+                                    "en(v[88]<10&&v[33]>=v[263])Toumeichoice|309|337",
+                                    "en(v[89]<10&&v[33]>=v[264])Toumeichoice|309|432",
+                                    "en(v[90]<10&&v[33]>=v[265])Toumeichoice|309|525",
+                                    "Dammy_batten|775|-5"
                                 ],
                                 -2,
                                 0,
@@ -15316,8 +15316,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

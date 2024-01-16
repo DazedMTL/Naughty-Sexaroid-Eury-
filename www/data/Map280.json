@@ -1724,9 +1724,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "図鑑を見せる",
-                                    "魔物の知識",
-                                    "さようなら"
+                                    "Show the illustrated book",
+                                    "Knowledge of monsters",
+                                    "Goodbye"
                                 ],
                                 2,
                                 0,
@@ -2152,10 +2152,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "魔物のタイプ",
-                                    "魔物の攻撃の種類",
-                                    "魔物との戦い方",
-                                    "なんでもない"
+                                    "Monster type",
+                                    "Types of monster attacks",
+                                    "How to fight monsters",
+                                    "It's nothing"
                                 ],
                                 3,
                                 0,

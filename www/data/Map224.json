@@ -3022,8 +3022,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do it",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -3280,8 +3280,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Let's do it",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -3471,8 +3471,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "行く",
-                                    "行かない"
+                                    "Let's go",
+                                    "Let's not go"
                                 ],
                                 1,
                                 0,
@@ -3493,12 +3493,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "街周辺のパトロール",
-                                    "if(!s[521])en(s[521])未解禁",
-                                    "if(s[521])より広い範囲のパトロール",
-                                    "if(!s[522])en(s[522])未解禁",
-                                    "if(s[522])３つ目のダンジョン",
-                                    "if(!s[523])en(s[523])未解禁"
+                                    "Patrol around the town",
+                                    "if(!s[521])en(s[521])Not yet unlocked",
+                                    "if(s[521])Let's patrol a wider area",
+                                    "if(!s[522])en(s[522])Not yet unlocked",
+                                    "if(s[522])The third dungeon",
+                                    "if(!s[523])en(s[523])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -3618,12 +3618,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[523])４つ目のダンジョン",
-                                    "if(!s[524])en(s[524])未解禁",
-                                    "if(s[524])５つ目のダンジョン",
-                                    "if(!s[525])en(s[525])未解禁",
-                                    "if(s[525])６つ目のダンジョン",
-                                    "if(!s[526])en(s[526])未解禁"
+                                    "if(s[523])The fourth dungeon",
+                                    "if(!s[524])en(s[524])Not yet unlocked",
+                                    "if(s[524])The fifth dungeon",
+                                    "if(!s[525])en(s[525])Not yet unlocked",
+                                    "if(s[525])The sixth dungeon",
+                                    "if(!s[526])en(s[526])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -3732,12 +3732,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[526])７つ目のダンジョン",
-                                    "if(!s[527])en(s[527])未解禁",
-                                    "if(s[527])８つ目のダンジョン",
-                                    "if(!s[528])en(s[528])未解禁",
-                                    "if(s[528])９つ目のダンジョン",
-                                    "if(!s[529])en(s[529])未解禁"
+                                    "if(s[526])The seventh dungeon",
+                                    "if(!s[527])en(s[527])Not yet unlocked",
+                                    "if(s[527])The eighth dungeon",
+                                    "if(!s[528])en(s[528])Not yet unlocked",
+                                    "if(s[528])The ninth dungeon",
+                                    "if(!s[529])en(s[529])Not yet unlocked"
                                 ],
                                 -2,
                                 0,
@@ -3846,8 +3846,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "if(s[529])最後のダンジョン",
-                                    "やめる"
+                                    "if(s[529])The final dungeon",
+                                    "Let's not"
                                 ],
                                 -2,
                                 0,
@@ -4270,12 +4270,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿屋",
-                                    "マキナ基地",
-                                    "中央エリア",
-                                    "街の出入口",
-                                    "東エリア",
-                                    "西エリア"
+                                    "To the inn",
+                                    "Machina base",
+                                    "To the central area",
+                                    "The town gate",
+                                    "To the east area",
+                                    "West area"
                                 ],
                                 -2,
                                 0,
@@ -4612,8 +4612,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "北エリア",
-                                    "やめる"
+                                    "North area",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -5077,8 +5077,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5536,8 +5536,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

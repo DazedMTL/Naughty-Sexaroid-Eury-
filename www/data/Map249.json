@@ -6508,12 +6508,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿屋",
-                                    "マキナ基地",
-                                    "中央エリア",
-                                    "街の出入口",
-                                    "東エリア",
-                                    "西エリア"
+                                    "To the inn",
+                                    "Makina base",
+                                    "To the central area",
+                                    "The town's entrance",
+                                    "To the east area",
+                                    "West area"
                                 ],
                                 -2,
                                 0,
@@ -6850,8 +6850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "北エリア",
-                                    "やめる"
+                                    "To the north area",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
