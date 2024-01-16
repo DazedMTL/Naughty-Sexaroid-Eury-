@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ｽｷﾙ：セルフリペア",
+        "name": "Skill: Self-Repair",
         "note": "<composite:1,i43,1,i2,3,0,100>\n<book:no>",
         "params": [
             0,
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "ｽｷﾙ：パワーナックル",
+        "name": "Skill: Power Knuckle",
         "note": "<composite:1,i46,1,i129,1,0,100>\n<book:no>",
         "params": [
             0,
@@ -183,7 +183,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "ｽｷﾙ：カウンター",
+        "name": "Skill: Counter",
         "note": "<composite:1,i50,1,i124,1,0,300>\n<book:no>",
         "params": [
             0,
@@ -216,7 +216,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ｽｷﾙ：オールグリーン",
+        "name": "Skill: All Green",
         "note": "<composite:1,i55,1,i143,1,0,5000>\n<book:no>",
         "params": [
             0,
@@ -249,7 +249,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "ｽｷﾙ：メタバースト",
+        "name": "Skill: Metaburst",
         "note": "<composite:1,i57,1,0,30000>\n<book:no>",
         "params": [
             0,

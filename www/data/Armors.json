@@ -516,7 +516,7 @@
     {
         "id": 20,
         "atypeId": 0,
-        "description": "敵から受ける物理ダメージが減るモード。",
+        "description": "Mode that reduces physical damage taken from enemies.",
         "etypeId": 2,
         "traits": [
             {
@@ -526,7 +526,7 @@
             }
         ],
         "iconIndex": 81,
-        "name": "ﾓｰﾄﾞ：アイギス",
+        "name": "Mode: Aegis",
         "note": "<composite:1,i44,1,i141,1,0,100>\n<book:no>",
         "params": [
             0,
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 0,
-        "description": "攻撃力が上がるモード。",
+        "description": "Mode that increases attack power.",
         "etypeId": 2,
         "traits": [
             {
@@ -553,7 +553,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ﾓｰﾄﾞ：アレス",
+        "name": "Mode: Ares",
         "note": "<composite:1,i45,1,i122,1,0,100>\n<book:no>",
         "params": [
             0,
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 0,
-        "description": "エロ攻撃を回避できるモード。",
+        "description": "A mode where you can avoid erotic attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -580,7 +580,7 @@
             }
         ],
         "iconIndex": 70,
-        "name": "ﾓｰﾄﾞ：フォルトゥ",
+        "name": "Mode: Forte",
         "note": "<composite:1,i51,1,i130,1,0,300>\n<book:no>",
         "params": [
             0,
@@ -597,7 +597,7 @@
     {
         "id": 23,
         "atypeId": 0,
-        "description": "全ての能力が上がるモード。\n行動するたびにエナジーを消費する。",
+        "description": "Mode where all abilities increase. Energy is consumed with each\naction.",
         "etypeId": 2,
         "traits": [
             {
@@ -607,7 +607,7 @@
             }
         ],
         "iconIndex": 5,
-        "name": "ﾓｰﾄﾞ：デウス",
+        "name": "Mode: Deus",
         "note": "<composite:1,i56,1,i125,1,i134,1,i146,1,0,5000>\n<book:no>",
         "params": [
             0,
@@ -6726,7 +6726,7 @@
     {
         "id": 250,
         "atypeId": 1,
-        "description": "錬金術師アリステラとしての力をまとう服。",
+        "description": "The attire that embodies the power of the Alchemist Aristera.",
         "etypeId": 4,
         "traits": [
             {
@@ -6741,7 +6741,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "錬金術師の服",
+        "name": "Alchemist's Clothes",
         "note": "<book:no>",
         "params": [
             0,
@@ -6758,7 +6758,7 @@
     {
         "id": 251,
         "atypeId": 1,
-        "description": "スペードの攻撃によるダメージを半減させる。",
+        "description": "Reduce damage from Spade's attack by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -6773,7 +6773,7 @@
             }
         ],
         "iconIndex": 249,
-        "name": "スペードのお守り",
+        "name": "Spade Charm",
         "note": "<ja:スペードの攻撃によるダメージを半減する。>\n<composite:1,i152,1,0,200>\n<book:no>",
         "params": [
             0,
@@ -6790,7 +6790,7 @@
     {
         "id": 252,
         "atypeId": 1,
-        "description": "ハートの攻撃によるダメージを半減させる。",
+        "description": "Reduces damage from heart attacks by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -6805,7 +6805,7 @@
             }
         ],
         "iconIndex": 247,
-        "name": "ハートのお守り",
+        "name": "Heart's Charm",
         "note": "<ja:ハートの攻撃によるダメージを半減する。>\n<composite:1,i170,1,0,200>\n<book:no>",
         "params": [
             0,
@@ -6822,7 +6822,7 @@
     {
         "id": 253,
         "atypeId": 1,
-        "description": "ダイヤの攻撃によるダメージを半減させる。",
+        "description": "Reduce the damage from Dia's attack by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -6837,7 +6837,7 @@
             }
         ],
         "iconIndex": 250,
-        "name": "ダイヤのお守り",
+        "name": "Diamond Charm",
         "note": "<ja:ダイヤの攻撃によるダメージを半減する。>\n<composite:1,i154,1,0,200>\n<book:no>",
         "params": [
             0,
@@ -6854,7 +6854,7 @@
     {
         "id": 254,
         "atypeId": 1,
-        "description": "クラブの攻撃によるダメージを半減させる。",
+        "description": "Reduce the damage from club attacks by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -6869,7 +6869,7 @@
             }
         ],
         "iconIndex": 248,
-        "name": "クラブのお守り",
+        "name": "Club's Charm",
         "note": "<ja:クラブの攻撃によるダメージを半減する。>\n<composite:1,i131,1,0,200>\n<book:no>",
         "params": [
             0,
@@ -6886,7 +6886,7 @@
     {
         "id": 255,
         "atypeId": 1,
-        "description": "通常攻撃の威力が上がる装備。",
+        "description": "Equipment that increases the power of normal attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -6896,7 +6896,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "やる気ハチマキ",
+        "name": "Motivation Headband",
         "note": "<ja:通常攻撃の威力が上がる。>\n<composite:1,i104,1,0,100>\n<book:no>",
         "params": [
             0,
@@ -6913,7 +6913,7 @@
     {
         "id": 256,
         "atypeId": 1,
-        "description": "防御力が上がる装備。",
+        "description": "Equipment that increases defense power.",
         "etypeId": 5,
         "traits": [
             {
@@ -6923,7 +6923,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "石の盾",
+        "name": "Stone Shield",
         "note": "<ja:防御力が上がる。>\n<composite:1,i110,3,i138,3,i123,3,0,100>\n<book:no>",
         "params": [
             0,
@@ -6940,7 +6940,7 @@
     {
         "id": 257,
         "atypeId": 1,
-        "description": "魔法による攻撃力が上がる装備。",
+        "description": "Equipment that increases magical attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -6950,7 +6950,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "マジカルステッキ",
+        "name": "Magical Stick",
         "note": "<ja:魔法攻撃の威力が上がる。>\n<composite:1,i101,3,i103,3,i128,3,0,100>\n<book:no>",
         "params": [
             0,
@@ -6967,7 +6967,7 @@
     {
         "id": 258,
         "atypeId": 1,
-        "description": "魔法に対する防御力が上がる装備。",
+        "description": "Equipment that increases defense against magic.",
         "etypeId": 5,
         "traits": [
             {
@@ -6977,7 +6977,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "花飾り",
+        "name": "Floral Ornament",
         "note": "<ja:魔法に対する防御力が上がる。>\n<composite:1,i158,3,i149,3,i150,3,0,100>\n<book:no>",
         "params": [
             0,
@@ -6994,7 +6994,7 @@
     {
         "id": 259,
         "atypeId": 1,
-        "description": "通常攻撃の攻撃力がとても上がる装備。",
+        "description": "Equipment that greatly increases the power of normal attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -7004,7 +7004,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "猛攻のタスキ",
+        "name": "Sash of Fierce Assault",
         "note": "<ja:通常攻撃の威力がとても上がる。>\n<composite:1,a255,1,i190,10,i162,1,0,200>\n<book:no>",
         "params": [
             0,
@@ -7021,7 +7021,7 @@
     {
         "id": 260,
         "atypeId": 1,
-        "description": "防御力がとても上がる装備。",
+        "description": "Equipment that greatly increases defense.",
         "etypeId": 5,
         "traits": [
             {
@@ -7031,7 +7031,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "ミスリルシールド",
+        "name": "Mithril Shield",
         "note": "<ja:防御力がとても上がる。>\n<composite:1,a256,1,i174,3,i133,3,0,200>\n<book:no>",
         "params": [
             0,
@@ -7048,7 +7048,7 @@
     {
         "id": 261,
         "atypeId": 1,
-        "description": "魔法による攻撃力がとても上がる装備。",
+        "description": "Equipment that greatly increases magical attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -7058,7 +7058,7 @@
             }
         ],
         "iconIndex": 187,
-        "name": "伝説の魔導書",
+        "name": "Legendary Grimoire",
         "note": "<ja:魔法攻撃力がとても上がる。>\n<composite:1,a257,1,i107,1,i190,10,0,200>\n<book:no>",
         "params": [
             0,
@@ -7075,7 +7075,7 @@
     {
         "id": 262,
         "atypeId": 1,
-        "description": "魔法に対する防御力がとても上がる装備。",
+        "description": "Equipment that greatly increases defense against magic.",
         "etypeId": 5,
         "traits": [
             {
@@ -7085,7 +7085,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "万華の冠",
+        "name": "Kaleidoscope Crown",
         "note": "<ja:魔法に対する防御力がとても上がる。>\n<composite:1,a258,1,i178,3,i121,3,0,200>\n<book:no>",
         "params": [
             0,
@@ -7102,7 +7102,7 @@
     {
         "id": 263,
         "atypeId": 1,
-        "description": "通常攻撃の威力がとてつもなく上がる装備。",
+        "description": "Equipment that tremendously increases the power of normal attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -7112,7 +7112,7 @@
             }
         ],
         "iconIndex": 122,
-        "name": "鋭利な刃",
+        "name": "Sharp Blade",
         "note": "<ja:通常攻撃の威力がとてつもなく上がる。>\n<composite:1,i146,1,0,900>\n<book:no>",
         "params": [
             0,
@@ -7129,7 +7129,7 @@
     {
         "id": 264,
         "atypeId": 1,
-        "description": "防御力がとてつもなく上がる装備。",
+        "description": "Equipment that tremendously increases defense power.",
         "etypeId": 5,
         "traits": [
             {
@@ -7139,7 +7139,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "血塗られた盾",
+        "name": "Bloodstained Shield",
         "note": "<ja:防御力がとてつもなく上がる。>\n<composite:1,i118,1,0,900>\n<book:no>",
         "params": [
             0,
@@ -7156,7 +7156,7 @@
     {
         "id": 265,
         "atypeId": 1,
-        "description": "魔法による攻撃力がとてつもなく上がる装備。",
+        "description": "Equipment that greatly increases magical attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -7166,7 +7166,7 @@
             }
         ],
         "iconIndex": 261,
-        "name": "マジカルキノコ",
+        "name": "Magical Mushroom",
         "note": "<ja:魔法攻撃力がとてつもなく上がる。>\n<composite:1,i171,1,0,900>\n<book:no>",
         "params": [
             0,
@@ -7183,7 +7183,7 @@
     {
         "id": 266,
         "atypeId": 1,
-        "description": "魔法に対する防御力がとてつもなく上がる装備。",
+        "description": "Equipment that greatly increases defense against magic.",
         "etypeId": 5,
         "traits": [
             {
@@ -7193,7 +7193,7 @@
             }
         ],
         "iconIndex": 177,
-        "name": "ポイズンオーラ",
+        "name": "Poison Aura",
         "note": "<ja:魔法に対する防御力がとてつもなく上がる。>\n<composite:1,i160,1,0,900>\n<book:no>",
         "params": [
             0,
@@ -7210,7 +7210,7 @@
     {
         "id": 267,
         "atypeId": 1,
-        "description": "毒状態にならない装備。",
+        "description": "Equipment that prevents poison status.",
         "etypeId": 5,
         "traits": [
             {
@@ -7225,7 +7225,7 @@
             }
         ],
         "iconIndex": 2,
-        "name": "毒封じ",
+        "name": "Poison Seal",
         "note": "<ja:毒状態にならない。>\n<composite:1,i199,1,i180,1,i113,1,i107,1,i141,1,0,10>\n<book:no>",
         "params": [
             0,
@@ -7242,7 +7242,7 @@
     {
         "id": 268,
         "atypeId": 1,
-        "description": "暗闇状態にならない装備。",
+        "description": "Equipment that prevents blindness.",
         "etypeId": 5,
         "traits": [
             {
@@ -7257,7 +7257,7 @@
             }
         ],
         "iconIndex": 3,
-        "name": "暗闇封じ",
+        "name": "Darkness Seal",
         "note": "<ja:暗闇状態にならない。>\n<composite:1,i198,1,i135,1,i115,1,i112,1,i189,1,0,10>\n<book:no>",
         "params": [
             0,
@@ -7274,7 +7274,7 @@
     {
         "id": 269,
         "atypeId": 1,
-        "description": "沈黙状態にならない装備。",
+        "description": "Equipment that prevents silence status.",
         "etypeId": 5,
         "traits": [
             {
@@ -7289,7 +7289,7 @@
             }
         ],
         "iconIndex": 4,
-        "name": "沈黙封じ",
+        "name": "Silence Seal",
         "note": "<ja:沈黙状態にならない。>\n<composite:1,i125,1,i187,1,i194,1,i155,1,i162,1,0,10>\n<book:no>",
         "params": [
             0,
@@ -7306,7 +7306,7 @@
     {
         "id": 270,
         "atypeId": 1,
-        "description": "激昂状態にならない装備。",
+        "description": "Equipment that prevents rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -7321,7 +7321,7 @@
             }
         ],
         "iconIndex": 5,
-        "name": "激昂封じ",
+        "name": "Fury Seal",
         "note": "<ja:激昂状態にならない。>\n<composite:1,i167,1,i172,1,i166,1,i108,1,i192,1,0,10>\n<book:no>",
         "params": [
             0,
@@ -7338,7 +7338,7 @@
     {
         "id": 271,
         "atypeId": 1,
-        "description": "あらゆる状態異常にならない装備。",
+        "description": "Equipment that prevents all status abnormalities.",
         "etypeId": 5,
         "traits": [
             {
@@ -7368,7 +7368,7 @@
             }
         ],
         "iconIndex": 310,
-        "name": "万能封じ",
+        "name": "Universal Seal",
         "note": "<ja:あらゆる状態異常にならない。>\n<composite:1,a267,1,a268,1,a269,1,a270,1,0,10>\n<book:no>",
         "params": [
             0,
@@ -7385,7 +7385,7 @@
     {
         "id": 272,
         "atypeId": 1,
-        "description": "接触した敵を戦闘せずに撃破する装備。",
+        "description": "Equipment that destroys enemies upon contact without engaging in\nbattle.",
         "etypeId": 5,
         "traits": [
             {
@@ -7395,7 +7395,7 @@
             }
         ],
         "iconIndex": 189,
-        "name": "破滅の書",
+        "name": "Book of Ruin",
         "note": "<ja:接触した敵を戦闘せずに撃破する。>\n<composite:1,i177,1,0,0>\n<book:no>",
         "params": [
             0,
@@ -7412,7 +7412,7 @@
     {
         "id": 273,
         "atypeId": 1,
-        "description": "さらに、経験値とアイテムも手に入る装備。",
+        "description": "Equipment that also provides experience points and items.",
         "etypeId": 5,
         "traits": [
             {
@@ -7422,7 +7422,7 @@
             }
         ],
         "iconIndex": 189,
-        "name": "聖なる書",
+        "name": "Holy Scripture",
         "note": "<ja:破滅の書の効果に加え、経験値とアイテムも手に入る。>\n<composite:1,a272,1,i161,1,0,0>\n<book:no>",
         "params": [
             0,
@@ -7439,7 +7439,7 @@
     {
         "id": 274,
         "atypeId": 1,
-        "description": "装備した状態でこの家を出ると……。",
+        "description": "If I leave the house in this state of dress...",
         "etypeId": 5,
         "traits": [
             {
@@ -7449,7 +7449,7 @@
             }
         ],
         "iconIndex": 189,
-        "name": "真実の書",
+        "name": "Tome of Truth",
         "note": "<composite:1,i176,1,i119,1,i145,1,0,0>\n<book:no>",
         "params": [
             0,
