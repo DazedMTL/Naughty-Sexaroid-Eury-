@@ -2942,7 +2942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>ん、これは？"
+                                "\\n<Master>Hmm, what's this?"
                             ]
                         },
                         {
@@ -2959,7 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い>マリオン博士から荷物らしいです。"
+                                "\\n<Apprentice>It seems to be a package from Dr. Marion."
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>開けてみるか。"
+                                "\\n<Mister>Should we open it?"
                             ]
                         },
                         {
@@ -3038,7 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>多分ここ押したら開くぜ。"
+                                "\\n<Streamer>Probably just press here to open it."
                             ]
                         },
                         {
@@ -3178,7 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>こんにちは、みなさん。"
+                                "\\n<New model sexaroid>Hello, everyone."
                             ]
                         },
                         {
@@ -3202,7 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>私は新型セクサロイドの\\C[24]エロリー\\C[0]です。"
+                                "\\n<New model sexaroid>I am the new model sexaroid, \\C[24]Eroli-\\C[0]."
                             ]
                         },
                         {
@@ -3269,7 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>なに、新型セクサロイド！？"
+                                "\\n<Master>What, a new model sexaroid!?"
                             ]
                         },
                         {
@@ -3286,7 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い>２人目ってことですか？"
+                                "\\n<Apprentice>Does that mean you're the second one?"
                             ]
                         },
                         {
@@ -3303,14 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>いいえ、前代機は輸送中に破壊されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が最初の新型です。"
+                                "\\n<New model sexaroid>No, the previous model was destroyed during transport. I am\nthe first of the new models."
                             ]
                         },
                         {
@@ -3327,7 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>え、あれ、じゃあ……。"
+                                "\\n<Mister>Oh, then..."
                             ]
                         },
                         {
@@ -3344,14 +3337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>エウリィちゃんって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドじゃなかったの！？"
+                                "\\n<Streamer>Eury-chan wasn't a sexaroid!?"
                             ]
                         },
                         {
@@ -3368,7 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>\\C[24]エウリィ\\C[0]というのは改造少女の名称ですよね。"
+                                "\\n<New model sexaroid>\\C[24]Eury\\C[0] is the name of a modified girl, right."
                             ]
                         },
                         {
@@ -3385,7 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>\\C[2]同名のセクサロイドは存在しません。"
+                                "\\n<New model sexaroid>\\C[2]There is no sexaroid with the same name."
                             ]
                         },
                         {
@@ -3464,7 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>……。"
+                                "\\n<Master>……。"
                             ]
                         },
                         {
@@ -3481,7 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い>……。"
+                                "\\n<Apprentice>……。"
                             ]
                         },
                         {
@@ -3498,7 +3484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>……。"
+                                "\\n<Mister>……。"
                             ]
                         },
                         {
@@ -3515,7 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>……。"
+                                "\\n<Streamer>……。"
                             ]
                         },
                         {
@@ -3674,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>どうかいたしましたか？"
+                                "\\n<New model sexaroid>Is there something wrong?"
                             ]
                         },
                         {
@@ -3745,7 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>あ、いや、その……。"
+                                "\\n<Master>Ah, no, it's just that..."
                             ]
                         },
                         {
@@ -3816,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い>えーっと、なんというか……。"
+                                "\\n<Apprentice>Well, you see..."
                             ]
                         },
                         {
@@ -3887,14 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>あはは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんちょっと用事を思い出しちゃった。"
+                                "\\n<Mister>Ahaha. I just remembered something I have to do."
                             ]
                         },
                         {
@@ -3965,14 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>さーてと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もテンゲツテレビを盛り上げるぞー！"
+                                "\\n<Streamer>Alright! Let's get pumped up for Tengektsu TV today too!"
                             ]
                         },
                         {
@@ -3989,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>……？"
+                                "\\n<New model sexaroid>……?"
                             ]
                         },
                         {
@@ -4264,14 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>みなさーん！テンゲツ街周辺の魔物はみんな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がやっつけましたよ！"
+                                "\\n<Eury>Everyone! I've taken care of all the monsters around\nTengektsu Town!"
                             ]
                         },
                         {
@@ -4295,7 +4260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>改造少女を前に、悪は滅びました！"
+                                "\\n<Eury>In front of the modified girl, evil has been vanquished!"
                             ]
                         },
                         {
@@ -4312,7 +4277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>……！！！"
+                                "\\n<Master>……！！！"
                             ]
                         },
                         {
@@ -4329,14 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い>おおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがエウリィさん！"
+                                "\\n<Apprentice>Wow!!! That's our Eury-san!"
                             ]
                         },
                         {
@@ -4353,7 +4311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>俺は最初から信じてたぜ！"
+                                "\\n<Mister>I believed in you from the start!"
                             ]
                         },
                         {
@@ -4370,7 +4328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>エウリィちゃんは最強のセク……改造少女だもんな！"
+                                "\\n<Streamer>Eury-chan is the strongest modi... modified girl after all!"
                             ]
                         },
                         {
@@ -4387,7 +4345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>さすがです、エウリィさん。"
+                                "\\n<New model sexaroid>As expected of you, Eury-san."
                             ]
                         },
                         {
@@ -4420,14 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えへへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改めて言われると照れちゃいますね。"
+                                "\\n<Eury>Ehehe. It's embarrassing to be praised like this."
                             ]
                         },
                         {
@@ -4460,14 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>この街でもいろいろありましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ私は次の拠点で活動を始めます！"
+                                "\\n<Eury>There's been a lot happening in this town, but soon I'll\nstart my activities at the next base!"
                             ]
                         },
                         {
@@ -4500,14 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>また魔物被害以前の平和な街にするために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばりましょうね！"
+                                "\\n<Eury>Let's work hard to return this town to the peaceful place it\nwas before the monster troubles!"
                             ]
                         },
                         {
@@ -4566,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>あの、エウリィさん。"
+                                "\\n<New model sexaroid>Excuse me, Eury-san."
                             ]
                         },
                         {
@@ -4644,7 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい、なんでしょう？"
+                                "\\n<Eury>Yes, what is it?"
                             ]
                         },
                         {
@@ -4675,7 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>１つだけお聞きしたいのですが……。"
+                                "\\n<New model sexaroid>There's just one thing I want to ask..."
                             ]
                         },
                         {
@@ -4704,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>あなたはセクサロイドなのですか？"
+                                "\\n<New model sexaroid>Are you a sexaroid?"
                             ]
                         },
                         {
@@ -4744,7 +4681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！？"
+                                "\\n<Eury>……！?"
                             ]
                         },
                         {
@@ -4789,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、えぇえええっ！？"
+                                "\\n<Eury>Eh, eeeehhh!?"
                             ]
                         },
                         {
@@ -4822,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ち、ちちち、違います！！"
+                                "\\n<Eury>No, no no no, I'm not!!"
                             ]
                         },
                         {
@@ -4839,7 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>セクサロイドじゃ、ありません！！！"
+                                "\\n<Eury>I am not a sexaroid!!!"
                             ]
                         },
                         {
@@ -4872,7 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私は……！！！"
+                                "\\n<Eury>I am...!!!"
                             ]
                         },
                         {
@@ -5002,14 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【改造少女エンド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条件：淫乱度５０未満"
+                                "【Modified Girl Ending】Condition: Lewdness level below 50"
                             ]
                         },
                         {

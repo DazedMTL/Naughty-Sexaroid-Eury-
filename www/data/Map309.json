@@ -1943,7 +1943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん>はー、あの２人もいないし、今日は１人で帰るか。"
+                                "\\n<Mister>Haa, those two aren't here either, so I guess I'll go home\nalone today."
                             ]
                         },
                         {
@@ -1976,7 +1976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -2000,7 +2000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]50\\C[0]必要です。"
+                                "\\n<Eury>\\C[27]Lewdness level\\C[0] of \\C[27]50\\C[0] is required."
                             ]
                         },
                         {

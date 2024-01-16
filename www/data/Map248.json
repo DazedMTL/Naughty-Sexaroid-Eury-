@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マリオンの隠れ家",
+    "displayName": "Marion's Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1541,7 +1541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ここが基地の１番奥みたいだけど……。"
+                                "\\n<Eury>It looks like this is the deepest part of the base..."
                             ]
                         },
                         {
@@ -1597,7 +1597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ！！！"
+                                "\\n<Eury>Ahh!!!"
                             ]
                         },
                         {
@@ -1673,7 +1673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……誰？"
+                                "\\n<???>...Who's there?"
                             ]
                         },
                         {
@@ -1706,7 +1706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……！！！"
+                                "\\n<???>……！！！"
                             ]
                         },
                         {
@@ -1739,7 +1739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなたは、あのときの！"
+                                "\\n<Eury>You're that person from that time!"
                             ]
                         },
                         {
@@ -1772,7 +1772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>改造少女、エウリィ……！！！"
+                                "\\n<???>The modified girl, Eury...!!!"
                             ]
                         },
                         {
@@ -1805,7 +1805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>お前、どうしてここに来た！"
+                                "\\n<???>Why have you come here!"
                             ]
                         },
                         {
@@ -1822,14 +1822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物の気配がしたからです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたこそ、ここで何をしているんですか？"
+                                "\\n<Eury>I sensed the presence of monsters. What about you? What are\nyou doing here?"
                             ]
                         },
                         {
@@ -1862,7 +1855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>私、か……私は……。"
+                                "\\n<???>Me, I... I am..."
                             ]
                         },
                         {
@@ -1895,14 +1888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……待て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前この部屋に入ってきたということは！！！"
+                                "\\n<???>...Wait. If you've entered this room, then!!!"
                             ]
                         },
                         {
@@ -1919,7 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>マモノコアを倒してしまったのか！？"
+                                "\\n<???>Have you defeated the Mamono Core!?"
                             ]
                         },
                         {
@@ -1952,7 +1938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>倒しました。魔物を倒すのが私の役目なので。"
+                                "\\n<Eury>I have defeated it. It's my duty to defeat monsters."
                             ]
                         },
                         {
@@ -1985,7 +1971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなた、あの魔物について何か知っているみたいですね。"
+                                "\\n<Eury>You seem to know something about that monster."
                             ]
                         },
                         {
@@ -2002,14 +1988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物を生み出す魔物はもういないはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは何だったんですか！"
+                                "\\n<Eury>There shouldn't be any more monsters capable of creating\nothers. What was that thing!?"
                             ]
                         },
                         {
@@ -2042,7 +2021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……。"
+                                "\\n<???>……。"
                             ]
                         },
                         {
@@ -2059,14 +2038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>この基地にいた機械の魔物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは、私が開発した\\C[24]マノロイド\\C[0]という存在だ。"
+                                "\\n<Ruin>The mechanical monster in this base... That was a\n\\C[24]Manoroid\\C[0] that I developed."
                             ]
                         },
                         {
@@ -2083,14 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>マモノコアは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを生み出す、エネルギーの中枢だ。"
+                                "\\n<Ruin>The Mamono Core... It's the energy core that creates them."
                             ]
                         },
                         {
@@ -2123,14 +2088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物を開発した……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を、生み出す！？"
+                                "\\n<Eury>You developed monsters...!? You create monsters!?"
                             ]
                         },
                         {
@@ -2163,14 +2121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>何を考えているんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは人間ですよね！？"
+                                "\\n<Eury>What are you thinking!? You're human, aren't you!?"
                             ]
                         },
                         {
@@ -2210,14 +2161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……ああ、私は正真正銘の人間だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[24]ルイン\\C[0]、という名前もある。"
+                                "\\n<Ruin>...Yes, I am indeed human. I also have a name,\n\\C[24]Ruin\\C[0]."
                             ]
                         },
                         {
@@ -2250,7 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>私は……人間を裏切り、魔物に加担した。"
+                                "\\n<Ruin>I... betrayed humanity and sided with the monsters."
                             ]
                         },
                         {
@@ -2267,7 +2211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>どうして！！！"
+                                "\\n<Eury>Why!!!"
                             ]
                         },
                         {
@@ -2300,14 +2244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……エウリィ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の役目は、魔物の破滅だ。"
+                                "\\n<Ruin>...Eury. Your mission is the destruction of monsters."
                             ]
                         },
                         {
@@ -2324,14 +2261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>マノロイドを作り、再び魔物が世界に生まれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能性を作った、この私を……。"
+                                "\\n<Ruin>I created the Manoroids and thus made it possible for\nmonsters to be born into the world again. Me..."
                             ]
                         },
                         {
@@ -2376,7 +2306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\{\\C[18]ここで、殺すのか？"
+                                "\\n<Ruin>\\C[18]Are you going to kill me here?"
                             ]
                         },
                         {
@@ -2416,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！！！"
+                                "\\n<Eury>……！！！"
                             ]
                         },
                         {
@@ -2449,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……確かに、魔物を倒すのは私の使命です。"
+                                "\\n<Eury>...Indeed, defeating monsters is my mission."
                             ]
                         },
                         {
@@ -2466,14 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ですが、人を傷つけるのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の使命ではありません。"
+                                "\\n<Eury>However, hurting people is not my mission."
                             ]
                         },
                         {
@@ -2490,7 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……そうか。"
+                                "\\n<Ruin>...I see."
                             ]
                         },
                         {
@@ -2523,7 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>この手紙を、私の、憎き旧友に渡してくれ。"
+                                "\\n<Ruin>Please deliver this letter to my detested old friend."
                             ]
                         },
                         {
@@ -2623,7 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>旧友……？"
+                                "\\n<Eury>Old friend...?"
                             ]
                         },
                         {
@@ -2656,14 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\C[24]マリオン\\C[0]、という名前だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前はよく世話になっているだろう。"
+                                "\\n<Ruin>Her name is \\C[24]Marion\\C[0]. You must be quite familiar\nwith her."
                             ]
                         },
                         {
@@ -2696,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マリオン博士のお友達なんですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら、なおさらなんで魔物を！！"
+                                "\\n<Eury>Dr. Marion's friend!? Then why would you create monsters!!"
                             ]
                         },
                         {
@@ -2736,14 +2645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>その手紙に全て書いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の、迷いの表れだ。"
+                                "\\n<Ruin>Everything is written in that letter. It's a manifestation\nof my hesitation."
                             ]
                         },
                         {
@@ -2776,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……あいつに知られたら、私は消されるがな。"
+                                "\\n<Ruin>...If she finds out, she'll erase me."
                             ]
                         },
                         {
@@ -2809,7 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ど、どういうことですか！？"
+                                "\\n<Eury>What do you mean by that!?"
                             ]
                         },
                         {
@@ -2986,14 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>私は１度、テンゲツ街に隠れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、ここへは戻ってこない。"
+                                "\\n<Ruin>I will hide in Tengeki Street for a while. I won't return\nhere again."
                             ]
                         },
                         {
@@ -3057,14 +2952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>待ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはこれから……？"
+                                "\\n<Eury>Wait! What are you going to do now...?"
                             ]
                         },
                         {
@@ -3097,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>わからない。これから、どうすれば良いのか。"
+                                "\\n<Ruin>I don't know. What should I do from now on?"
                             ]
                         },
                         {
@@ -3114,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>もう、方法は、残されていないのかもな。"
+                                "\\n<Ruin>Maybe there's no method left for me anymore."
                             ]
                         },
                         {
@@ -3177,7 +3065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……ルインさん。"
+                                "\\n<Eury>...Ruin-san."
                             ]
                         },
                         {
@@ -3194,7 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あの人は、どうして……！！！"
+                                "\\n<Eury>Why did that person...!!!"
                             ]
                         },
                         {

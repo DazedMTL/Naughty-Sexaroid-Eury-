@@ -3716,7 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -4522,14 +4522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>なあなあ、今日だよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[27]「アレ」\\C[0]が街に来る日って……！！！"
+                                "\\n<Male>Hey, hey, it's today, right? The day that \"she\" comes to\ntown...!!!"
                             ]
                         },
                         {
@@ -4546,14 +4539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ああ、今日だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さてさて、どんな娘なんだろうな？"
+                                "\\n<Male>Yeah, it's today. So, what kind of girl will she be?"
                             ]
                         },
                         {
@@ -4570,14 +4556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>なかなかに感情豊からしいぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみだなー！"
+                                "\\n<Male>She's supposed to be quite emotional, right? Looking forward\nto it-!"
                             ]
                         },
                         {
@@ -4626,14 +4605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>テンゲツ街のみなさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんにちは！"
+                                "\\n<Eury>Hello everyone in Tengeki Town!"
                             ]
                         },
                         {
@@ -4673,7 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>来た来た来た来たぁ！"
+                                "\\n<Male>She's here, she's here, she's here!"
                             ]
                         },
                         {
@@ -4690,14 +4662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>え、やばすぎる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃかわいいんだが！"
+                                "\\n<Male>Whoa, no way! She's super cute!"
                             ]
                         },
                         {
@@ -4746,14 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私は改造少女エウリィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が来たからには、もう大丈夫！"
+                                "\\n<Eury>I am the modified girl, Eury! Now that I'm here, everything\nwill be alright!"
                             ]
                         },
                         {
@@ -4786,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>この街の平和は、私が守る！"
+                                "\\n<Eury>I will protect the peace of this town!"
                             ]
                         },
                         {
@@ -4826,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>おおー！すげー、本物だ！"
+                                "\\n<Male>Oh-! Amazing, the real deal!"
                             ]
                         },
                         {
@@ -4843,14 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>待ってたぞー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィー！"
+                                "\\n<Male>We've been waiting for you-! Eury-!"
                             ]
                         },
                         {
@@ -4867,7 +4818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>来てくれてありがとー！"
+                                "\\n<Male>Thanks for coming!"
                             ]
                         },
                         {
@@ -4916,14 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふふん、やっぱり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みーんな私を待っていたんですね！"
+                                "\\n<Eury>Heheh, as expected. Everyone was waiting for me, right?!"
                             ]
                         },
                         {
@@ -4956,14 +4900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>みんなが尊敬のまなざしで私を見てる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女、最高～！"
+                                "\\n<Eury>Everyone is looking at me with eyes full of respect...!\nModified girl, the best~!"
                             ]
                         },
                         {
@@ -5066,14 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ついに任された単独任務！この宿を拠点に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の改造少女としての物語が始まるんですね！"
+                                "\\n<Eury>Finally, a solo mission entrusted to me! This inn will be my\nbase, and my story as a modified girl begins now!"
                             ]
                         },
                         {
@@ -5106,14 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>早速ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ってる人がいないか見回りにいきましょう！"
+                                "\\n<Eury>But first, let's go on patrol to see if anyone is in\ntrouble!"
                             ]
                         },
                         {
@@ -5419,14 +5342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>なあなあ、今日だよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[27]「アレ」\\C[0]が街に来る日って……！！！"
+                                "\\n<Male>Hey, hey, it's today, right? The day that \"she\" comes to\ntown...!!!"
                             ]
                         },
                         {
@@ -5443,14 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ああ、今日だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さてさて、どんな娘なんだろうな？"
+                                "\\n<Male>Yeah, it's today. So, what kind of girl will she be?"
                             ]
                         },
                         {
@@ -5467,14 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>なかなかに感情豊からしいぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみだなー！"
+                                "\\n<Male>She's said to be quite emotional, right? I'm looking forward\nto it!"
                             ]
                         },
                         {
@@ -5523,14 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>テンゲツ街のみなさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんにちは！"
+                                "\\n<Eury>Hello everyone in Tengatsu City!"
                             ]
                         },
                         {
@@ -5570,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>来た来た来た来たぁ！"
+                                "\\n<Male>She's here, she's here, she's here!"
                             ]
                         },
                         {
@@ -5587,14 +5482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>え、やばすぎる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃかわいいんだが！"
+                                "\\n<Male>Whoa, no way! She's super cute!"
                             ]
                         },
                         {
@@ -5643,14 +5531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私は改造少女エウリィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が来たからには、もう大丈夫！"
+                                "\\n<Eury>I am the modified girl, Eury! Now that I'm here, everything\nwill be alright!"
                             ]
                         },
                         {
@@ -5683,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>この街の平和は、私が守る！"
+                                "\\n<Eury>I will protect the peace of this city!"
                             ]
                         },
                         {
@@ -5723,7 +5604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>おおー！すげー、本物だ！"
+                                "\\n<Male>Oh! Amazing, she's the real deal!"
                             ]
                         },
                         {
@@ -5740,14 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>待ってたぞー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィー！"
+                                "\\n<Male>We've been waiting for you! Eury!"
                             ]
                         },
                         {
@@ -5764,7 +5638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>来てくれてありがとー！"
+                                "\\n<Male>Thanks for coming!"
                             ]
                         },
                         {
@@ -5813,14 +5687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふふん、やっぱり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みーんな私を待っていたんですね！"
+                                "\\n<Eury>Hehe, just as I thought. Everyone was waiting for me!"
                             ]
                         },
                         {
@@ -5853,14 +5720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>みんなが尊敬のまなざしで私を見てる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女、最高～！"
+                                "\\n<Eury>Everyone is looking at me with respect...! Being a modified\ngirl is the best~!"
                             ]
                         },
                         {
@@ -5963,14 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ついに任された単独任務！この宿を拠点に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の改造少女としての物語が始まるんですね！"
+                                "\\n<Eury>Finally, a solo mission entrusted to me! This inn will be my\nbase, and my story as a modified girl begins here!"
                             ]
                         },
                         {
@@ -6101,14 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マリオン博士が置いてくれたポッド！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は忘れずに使うようにしましょう！"
+                                "\\n<Eury>The pod that Dr. Marion left for me! This time I'll make\nsure to use it properly!"
                             ]
                         },
                         {
@@ -6125,14 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>これがあれば街の中の移動も簡単だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも基地に戻れますね。"
+                                "\\n<Eury>With this, moving around the city will be easy, and I can\nreturn to base anytime."
                             ]
                         },
                         {
@@ -6165,14 +6004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>早速ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ってる人がいないか見回りにいきましょう！"
+                                "\\n<Eury>But first things first, let's patrol around to see if anyone\nis in trouble!"
                             ]
                         },
                         {

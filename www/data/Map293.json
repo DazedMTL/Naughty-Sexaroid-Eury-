@@ -1688,7 +1688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>あなたが今まで屠った魔物は……\\v[323]匹ね！"
+                                "\\n<Monster Ante>The number of monsters you've slain so far is...\\v[323],\nisn't it!"
                             ]
                         },
                         {
@@ -1738,7 +1738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>１０匹ごとにコアを１つ進呈するわ！"
+                                "\\n<Monster Ante>For every 10 monsters, I'll present you with one core!"
                             ]
                         },
                         {
@@ -1831,7 +1831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物アンチ>というわけで、今回は\\v[326]個ね！"
+                                "\\n<Monster Ante>So, this time you get \\v[326] of them!"
                             ]
                         },
                         {
@@ -1884,7 +1884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物アンチ>また来なさいよ！"
+                                "\\n<Monster Ante>Come again, okay!"
                             ]
                         },
                         {
@@ -1990,14 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>もう私はコアを持ってないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、あなたは魔物を屠り続けなさい！"
+                                "\\n<Monster Ante>I no longer have a core. But you must continue to slay the\nmonsters!"
                             ]
                         },
                         {
@@ -2014,7 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>そう、改造少女なのだから！"
+                                "\\n<Monster Ante>Yes, because you are a modified girl!"
                             ]
                         },
                         {
@@ -2142,21 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>むにゃむにゃ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は魔物アンチとかいう社会不適合者と逆で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全うな\\C[24]昼型人間\\C[0]なのよ……。"
+                                "\\n<Monster Ante>Mumbling... Unlike those social misfits called monster\nantis, I'm a proper \\C[24]daytime person\\C[0]..."
                             ]
                         },
                         {
@@ -2173,7 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>昼にきてちょうだい……。"
+                                "\\n<Monster Ante>Please come during the day..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１階トイレ",
+    "displayName": "1st Floor Bathroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4159,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>楽しんでいく？"
+                                "\\n<Vagabond>Are you going to enjoy yourself?"
                             ]
                         },
                         {
@@ -4227,7 +4227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>エウリィちゃんがいなくなると悲しいなあ。"
+                                "\\n<Vagrant>I'd be sad if Eury-chan disappeared."
                             ]
                         },
                         {
@@ -4364,7 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>エウリィさん、掃除ありがとうね。"
+                                "\\n<Young man>Eury-san, thank you for cleaning."
                             ]
                         },
                         {

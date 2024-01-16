@@ -18229,28 +18229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……なんですか、これは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<???>...What is this?"
                             ]
                         },
                         {
@@ -18326,7 +18305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>輸送中の物資を破壊したつもりでしたが……。"
+                                "\\n<???>I intended to destroy the supplies being transported but..."
                             ]
                         },
                         {
@@ -18343,7 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>とんだおもちゃだったみたいですね。"
+                                "\\n<???>It seems it was quite the toy."
                             ]
                         },
                         {
@@ -18405,14 +18384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>全く。荒廃した街に、食料でも衣類でもなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドを輸送とは。"
+                                "\\n<???>Seriously. To transport sexaroids instead of food or\nclothing to a devastated city..."
                             ]
                         },
                         {
@@ -18429,7 +18401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>人間とは欲に飢えたバカな生き物ですねえ……。"
+                                "\\n<???>Humans truly are foolish creatures starving for desire..."
                             ]
                         },
                         {
@@ -18481,7 +18453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<新型セクサロイド>ギ……ギ、ギィ……。"
+                                "\\n<New model sexaroid>Gi...Gi, Gii..."
                             ]
                         },
                         {
@@ -18552,7 +18524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……テンゲツ街、ですか。"
+                                "\\n<???>...Tengeki Street, is it?"
                             ]
                         },
                         {
@@ -18569,14 +18541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>原初の魔物がやられたからといって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終わりだと思わないことです。"
+                                "\\n<???>Don't think it's over just because the primal demon has been\ndefeated."
                             ]
                         },
                         {
@@ -18593,7 +18558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>改造少女たちよ。我が復讐に、恐れるが良い。"
+                                "\\n<???>Modified girls. You should fear my revenge."
                             ]
                         },
                         {
@@ -18737,7 +18702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>Faaah, I slept well..."
                             ]
                         },
                         {
@@ -18770,14 +18735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>It's day \\v[224] since we arrived at Tengeki Street. Let's\ndo our best today too!"
                             ]
                         },
                         {

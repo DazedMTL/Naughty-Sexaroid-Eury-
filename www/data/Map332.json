@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マリオンの隠れ家",
+    "displayName": "Marion's Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1421,7 +1421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>配信えっちしようかな……。"
+                                "\\n<Eury>Maybe we should do a naughty stream..."
                             ]
                         },
                         {
@@ -1467,7 +1467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>後ろにいるの彼氏だよね？"
+                                "\\n<Streamer>That's your boyfriend in the background, right?"
                             ]
                         },
                         {
@@ -1484,14 +1484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>じゃあ今回は最終回ってことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コラボ配信といこっか！"
+                                "\\n<Streamer>So, for this final episode, let's do a collaboration stream!"
                             ]
                         },
                         {
@@ -2140,7 +2133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>配信えっちしようかな……。"
+                                "\\n<Eury>Maybe we should do a naughty stream..."
                             ]
                         },
                         {
@@ -2186,7 +2179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>後ろにいるの彼氏だよね？"
+                                "\\n<Streamer>That's your boyfriend in the background, right?"
                             ]
                         },
                         {
@@ -2203,14 +2196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>じゃあ今回は最終回ってことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コラボ配信といこっか！"
+                                "\\n<Streamer>So, for this final episode, let's do a collaboration stream!"
                             ]
                         },
                         {

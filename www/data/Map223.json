@@ -9878,7 +9878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１週間前……。"
+                                "One week ago..."
                             ]
                         },
                         {
@@ -9937,7 +9937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>ん、あーーーあ。だりぃ。"
+                                "\\n<Blonde>Ugh, ahh---ah. So tired."
                             ]
                         },
                         {
@@ -10013,7 +10013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>復興作業とか手伝ってられっかよ。"
+                                "\\n<Blonde>Like I can be bothered to help with the reconstruction work."
                             ]
                         },
                         {
@@ -10061,14 +10061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>セクサロイドとヤりまくるのも良いけどなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつら、なんか性格が無機質でつまらねえんだよな。"
+                                "\\n<Blonde>It's nice to go wild with the sexaroids, but man, they're so\ninorganic and boring in personality."
                             ]
                         },
                         {
@@ -10116,7 +10109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>本物の女とヤりてえよー。"
+                                "\\n<Blonde>I wanna fuck a real woman-."
                             ]
                         },
                         {
@@ -10201,7 +10194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>……ん、なんだあの張り紙？"
+                                "\\n<Blonde>...Huh, what's that poster?"
                             ]
                         },
                         {
@@ -10272,14 +10265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>\\C[27]新型セクサロイド\\C[0]が……この街に届く！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも来週！？"
+                                "\\n<Blonde>\\C[27]New model sexaroids\\C[0]... coming to this town?! And\nnext week?!?"
                             ]
                         },
                         {
@@ -10296,14 +10282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>本物の人間とヤっているかのようなクオリティ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ人間とヤるより気持ち良いって！？"
+                                "\\n<Blonde>Quality like you're fucking a real human?! Even better than\nfucking a real person they say?!?"
                             ]
                         },
                         {
@@ -10320,7 +10299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>こんなの俺のためにあるようなもんだろ！"
+                                "\\n<Blonde>This is practically made for me!"
                             ]
                         },
                         {
@@ -10337,14 +10316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>やべえ、生きる喜びが見つかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く俺のもとに来てくれ、新型セクサロイドちゃんよぉ！"
+                                "\\n<Blonde>Damn, I've found the joy of living. Hurry up and come to me,\nnew model sexaroid-chan!"
                             ]
                         },
                         {
@@ -10638,7 +10610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<金髪>うおおおおおおぉぉぉぉおお！！！\\|\\|\\|\\^"
+                                "\\n<Blonde>Wooooooohooooo!!!"
                             ]
                         },
                         {
@@ -10796,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>Yawn~ I slept well..."
                             ]
                         },
                         {
@@ -10829,14 +10801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>It's been \\v[224] days since I arrived in Tengatsu City.\nLet's do our best today too!"
                             ]
                         },
                         {
@@ -11257,7 +11222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {

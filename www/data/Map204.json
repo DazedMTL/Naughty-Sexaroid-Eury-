@@ -1885,14 +1885,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エウリィのボイスのオンオフが設定できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（現在\\C[2]OFF\\C[0]に設定されています）"
+                                "You can toggle Eury's voice on and off. (It is currently set\nto \\C[2]OFF\\C[0])"
                             ]
                         },
                         {
@@ -1992,14 +1985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "声がOFFになりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度ONにしたい場合は、同じ場所から設定できます。"
+                                "The voice has been turned OFF. If you want to turn it back\nON, you can do so from the same place."
                             ]
                         },
                         {
@@ -2049,14 +2035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エウリィのボイスのオンオフが設定できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（現在\\C[2]ON\\C[0]に設定されています）"
+                                "You can toggle Eury's voice on and off. (It is currently set\nto \\C[2]ON\\C[0])"
                             ]
                         },
                         {
@@ -2156,14 +2135,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "声がOFFになりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度ONにしたい場合は、同じ場所から設定できます。"
+                                "The voice has been turned OFF. If you want to turn it back\nON, you can do so from the same place."
                             ]
                         },
                         {
@@ -2437,14 +2409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>疲れた……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.少し休憩しようかな。"
+                                "\\n<Eury>I'm tired... Maybe I should take a little break."
                             ]
                         },
                         {
@@ -2488,14 +2453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>思ってた以上に、この街の治安は悪いのかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.気を付けて行動しないと……。"
+                                "\\n<Eury>The public order in this city might be worse than I thought.\nI have to be careful..."
                             ]
                         },
                         {
@@ -2695,7 +2653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく休んだ……。"
+                                "\\n<Eury>*yawn* I had a good rest..."
                             ]
                         },
                         {
@@ -2728,14 +2686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>今日は魔物と戦ったし、初めてひとりで任務が始まったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "疲れちゃったなぁ……。"
+                                "\\n<Eury>Today I fought monsters and started my first solo mission,\nI'm really tired..."
                             ]
                         },
                         {
@@ -2752,14 +2703,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>夜間は魔物が活発に動くから、本当は魔物退治に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "行くべきかもしれないけど……。"
+                                "\\n<Eury>Monsters are more active at night, so maybe I should really\ngo on a monster hunt..."
                             ]
                         },
                         {
@@ -2792,7 +2736,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>今日ぐらいは疲れをとることを優先しようかな！"
+                                "\\n<Eury>Maybe today I should prioritize getting some rest!"
                             ]
                         },
                         {
@@ -2809,14 +2753,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>疲れがとれるようなサービスって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この宿にあったっけ？"
+                                "\\n<Eury>Is there a service here that helps you recover from fatigue,\nlike a massage or something?"
                             ]
                         },
                         {
@@ -2934,14 +2871,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……今日も散々な目に遭った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "みんな改造少女をなんだと思ってるの？"
+                                "\\n<Eury>...I had another rough day today. What does everyone think a\nmodified girl is?"
                             ]
                         },
                         {
@@ -3134,7 +3064,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく休んだ……。"
+                                "\\n<Eury>*yawn* I had a good rest..."
                             ]
                         },
                         {
@@ -3167,14 +3097,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>今夜はどうしようかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そろそろ魔物退治に行った方が良いのかも……？"
+                                "\\n<Eury>What should I do tonight? Maybe it's time to go on a monster\nhunt...?"
                             ]
                         },
                         {
@@ -3210,14 +3133,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夜時間では、マッサージのように\\C[24]夜限定のイベント\\C[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "進めることができます。"
+                                "During nighttime, you can participate in night-exclusive\nevents like massages."
                             ]
                         },
                         {
@@ -3234,7 +3150,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "また、街の出入口から\\C[24]魔物退治\\C[0]に行くことができます。"
+                                "Also, you can go on monster hunts from the town's entrance."
                             ]
                         },
                         {
@@ -3251,14 +3167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "特にやりたいことがない場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ベッドで寝て時間をスキップすることもできます。"
+                                "If you don't have anything particular to do, you can sleep\nin bed to skip time."
                             ]
                         },
                         {
@@ -3312,7 +3221,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>うう……あんなことされたの、生まれて初めて……。"
+                                "\\n<Eury>Ugh... That was the first time something like that happened\nto me..."
                             ]
                         },
                         {
@@ -3505,7 +3414,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく休んだ……。"
+                                "\\n<Eury>*yawn* I had a good rest..."
                             ]
                         },
                         {
@@ -3538,7 +3447,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>今夜は何をして過ごそうかな？"
+                                "\\n<Eury>What should I do with my night?"
                             ]
                         },
                         {
@@ -3599,14 +3508,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>この街、えっちな人だらけ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\.マキナ先輩もこれぐらい苦労したのかな？"
+                                "\\n<Eury>This city is full of perverts... I wonder if Makina-senpai\nhad it this tough too?"
                             ]
                         },
                         {
@@ -3799,7 +3701,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>*yawn* I slept well..."
                             ]
                         },
                         {
@@ -3832,7 +3734,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>今夜は何をして過ごそうかな？"
+                                "\\n<Eury>What should I do tonight?"
                             ]
                         },
                         {
@@ -3893,14 +3795,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\n<エウリィ>この街に来てから５日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\.なんだかセクハラされてばっかりな気がする……。"
+                                "\\n<Eury>It's been five days since I came to this city. It feels like\nI've been harassed non-stop..."
                             ]
                         },
                         {
@@ -3933,14 +3828,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\n<エウリィ>任務の内容は魔物退治だけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "ちゃんと果たせるか心配になってきたよ……。"
+                                "\\n<Eury>My mission isn't just about hunting monsters. I'm starting\nto worry if I can really fulfill it..."
                             ]
                         },
                         {
@@ -3985,14 +3873,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "……エウリィがベッドに入りしばらく経ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "時刻は０時を過ぎようとしていた。"
+                                "...Eury got into bed and some time passed, with the clock\nsoon to strike midnight."
                             ]
                         },
                         {
@@ -4009,14 +3890,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "エウリィがこの街に来て、５日目が終わろうとしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "このときが、エウリィの運命の瞬間となる……！"
+                                "It's the end of Eury's fifth day in this city. This moment\ncould be a turning point in her fate...!"
                             ]
                         },
                         {
@@ -4145,14 +4019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>ふかふかのベッド。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だけど、今は休んでいられないよね！"
+                                "\\n<Eury>A fluffy bed. But now's not the time to rest!"
                             ]
                         },
                         {
@@ -4176,14 +4043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※\\C[27]処女編\\C[0]では休憩で時間を飛ばせません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　\\C[27]非処女編\\C[0]では、夜時間まで休むことができます。"
+                                "In the Virgin Chapter, you cannot skip time by resting. In\nthe Non-Virgin Chapter, you can rest until nighttime."
                             ]
                         },
                         {
@@ -4261,7 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜まで休もうか？"
+                                "Shall we rest until the evening?"
                             ]
                         },
                         {
@@ -4518,7 +4378,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>*yawn* I slept well..."
                             ]
                         },
                         {
@@ -4551,7 +4411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>今夜は何をして過ごそうかな？"
+                                "\\n<Eury>What shall I do to pass the time tonight?"
                             ]
                         },
                         {
@@ -4748,7 +4608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>うーん、寝るのも良いんだけど……。"
+                                "\\n<Eury>Hmm, sleeping is good, but..."
                             ]
                         },
                         {
@@ -4765,7 +4625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>疲れがとれるようなサービスってあったかな？"
+                                "\\n<Eury>Was there a service that could help relieve fatigue?"
                             ]
                         },
                         {
@@ -4810,7 +4670,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "明日の朝まで休もうか？"
+                                "Shall we rest until tomorrow morning?"
                             ]
                         },
                         {
@@ -4932,7 +4792,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>おやすみなさ～い♪"
+                                "\\n<Eury>Good night~♪"
                             ]
                         },
                         {
@@ -5145,7 +5005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "明日の朝まで休もうか？"
+                                "Shall we rest until tomorrow morning?"
                             ]
                         },
                         {
@@ -5267,7 +5127,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>おやすみなさ～い♪"
+                                "\\n<Eury>Good night~♪"
                             ]
                         },
                         {
@@ -5466,7 +5326,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "明日の朝まで休もうか？"
+                                "Shall we rest until tomorrow morning?"
                             ]
                         },
                         {
@@ -5588,7 +5448,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>おやすみなさ～い♪"
+                                "\\n<Eury>Good night~♪"
                             ]
                         },
                         {
@@ -5776,7 +5636,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "明日の朝まで休もうか？"
+                                "Shall we rest until tomorrow morning?"
                             ]
                         },
                         {
@@ -5898,7 +5758,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>おやすみなさ～い♪"
+                                "\\n<Eury>Good night~♪"
                             ]
                         },
                         {
@@ -6064,7 +5924,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>Faa~, I slept well..."
                             ]
                         },
                         {
@@ -6097,14 +5957,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<エウリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>It's the \\v[224]th day since we've come to Tengeki Street.\nLet's do our best today too!"
                             ]
                         },
                         {
@@ -7260,7 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>今日はもう外に出る元気は残ってないよ……。"
+                                "\\n<Eury>I don't have the energy to go outside anymore today..."
                             ]
                         },
                         {
@@ -7416,7 +7269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふぅ～、魔物退治ってやっぱり大変。"
+                                "\\n<Eury>Phew~ Monster hunting is really tough."
                             ]
                         },
                         {
@@ -7433,14 +7286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物って色んな種類がいるんだね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しずつ情報を集めて、戦いやすくしていかないと。"
+                                "\\n<Eury>There are so many different types of monsters... I need to\ngather information bit by bit to make fighting them easier."
                             ]
                         },
                         {
@@ -7713,7 +7559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>魔物と聞いて！"
+                                "\\n<???>Speaking of monsters!"
                             ]
                         },
                         {
@@ -7765,7 +7611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{うわぁぁぁあああ！！？？？"
+                                "\\n<Eury>Aaahhhhhhh!!! ???"
                             ]
                         },
                         {
@@ -7782,7 +7628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>不審者！！！！！"
+                                "\\n<Eury>Suspicious person!!!!"
                             ]
                         },
                         {
@@ -7806,14 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>魔物を屠る返り血のにおい……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた、改造少女ですよね？"
+                                "\\n<Monster Maniac>The scent of blood from slaying monsters...! You're a\nmodified girl, aren't you?"
                             ]
                         },
                         {
@@ -7846,7 +7685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そ、そうですけど……。"
+                                "\\n<Eury>Ye-yes, but..."
                             ]
                         },
                         {
@@ -7870,14 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>私の名前は\\C[24]魔物マニア\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.３度のメシより魔物が大好き。"
+                                "\\n<Monster Maniac>My name is \\C[24]Monster Maniac\\C[0]. I love monsters more\nthan three meals a day."
                             ]
                         },
                         {
@@ -7910,7 +7742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、魔物が好き！？"
+                                "\\n<Eury>You, you like monsters!?"
                             ]
                         },
                         {
@@ -7934,14 +7766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>あの多様さ。凶暴さ。そして愛くるしさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛玩動物と超えられない壁を隔てる荘厳な魅力！"
+                                "\\n<Monster Maniac>Their diversity, ferocity, and even their adorableness. The\nmajestic charm that pets can't cross over!"
                             ]
                         },
                         {
@@ -7958,7 +7783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>\\C[2]お隣に住んでるから、魔物図鑑、見せて！！"
+                                "\\n<Monster Maniac>\\C[2]I live next door, so show me your Monster\nEncyclopedia!!"
                             ]
                         },
                         {
@@ -7991,14 +7816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お隣にこんな不審者が住んでたの！？"
+                                "\\n<Eury>Eh...! There's such a suspicious person living next door!?"
                             ]
                         },
                         {
@@ -8053,14 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>約束したから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあね。"
+                                "\\n<Monster Maniac>It's a promise then. See you."
                             ]
                         },
                         {
@@ -8077,7 +7888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>お隣の部屋で、待ってるよ！"
+                                "\\n<Monster Maniac>I'll be waiting in the room next door!"
                             ]
                         },
                         {
@@ -8145,7 +7956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物が好きな人なんているんだ……。"
+                                "\\n<Eury>To think there are people who like monsters..."
                             ]
                         },
                         {
@@ -8162,14 +7973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>気は進まないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い人ではなさそうだったし、会ってみようかな？"
+                                "\\n<Eury>I'm not keen on it... but he didn't seem like a bad person,\nso maybe I'll go see him?"
                             ]
                         },
                         {
@@ -8202,14 +8006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物マニアは隣の部屋に住んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物図鑑を集めて話しかけると良いことがあるかも？"
+                                "The Monster Maniac lives in the room next door. If you\ncollect the Monster Encyclopedia and talk to him, something\ngood might happen?"
                             ]
                         },
                         {
@@ -8580,7 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ！通信だ！"
+                                "\\n<Eury>Ah! A transmission!"
                             ]
                         },
                         {
@@ -8639,7 +8436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい、エウリィです！"
+                                "\\n<Eury>Yes, this is Eury!"
                             ]
                         },
                         {
@@ -8656,14 +8453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>エウリィ、任務開始から今日で１週間だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンゲツ街での任務は順調か？"
+                                "\\n<Makina>Eury, it's been a week since the mission started. How's\neverything going in Tengeki Street?"
                             ]
                         },
                         {
@@ -8696,14 +8486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マキナ先輩！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やったー！先輩から通信なんて嬉しいです！"
+                                "\\n<Eury>Makina-senpai!! Yay-! I'm so happy to receive a transmission\nfrom you!"
                             ]
                         },
                         {
@@ -8784,14 +8567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい、任務は順調です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……と、言いたいところなんですが、うーん。"
+                                "\\n<Eury>Yes, the mission is going well! ...or at least, that's what\nI'd like to say, but, well..."
                             ]
                         },
                         {
@@ -8808,7 +8584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>何か気になることがありそうだな。"
+                                "\\n<Makina>It seems like there's something on your mind."
                             ]
                         },
                         {
@@ -8889,7 +8665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>実は……ちょっと自信がなくなってきちゃいました。"
+                                "\\n<Eury>Actually... I've been feeling a bit less confident lately."
                             ]
                         },
                         {
@@ -8906,7 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>なるほど……理由は明確なのか？"
+                                "\\n<Makina>I see... Is there a clear reason?"
                             ]
                         },
                         {
@@ -8923,21 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっと、街のお手伝いはできているんですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな私の話を聞いてくれなかったり、イジワルされたり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分私が新人だからバカにされてるのかなって……。"
+                                "\\n<Eury>Well, I've been able to help around the town, but people\ndon't listen to me or they're mean to me. Maybe they're\nlooking down on me because I'm new..."
                             ]
                         },
                         {
@@ -8954,21 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>もとより治安が悪い場所だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィの育った環境では見慣れないような人間も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多いだろう。"
+                                "\\n<Makina>The place has always had poor security. There must be many\npeople there who are unlike those you're used to seeing from\nwhere you grew up."
                             ]
                         },
                         {
@@ -9049,14 +8797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>やっぱりお嬢様オーラが隠せてないのかな～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに私、救世の改造少女ですからっ！！"
+                                "\\n<Eury>Maybe I can't hide my ojou-sama aura? Plus, I am a savior's\nmodified girl after all!!"
                             ]
                         },
                         {
@@ -9073,21 +8814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己を鼓舞して前向きになろうとする姿勢は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィの長所だな。"
+                                "\\n<Makina>Heh. The way you try to stay positive and motivate yourself\nis one of your strengths, Eury."
                             ]
                         },
                         {
@@ -9168,7 +8895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えへへ～、褒められちゃった。"
+                                "\\n<Eury>Ehehe~, I got praised."
                             ]
                         },
                         {
@@ -9185,7 +8912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>自信は戻ってきたか？"
+                                "\\n<Makina>Has your confidence returned?"
                             ]
                         },
                         {
@@ -9218,14 +8945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うーん……。でも、私ってまだまだだな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って思うことが多くて……。"
+                                "\\n<Eury>Well... But I still feel like I have a long way to go..."
                             ]
                         },
                         {
@@ -9242,14 +8962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>誰しも最初からうまくはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の任務はエウリィにとって初めてだろう。"
+                                "\\n<Makina>No one gets everything right from the start. This mission is\na first for you, Eury."
                             ]
                         },
                         {
@@ -9266,14 +8979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>私は、エウリィが任務を達成できると信じている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィには、ヒーローの素質があると感じている。"
+                                "\\n<Makina>I believe that you can complete the mission. I feel that you\nhave the qualities of a hero, Eury."
                             ]
                         },
                         {
@@ -9318,7 +9024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ほ、ほんとですか！？"
+                                "\\n<Eury>R-really!?"
                             ]
                         },
                         {
@@ -9335,14 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>マリオンもそう判断したからこそ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の単独任務を決めたはずだ。"
+                                "\\n<Makina>Marion also made that judgment, which is why she decided on\nthis solo mission for you."
                             ]
                         },
                         {
@@ -9375,14 +9074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうですよね！！"
+                                "\\n<Eury>...!!! Th-that's right!!"
                             ]
                         },
                         {
@@ -9447,14 +9139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私、なんだかなんとかなる気がしてきました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マキナ先輩、ありがとうございます！"
+                                "\\n<Eury>I feel like somehow everything will work out! Thank you,\nMakina-senpai!"
                             ]
                         },
                         {
@@ -9471,14 +9156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あ、ああ。自信がついたのは良いが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に１つだけ注意しておく。"
+                                "\\n<Makina>Ah, yes. It's good that you've regained your confidence, but\nthere's one last thing I want to remind you of."
                             ]
                         },
                         {
@@ -9495,14 +9173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そうですよね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、改造少女ですもんね！！！"
+                                "\\n<Eury>That's right!! After all, I am a modified girl!!"
                             ]
                         },
                         {
@@ -9519,14 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>１番気を付けなければいけないのは、魔物ではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間の悪意だ。テンゲツ街は治安が悪い。"
+                                "\\n<Makina>The most important thing to be careful of is not monsters,\nbut human malice. Tengeki Street has bad security."
                             ]
                         },
                         {
@@ -9543,7 +9207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うんうん、私ならできる！"
+                                "\\n<Eury>Yes, yes, I can do it!"
                             ]
                         },
                         {
@@ -9560,7 +9224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>悪意を持った人間に狙われないように注意して……。"
+                                "\\n<Makina>Be careful not to be targeted by people with ill\nintentions..."
                             ]
                         },
                         {
@@ -9589,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{先輩！！私がんばります！！！"
+                                "\\n<Eury>Senpai!! I will do my best!!!"
                             ]
                         },
                         {
@@ -9606,14 +9270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あ、ちょっと待て！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というか私の話を聞いてるのか！？"
+                                "\\n<Makina>Wait a minute! Are you even listening to what I'm saying?!?"
                             ]
                         },
                         {
@@ -9630,14 +9287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>それでは、私は任務に戻りますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マキナ先輩もがんばってください！では！！！"
+                                "\\n<Eury>Then, I'll get back to my mission! You do your best too,\nMakina-senpai! Bye!!!"
                             ]
                         },
                         {
@@ -9786,14 +9436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>よぉーし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待に答えられるように、がんばりますよ！！"
+                                "\\n<Eury>Alright! I'll do my best to live up to expectations!!"
                             ]
                         },
                         {

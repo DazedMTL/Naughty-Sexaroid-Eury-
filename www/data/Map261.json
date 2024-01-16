@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マキナ基地",
+    "displayName": "Machina Base",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2558,7 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>じゃあ今日は別の実験をするぞ。"
+                                "\\n<Former Researcher>Alright, today we'll be doing a different experiment."
                             ]
                         },
                         {
@@ -2605,7 +2605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>別の実験、ですか？"
+                                "\\n<Eury>A different experiment?"
                             ]
                         },
                         {
@@ -2622,7 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>前みたいな拘束状態は触手系の敵がやってくる攻撃だ。"
+                                "\\n<Former Researcher>The restraints from before are for when tentacle-type\nenemies attack."
                             ]
                         },
                         {
@@ -2639,14 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>でも、場合によっちゃ人型の魔物に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲われるかもしれないだろ？"
+                                "\\n<Former Researcher>But, depending on the situation, you might be attacked by\nhumanoid monsters, right?"
                             ]
                         },
                         {
@@ -2679,7 +2672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>た、確かに……。"
+                                "\\n<Eury>T-That's true..."
                             ]
                         },
                         {
@@ -2696,14 +2689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>だから、仮に人型の魔物に挿入されても、簡単にイき狂って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やられるようなやつは改造少女にはなれないってことだ。"
+                                "\\n<Former Researcher>So, even if a humanoid monster penetrates you, those who\nsimply go crazy with pleasure and get defeated can't become\nmodified girls."
                             ]
                         },
                         {
@@ -2720,7 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そう、ですね……♡"
+                                "\\n<Eury>That's right...♡"
                             ]
                         },
                         {
@@ -2737,7 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>言いたいことわかるか？"
+                                "\\n<Former Researcher>You get what I'm saying?"
                             ]
                         },
                         {
@@ -2770,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい……♡"
+                                "\\n<Eury>Yes...♡"
                             ]
                         },
                         {
@@ -2787,14 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>我慢できなかったんです、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこまでヤって、あなたと、えっちしないの……♡"
+                                "\\n<Eury>I couldn't bear it, doing all that and not having sex with\nyou...♡"
                             ]
                         },
                         {
@@ -2811,7 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>エウリィのこと、犯してください♡"
+                                "\\n<Eury>Please, ravish Eury♡"
                             ]
                         },
                         {
@@ -2828,7 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>よし、じゃあいつも通りそこに寝ろ。"
+                                "\\n<Former Researcher>Alright, then lie down there like usual."
                             ]
                         },
                         {
@@ -2878,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>エウリィ、良いことを教えてやるよ。"
+                                "\\n<Former Researcher>Eury, I'm going to tell you something good."
                             ]
                         },
                         {
@@ -2895,7 +2874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なんですか？"
+                                "\\n<Eury>What is it?"
                             ]
                         },
                         {
@@ -2912,7 +2891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>俺さ、チンコでかいし、セックスうまいよ。"
+                                "\\n<Former Researcher>You see, I have a big dick, and I'm good at sex."
                             ]
                         },
                         {
@@ -2929,7 +2908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……そうだと思ってました♡"
+                                "\\n<Eury>...I thought so♡"
                             ]
                         },
                         {
@@ -2946,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>あと、俺が研究員やめさせられた理由なんだけどさ。"
+                                "\\n<Former Researcher>Also, about why I was forced to quit being a researcher."
                             ]
                         },
                         {
@@ -2963,7 +2942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……なんなんですか？"
+                                "\\n<Eury>...What is it?"
                             ]
                         },
                         {
@@ -2980,7 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>チンコ入れてから教えてあげる。"
+                                "\\n<Former Researcher>I'll tell you after I put my dick in."
                             ]
                         },
                         {
@@ -3089,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んっ、あっ♡"
+                                "\\n<Eury>Mmm, ah♡"
                             ]
                         },
                         {
@@ -3142,7 +3121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（はぁ、おっきい♡すご、ぃい♡）"
+                                "\\n<Eury>(Ah, it's so big♡ Amazing♡)"
                             ]
                         },
                         {
@@ -3159,7 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（この人に、ずっと、犯されたかった♡）"
+                                "\\n<Eury>(I've always wanted to be ravished by this person♡)"
                             ]
                         },
                         {
@@ -3176,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>俺、マキナをレイプしたんだよね。"
+                                "\\n<Former Researcher>I raped Makina, you know."
                             ]
                         },
                         {
@@ -3234,7 +3213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……え？"
+                                "\\n<Eury>...What?"
                             ]
                         },
                         {
@@ -3251,7 +3230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>魔物に脅されてさ、マキナを裏切れって。"
+                                "\\n<Former Researcher>Threatened by a monster, they told me to betray Makina."
                             ]
                         },
                         {
@@ -3268,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>だからマキナを騙して、犯した。"
+                                "\\n<Former Researcher>So I deceived Makina and raped her."
                             ]
                         },
                         {
@@ -3285,7 +3264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>最高に気持ちよかったぜ。"
+                                "\\n<Former Researcher>It felt amazing."
                             ]
                         },
                         {
@@ -3343,7 +3322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>じょ、冗談、ですよね？"
+                                "\\n<Eury>Th-That's a joke, right?"
                             ]
                         },
                         {
@@ -3360,14 +3339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>正直、前からヤりたいと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたからちょうどよかったわ。"
+                                "\\n<Former Researcher>Honestly, I've wanted to do her for a while, so it worked\nout well for me."
                             ]
                         },
                         {
@@ -3384,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>あ、じゃあ激しく動くね。"
+                                "\\n<Former Researcher>Oh, then I'll move more intensely now."
                             ]
                         },
                         {
@@ -3401,7 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、待って！"
+                                "\\n<Eury>W-Wait!"
                             ]
                         },
                         {
@@ -3502,7 +3474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んん、あぁっ♡"
+                                "\\n<Eury>Ahh, ah, mmm, ahh♡"
                             ]
                         },
                         {
@@ -3519,14 +3491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>改造少女ってやつらはバカしかいねえのな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやって簡単にヤられちゃってさ。"
+                                "\\n<Former Researcher>Modified girls are such idiots. They get screwed over so\neasily like this."
                             ]
                         },
                         {
@@ -3543,7 +3508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛っ、はぁあ、あっ、んっ♡"
+                                "\\n<Eury>Ahh, haa, ah, mmm♡"
                             ]
                         },
                         {
@@ -3560,7 +3525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>お前に関しては和姦だしな。"
+                                "\\n<Former Researcher>As for you, it's consensual sex anyway."
                             ]
                         },
                         {
@@ -3577,7 +3542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁあ、あっ、ああ、んっ♡"
+                                "\\n<Eury>Haa, ah, aah, mmm♡"
                             ]
                         },
                         {
@@ -3594,7 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>改造少女は人間を攻撃できない。な？"
+                                "\\n<Former Researcher>Modified girls can't attack humans, right?"
                             ]
                         },
                         {
@@ -3688,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、あぁあ、あっ、あんっ♡"
+                                "\\n<Eury>Ah, aah, ah, mmm♡"
                             ]
                         },
                         {
@@ -3705,7 +3670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（奥、えぐられて、すごぃい♡）"
+                                "\\n<Eury>(It's hitting deep inside, it's so good♡)"
                             ]
                         },
                         {
@@ -3722,7 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>マキナも普段クールなふりして、乱れ方すごかったぜ。"
+                                "\\n<Former Researcher>Even Makina, who usually acts so cool, was a mess when she\ncame undone."
                             ]
                         },
                         {
@@ -3739,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>あのとき溜まってたからさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５発ぐらい中出ししたんだよ。"
+                                "\\n<Former Researcher>Back then, because I was so pent up, I came inside about\nfive times."
                             ]
                         },
                         {
@@ -3763,7 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んんっ、あぁあっ♡"
+                                "\\n<Eury>Haa, ah, mmm, ahh♡"
                             ]
                         },
                         {
@@ -3821,7 +3779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（マキナ先輩も、このセックス、したんだ……♡）"
+                                "\\n<Eury>(Even Senpai Makina had this kind of sex...♡)"
                             ]
                         },
                         {
@@ -3838,7 +3796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>ヤり終わったあとのあいつの姿、傑作だったぜ。"
+                                "\\n<Former Researcher>The sight of her after we finished was a masterpiece."
                             ]
                         },
                         {
@@ -3855,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>写真見せてやろうか？"
+                                "\\n<Former Researcher>Want me to show you the photos?"
                             ]
                         },
                         {
@@ -3961,7 +3919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁあ、あっ、イグ、ぅうう♡"
+                                "\\n<Eury>Ahh, ah, I'm cumming, uuu♡"
                             ]
                         },
                         {
@@ -3978,7 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>おいおい、簡単にイっちまうな。"
+                                "\\n<Former Researcher>Hey hey, don't cum so easily."
                             ]
                         },
                         {
@@ -3995,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>お前セクサロイドって誤解されてから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんぐらいこの街で犯されてんだ、なあ？"
+                                "\\n<Former Researcher>How long have you been getting fucked in this town since you\nwere mistaken for a sexaroid, huh?"
                             ]
                         },
                         {
@@ -4067,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、は、ああぁっ、んん、だめぇっ♡"
+                                "\\n<Eury>Ah, haa, aahh, mmm, noo♡"
                             ]
                         },
                         {
@@ -4132,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>イグ、ぅうう♡"
+                                "\\n<Eury>I'm cumming, uuu♡"
                             ]
                         },
                         {
@@ -4245,7 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お゛ぉ゛ぉお♡"
+                                "\\n<Eury>Oooh♡"
                             ]
                         },
                         {
@@ -4262,14 +4213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>ふぅ、抱き心地はいい勝負だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、胸のでかさの差でお前の方が１つ上かな。"
+                                "\\n<Former Researcher>Phew, you're quite a match in terms of how good it feels to\nhold you. Well, because of the difference in breast size,\nyou're one step above."
                             ]
                         },
                         {
@@ -4286,14 +4230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>ただマンコの締まりはマキナの方が上だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前はヤリマンすぎ。"
+                                "\\n<Former Researcher>But when it comes to pussy tightness, Makina's is better.\nYou're too much of a slut."
                             ]
                         },
                         {
@@ -4387,7 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぅう、うう……比較、しないでください……！"
+                                "\\n<Eury>Uu, uuh... please don't compare..."
                             ]
                         },
                         {
@@ -4404,14 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>実際ヤリマンなんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のところ３回も来ちゃってさ。"
+                                "\\n<Former Researcher>You're actually a slut, aren't you? You've come to my place\nthree times already."
                             ]
                         },
                         {
@@ -4428,7 +4358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……そ、それは、否定しないですけど。"
+                                "\\n<Eury>...I won't deny that."
                             ]
                         },
                         {
@@ -4445,7 +4375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>経験人数は？"
+                                "\\n<Former Researcher>How many people have you been with?"
                             ]
                         },
                         {
@@ -4462,7 +4392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……数えてないです。"
+                                "\\n<Eury>...I haven't counted."
                             ]
                         },
                         {
@@ -4479,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>変態だな、お前。"
+                                "\\n<Former Researcher>You're a pervert, aren't you?"
                             ]
                         },
                         {
@@ -4580,7 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あんっ、んん、はぁあ、あんっ♡"
+                                "\\n<Eury>Ahh, ahn, mmm, haaah, ahn♡"
                             ]
                         },
                         {
@@ -4597,14 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>とりあえず中に出すぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女だから大丈夫だよな。"
+                                "\\n<Former Researcher>Anyway, I'm going to cum inside. You're a modified girl, so\nit's fine, right?"
                             ]
                         },
                         {
@@ -4621,7 +4544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、ぁあ、あっ、あぁあんっ♡"
+                                "\\n<Eury>Haaah, ah, ahh, aahhn♡"
                             ]
                         },
                         {
@@ -4638,7 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ひどい人に、中出し、されちゃうぅ♡）"
+                                "\\n<Eury>(I'm being creampied by such a terrible person♡)"
                             ]
                         },
                         {
@@ -4655,7 +4578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（で、でも、気持ち、良くて……♡）"
+                                "\\n<Eury>(But it feels so good...♡)"
                             ]
                         },
                         {
@@ -4713,7 +4636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>出して、中に、精液、ほしいぃい♡"
+                                "\\n<Eury>Cum inside me, I want your semen♡"
                             ]
                         },
                         {
@@ -4730,7 +4653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>マキナは自分からそんなこと言わなかったぜ。"
+                                "\\n<Former Researcher>Makina never said anything like that herself."
                             ]
                         },
                         {
@@ -4747,7 +4670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、あぁあ、は、はあああっ♡"
+                                "\\n<Eury>Nn, aahh, haaah♡"
                             ]
                         },
                         {
@@ -4867,7 +4790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お゛、ぁあ゛っ♡"
+                                "\\n<Eury>Ooh, aahh♡"
                             ]
                         },
                         {
@@ -4920,7 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、ああ、ぁあ、量、すごい、いぃい♡"
+                                "\\n<Eury>Haaah, aahh, the amount is amazing, so good♡"
                             ]
                         },
                         {
@@ -4937,7 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>ふう。やっぱりクソザコマンコだな。"
+                                "\\n<Former Researcher>Phew. You really are a pathetic pussy."
                             ]
                         },
                         {
@@ -4954,7 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>この街でだいぶマンコ開発されただろ？"
+                                "\\n<Former Researcher>You've been pretty well pussy trained in this town, haven't\nyou?"
                             ]
                         },
                         {
@@ -5012,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……は、ぃい♡"
+                                "\\n<Eury>...Yes♡"
                             ]
                         },
                         {
@@ -5029,7 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>頭悪い女は、そうなる運命なんだよ。"
+                                "\\n<Former Researcher>Stupid women are destined to end up like this."
                             ]
                         },
                         {
@@ -5046,14 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>再三じらしてるせいで溜まってるからさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前もマキナと同じように何回も犯していいよな。"
+                                "\\n<Former Researcher>Because I've been holding back for so long, I can fuck you\nas many times as I did Makina, right?"
                             ]
                         },
                         {
@@ -5111,7 +5027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……はぁ、あ、ぁあ……。"
+                                "\\n<Eury>...Haaah, ah, aah..."
                             ]
                         },
                         {
@@ -5128,7 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お願い、します……♡"
+                                "\\n<Eury>Please do...♡"
                             ]
                         },
                         {
@@ -5193,7 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あっ、んん、ぁあ、あっ♡"
+                                "\\n<Eury>Ahh, ah, mmm, ahh♡"
                             ]
                         },
                         {
@@ -5245,7 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>ふぅー、ヤったヤった。"
+                                "\\n<Former Researcher>Phew-, that was good."
                             ]
                         },
                         {
@@ -5262,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>まあ総合的にはマキナには劣るけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか悪くなかったぜ。オナホにはしてやるよ。"
+                                "\\n<Former Researcher>Well overall you're inferior to Makina but not bad at all.\nI'll use you as a fleshlight."
                             ]
                         },
                         {
@@ -5286,7 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元研究員>今日はもう飽きたから消えろ、じゃあな。"
+                                "\\n<Former Researcher>I'm bored with you for today so get lost, see ya."
                             ]
                         },
                         {
@@ -5303,7 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\}はぁ、あっ、ぁああ……。"
+                                "\\n<Eury>Haaah, ah, aah..."
                             ]
                         },
                         {
@@ -5320,7 +5229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "散々犯された……。"
+                                "Eury: I've been fucked over and over..."
                             ]
                         },
                         {
@@ -5432,7 +5341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {

@@ -3712,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>お、エウリィちゃん！良いところに！"
+                                "\\n<Master>Oh, Eury-chan! Perfect timing!"
                             ]
                         },
                         {
@@ -3745,7 +3745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なんでしょうか？"
+                                "\\n<Eury>What is it?"
                             ]
                         },
                         {
@@ -3778,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>改造少女にお願いしたいことがあればなんなりと！"
+                                "\\n<Eury>If there's anything you'd like to ask of a modified girl,\nplease feel free!"
                             ]
                         },
                         {
@@ -3795,7 +3795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>よかったらうちの酒場で働かない？"
+                                "\\n<Master>Would you like to work at my tavern, if it's okay with you?"
                             ]
                         },
                         {
@@ -3812,14 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>新型ちゃんがいたら絶対お客さん増えると思うんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼むよ！"
+                                "\\n<Master>I'm sure having a new model girl around would definitely\nbring in more customers! Please!"
                             ]
                         },
                         {
@@ -3852,7 +3845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……なるほど！"
+                                "\\n<Eury>...I see!"
                             ]
                         },
                         {
@@ -3933,14 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ふふん♪新型の改造少女の話題性で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来客数アップ！ですか）"
+                                "\\n<Eury>(Hehe♪ Using the novelty of a new model modified girl to\nincrease the number of visitors, huh?)"
                             ]
                         },
                         {
@@ -3957,14 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（改造少女としてのお仕事とはちょっと違いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の人気で少しでも街が賑わってくれれば良いですね♪）"
+                                "\\n<Eury>(It's a bit different from the work of a modified girl, but\nif my popularity can help liven up the town even a little,\nthat would be great♪)"
                             ]
                         },
                         {
@@ -3997,7 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>やりましょう！"
+                                "\\n<Eury>Let's do it!"
                             ]
                         },
                         {
@@ -4014,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>おお、こりゃ嬉しい！じゃあよろしく頼むよ。"
+                                "\\n<Master>Oh, this is great! Then I'm counting on you."
                             ]
                         },
                         {
@@ -4031,14 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>エウリィちゃんは忙しいと思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "働けるときにいつでも来てくれれば大丈夫だよ。"
+                                "\\n<Master>I know you're busy, Eury-chan, so just come and work\nwhenever you can. It's all good."
                             ]
                         },
                         {
@@ -4119,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>任せてください！"
+                                "\\n<Eury>Leave it to me!"
                             ]
                         },
                         {
@@ -4136,14 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（酒場のお仕事……私、マリオン博士から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくドジって言われるけど大丈夫かな？）"
+                                "\\n<Eury>(Working at the tavern... I often get called clumsy by Dr.\nMarion, but I wonder if I'll be okay?)"
                             ]
                         },
                         {
@@ -4160,14 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（……いいや！ドジじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だって私は改造少女だから！）"
+                                "\\n<Eury>(...No! I'm not clumsy! Because I am a modified girl!)"
                             ]
                         },
                         {
@@ -4294,14 +4252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -4346,7 +4297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "酒場でお手伝いしようかな？"
+                                "Should I help out at the tavern?"
                             ]
                         },
                         {
@@ -4385,7 +4336,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マスター>お、エウリィちゃんじゃないか！"
+                                "\\n<Master>Oh, if it isn't Eury-chan!"
                             ]
                         },
                         {
@@ -4402,7 +4353,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マスター>酒場のお仕事、早速やってくれるのかい。"
+                                "\\n<Master>Are you going to start working at the tavern right away?"
                             ]
                         },
                         {
@@ -4435,7 +4386,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>はい！なんでもお任せあれ！"
+                                "\\n<Eury>Yes! Leave everything to me!"
                             ]
                         },
                         {
@@ -4549,7 +4500,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -4573,7 +4524,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -4600,7 +4551,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "酒場でお手伝いしようかな？"
+                                "Should I help out at the tavern?"
                             ]
                         },
                         {
@@ -4639,7 +4590,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>エウリィちゃん！また働いてくれるかい。"
+                                "\\n<Master>Eury-chan! Will you work here again?"
                             ]
                         },
                         {
@@ -4672,7 +4623,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はい！喜んで！"
+                                "\\n<Eury>Yes! Gladly!"
                             ]
                         },
                         {
@@ -4696,7 +4647,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>いい返事。それじゃあ、今日もよろしくね。"
+                                "\\n<Master>Good answer. Then, I'm counting on you today as well."
                             ]
                         },
                         {
@@ -4813,7 +4764,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -4837,7 +4788,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]20\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]20\\C[0] is required."
                             ]
                         },
                         {
@@ -4864,7 +4815,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "酒場でお手伝いしようかな？"
+                                "Should I help out at the tavern?"
                             ]
                         },
                         {
@@ -4903,7 +4854,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>エウリィちゃん、今日もお願いして良いかな。"
+                                "\\n<Master>Eury-chan, can I ask for your help again today?"
                             ]
                         },
                         {
@@ -4984,7 +4935,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……はい！"
+                                "\\n<Eury>...Yes!"
                             ]
                         },
                         {
@@ -5017,7 +4968,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（前はひどい目に遭ったけど、今回はさすがに大丈夫だよね？）"
+                                "\\n<Eury>(I had a terrible experience last time, but surely it will\nbe okay this time, right?)"
                             ]
                         },
                         {
@@ -5034,7 +4985,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>それじゃあ、今日もいつも通りお願いね。"
+                                "\\n<Master>Then, as usual, please take care of things today."
                             ]
                         },
                         {
@@ -5115,7 +5066,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>任せてください！"
+                                "\\n<Eury>Leave it to me!"
                             ]
                         },
                         {
@@ -5239,7 +5190,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -5263,7 +5214,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]25\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]25\\C[0] is required."
                             ]
                         },
                         {
@@ -5290,7 +5241,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "酒場でお手伝いしようかな？"
+                                "Should I help out at the tavern?"
                             ]
                         },
                         {
@@ -5329,7 +5280,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（この前はトイレで中出しセックスされちゃったけど……）"
+                                "\\n<Eury>(Last time I ended up having creampie sex in the\nbathroom...)"
                             ]
                         },
                         {
@@ -5346,14 +5297,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（……べ、別にそういうのは期待してない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　ただ、私はここでバイトがしたいだけ！）"
+                                "\\n<Eury>(...N-No, it's not like I'm expecting that! I just want to\nwork here, that's all!)"
                             ]
                         },
                         {
@@ -5386,7 +5330,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>マスター、私、今日もがんばりますよ！"
+                                "\\n<Eury>Master, I'll do my best today as well!"
                             ]
                         },
                         {
@@ -5403,7 +5347,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>……エウリィちゃん。"
+                                "\\n<Master>...Eury-chan."
                             ]
                         },
                         {
@@ -5436,7 +5380,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はい？"
+                                "\\n<Eury>Yes?"
                             ]
                         },
                         {
@@ -5453,7 +5397,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>今日は店は開けない。話がある。中に来なさい。"
+                                "\\n<Master>The tavern won't be open today. There's something I need to\ntalk about. Come inside."
                             ]
                         },
                         {
@@ -5486,7 +5430,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……はい。"
+                                "\\n<Eury>...Yes."
                             ]
                         },
                         {
@@ -5610,7 +5554,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……だめだよね。"
+                                "\\n<Eury>...It's no good, right."
                             ]
                         },
                         {
@@ -5634,7 +5578,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]30\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]30\\C[0] is required."
                             ]
                         },
                         {
@@ -5661,7 +5605,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "酒場でお手伝いしようかな？"
+                                "Should I help out at the tavern?"
                             ]
                         },
                         {
@@ -5764,7 +5708,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>あ、あの……マスター……。"
+                                "\\n<Eury>Umm... Master..."
                             ]
                         },
                         {
@@ -5781,7 +5725,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>……ああ、エウリィちゃんか。"
+                                "\\n<Master>...Ah, it's Eury-chan."
                             ]
                         },
                         {
@@ -5798,7 +5742,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、その……。"
+                                "\\n<Eury>Th-That..."
                             ]
                         },
                         {
@@ -5831,7 +5775,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>また、ここでバイトをさせてもらえませんか。"
+                                "\\n<Eury>Can I work here again?"
                             ]
                         },
                         {
@@ -5848,14 +5792,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "いいのかい！"
+                                "\\n<Master>...!? Is that okay with you?"
                             ]
                         },
                         {
@@ -5872,14 +5809,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はい！その、マスターにはいっぱい迷惑を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "かけちゃったので……。"
+                                "\\n<Eury>Yes! I've caused a lot of trouble for you, Master..."
                             ]
                         },
                         {
@@ -5896,7 +5826,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>いやいや、こちらこそ申し訳なかった。"
+                                "\\n<Master>No, no, we're the ones who should apologize."
                             ]
                         },
                         {
@@ -5913,14 +5843,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>君がセクサロイドだからといって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あんな扱いをして……。"
+                                "\\n<Master>Just because you're a sexaroid doesn't mean we should have\ntreated you like that..."
                             ]
                         },
                         {
@@ -5953,7 +5876,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>あの、だから私はセクサロイドじゃ……。"
+                                "\\n<Eury>Um, that's why I'm not a sexaroid..."
                             ]
                         },
                         {
@@ -5970,7 +5893,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マスター>よし、そろそろ開店の時間だ！"
+                                "\\n<Master>Alright, it's about time to open up!"
                             ]
                         },
                         {
@@ -6003,7 +5926,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……はぁ。"
+                                "\\n<Eury>...sigh."
                             ]
                         },
                         {
@@ -6100,14 +6023,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マスター>君のおかげで大繁盛だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また頼むよ。"
+                                "\\n<Master>Thanks to you, we're thriving. I'll be counting on you\nagain."
                             ]
                         },
                         {
@@ -6385,14 +6301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「ここはテンゲツ街。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物被害から復興中の治安が悪いから気を付けろ」"
+                                "\\n<Cleaning Robot>\"This is Tenge Street. The public order is poor due to\nongoing reconstruction from monster damage, so be careful.\""
                             ]
                         },
                         {
@@ -6409,14 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>マリオン様の録音データです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近来た住民が視界に入ると自動で再生されます。"
+                                "\\n<Cleaning Robot>\"This is a recording from Lady Marion. It will play\nautomatically when a recently arrived resident comes into\nview.\""
                             ]
                         },
                         {
@@ -6442,14 +6344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>\"You are Eury-san, right? Please take this.\""
                             ]
                         },
                         {
@@ -6627,7 +6522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -7187,21 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注意！】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルインに話しかけると、\\C[24]重要なイベント\\C[0]が発生します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "十分な準備をしておくことをオススメします。"
+                                "【Attention!】Speaking to Ruin will trigger an \\C[24]important\nevent\\C[0]. It is recommended that you make sufficient\npreparations."
                             ]
                         },
                         {
@@ -7218,7 +7099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルインに声をかけようか……？"
+                                "Should I speak to Ruin...?"
                             ]
                         },
                         {
@@ -7357,14 +7238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>……もう１回ガルガンと戦って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エンディングが見たい？"
+                                "\\n<Monster>...You want to fight Gargan again and see the ending?"
                             ]
                         },
                         {
@@ -7651,7 +7525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>んー、君さ、処女だよね？"
+                                "\\n<Pierrot>Hey, you're a virgin, aren't you?"
                             ]
                         },
                         {
@@ -7732,7 +7606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ！？"
+                                "\\n<Eury>What!?"
                             ]
                         },
                         {
@@ -7749,7 +7623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なななな、なんですかいきなり！！！"
+                                "\\n<Eury>Wh-wh-wh-what are you saying all of a sudden!!!"
                             ]
                         },
                         {
@@ -7766,7 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>非処女になったら、遊びに来てほしいな。"
+                                "\\n<Pierrot>I'd like you to come and play once you're no longer a\nvirgin."
                             ]
                         },
                         {
@@ -7868,14 +7742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -7947,7 +7814,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -7971,7 +7838,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]20\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]20\\C[0] is required."
                             ]
                         },
                         {
@@ -7998,14 +7865,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ピエロ>そこの非処女の君！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\.ゲームやってかない？"
+                                "\\n<Pierrot>Hey you, the non-virgin! Won't you play a game?"
                             ]
                         },
                         {
@@ -8022,14 +7882,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ピエロ>今日のゲームは\\C[27]扉当てゲーム！\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "クリアしたらグロウコアが貰えちゃうよ！"
+                                "\\n<Pierrot>Today's game is the \\C[27]Door Guessing Game!\\C[0] Clear it\nand you'll get a Glow Core!"
                             ]
                         },
                         {
@@ -8046,7 +7899,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ゲームに参加しようかな？"
+                                "...Should I participate in the game?"
                             ]
                         },
                         {
@@ -8085,7 +7938,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<ピエロ>オーケー！ではでは、ご案内～！"
+                                "\\n<Pierrot>Okay! Then, let me guide you~!"
                             ]
                         },
                         {
@@ -8202,7 +8055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -8226,7 +8079,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]25\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]25\\C[0] is required."
                             ]
                         },
                         {
@@ -8253,7 +8106,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ゲームに参加しようかな？"
+                                "...Should I participate in the game?"
                             ]
                         },
                         {
@@ -8292,7 +8145,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<ピエロ>オーケー！ではでは、ご案内～！"
+                                "\\n<Pierrot>Okay! Then, let me guide you~!"
                             ]
                         },
                         {
@@ -8402,7 +8255,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -8426,7 +8279,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]30\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]30\\C[0] is required."
                             ]
                         },
                         {
@@ -8453,7 +8306,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ゲームに参加しようかな？"
+                                "...Should I participate in the game?"
                             ]
                         },
                         {
@@ -8492,7 +8345,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<ピエロ>オーケー！ではでは、ご案内～！"
+                                "\\n<Pierrot>Okay! Then, let me guide you~!"
                             ]
                         },
                         {
@@ -8602,7 +8455,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -8626,7 +8479,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {
@@ -8653,7 +8506,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ゲームに参加しようかな？"
+                                "...Should I participate in the game?"
                             ]
                         },
                         {
@@ -8692,7 +8545,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<ピエロ>オーケー！ではでは、ご案内～！"
+                                "\\n<Pierrot>Okay! Then, let me guide you~!"
                             ]
                         },
                         {
@@ -8802,7 +8655,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a moment."
                             ]
                         },
                         {
@@ -8826,7 +8679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]50\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]50\\C[0] is required."
                             ]
                         },
                         {
@@ -8853,7 +8706,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ゲームに参加しようかな？"
+                                "...Should I participate in the game?"
                             ]
                         },
                         {
@@ -8892,7 +8745,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<ピエロ>オーケー！ではでは、ご案内～！"
+                                "\\n<Pierrot>Okay! Then, let me guide you~!"
                             ]
                         },
                         {
@@ -8975,7 +8828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ピエロ>また遊ぼうね、エウリィちゃん。"
+                                "\\n<Pierrot>Let's play again sometime, Eury-chan."
                             ]
                         },
                         {
@@ -10078,7 +9931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>今日はもう外に出る元気は残ってないよ……。"
+                                "\\n<Eury>I don't have the energy to go out anymore today..."
                             ]
                         },
                         {
@@ -10938,7 +10791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>入口から魔物が入ってこないか、監視しています。"
+                                "\\n<Cleaning Robot>I'm monitoring to make sure no monsters enter from the\nentrance."
                             ]
                         },
                         {
@@ -10955,14 +10808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>普通これはパトロールロボの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事だと思うんですけどね。"
+                                "\\n<Cleaning Robot>Normally, I think this would be a job for the patrol robots."
                             ]
                         },
                         {
@@ -10988,14 +10834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -11173,7 +11012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -11345,14 +11184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>うふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっそり東エリアから抜け出しちゃった。"
+                                "\\n<Sexaroid>Teehee, I sneaked out from the east area secretly."
                             ]
                         },
                         {
@@ -11369,14 +11201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>マリオン博士に見つかったら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お・し・お・き♡　されちゃうかも～♡"
+                                "\\n<Sexaroid>If Dr. Marion finds out... I might get a... punishment♡"
                             ]
                         },
                         {
@@ -11665,14 +11490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>最近、公園に入ろうとする不届きものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドがいるんですよ。絶対ダメです。"
+                                "\\n<Cleaning Robot>Recently, there's been a mischievous sexaroid trying to\nenter the park. That's absolutely not allowed."
                             ]
                         },
                         {
@@ -11689,14 +11507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「ママー、あのロボットのお姉さん何ー？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて聞かれたら大変ですからね。"
+                                "\\n<Cleaning Robot>It would be quite the situation if a child asked, \"Mommy,\nwhat's that robot lady doing?\""
                             ]
                         },
                         {
@@ -11722,14 +11533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -11907,7 +11711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -12086,14 +11890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はマジメな作業員。"
+                                "\\n<Serious Worker>Hello. I am a serious worker."
                             ]
                         },
                         {
@@ -12110,14 +11907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>街の復興作業は大変だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕のお手伝いは、\\C[2]行動力が満タンの状態\\C[0]でよろしくね。"
+                                "\\n<Serious Worker>The city's reconstruction work is tough. Please help me out\nwhen your \\C[2]energy is fully charged\\C[0]."
                             ]
                         },
                         {
@@ -12134,14 +11924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>……忠告だけど、君みたいにかわいい子は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]絶対に僕以外と働かない方がいい\\C[0]よ。"
+                                "\\n<Serious Worker>...Just a piece of advice, a cute girl like you should\n\\C[2]absolutely not work with anyone but me\\C[0]."
                             ]
                         },
                         {
@@ -12158,14 +11941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>この街は治安最悪だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をされるか、わかったもんじゃない。"
+                                "\\n<Serious Worker>This city has the worst public order. You never know what\nmight happen."
                             ]
                         },
                         {
@@ -12190,14 +11966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "復興作業では\\C[14]淫乱度をあげずにグロウコアが入手できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]えっちなことはできません。"
+                                "In the reconstruction work, you can obtain Grow Cores\n\\C[14]without increasing your lewdness level.\\C[0] No\nnaughty stuff allowed."
                             ]
                         },
                         {
@@ -12285,7 +12054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>今日は資源の支援と、力仕事の役が欲しいな。"
+                                "\\n<Serious Worker>Today, I'm looking for help with resource support and some\nheavy lifting."
                             ]
                         },
                         {
@@ -12302,21 +12071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メタルを\\C[2]1000\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持メタル：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Will you help me? (Consumes 1000 metal, uses 3 stamina)\nMetal on hand: \\C[24]\\v[232]Reward: Grow Core"
                             ]
                         },
                         {
@@ -12375,7 +12130,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Then, I'm counting on you."
                             ]
                         },
                         {
@@ -12411,7 +12166,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -12435,7 +12190,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "I worked hard on reconstruction until the evening."
                             ]
                         },
                         {
@@ -12464,7 +12219,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel a sense of accomplishment!"
                             ]
                         },
                         {
@@ -12524,7 +12279,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of my thanks."
                             ]
                         },
                         {
@@ -12577,7 +12332,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -12624,7 +12379,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……メタルが足りてないよ。"
+                                "\\n<Serious Worker>...You don't have enough metal."
                             ]
                         },
                         {
@@ -12661,14 +12416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you do proper reconstruction work, please make sure\nyour stamina is at its maximum."
                             ]
                         },
                         {
@@ -12685,7 +12433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems like we're done for today."
                             ]
                         },
                         {
@@ -12725,14 +12473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -12749,7 +12490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...Various things, you know."
                             ]
                         },
                         {
@@ -12847,14 +12588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>作業場に行きたいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途中に凶悪な魔物がいて通れないんだ。"
+                                "\\n<Serious Worker>I want to go to the worksite, but there's a vicious monster\non the way that I can't get past."
                             ]
                         },
                         {
@@ -12871,21 +12605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（負けるとゲームオーバー、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　報酬：グロウコア"
+                                "\\n<Serious Worker>Can you help me out? (If you lose, it's game over and you'll\nuse up 3 stamina) Reward: Glow Core"
                             ]
                         },
                         {
@@ -12935,7 +12655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>じゃあ、こっちに来て。"
+                                "\\n<Serious Worker>Then, come this way."
                             ]
                         },
                         {
@@ -12978,7 +12698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……いた、あいつだ！"
+                                "\\n<Serious Worker>...There, that's the one!"
                             ]
                         },
                         {
@@ -13195,14 +12915,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>ありがとう、これで作業ができるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "手伝ってくれるかい？"
+                                "\\n<Serious Worker>Thank you, now I can get to work. Will you help me?"
                             ]
                         },
                         {
@@ -13231,7 +12944,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -13255,7 +12968,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction until evening."
                             ]
                         },
                         {
@@ -13284,7 +12997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel fulfilled!"
                             ]
                         },
                         {
@@ -13387,7 +13100,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is for your troubles."
                             ]
                         },
                         {
@@ -13440,7 +13153,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -13504,14 +13217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When doing proper reconstruction work, please come when\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -13528,7 +13234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -13568,14 +13274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -13592,7 +13291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...In various ways, you know."
                             ]
                         },
                         {
@@ -13699,14 +13398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>機材が次々と壊れてしまってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直すための道具と、作業する人手が欲しいんだ。"
+                                "\\n<Serious Worker>The equipment keeps breaking down. We need tools to fix it\nand more hands to work."
                             ]
                         },
                         {
@@ -13723,21 +13415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（リペアパックαを\\C[2]3つ\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持しているリペアパックα：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Can you help out? (Uses 3 \\C[2]Repair Pack α\\C[0] and\nconsumes 3 stamina) Repair Pack α in possession:\n\\C[24]\\v[232]Reward: Glow Core"
                             ]
                         },
                         {
@@ -13798,7 +13476,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Alright, I'm counting on you."
                             ]
                         },
                         {
@@ -13834,7 +13512,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Eury: Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -13858,7 +13536,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "We worked on the reconstruction until evening."
                             ]
                         },
                         {
@@ -13887,7 +13565,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "It was really tiring, but it felt fulfilling!"
                             ]
                         },
                         {
@@ -13948,7 +13626,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of thanks."
                             ]
                         },
                         {
@@ -14001,7 +13679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -14048,7 +13726,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……アイテムが足りてないよ。"
+                                "\\n<Serious Worker>...We're short on items."
                             ]
                         },
                         {
@@ -14065,7 +13743,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>どこかの博士が売ってくれないかなー。"
+                                "\\n<Serious Worker>I wonder if some scientist out there would sell them to\nus..."
                             ]
                         },
                         {
@@ -14102,14 +13780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you do proper reconstruction work, please make sure\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -14126,7 +13797,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -14166,14 +13837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -14190,7 +13854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...Various things, you know."
                             ]
                         },
                         {
@@ -14284,14 +13948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>今日は他の作業員と協力する予定だったんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ全然集まっていなくてね……。"
+                                "\\n<Serious Worker>I was supposed to cooperate with other workers today, but\nthey haven't gathered at all yet..."
                             ]
                         },
                         {
@@ -14308,21 +13965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>どこにいるか知っているかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見つけた作業員\\C[2]\\v[234]/3\\C[0]、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　報酬：グロウコア"
+                                "\\n<Serious Worker>Do you know where they are? (Found workers\n\\C[2]\\v[234]/3\\C[0], consumes 3 stamina) Reward: Glow Core"
                             ]
                         },
                         {
@@ -14383,7 +14026,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……なるほど。みんなマイペースだね。"
+                                "\\n<Serious Worker>...I see. Everyone's on their own pace, huh."
                             ]
                         },
                         {
@@ -14419,14 +14062,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>おい、てめェら！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さっさと集まりやがれ！！！"
+                                "\\n<Serious Worker>Hey, you guys!!! Gather up quickly!!!"
                             ]
                         },
                         {
@@ -14455,7 +14091,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>仕事すっぞオラぁ！！！"
+                                "\\n<Serious Worker>We're gonna work now, come on!!!"
                             ]
                         },
                         {
@@ -14472,7 +14108,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<作業員たち>へ、へい！！！"
+                                "\\n<Workers>Y-yes sir!!!"
                             ]
                         },
                         {
@@ -14508,7 +14144,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -14532,7 +14168,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "I worked hard on the reconstruction until the evening."
                             ]
                         },
                         {
@@ -14561,7 +14197,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel fulfilled!"
                             ]
                         },
                         {
@@ -14622,7 +14258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of thanks."
                             ]
                         },
                         {
@@ -14675,7 +14311,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I'm counting on you again next time."
                             ]
                         },
                         {
@@ -14722,7 +14358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>まだ見つかってない作業員がいるね。"
+                                "\\n<Serious Worker>There are still some workers who haven't been found, huh."
                             ]
                         },
                         {
@@ -14739,7 +14375,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>さすがに街の中にはいると思うな。"
+                                "\\n<Serious Worker>They must be in the city, I suppose."
                             ]
                         },
                         {
@@ -14776,14 +14412,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When we do proper reconstruction work, please come with\n\\C[2]maximum stamina\\C[0]."
                             ]
                         },
                         {
@@ -14800,7 +14429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -14840,7 +14469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>さすがに街の中にはいると思うんだけど……。"
+                                "\\n<Serious Worker>They must be in the city, I guess..."
                             ]
                         },
                         {
@@ -14938,7 +14567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>今日は資源の支援と、力仕事の役が欲しいな。"
+                                "\\n<Serious Worker>Today, I'm looking for help with resource support and some\nheavy lifting."
                             ]
                         },
                         {
@@ -14955,21 +14584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メタルを\\C[2]10000\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持メタル：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Can you help out? (Consumes 10000 \\C[2]Metal\\C[0], uses 3\nstamina) Current Metal: \\C[24]\\v[232]Reward: Glow Core"
                             ]
                         },
                         {
@@ -15028,7 +14643,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Well then, I'm counting on you."
                             ]
                         },
                         {
@@ -15064,7 +14679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -15088,7 +14703,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction efforts until evening."
                             ]
                         },
                         {
@@ -15117,7 +14732,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but it feels fulfilling!"
                             ]
                         },
                         {
@@ -15177,7 +14792,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of my gratitude."
                             ]
                         },
                         {
@@ -15230,7 +14845,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -15277,7 +14892,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……メタルが足りてないよ。"
+                                "\\n<Serious Worker>...You don't have enough Metal."
                             ]
                         },
                         {
@@ -15314,14 +14929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you want to do proper reconstruction work, please\ncome when your \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -15338,7 +14946,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -15378,14 +14986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -15402,7 +15003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...Various things, you know."
                             ]
                         },
                         {
@@ -15500,14 +15101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>作業場に行きたいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途中に凶悪な魔物がいて通れないんだ。"
+                                "\\n<Serious Worker>I want to go to the work site, but there's a vicious monster\non the way that's blocking the path."
                             ]
                         },
                         {
@@ -15524,21 +15118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（負けるとゲームオーバー、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　報酬：グロウコア"
+                                "\\n<Serious Worker>Can you help me out? (Losing means game over and consumes 3\nstamina) Reward: Glow Core"
                             ]
                         },
                         {
@@ -15588,7 +15168,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>じゃあ、こっちに来て。"
+                                "\\n<Serious Worker>Then, come this way."
                             ]
                         },
                         {
@@ -15631,7 +15211,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……いた、あいつだ！"
+                                "\\n<Serious Worker>...There, that's the one!"
                             ]
                         },
                         {
@@ -15848,14 +15428,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>ありがとう、これで作業ができるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "手伝ってくれるかい？"
+                                "\\n<Serious Worker>Thank you, now I can get to work. Will you lend me a hand?"
                             ]
                         },
                         {
@@ -15884,7 +15457,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -15908,7 +15481,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction until evening."
                             ]
                         },
                         {
@@ -15937,7 +15510,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel fulfilled!"
                             ]
                         },
                         {
@@ -16040,7 +15613,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is for your trouble."
                             ]
                         },
                         {
@@ -16093,7 +15666,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -16157,14 +15730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When doing proper reconstruction work, please come when\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -16181,7 +15747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -16221,14 +15787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -16245,7 +15804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...In various ways, you know."
                             ]
                         },
                         {
@@ -16352,14 +15911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>機材が次々と壊れてしまってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直すための道具と、作業する人手が欲しいんだ。"
+                                "\\n<Serious Worker>The equipment keeps breaking one after another. We need\ntools to fix them and more hands to work."
                             ]
                         },
                         {
@@ -16376,21 +15928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（リペアパックβを\\C[2]3つ\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持しているリペアパックα：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Will you help us? (Uses 3 \\C[2]Repair Pack β\\C[0], consumes\n3 stamina) Repair Pack α in possession: \\C[24]\\v[232]Reward:\nGlow Core"
                             ]
                         },
                         {
@@ -16451,7 +15989,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Then, I'm counting on you."
                             ]
                         },
                         {
@@ -16487,7 +16025,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Eury: *pant* *pant* *pant*..."
                             ]
                         },
                         {
@@ -16511,7 +16049,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "We worked on the reconstruction until evening."
                             ]
                         },
                         {
@@ -16540,7 +16078,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but it was fulfilling!"
                             ]
                         },
                         {
@@ -16601,7 +16139,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of thanks."
                             ]
                         },
                         {
@@ -16654,7 +16192,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -16701,7 +16239,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……アイテムが足りてないよ。"
+                                "\\n<Serious Worker>...We don't have enough items."
                             ]
                         },
                         {
@@ -16718,7 +16256,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>どこかの博士が売ってくれないかなー。"
+                                "\\n<Serious Worker>I wonder if some doctor out there would sell them to us..."
                             ]
                         },
                         {
@@ -16755,14 +16293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you do proper reconstruction work, please come when\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -16779,7 +16310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we can't do any more today."
                             ]
                         },
                         {
@@ -16819,14 +16350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -16843,7 +16367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...A lot of things, you know."
                             ]
                         },
                         {
@@ -16937,14 +16461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>大事な作業道具を落としちゃったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに落としたのか全然覚えていなくて……。"
+                                "\\n<Serious Worker>I've lost an important work tool. I can't remember at all\nwhere I dropped it..."
                             ]
                         },
                         {
@@ -16961,14 +16478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>何か知っているかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（行動力を3消費）　報酬：グロウコア"
+                                "\\n<Serious Worker>Do you know anything about it? (Costs 3 stamina) Reward:\nGlow Core"
                             ]
                         },
                         {
@@ -17027,14 +16537,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……おお、見つけてくれたのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ありがとう！"
+                                "\\n<Serious Worker>...oh, you found it for me? Thank you!"
                             ]
                         },
                         {
@@ -17058,14 +16561,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……ところで、誰が持ってたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "その人は何て言ってた？"
+                                "\\n<Serious Worker>...by the way, who had it? What were they saying?"
                             ]
                         },
                         {
@@ -17082,7 +16578,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>あ、やっぱ怖いから聞かないでおくよ。"
+                                "\\n<Serious Worker>Ah, never mind, it's scary so I won't ask."
                             ]
                         },
                         {
@@ -17118,7 +16614,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -17142,7 +16638,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "I worked hard on the reconstruction until evening."
                             ]
                         },
                         {
@@ -17171,7 +16667,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel a sense of fulfillment!"
                             ]
                         },
                         {
@@ -17232,7 +16728,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of my thanks."
                             ]
                         },
                         {
@@ -17285,7 +16781,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I'm counting on you again next time."
                             ]
                         },
                         {
@@ -17332,7 +16828,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……持ってないよね。"
+                                "\\n<Serious Worker>...you don't have it, do you?"
                             ]
                         },
                         {
@@ -17349,14 +16845,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>もしかしたら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[2]東エリアの誰かが知っている\\C[0]かも……。"
+                                "\\n<Serious Worker>Maybe... someone in the \\C[2]east area\\C[0] knows\nsomething..."
                             ]
                         },
                         {
@@ -17393,14 +16882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...when you do proper reconstruction work, please make sure\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -17417,7 +16899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -17457,14 +16939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>もしかしたら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[2]東エリアの誰かが知っている\\C[0]かも……。"
+                                "\\n<Serious Worker>Maybe... someone in the \\C[2]east area\\C[0] knows\nsomething..."
                             ]
                         },
                         {
@@ -17562,7 +17037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>今日は資源の支援と、力仕事の役が欲しいな。"
+                                "\\n<Serious Worker>Today, I need help with resource support and some heavy\nlifting."
                             ]
                         },
                         {
@@ -17579,21 +17054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メタルを\\C[2]20000\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持メタル：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Can you help out? (Consumes \\C[2]20000\\C[0] metal, uses 3\nstamina) Metal on hand: \\C[24]\\v[232]Reward: Grow Core"
                             ]
                         },
                         {
@@ -17652,7 +17113,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Well then, I'm counting on you."
                             ]
                         },
                         {
@@ -17688,7 +17149,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -17712,7 +17173,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction until evening."
                             ]
                         },
                         {
@@ -17741,7 +17202,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel a sense of accomplishment!"
                             ]
                         },
                         {
@@ -17801,7 +17262,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of my thanks."
                             ]
                         },
                         {
@@ -17854,7 +17315,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -17901,7 +17362,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……メタルが足りてないよ。"
+                                "\\n<Serious Worker>...You don't have enough metal."
                             ]
                         },
                         {
@@ -17938,14 +17399,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you do proper reconstruction work, please make sure\nyour stamina is at its maximum."
                             ]
                         },
                         {
@@ -17962,7 +17416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -18002,14 +17456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -18026,7 +17473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...Various things, you know."
                             ]
                         },
                         {
@@ -18124,14 +17571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>作業場に行きたいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途中に凶悪な魔物がいて通れないんだ。"
+                                "\\n<Serious Worker>I want to go to the work site, but there's a vicious monster\non the way that's blocking the path."
                             ]
                         },
                         {
@@ -18148,21 +17588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（負けるとゲームオーバー、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　報酬：グロウコア"
+                                "\\n<Serious Worker>Will you help me out? (If you lose, it's game over and\nyou'll consume 3 stamina) Reward: Glow Core"
                             ]
                         },
                         {
@@ -18212,7 +17638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>じゃあ、こっちに来て。"
+                                "\\n<Serious Worker>Then, come this way."
                             ]
                         },
                         {
@@ -18255,7 +17681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……いた、あいつだ！"
+                                "\\n<Serious Worker>...There, that's the one!"
                             ]
                         },
                         {
@@ -18472,14 +17898,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>ありがとう、これで作業ができるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "手伝ってくれるかい？"
+                                "\\n<Serious Worker>Thank you, now I can get to work. Will you lend me a hand?"
                             ]
                         },
                         {
@@ -18508,7 +17927,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -18532,7 +17951,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction until evening."
                             ]
                         },
                         {
@@ -18561,7 +17980,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel fulfilled!"
                             ]
                         },
                         {
@@ -18664,7 +18083,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of my thanks."
                             ]
                         },
                         {
@@ -18717,7 +18136,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you can help out again next time."
                             ]
                         },
                         {
@@ -18781,14 +18200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When doing proper reconstruction work, please come when\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -18805,7 +18217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -18845,14 +18257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -18869,7 +18274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...In various ways, you know."
                             ]
                         },
                         {
@@ -18976,14 +18381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>機材が次々と壊れてしまってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直すための道具と、作業する人手が欲しいんだ。"
+                                "\\n<Serious Worker>The equipment keeps breaking one after another. We need\ntools to fix them and more hands to work."
                             ]
                         },
                         {
@@ -19000,21 +18398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>協力してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（リペアパックγを\\C[2]3つ\\C[0]消費、行動力を3消費）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持しているリペアパックγ：\\C[24]\\v[232]　報酬：グロウコア"
+                                "\\n<Serious Worker>Will you help out? (Uses up 3 \\C[2]Repair Pack γ\\C[0] and 3\nstamina) You have \\C[24]\\v[232]Repair Pack γ: Reward: Glow\nCore"
                             ]
                         },
                         {
@@ -19075,7 +18459,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>それじゃ、よろしくね。"
+                                "\\n<Serious Worker>Alright, thank you."
                             ]
                         },
                         {
@@ -19111,7 +18495,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -19135,7 +18519,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction efforts until the evening."
                             ]
                         },
                         {
@@ -19164,7 +18548,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I'm really tired, but I feel fulfilled!"
                             ]
                         },
                         {
@@ -19225,7 +18609,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>Good work. This is a token of thanks."
                             ]
                         },
                         {
@@ -19278,7 +18662,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>I hope you'll help out again next time."
                             ]
                         },
                         {
@@ -19325,7 +18709,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……アイテムが足りてないよ。"
+                                "\\n<Serious Worker>...We're short on items."
                             ]
                         },
                         {
@@ -19342,7 +18726,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>どこかの博士が売ってくれないかなー。"
+                                "\\n<Serious Worker>I wonder if some scientist will sell them to us..."
                             ]
                         },
                         {
@@ -19379,14 +18763,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>...When you do proper reconstruction work, please make sure\nyour \\C[2]stamina is at its maximum\\C[0]."
                             ]
                         },
                         {
@@ -19403,7 +18780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>It seems we're done for today."
                             ]
                         },
                         {
@@ -19443,14 +18820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ別のところで働いた方が楽しいかもね。"
+                                "\\n<Serious Worker>I see. Well, maybe it's more fun to work somewhere else."
                             ]
                         },
                         {
@@ -19467,7 +18837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>……いろいろと、ね。"
+                                "\\n<Serious Worker>...Various things, you know."
                             ]
                         },
                         {
@@ -19561,14 +18931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>今日も復興作業……と行きたいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目を放している間に、資源が盗まれた。"
+                                "\\n<Serious Worker>\"I wanted to get to the reconstruction work today, but while\nI wasn't looking, our resources were stolen.\""
                             ]
                         },
                         {
@@ -19585,14 +18948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>誰が盗んだか、知らないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（行動力を3消費）　報酬：グロウコア"
+                                "\\n<Serious Worker>\"Do you know who stole them? (Costs 3 action points) Reward:\nGlow Core\""
                             ]
                         },
                         {
@@ -19651,7 +19007,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……おお、取り返してくれたのかい！"
+                                "\\n<Serious Worker>\"...Oh, you got them back for us?!\""
                             ]
                         },
                         {
@@ -19668,14 +19024,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……犯人は、案の定あいつか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そんな気はしていた。"
+                                "\\n<Serious Worker>\"...The culprit is him, as I suspected. I had a feeling.\""
                             ]
                         },
                         {
@@ -19692,14 +19041,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>あとでぶん殴っておくとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "とりあえずこれで作業ができるね、さあ始めよう！"
+                                "\\n<Serious Worker>\"I'll give him a good punch later. For now, we can work.\nLet's get started!\""
                             ]
                         },
                         {
@@ -19735,7 +19077,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えっほ、えっほ、えっほ……。"
+                                "Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -19759,7 +19101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夕方まで復興作業に勤しんだ。"
+                                "Worked on reconstruction until the evening."
                             ]
                         },
                         {
@@ -19788,7 +19130,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "とても疲れたけど、充実感があった！"
+                                "I was very tired, but it was fulfilling!"
                             ]
                         },
                         {
@@ -19849,7 +19191,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>お疲れ様。これはお礼。"
+                                "\\n<Serious Worker>\"Good work. This is a token of my thanks.\""
                             ]
                         },
                         {
@@ -19902,7 +19244,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>また今度もよろしくね。"
+                                "\\n<Serious Worker>\"I'm counting on you again next time.\""
                             ]
                         },
                         {
@@ -19949,7 +19291,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>……知らないじゃないか！"
+                                "\\n<Serious Worker>\"...You don't know?!\""
                             ]
                         },
                         {
@@ -19966,14 +19308,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<マジメな作業員>そういうやつは昼間には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "目立つ行動をしなさそうだな。"
+                                "\\n<Serious Worker>\"Such a person is unlikely to act conspicuously during the\nday.\""
                             ]
                         },
                         {
@@ -20010,14 +19345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>……ちゃんとした復興作業をするときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]行動力が最大の状態\\C[0]でお願いね。"
+                                "\\n<Serious Worker>\"...When doing proper reconstruction work, please make sure\nyour \\C[2]action points are at maximum\\C[0].\""
                             ]
                         },
                         {
@@ -20034,7 +19362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マジメな作業員>今日はもうダメそうだね。"
+                                "\\n<Serious Worker>\"It seems we're done for today.\""
                             ]
                         },
                         {
@@ -20074,7 +19402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そうか……。"
+                                "\\n<Serious Worker>\"Is that so...\""
                             ]
                         },
                         {
@@ -20091,14 +19419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マジメな作業員>そういうやつは昼間には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目立つ行動をしなさそうだな。"
+                                "\\n<Serious Worker>\"Such a person is unlikely to act conspicuously during the\nday.\""
                             ]
                         },
                         {
@@ -20183,14 +19504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>ああ、君か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで復興作業は順調だよ。"
+                                "\\n<Serious Worker>Ah, it's you. Thanks to you, the reconstruction work is\ngoing smoothly."
                             ]
                         },
                         {
@@ -20207,14 +19521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>とりあえず、今できることはひとまず終了。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで手伝ってくれてありがとうね。"
+                                "\\n<Serious Worker>For now, everything that can be done has been finished.\nThank you for helping us this far."
                             ]
                         },
                         {
@@ -20231,7 +19538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>最後に、これあげるよ。"
+                                "\\n<Serious Worker>Lastly, I'll give you this."
                             ]
                         },
                         {
@@ -20284,7 +19591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>特別サービスで２個だ。"
+                                "\\n<Serious Worker>It's a special service, two for you."
                             ]
                         },
                         {
@@ -20301,7 +19608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>また必要になったら、よろしくね。"
+                                "\\n<Serious Worker>If you need anything again, please let me know."
                             ]
                         },
                         {
@@ -20332,14 +19639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女のエウリィさん。"
+                                "\\n<Serious Worker>Thank you, Eury the modified girl."
                             ]
                         },
                         {
@@ -20439,7 +19739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マジメな作業員>また明日以降よろしくね。"
+                                "\\n<Serious Worker>Please take care of things tomorrow and onwards as well."
                             ]
                         },
                         {
@@ -20619,7 +19919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>セクサロイドがバグって、私を勧誘してくるんですよ。"
+                                "\\n<Cleaning Robot>The sexaroid is bugged and keeps hitting on me."
                             ]
                         },
                         {
@@ -20636,14 +19936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>でも、ちょっとだけ「ありかな」って思ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分がいます。"
+                                "\\n<Cleaning Robot>But there's a part of me that thinks \"maybe it's not so\nbad\"."
                             ]
                         },
                         {
@@ -20669,14 +19962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Here you go."
                             ]
                         },
                         {
@@ -20854,7 +20140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -21026,7 +20312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>ねぇねぇー、私と遊ばない～？"
+                                "\\n<Sexaroid>Hey, hey, won't you play with me~?"
                             ]
                         },
                         {
@@ -21315,14 +20601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>暇なので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの酒場に入店する男女比を調べていました。"
+                                "\\n<Cleaning Robot>Since I had some free time, I was researching the gender\nratio of customers entering this tavern."
                             ]
                         },
                         {
@@ -21339,14 +20618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>結果は男性が９４％、女性が６％でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だいたいテンゲツテレビの視聴者と同じ男女比ですね。"
+                                "\\n<Cleaning Robot>The result is 94% male and 6% female. It's about the same\ngender ratio as the viewers of Tengektsu TV."
                             ]
                         },
                         {
@@ -21372,14 +20644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -21557,7 +20822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -21729,14 +20994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>実はパトロールロボも掃除ロボもセクサロイドも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほとんど中身のAIは同じらしいですよ。"
+                                "\\n<Patrol Robot>Actually, it seems that the AI inside patrol robots,\ncleaning robots, and sexaroids is almost the same."
                             ]
                         },
                         {
@@ -21753,14 +21011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>私はえっちな誘惑はしませんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドはアイテムをくれないですけどね。"
+                                "\\n<Patrol Robot>I won't tempt you with naughty things, and unlike sexaroids,\nI don't give out items."
                             ]
                         },
                         {
@@ -21786,14 +21037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<パトロールロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Patrol Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -21971,7 +21215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>充電中。"
+                                "\\n<Patrol Robot>Charging."
                             ]
                         },
                         {

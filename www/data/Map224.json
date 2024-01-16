@@ -2952,7 +2952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>しばらくはパトロールしなくて大丈夫かな？"
+                                "\\n<Eury>I wonder if it's okay not to patrol for a while?"
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "以降のパトロールは\\C[27]非処女編\\C[0]でできます！"
+                                "The patrols from now on can be done in the \\C[27]Non-Virgin\nChapter\\C[0]!"
                             ]
                         },
                         {
@@ -3014,7 +3014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "街の周辺をパトロールしようかな？"
+                                "Maybe I should patrol around the town?"
                             ]
                         },
                         {
@@ -3159,14 +3159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -3279,7 +3272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "街の周辺をパトロールしようかな？"
+                                "I wonder if I should patrol around the town?"
                             ]
                         },
                         {
@@ -3367,14 +3360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -3477,7 +3463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物退治に行こうかな？"
+                                "Shall we go monster hunting?"
                             ]
                         },
                         {
@@ -3976,14 +3962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -4283,7 +4262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -4835,7 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……ん？"
+                                "\\n<Eury>...Hm?"
                             ]
                         },
                         {
@@ -4868,7 +4847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>転送ポッド……だよね。"
+                                "\\n<Eury>This is the teleportation pod, right?"
                             ]
                         },
                         {
@@ -4885,7 +4864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あれ、でもこんな見た目だったっけ？"
+                                "\\n<Eury>But, did it always look like this?"
                             ]
                         },
                         {
@@ -4918,7 +4897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……どうしよう、使っても大丈夫なのかな？"
+                                "\\n<Eury>...What should I do, is it really safe to use?"
                             ]
                         },
                         {
@@ -5045,14 +5024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -5097,7 +5069,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この転送ポッドを使おうかな？"
+                                "Should I use this transfer pod?"
                             ]
                         },
                         {
@@ -5246,7 +5218,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5279,7 +5251,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>ぼー……。"
+                                "\\n<Eury>Ugh..."
                             ]
                         },
                         {
@@ -5296,7 +5268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<催眠おじさん>新型ちゃん、こんにちは。"
+                                "\\n<Hypnosis Uncle>Hello, new model-chan."
                             ]
                         },
                         {
@@ -5313,7 +5285,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……こんにちは。"
+                                "\\n<Eury>...Hello."
                             ]
                         },
                         {
@@ -5330,7 +5302,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<催眠おじさん>おじさんのこと、誰かわかるかな。"
+                                "\\n<Hypnosis Old Man>Do you know who I am?"
                             ]
                         },
                         {
@@ -5347,7 +5319,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……わかります。"
+                                "\\n<Eury>...I know."
                             ]
                         },
                         {
@@ -5364,7 +5336,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>私の……今日のえっちの相手です。"
+                                "\\n<Eury>You're my... partner for today's naughty activities."
                             ]
                         },
                         {
@@ -5381,7 +5353,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<催眠おじさん>よーくわかってるね、偉い！"
+                                "\\n<Hypnosis Uncle>You understand very well, good girl!"
                             ]
                         },
                         {
@@ -5398,7 +5370,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<催眠おじさん>それじゃあこっちにおいで。"
+                                "\\n<Hypnosis Old Man>Then come over here."
                             ]
                         },
                         {
@@ -5505,7 +5477,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I honestly don't want to work here because I was sexually\nharassed last time."
                             ]
                         },
                         {
@@ -5529,7 +5501,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness level\\C[0] of \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -5556,7 +5528,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "この転送ポッドを使おうかな？"
+                                "Should I use this transfer pod?"
                             ]
                         },
                         {
@@ -5705,7 +5677,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5722,7 +5694,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ぼー……。"
+                                "\\n<Eury>Ugh..."
                             ]
                         },
                         {
@@ -5739,7 +5711,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<催眠おじさん>新型ちゃん、元気かな。"
+                                "\\n<Hypnosis Old Man>Are you doing well, new model-chan?"
                             ]
                         },
                         {
@@ -5756,7 +5728,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はい、元気です。"
+                                "\\n<Eury>Yes, I'm fine."
                             ]
                         },
                         {
@@ -5773,7 +5745,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<催眠おじさん>今日は公開オナニーしてみよっか。"
+                                "\\n<Hypnosis Uncle>How about we try some public masturbation today?"
                             ]
                         },
                         {
@@ -5790,7 +5762,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>こうかいおなにー……。"
+                                "\\n<Eury>Public masturbation..."
                             ]
                         },
                         {
@@ -5807,7 +5779,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<催眠おじさん>街の真ん中だとすぐ見られすぎてつまらないねえ。"
+                                "\\n<Hypnosis Uncle>It's boring if you get seen too quickly in the middle of\ntown, huh."
                             ]
                         },
                         {
@@ -5824,7 +5796,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<催眠おじさん>そうだ、あそこにしよっか。"
+                                "\\n<Hypnosis Uncle>That's right, let's do it over there."
                             ]
                         },
                         {
@@ -5964,7 +5936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これに触ってから記憶がない気がする……。"
+                                "I feel like I have no memory after touching this..."
                             ]
                         },
                         {

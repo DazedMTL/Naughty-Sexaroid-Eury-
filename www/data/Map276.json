@@ -10060,7 +10060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うう、暗い……夜の東エリア、嫌だな～……。"
+                                "\\n<Eury>Ugh, it's dark... I really don't like the eastern area at\nnight..."
                             ]
                         },
                         {
@@ -10077,7 +10077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>このあたりが１番治安が悪いし、気を付けないと……。"
+                                "\\n<Eury>This place has the worst public order, I have to be\ncareful..."
                             ]
                         },
                         {
@@ -10117,7 +10117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>発見。"
+                                "\\n<Rapist>Found you."
                             ]
                         },
                         {
@@ -10134,7 +10134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！？あ、あなたは！"
+                                "\\n<Eury>...!? You are...!"
                             ]
                         },
                         {
@@ -10224,7 +10224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>お前はまたここに来ると思っていた。"
+                                "\\n<Rapist>I knew you would come here again."
                             ]
                         },
                         {
@@ -10241,7 +10241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>受け入れろ。"
+                                "\\n<Rapist>Accept it."
                             ]
                         },
                         {
@@ -10383,7 +10383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>きゃ、やだ、来ないで！"
+                                "\\n<Eury>Kyaa, no, don't come!"
                             ]
                         },
                         {
@@ -10443,7 +10443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、だめ、ぁあ！！"
+                                "\\n<Eury>No, no, aah!!"
                             ]
                         },
                         {
@@ -10556,7 +10556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁん♡"
+                                "\\n<Eury>Aaahn♡"
                             ]
                         },
                         {
@@ -10616,7 +10616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（も、もう入ってる……何、この人……！）"
+                                "\\n<Eury>(He's already inside... What is with this person...!)"
                             ]
                         },
                         {
@@ -10633,7 +10633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>歩け。"
+                                "\\n<Rapist>Walk."
                             ]
                         },
                         {
@@ -11010,14 +11010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、歩くからぁ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それだめ、だめっ……！！"
+                                "\\n<Eury>Ah, I'll walk♡ That's bad, stop it...!!"
                             ]
                         },
                         {
@@ -11123,7 +11116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁんっ、だめっ、はぁ、そこっ♡"
+                                "\\n<Eury>Aahnn, no, haah, right there♡"
                             ]
                         },
                         {
@@ -11188,7 +11181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぃい、イく、ここで、イく……！！"
+                                "\\n<Eury>Ii, I'm coming, right here, I'm coming...!!"
                             ]
                         },
                         {
@@ -11301,7 +11294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ゛ぁん♡"
+                                "\\n<Eury>Aahhnn♡"
                             ]
                         },
                         {
@@ -11354,7 +11347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁ、ぁあ……。"
+                                "\\n<Eury>Haah, haah, aah..."
                             ]
                         },
                         {
@@ -11371,14 +11364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（この人のだとすぐイっちゃう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何なの、本当に……）"
+                                "\\n<Eury>(I come so quickly with this person... What is it,\nreally...)"
                             ]
                         },
                         {
@@ -11395,7 +11381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>終わったか。"
+                                "\\n<Rapist>Are you done?"
                             ]
                         },
                         {
@@ -11412,7 +11398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>では歩け。"
+                                "\\n<Rapist>Then walk."
                             ]
                         },
                         {
@@ -11470,7 +11456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、待って、足に力、入らないぃ……。"
+                                "\\n<Eury>Haah, ah, wait, my legs are weak, I can't stand..."
                             ]
                         },
                         {
@@ -11835,14 +11821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめ、無理矢理押すの、あっ♡"
+                                "\\n<Eury>Ah♡ No, stop pushing me by force, ah♡"
                             ]
                         },
                         {
@@ -11859,7 +11838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>わ、わかったから、歩くからぁ、やめて、ぇえ♡"
+                                "\\n<Eury>Wa, I understand, I'll walk, so stop it, eeh♡"
                             ]
                         },
                         {
@@ -11876,7 +11855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<強姦魔>犯されながら歩け。"
+                                "\\n<Rapist>Walk while being violated."
                             ]
                         },
                         {
@@ -12761,7 +12740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -13365,7 +13344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>君、新型ちゃんだね？"
+                                "\\n<Owner>You're the new model, aren't you?"
                             ]
                         },
                         {
@@ -13398,14 +13377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい、はじめまして！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの、ここって何の建物ですか？"
+                                "\\n<Eury>Yes, nice to meet you! Um, what kind of building is this?"
                             ]
                         },
                         {
@@ -13422,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>娼館だよ。"
+                                "\\n<Owner>It's a brothel."
                             ]
                         },
                         {
@@ -13455,7 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……？"
+                                "\\n<Eury>……?"
                             ]
                         },
                         {
@@ -13488,7 +13460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>しょうかん、って、なんですか？"
+                                "\\n<Eury>A brothel, what is that?"
                             ]
                         },
                         {
@@ -13505,7 +13477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>（……セクサロイドのくせに知らない？本気か？）"
+                                "\\n<Owner>(...She doesn't know, even though she's a sexaroid? Is she\nserious?)"
                             ]
                         },
                         {
@@ -13522,7 +13494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>セクサロイドとセックスできる施設だ。"
+                                "\\n<Owner>It's a facility where you can have sex with sexaroids."
                             ]
                         },
                         {
@@ -13555,7 +13527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>せ、せっく……！"
+                                "\\n<Eury>Se-sex...!"
                             ]
                         },
                         {
@@ -13572,7 +13544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>ここで働くつもりがあるのだろう？"
+                                "\\n<Owner>You're planning to work here, aren't you?"
                             ]
                         },
                         {
@@ -13605,7 +13577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、なななな、ないです！！"
+                                "\\n<Eury>No-no-no-no, I'm not!!"
                             ]
                         },
                         {
@@ -13622,7 +13594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>（……そうか。今はまだできない期間か）"
+                                "\\n<Owner>(...I see. Maybe it's not yet her operational period.)"
                             ]
                         },
                         {
@@ -13639,14 +13611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>よろしい。それでは、しばらくの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受付を頼めないか？"
+                                "\\n<Owner>Very well. Then, could I ask you to handle the reception for\na while?"
                             ]
                         },
                         {
@@ -13679,7 +13644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>受付ですか？"
+                                "\\n<Eury>Reception?"
                             ]
                         },
                         {
@@ -13696,7 +13661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>今、人手が足りなくてね。"
+                                "\\n<Owner>We're short on staff right now."
                             ]
                         },
                         {
@@ -13713,14 +13678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>というのも、あまりにも人々の心が荒みすぎて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客は来るが働くやつがいない。"
+                                "\\n<Owner>The thing is, people's hearts have become so rough that\nwhile customers come, there's no one to work."
                             ]
                         },
                         {
@@ -13753,7 +13711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そ、それは大変ですね……。"
+                                "\\n<Eury>That sounds tough..."
                             ]
                         },
                         {
@@ -13786,7 +13744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>わかりました、受付だけですよ！"
+                                "\\n<Eury>Understood, I'll only do the reception!"
                             ]
                         },
                         {
@@ -13803,7 +13761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>できれば嬢もやってほしいのだが。"
+                                "\\n<Owner>I'd prefer if you could also work as a hostess."
                             ]
                         },
                         {
@@ -13820,7 +13778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お断りします！"
+                                "\\n<Eury>I refuse!"
                             ]
                         },
                         {
@@ -13837,14 +13795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>（……感情のある新型セクサロイド。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し扱いづらいな）"
+                                "\\n<Owner>(...A new model sexaroid with emotions. She's a bit hard to\nhandle.)"
                             ]
                         },
                         {
@@ -13861,14 +13812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーナー>時間があるときに来てほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちはいつでも人手不足でね。"
+                                "\\n<Owner>Please come by when you have time. We're always short on\nhands here."
                             ]
                         },
                         {
@@ -13901,7 +13845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はーい♪"
+                                "\\n<Eury>Ye-es♪"
                             ]
                         },
                         {
@@ -14028,14 +13972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -14080,7 +14017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -14140,7 +14077,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、やってくれる？"
+                                "\\n<Owner>New girl, can you handle the reception?"
                             ]
                         },
                         {
@@ -14173,7 +14110,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……やります。受付だけですからね！"
+                                "\\n<Eury>...I'll do it. But only the reception, okay!"
                             ]
                         },
                         {
@@ -14190,7 +14127,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<オーナー>それで良い。じゃあ、頼むよ。"
+                                "\\n<Owner>That's fine. Then, I'm counting on you."
                             ]
                         },
                         {
@@ -14297,7 +14234,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -14321,7 +14258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -14348,7 +14285,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -14401,7 +14338,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、お願いして良いか？"
+                                "\\n<Owner>New girl, can I ask you to do the reception?"
                             ]
                         },
                         {
@@ -14434,7 +14371,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……前回みたいなことはないですよね？"
+                                "\\n<Eury>...There won't be any incidents like last time, right?"
                             ]
                         },
                         {
@@ -14451,7 +14388,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>ないよ。厳重注意したから。"
+                                "\\n<Owner>No, there won't be. I've given a strict warning."
                             ]
                         },
                         {
@@ -14484,7 +14421,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（本当かな……）"
+                                "\\n<Eury>(I wonder if that's true...)"
                             ]
                         },
                         {
@@ -14517,7 +14454,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、それじゃ、今日もやります……。"
+                                "\\n<Eury>W-Well then, I'll do it today as well..."
                             ]
                         },
                         {
@@ -14534,7 +14471,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>はい、じゃあよろしく。"
+                                "\\n<Owner>Alright, thank you."
                             ]
                         },
                         {
@@ -14649,7 +14586,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -14673,7 +14610,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このイベントは\\C[24]非処女編\\C[0]で進められます！"
+                                "This event can proceed in the \\C[24]non-virgin chapter\\C[0]!"
                             ]
                         },
                         {
@@ -14700,7 +14637,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -14753,7 +14690,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、お願いして良いか？"
+                                "\\n<Owner>New girl, can I ask you to do the reception?"
                             ]
                         },
                         {
@@ -14786,7 +14723,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……前回みたいなことはないですよね？"
+                                "\\n<Eury>...There won't be any incidents like last time, right?"
                             ]
                         },
                         {
@@ -14803,7 +14740,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>ないよ。厳重注意したから。"
+                                "\\n<Owner>No, there won't be. I've given a strict warning."
                             ]
                         },
                         {
@@ -14836,7 +14773,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（本当かな……）"
+                                "\\n<Eury>(I wonder if that's true...)"
                             ]
                         },
                         {
@@ -14869,7 +14806,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、それじゃ、今日もやります……。"
+                                "\\n<Eury>W-Well then, I'll do it today as well..."
                             ]
                         },
                         {
@@ -14886,7 +14823,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>はい、じゃあよろしく。"
+                                "\\n<Owner>Alright, thank you."
                             ]
                         },
                         {
@@ -15003,7 +14940,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -15027,7 +14964,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -15054,7 +14991,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -15107,7 +15044,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、お願いして良いか？"
+                                "\\n<Owner>New girl, can I ask you to do the reception?"
                             ]
                         },
                         {
@@ -15140,7 +15077,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……前回みたいなことはないですよね？"
+                                "\\n<Eury>...There won't be any incidents like last time, right?"
                             ]
                         },
                         {
@@ -15157,7 +15094,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>ないよ。厳重注意したから。"
+                                "\\n<Owner>No, there won't be. I've given a strict warning."
                             ]
                         },
                         {
@@ -15190,7 +15127,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（本当かな……）"
+                                "\\n<Eury>(I wonder if that's true...)"
                             ]
                         },
                         {
@@ -15223,7 +15160,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、それじゃ、今日もやります……。"
+                                "\\n<Eury>W-Well then, I'll do it today as well..."
                             ]
                         },
                         {
@@ -15240,7 +15177,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>はい、じゃあよろしく。"
+                                "\\n<Owner>Alright, thank you."
                             ]
                         },
                         {
@@ -15357,7 +15294,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -15381,7 +15318,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -15408,7 +15345,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -15461,7 +15398,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、お願いして良いか？"
+                                "\\n<Owner>New girl, can I ask you to do the reception?"
                             ]
                         },
                         {
@@ -15494,7 +15431,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……前回みたいなことはないですよね？"
+                                "\\n<Eury>...There won't be any incidents like last time, right?"
                             ]
                         },
                         {
@@ -15511,7 +15448,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>ないよ。厳重注意したから。"
+                                "\\n<Owner>No, there won't be. I've given a strict warning."
                             ]
                         },
                         {
@@ -15544,7 +15481,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（本当かな……）"
+                                "\\n<Eury>(I wonder if that's true...)"
                             ]
                         },
                         {
@@ -15577,7 +15514,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、それじゃ、今日もやります……。"
+                                "\\n<Eury>W-Well then, I'll do it today as well..."
                             ]
                         },
                         {
@@ -15594,7 +15531,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>はい、じゃあよろしく。"
+                                "\\n<Owner>Alright, thank you."
                             ]
                         },
                         {
@@ -15711,7 +15648,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I was sexually harassed last time, so honestly, I don't\nwant to work here."
                             ]
                         },
                         {
@@ -15735,7 +15672,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -15762,7 +15699,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "娼館で働こうかな？"
+                                "Should I work at the brothel?"
                             ]
                         },
                         {
@@ -15815,7 +15752,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>新型ちゃん。受付、お願いして良いか？"
+                                "\\n<Owner>New girl, can I ask you to do the reception?"
                             ]
                         },
                         {
@@ -15848,7 +15785,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……前回みたいなことはないですよね？"
+                                "\\n<Eury>...There won't be any incidents like last time, right?"
                             ]
                         },
                         {
@@ -15865,7 +15802,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>ないよ。厳重注意したから。"
+                                "\\n<Owner>No, there won't be. I've given a strict warning."
                             ]
                         },
                         {
@@ -15898,7 +15835,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（本当かな……）"
+                                "\\n<Eury>(I wonder if that's true...)"
                             ]
                         },
                         {
@@ -15931,7 +15868,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>そ、それじゃ、今日もやります……。"
+                                "\\n<Eury>W-Well then, I'll do it today as well..."
                             ]
                         },
                         {
@@ -15948,7 +15885,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<オーナー>はい、じゃあよろしく。"
+                                "\\n<Owner>Alright, thank you."
                             ]
                         },
                         {
@@ -16220,7 +16157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>お、新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>Oh, New Model-chan! Haro-con-chin!"
                             ]
                         },
                         {
@@ -16253,7 +16190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、はろこんちん……？"
+                                "\\n<Eury>Ha, Haro-con-chin...?"
                             ]
                         },
                         {
@@ -16270,14 +16207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>はろこんちん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ、テンゲツテレビのお決まりのあいさつ！"
+                                "\\n<Streamer>Haro-con-chin! It's the standard greeting for Tengeki TV!"
                             ]
                         },
                         {
@@ -16310,7 +16240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>てんげつてれび……？"
+                                "\\n<Eury>Tengeki TV...?"
                             ]
                         },
                         {
@@ -16327,14 +16257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>テンゲツ街ってさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物被害からの復興中で、雰囲気暗めじゃん？"
+                                "\\n<Streamer>You know, Tengeki City is still recovering from monster\ndamage, and the atmosphere is kind of gloomy, right?"
                             ]
                         },
                         {
@@ -16351,14 +16274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>だからこの配信部屋を使って楽しい番組をお送りする、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが俺のお仕事ってわけ！"
+                                "\\n<Streamer>So, using this streaming room to deliver fun programs is my\njob!"
                             ]
                         },
                         {
@@ -16375,7 +16291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、はぁ……。"
+                                "\\n<Eury>Ha, ha..."
                             ]
                         },
                         {
@@ -16392,7 +16308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！よかったらゲスト出演しない？"
+                                "\\n<Streamer>New Model-chan! Would you like to make a guest appearance?"
                             ]
                         },
                         {
@@ -16425,7 +16341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、私が！？"
+                                "\\n<Eury>Eh, me!?"
                             ]
                         },
                         {
@@ -16442,7 +16358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>新型ちゃんが出るってなったら同接も増えるだろうしさ！"
+                                "\\n<Streamer>If New Model-chan appears, I bet the viewer count will go up\ntoo!"
                             ]
                         },
                         {
@@ -16475,7 +16391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>でも、私配信者なんてやったことないですし……。"
+                                "\\n<Eury>But, I've never done anything like streaming before..."
                             ]
                         },
                         {
@@ -16492,14 +16408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>大丈夫！俺がリードするしさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新型ちゃんかわいいから絶対人気出るよ！"
+                                "\\n<Streamer>No worries! I'll lead the way, and besides, New Model-chan\nis cute, so you're sure to be popular!"
                             ]
                         },
                         {
@@ -16532,7 +16441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>かわいい！？人気！？そ、そ、そうかな～？♪"
+                                "\\n<Eury>Cute!? Popular!? Do you really think so~?♪"
                             ]
                         },
                         {
@@ -16549,14 +16458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（テンゲツ街を盛り上げる……復興のため……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう、これだって私の任務だよね！）"
+                                "\\n<Eury>(Lifting the spirits of Tengeki City... For the\nreconstruction... Yes, this is part of my mission too!)"
                             ]
                         },
                         {
@@ -16573,7 +16475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>どう？やってみる？"
+                                "\\n<Streamer>So, what do you say? Wanna give it a try?"
                             ]
                         },
                         {
@@ -16606,7 +16508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい！やってみます！"
+                                "\\n<Eury>Yes! I'll give it a try!"
                             ]
                         },
                         {
@@ -16623,14 +16525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>そのチャレンジ精神、グッド評価！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ出演できるとき教えてね！"
+                                "\\n<Streamer>That spirit of challenge gets a good rating from me! Let me\nknow when you can appear!"
                             ]
                         },
                         {
@@ -16647,7 +16542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は～い♪"
+                                "\\n<Eury>Okay♪"
                             ]
                         },
                         {
@@ -16664,14 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ここに来ると大変なことばっかりって思ったけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意外と楽しいことと出会えたかも？）"
+                                "\\n<Eury>(I thought coming here would be nothing but trouble... but\nmaybe I've found something unexpectedly fun?)"
                             ]
                         },
                         {
@@ -16688,7 +16576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>じゃ、今日はいったん、おつんぽつんつーん♪"
+                                "\\n<Streamer>Well then, for today, let's call it an Otsunpo-tsun-tsun♪"
                             ]
                         },
                         {
@@ -16721,7 +16609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、おつんぽつんつん……。"
+                                "\\n<Eury>O-Otsunpo-tsun-tsun..."
                             ]
                         },
                         {
@@ -16848,14 +16736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -16900,7 +16781,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -16953,7 +16834,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -16986,7 +16867,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>はろこんちん！"
+                                "\\n<Eury>Hello, konchin!"
                             ]
                         },
                         {
@@ -17003,7 +16884,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>どう？今日出演しちゃう？"
+                                "\\n<Streamer>How about it? Will you appear today?"
                             ]
                         },
                         {
@@ -17036,7 +16917,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>はい！よろしくお願いします！"
+                                "\\n<Eury>Yes! Please take care of me!"
                             ]
                         },
                         {
@@ -17053,7 +16934,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>オッケー、じゃあさっそく入って入って！"
+                                "\\n<Streamer>Okay, then come on in right away!"
                             ]
                         },
                         {
@@ -17160,7 +17041,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I honestly don't want to work here because I was sexually\nharassed last time."
                             ]
                         },
                         {
@@ -17184,7 +17065,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -17211,7 +17092,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -17264,7 +17145,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -17297,7 +17178,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -17314,7 +17195,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>もしかして、前のこと怒ってる？"
+                                "\\n<Streamer>Are you still mad about last time?"
                             ]
                         },
                         {
@@ -17347,7 +17228,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>当たり前じゃないですか！！！"
+                                "\\n<Eury>Of course I am!!!"
                             ]
                         },
                         {
@@ -17364,14 +17245,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>ごめんごめん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "じゃあ今度から配信内でそういうのはナシ！"
+                                "\\n<Streamer>Sorry, sorry, so no more of that during the stream from now\non!"
                             ]
                         },
                         {
@@ -17388,7 +17262,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（配信内でってどういうこと……？）"
+                                "\\n<Eury>(What does he mean by 'during the stream'...?)"
                             ]
                         },
                         {
@@ -17405,14 +17279,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……そういうことしないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "また出てあげますけど。"
+                                "\\n<Eury>...If you're not going to do that anymore, then I'll appear\nagain."
                             ]
                         },
                         {
@@ -17429,14 +17296,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>俺を信じて！お願い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "スーツ来て謝罪してもいい！！！"
+                                "\\n<Streamer>Trust me! Please!! I'll even come in a suit and apologize!!!"
                             ]
                         },
                         {
@@ -17469,7 +17329,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……わかりました。信用します。"
+                                "\\n<Eury>...Alright. I'll trust you."
                             ]
                         },
                         {
@@ -17502,7 +17362,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>でも、次はないですからね！！"
+                                "\\n<Eury>But there won't be a next time, understand?!!"
                             ]
                         },
                         {
@@ -17519,7 +17379,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>やったぁ！エウリィちゃん、話がわかるねぇ！"
+                                "\\n<Streamer>Yay! Eury-chan, you're so understanding!"
                             ]
                         },
                         {
@@ -17552,7 +17412,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はあ、調子良いんだから。"
+                                "\\n<Eury>Sigh, you're too cheerful."
                             ]
                         },
                         {
@@ -17667,7 +17527,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I honestly don't want to work here because I was sexually\nharassed last time."
                             ]
                         },
                         {
@@ -17691,7 +17551,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このイベントは\\C[24]非処女編\\C[0]で進められます！"
+                                "This event can be progressed in the \\C[24]non-virgin\nedition\\C[0]!"
                             ]
                         },
                         {
@@ -17718,7 +17578,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -17771,7 +17631,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -17804,7 +17664,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -17821,7 +17681,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>もしかして、前のこと怒ってる？"
+                                "\\n<Streamer>Are you still mad about last time?"
                             ]
                         },
                         {
@@ -17854,7 +17714,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>当たり前じゃないですか！！！"
+                                "\\n<Eury>Of course I am!!!"
                             ]
                         },
                         {
@@ -17871,14 +17731,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>ごめんごめん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "じゃあ今度から配信内でそういうのはナシ！"
+                                "\\n<Streamer>Sorry, sorry, so no more of that during the stream from now\non!"
                             ]
                         },
                         {
@@ -17895,7 +17748,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（配信内でってどういうこと……？）"
+                                "\\n<Eury>(What does he mean by 'during the stream'...?)"
                             ]
                         },
                         {
@@ -17912,14 +17765,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……そういうことしないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "また出てあげますけど。"
+                                "\\n<Eury>...If you're not going to do that anymore, then I'll appear\nagain."
                             ]
                         },
                         {
@@ -17936,14 +17782,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>俺を信じて！お願い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "スーツ来て謝罪してもいい！！！"
+                                "\\n<Streamer>Trust me! Please!! I'll even come in a suit and apologize!!!"
                             ]
                         },
                         {
@@ -17976,7 +17815,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……わかりました。信用します。"
+                                "\\n<Eury>...Alright. I'll trust you."
                             ]
                         },
                         {
@@ -18009,7 +17848,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>でも、次はないですからね！！"
+                                "\\n<Eury>But there won't be a next time, understand?!!"
                             ]
                         },
                         {
@@ -18026,7 +17865,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>やったぁ！エウリィちゃん、話がわかるねぇ！"
+                                "\\n<Streamer>Yay! Eury-chan, you're so understanding!"
                             ]
                         },
                         {
@@ -18059,7 +17898,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はあ、調子良いんだから。"
+                                "\\n<Eury>Sigh, you're too cheerful."
                             ]
                         },
                         {
@@ -18176,7 +18015,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I honestly don't want to work here because I was sexually\nharassed last time."
                             ]
                         },
                         {
@@ -18200,7 +18039,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -18227,7 +18066,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -18280,7 +18119,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -18313,7 +18152,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -18330,7 +18169,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>もしかして、前のこと怒ってる？"
+                                "\\n<Streamer>Are you still mad about last time?"
                             ]
                         },
                         {
@@ -18363,7 +18202,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>当たり前じゃないですか！！！"
+                                "\\n<Eury>Of course I am!!!"
                             ]
                         },
                         {
@@ -18380,14 +18219,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>ごめんごめん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "じゃあ今度から配信内でそういうのはナシ！"
+                                "\\n<Streamer>Sorry, sorry, so I'll make sure that kind of thing doesn't\nhappen during the stream anymore!"
                             ]
                         },
                         {
@@ -18404,7 +18236,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（配信内でってどういうこと……？）"
+                                "\\n<Eury>(What does he mean by 'during the stream'...?)"
                             ]
                         },
                         {
@@ -18421,14 +18253,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……そういうことしないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "また出てあげますけど。"
+                                "\\n<Eury>...If you're not going to do that kind of thing, then I'll\nappear again."
                             ]
                         },
                         {
@@ -18445,14 +18270,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>俺を信じて！お願い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "スーツ来て謝罪してもいい！！！"
+                                "\\n<Streamer>Trust me! Please!! I'll even come in a suit and apologize!!!"
                             ]
                         },
                         {
@@ -18485,7 +18303,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……わかりました。信用します。"
+                                "\\n<Eury>...Alright. I'll trust you."
                             ]
                         },
                         {
@@ -18518,7 +18336,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>でも、次はないですからね！！"
+                                "\\n<Eury>But there won't be a next time, understand?!!"
                             ]
                         },
                         {
@@ -18535,7 +18353,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>やったぁ！エウリィちゃん、話がわかるねぇ！"
+                                "\\n<Streamer>Yay! Eury-chan, you're so understanding!"
                             ]
                         },
                         {
@@ -18568,7 +18386,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はあ、調子良いんだから。"
+                                "\\n<Eury>Sigh, you're too cheerful."
                             ]
                         },
                         {
@@ -18685,7 +18503,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...I honestly don't want to work here because I was sexually\nharassed last time."
                             ]
                         },
                         {
@@ -18709,7 +18527,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -18736,7 +18554,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -18789,7 +18607,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -18822,7 +18640,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -18839,7 +18657,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>もしかして、前のこと怒ってる？"
+                                "\\n<Streamer>Are you still mad about last time?"
                             ]
                         },
                         {
@@ -18872,7 +18690,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>当たり前じゃないですか！！！"
+                                "\\n<Eury>Of course I am!!!"
                             ]
                         },
                         {
@@ -18889,14 +18707,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>ごめんごめん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "じゃあ今度から配信内でそういうのはナシ！"
+                                "\\n<Streamer>Sorry, sorry, so I'll make sure that kind of thing doesn't\nhappen during the stream anymore!"
                             ]
                         },
                         {
@@ -18913,7 +18724,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（配信内でってどういうこと……？）"
+                                "\\n<Eury>(What does he mean by 'during the stream'...?)"
                             ]
                         },
                         {
@@ -18930,14 +18741,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……そういうことしないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "また出てあげますけど。"
+                                "\\n<Eury>...If you're not going to do that kind of thing, then I'll\nappear again."
                             ]
                         },
                         {
@@ -18954,14 +18758,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>俺を信じて！お願い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "スーツ来て謝罪してもいい！！！"
+                                "\\n<Streamer>Trust me! Please!! I'll even come in a suit and apologize!!!"
                             ]
                         },
                         {
@@ -18994,7 +18791,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……わかりました。信用します。"
+                                "\\n<Eury>...Alright. I'll trust you."
                             ]
                         },
                         {
@@ -19027,7 +18824,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>でも、次はないですからね！！"
+                                "\\n<Eury>But there won't be a next time, understand?!!"
                             ]
                         },
                         {
@@ -19044,7 +18841,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<配信者>やったぁ！エウリィちゃん、話がわかるねぇ！"
+                                "\\n<Streamer>Yay! Eury-chan, you're so understanding!"
                             ]
                         },
                         {
@@ -19077,7 +18874,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はあ、調子良いんだから。"
+                                "\\n<Eury>Sigh, you're too cheerful."
                             ]
                         },
                         {
@@ -19167,7 +18964,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "配信のお手伝いをしようかな？"
+                                "Should I help with the stream?"
                             ]
                         },
                         {
@@ -19220,7 +19017,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>新型ちゃん！はろこんちん！"
+                                "\\n<Streamer>New girl! Hello, konchin!"
                             ]
                         },
                         {
@@ -19253,7 +19050,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -19270,7 +19067,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>もしかして、前のこと怒ってる？"
+                                "\\n<Streamer>Are you still mad about last time?"
                             ]
                         },
                         {
@@ -19303,7 +19100,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>当たり前じゃないですか！！！"
+                                "\\n<Eury>Of course I am!!!"
                             ]
                         },
                         {
@@ -19320,14 +19117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>ごめんごめん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "じゃあ今度から配信内でそういうのはナシ！"
+                                "\\n<Streamer>Sorry, sorry, so I'll make sure that kind of thing doesn't\nhappen during the stream anymore!"
                             ]
                         },
                         {
@@ -19344,7 +19134,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>（配信内でってどういうこと……？）"
+                                "\\n<Eury>(What does he mean by 'during the stream'...?)"
                             ]
                         },
                         {
@@ -19361,14 +19151,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……そういうことしないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "また出てあげますけど。"
+                                "\\n<Eury>...If you're not going to do that kind of thing, then I'll\nappear again."
                             ]
                         },
                         {
@@ -19385,14 +19168,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>俺を信じて！お願い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "スーツ来て謝罪してもいい！！！"
+                                "\\n<Streamer>Trust me! Please!! I'll even come in a suit and apologize!!!"
                             ]
                         },
                         {
@@ -19425,7 +19201,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……わかりました。信用します。"
+                                "\\n<Eury>...Alright. I'll trust you."
                             ]
                         },
                         {
@@ -19458,7 +19234,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>でも、次はないですからね！！"
+                                "\\n<Eury>But there won't be a next time, understand?!!"
                             ]
                         },
                         {
@@ -19475,7 +19251,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<配信者>やったぁ！エウリィちゃん、話がわかるねぇ！"
+                                "\\n<Streamer>Yay! Eury-chan, you're so understanding!"
                             ]
                         },
                         {
@@ -19508,7 +19284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>はあ、調子良いんだから。"
+                                "\\n<Eury>Sigh, you're too cheerful."
                             ]
                         },
                         {

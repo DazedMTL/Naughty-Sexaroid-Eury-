@@ -10049,14 +10049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>みんなー、今日はエウリィちゃんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームに参加してくれるよ。"
+                                "\\n<Pierrot>Everyone, today Eury-chan will be joining us in the game."
                             ]
                         },
                         {
@@ -10073,14 +10066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>ルールは簡単。男性諸君は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きな扉の向こうに隠れてね。"
+                                "\\n<Pierrot>The rules are simple. Gentlemen, please hide behind the door\nof your choice."
                             ]
                         },
                         {
@@ -10097,14 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>エウリィちゃんが入ってきたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１発犯してオッケーだよ。"
+                                "\\n<Pierrot>When Eury-chan comes in, you can have your way with her\nonce, and that's okay."
                             ]
                         },
                         {
@@ -10121,14 +10100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>エウリィちゃんは、何度犯されもいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと立ってゴールまで行ければクリアだよ。"
+                                "\\n<Pierrot>Eury-chan can be taken advantage of multiple times, but as\nlong as she can stand and reach the goal, she clears the\ngame."
                             ]
                         },
                         {
@@ -10178,7 +10150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>それじゃあ、ゲームスタート！"
+                                "\\n<Pierrot>Well then, let the game start!"
                             ]
                         },
                         {
@@ -10272,14 +10244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<回想お助け魔物>このゲームはどっちの扉を選んでも結果は同じみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、回想ルームに戻る？"
+                                "\\n<Memory Assistance Demon>\"It seems that no matter which door you choose in this game,\nthe outcome is the same. By the way, shall we return to the\nmemory room?\""
                             ]
                         },
                         {
@@ -10535,7 +10500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こっちが正解のはず！"
+                                "\\n<Eury>This must be the correct one!"
                             ]
                         },
                         {
@@ -10583,7 +10548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>よっしゃあ！エウリィちゃん来た！"
+                                "\\n<Mister>Alright! Eury-chan has arrived!"
                             ]
                         },
                         {
@@ -10616,7 +10581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……えっ！？"
+                                "\\n<Eury>...Eh!?"
                             ]
                         },
                         {
@@ -10633,7 +10598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>不正解だった……ってこと？"
+                                "\\n<Eury>Does that mean... I was wrong?"
                             ]
                         },
                         {
@@ -10664,7 +10629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>相変わらず抱き心地が良さそうな体してるじゃねえか！"
+                                "\\n<Mister>You still have such a huggable body!"
                             ]
                         },
                         {
@@ -10681,7 +10646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>きゃあっ！？"
+                                "\\n<Eury>Kyaa!? What are you doing?"
                             ]
                         },
                         {
@@ -10771,7 +10736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あんっ、はぁ、あっ、んんっ、やだ、んっ♡"
+                                "\\n<Eury>Ahn, haa, ah, mmm, no, mmm♡"
                             ]
                         },
                         {
@@ -10891,7 +10856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああぁあっ！！！♡♡♡"
+                                "\\n<Eury>Aaahhhhh!!!♡♡♡"
                             ]
                         },
                         {
@@ -10944,7 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁ……はぁ……。"
+                                "\\n<Eury>Haa, haa...haa..."
                             ]
                         },
                         {
@@ -10961,7 +10926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ふー、気持ちよかった。"
+                                "\\n<Mister>Phew, that felt good."
                             ]
                         },
                         {
@@ -10999,7 +10964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>１回犯されちゃったみたいだね。まだ立って歩けるかな？"
+                                "\\n<Pierrot>Looks like you got fucked once. Can you still stand and\nwalk?"
                             ]
                         },
                         {
@@ -11016,7 +10981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……だ、大丈夫！歩けます！"
+                                "\\n<Eury>...Ye-Yes, I'm fine! I can walk!"
                             ]
                         },
                         {
@@ -11033,7 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>じゃあ、続きがんばってね。"
+                                "\\n<Pierrot>Then, keep up the good work with the rest."
                             ]
                         },
                         {
@@ -11117,7 +11082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>右が正解じゃないかな？きっと。"
+                                "\\n<Pierrot>\"The right path must be the correct one, surely.\""
                             ]
                         },
                         {
@@ -11316,7 +11281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こっちが正解のはず！"
+                                "\\n<Eury>This must be the correct one!"
                             ]
                         },
                         {
@@ -11364,7 +11329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>よっしゃあ！エウリィちゃん来た！"
+                                "\\n<Mister>Alright! Eury-chan is here!"
                             ]
                         },
                         {
@@ -11397,7 +11362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……えっ！？"
+                                "\\n<Eury>...Eh!?"
                             ]
                         },
                         {
@@ -11414,7 +11379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>不正解だった……ってこと？"
+                                "\\n<Eury>Does that mean... I was wrong?"
                             ]
                         },
                         {
@@ -11445,7 +11410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>相変わらず抱き心地が良さそうな体してるじゃねえか！"
+                                "\\n<Mister>You still have such a huggable body!"
                             ]
                         },
                         {
@@ -11462,7 +11427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>きゃあっ！？"
+                                "\\n<Eury>Kyaa!? What are you doing?"
                             ]
                         },
                         {
@@ -11552,7 +11517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あんっ、はぁ、あっ、んんっ、やだ、んっ♡"
+                                "\\n<Eury>Ahn, haa, ah, mmm, no, mmm♡"
                             ]
                         },
                         {
@@ -11672,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああぁあっ！！！♡♡♡"
+                                "\\n<Eury>Aaahhhhh!!!♡♡♡"
                             ]
                         },
                         {
@@ -11725,7 +11690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁ……はぁ……。"
+                                "\\n<Eury>Haa, haa...haa..."
                             ]
                         },
                         {
@@ -11742,7 +11707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ふー、気持ちよかった。"
+                                "\\n<Mister>Phew, that felt good."
                             ]
                         },
                         {
@@ -11780,7 +11745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>１回犯されちゃったみたいだね。まだ立って歩けるかな？"
+                                "\\n<Pierrot>Looks like you've been taken once. Can you still stand and\nwalk?"
                             ]
                         },
                         {
@@ -11797,7 +11762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……だ、大丈夫！歩けます！"
+                                "\\n<Eury>...Ye-Yes, I'm fine! I can walk!"
                             ]
                         },
                         {
@@ -11814,7 +11779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ピエロ>じゃあ、続きがんばってね。"
+                                "\\n<Pierrot>Then, keep up the good work."
                             ]
                         },
                         {

@@ -1884,7 +1884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>うーん、困った困った。"
+                                "\\n<Young man>Hmm, this is quite troubling."
                             ]
                         },
                         {
@@ -1917,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>どうしたんですか？"
+                                "\\n<Eury>What seems to be the problem?"
                             ]
                         },
                         {
@@ -1934,7 +1934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>あ、君は新型ちゃん！"
+                                "\\n<Young man>Oh, you're the new model-chan!"
                             ]
                         },
                         {
@@ -1951,7 +1951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>実はね、ここのトイレが汚いんだよ。"
+                                "\\n<Young man>Actually, the problem is that the toilet here is dirty."
                             ]
                         },
                         {
@@ -1984,7 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>公衆トイレってそういうものじゃないですか？"
+                                "\\n<Eury>Aren't public toilets usually like that?"
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>ここのトイレはもともとキレイだったんだよ。"
+                                "\\n<Young man>This toilet used to be clean, you know."
                             ]
                         },
                         {
@@ -2034,7 +2034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>できたときってなんでもキレイじゃないですか？"
+                                "\\n<Eury>Isn't everything clean when it's new?"
                             ]
                         },
                         {
@@ -2051,7 +2051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>……。"
+                                "\\n<Young man>……。"
                             ]
                         },
                         {
@@ -2068,14 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>えっとね、もともと清掃員をやっていた友達が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "病気をしてしまってね。"
+                                "\\n<Young man>Well, you see, my friend who used to clean it fell ill."
                             ]
                         },
                         {
@@ -2108,7 +2101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なんと！"
+                                "\\n<Eury>How terrible!"
                             ]
                         },
                         {
@@ -2125,7 +2118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>だから誰も掃除してないんだよ。"
+                                "\\n<Young man>That's why no one has been cleaning it."
                             ]
                         },
                         {
@@ -2158,7 +2151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私にお任せください！"
+                                "\\n<Eury>Please leave it to me!"
                             ]
                         },
                         {
@@ -2175,7 +2168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>お、いいのかい？"
+                                "\\n<Young man>Oh, really? That's great!"
                             ]
                         },
                         {
@@ -2192,14 +2185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>みんなが使うものですもの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女は魔物退治だけでなく、街を救うのが目的なので！"
+                                "\\n<Eury>It's something everyone uses! A modified girl's purpose\nisn't just to slay monsters, but also to save the town!"
                             ]
                         },
                         {
@@ -2216,7 +2202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<青年>助かるよ～！"
+                                "\\n<Young man>You're a lifesaver!"
                             ]
                         },
                         {
@@ -2249,7 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>それじゃ、時間あるときに掃除しておきますね。"
+                                "\\n<Eury>Then, I'll clean it when I have some time."
                             ]
                         },
                         {
@@ -2266,14 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（掃除は自分でやったことがないですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……多分できますよね！）"
+                                "\\n<Eury>(I've never done cleaning myself before... but I can\nprobably do it, right?!)"
                             ]
                         },
                         {
@@ -2400,14 +2379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... I should head back to the inn and\nrest."
                             ]
                         },
                         {
@@ -2452,7 +2424,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -2581,7 +2553,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...After being sexually harassed last time, I honestly don't\nwant to work here."
                             ]
                         },
                         {
@@ -2605,7 +2577,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -2632,7 +2604,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -2687,7 +2659,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>今日もお掃除しようかな？"
+                                "\\n<Eury>Should I clean again today?"
                             ]
                         },
                         {
@@ -2720,7 +2692,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……後ろに人の気配があったらすぐに逃げよう。"
+                                "\\n<Eury>...If I sense someone behind me, I'll run away immediately."
                             ]
                         },
                         {
@@ -2842,7 +2814,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……前回セクハラされたから、正直ここで働きたくない。"
+                                "\\n<Eury>...After being sexually harassed last time, I honestly don't\nwant to work here."
                             ]
                         },
                         {
@@ -2866,7 +2838,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このイベントは\\C[24]非処女編\\C[0]で進められます！"
+                                "This event can proceed in the \\C[24]non-virgin edition\\C[0]!"
                             ]
                         },
                         {
@@ -2893,7 +2865,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -2948,7 +2920,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……掃除しようかな？"
+                                "\\n<Eury>...Should I clean?"
                             ]
                         },
                         {
@@ -2981,7 +2953,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>今まで２回中２回ひどい目に遭ってるけど……。"
+                                "\\n<Eury>I've had bad experiences twice out of two times..."
                             ]
                         },
                         {
@@ -3014,7 +2986,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>で、でも！私が掃除しないとみんなが困るもんね！"
+                                "\\n<Eury>But, but! If I don't clean, everyone will be in trouble!"
                             ]
                         },
                         {
@@ -3047,7 +3019,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>期待してるわけじゃないから！さあ、お掃除しよう！"
+                                "\\n<Eury>It's not like I'm looking forward to it! Let's go clean!"
                             ]
                         },
                         {
@@ -3171,7 +3143,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ちょっとなあ。"
+                                "\\n<Eury>...Just a little bit."
                             ]
                         },
                         {
@@ -3195,7 +3167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]25\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]25\\C[0] is required."
                             ]
                         },
                         {
@@ -3222,7 +3194,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -3277,7 +3249,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -3310,7 +3282,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>（羞恥絶頂立ちション……）"
+                                "\\n<Eury>(Shameful climax standing pee...)"
                             ]
                         },
                         {
@@ -3343,7 +3315,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はっ！何考えてるの、私！？"
+                                "\\n<Eury>Hah! What am I thinking about?!"
                             ]
                         },
                         {
@@ -3376,7 +3348,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……トイレ掃除、しよ。"
+                                "\\n<Eury>...Let's do the toilet cleaning."
                             ]
                         },
                         {
@@ -3500,7 +3472,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……だめだよね。"
+                                "\\n<Eury>...That's not good, right."
                             ]
                         },
                         {
@@ -3524,7 +3496,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]30\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]30\\C[0] is required."
                             ]
                         },
                         {
@@ -3551,7 +3523,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -3606,7 +3578,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……癖になってる。"
+                                "\\n<Eury>...It's becoming a habit."
                             ]
                         },
                         {
@@ -3639,7 +3611,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>トイレ掃除……って口実で便器になっちゃおうかな？"
+                                "\\n<Eury>Toilet cleaning... maybe I'll just become a human toilet\nunder the guise of cleaning?"
                             ]
                         },
                         {
@@ -3729,7 +3701,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "トイレのお掃除をしようかな？"
+                                "Should I clean the toilet?"
                             ]
                         },
                         {
@@ -3768,7 +3740,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<おじさん>どうする？放尿えっちする？"
+                                "\\n<Mister>What will you do? Have pee sex?"
                             ]
                         },
                         {
@@ -3801,7 +3773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>します！"
+                                "\\n<Eury>Yes!"
                             ]
                         },
                         {
@@ -3832,7 +3804,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>は、あぁあ゛っ！！"
+                                "\\n<Eury>Ah, ahhhh!!"
                             ]
                         },
                         {
@@ -3849,7 +3821,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>あ゛っ、あ゛っ、イグっ♡"
+                                "\\n<Eury>Ahh, ahh, I'm cumming♡"
                             ]
                         },
                         {
@@ -3866,7 +3838,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "トイレで放尿セックスした……。"
+                                "Had pee sex in the toilet..."
                             ]
                         },
                         {
@@ -3883,7 +3855,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……後ろに人の気配があったらすぐに逃げよう。"
+                                "\\n<Eury>...If I sense someone behind me, I'll run away immediately."
                             ]
                         },
                         {
@@ -4070,7 +4042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ぐふふ。またえっちにしようね。"
+                                "\\n<Mister>Gufufu. Let's do something naughty again, shall we?"
                             ]
                         },
                         {
@@ -5255,7 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>今日はもう外に出る元気は残ってないよ……。"
+                                "\\n<Eury>I don't have the energy to go out anymore today..."
                             ]
                         },
                         {
@@ -5360,7 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>新型のお姉さん！こんにちは！"
+                                "\\n<child>Hello, new Onee-san!"
                             ]
                         },
                         {
@@ -5441,7 +5413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こんにちは～！"
+                                "\\n<Eury>Hello~!"
                             ]
                         },
                         {
@@ -5474,7 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（か、かわいいいいぃ～～～！）"
+                                "\\n<Eury>(She's so cuuute~~~!)"
                             ]
                         },
                         {
@@ -5491,7 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ねえねえ、よかったら一緒に遊ばない？"
+                                "\\n<child>Hey hey, if it's okay with you, do you want to play\ntogether?"
                             ]
                         },
                         {
@@ -5524,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、遊ぶ？うーん、どうしよっかな。"
+                                "\\n<Eury>Oh, play? Hmm, what should I do."
                             ]
                         },
                         {
@@ -5557,14 +5529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（楽しそうだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の任務とはちょっと違うような……）"
+                                "\\n<Eury>(It seems fun, but it's a bit different from my mission...)"
                             ]
                         },
                         {
@@ -5581,7 +5546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ごめんね、お姉さん忙しいよね。"
+                                "\\n<child>Sorry, Onee-san must be busy, huh."
                             ]
                         },
                         {
@@ -5598,14 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>それじゃあ、ヒマなとき教えて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもいいから！"
+                                "\\n<child>Then, let me know when you're free! Anytime is fine!"
                             ]
                         },
                         {
@@ -5638,7 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うん、わかった。ありがとね。"
+                                "\\n<Eury>Yeah, got it. Thanks."
                             ]
                         },
                         {
@@ -5719,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（か、か、か、かわいい～～～～！！）"
+                                "\\n<Eury>(She's sooooo cute~~~~!!)"
                             ]
                         },
                         {
@@ -5846,14 +5804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -5898,7 +5849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "公園で子どもたちと遊ぼうかな？"
+                                "Should I play with the children in the park?"
                             ]
                         },
                         {
@@ -5951,7 +5902,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<子ども１>お姉さん遊んでくれるの！？"
+                                "\\n<Child 1>Big sis, will you play with us?"
                             ]
                         },
                         {
@@ -5984,7 +5935,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>うん！あそぼあそぼ！"
+                                "\\n<Eury>Yes! Let's play, let's play!"
                             ]
                         },
                         {
@@ -6001,7 +5952,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<子ども２>わーい！じゃあ鬼ごっこしよ！"
+                                "\\n<Child 2>Yay! Then let's play tag!"
                             ]
                         },
                         {
@@ -6018,7 +5969,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<子ども３>じゃあジャンケンで鬼決め！"
+                                "\\n<Child 3>We'll decide who's \"it\" with rock-paper-scissors!"
                             ]
                         },
                         {
@@ -6132,7 +6083,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>この前セクハラされたから、ちょっとなぁ……。"
+                                "\\n<Eury>I was harassed before, so I'm a bit..."
                             ]
                         },
                         {
@@ -6156,7 +6107,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -6183,7 +6134,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "公園で子どもたちと遊ぼうかな？"
+                                "Should I play with the children in the park?"
                             ]
                         },
                         {
@@ -6236,7 +6187,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<子ども１>お姉さんあーそぼ！"
+                                "\\n<Child 1>Big sis, let's play!"
                             ]
                         },
                         {
@@ -6269,7 +6220,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>はい、遊びましょう！"
+                                "\\n<Eury>Yes, let's play!"
                             ]
                         },
                         {
@@ -6286,7 +6237,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<子ども２>やったー！今日はかくれんぼね！"
+                                "\\n<Child 2>Hooray! Today we're playing hide and seek!"
                             ]
                         },
                         {
@@ -6303,7 +6254,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<子ども３>じゃん負けで鬼！"
+                                "\\n<Child 3>The loser of rock-paper-scissors is \"it\"!"
                             ]
                         },
                         {
@@ -6418,7 +6369,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>この前セクハラされたから、ちょっとなぁ……。"
+                                "\\n<Eury>I was harassed before, so I'm a bit..."
                             ]
                         },
                         {
@@ -6442,7 +6393,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このイベントは\\C[24]非処女編\\C[0]で進められます！"
+                                "This event can be progressed in the \\C[24]non-virgin\nchapter\\C[0]!"
                             ]
                         },
                         {
@@ -6469,7 +6420,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "公園で子どもたちと遊ぼうかな？"
+                                "Should I play with the children in the park?"
                             ]
                         },
                         {
@@ -6574,7 +6525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<子ども>お姉さん、また遊んでね！"
+                                "\\n<Child>Big sis, play with us again!"
                             ]
                         },
                         {
@@ -7778,14 +7729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「掃除ロボ、でかすぎて屋内の掃除に向かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来週あたり新型作る。やる気が出たらな」"
+                                "\\n<Cleaning Robot>\"The cleaning robot is too big for indoor cleaning. I'll\nmake a new model next week, if I feel like it.\""
                             ]
                         },
                         {
@@ -7802,14 +7746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>マリオン様の録音データです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちなみに２か月前のものです。"
+                                "\\n<Cleaning Robot>\"This is a recording of Lady Marion. By the way, it's from\ntwo months ago.\""
                             ]
                         },
                         {
@@ -7835,14 +7772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>\"This is for you, Eury-san. Here you go.\""
                             ]
                         },
                         {
@@ -7998,7 +7928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -8463,7 +8393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>うぃー、人生つまらねー。"
+                                "\\n<Vagabond>Ugh, life's so boring."
                             ]
                         },
                         {
@@ -8480,7 +8410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>なあセクサロイド。セックスでもしねえか？"
+                                "\\n<Vagabond>Hey, Sexaroid, wanna have sex?"
                             ]
                         },
                         {
@@ -8513,7 +8443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>遠慮しておきます。"
+                                "\\n<Eury>I'll pass, thank you."
                             ]
                         },
                         {
@@ -8537,7 +8467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]30\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]30\\C[0] is required."
                             ]
                         },
                         {
@@ -8715,7 +8645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>うぃー、人生つまらねー。"
+                                "\\n<Vagabond>Ugh, life's so boring."
                             ]
                         },
                         {
@@ -8732,7 +8662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>なあセクサロイド。セックスでもしねえか？"
+                                "\\n<Vagabond>Hey, Sexaroid. Wanna have sex?"
                             ]
                         },
                         {
@@ -8765,7 +8695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>遠慮しておきます。"
+                                "\\n<Eury>I'll pass, thank you."
                             ]
                         },
                         {
@@ -8789,7 +8719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {
@@ -8967,7 +8897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>うぃー、人生つまらねー。"
+                                "\\n<Vagabond>Ugh, life's so boring."
                             ]
                         },
                         {
@@ -8984,7 +8914,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>なあセクサロイド。セックスでもしねえか？"
+                                "\\n<Vagabond>Hey, sexaroid. Wanna have sex?"
                             ]
                         },
                         {
@@ -9017,7 +8947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>遠慮しておきます。"
+                                "\\n<Eury>I'll pass, thank you."
                             ]
                         },
                         {
@@ -9041,7 +8971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]50\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]50\\C[0] is required."
                             ]
                         },
                         {
@@ -9323,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>ロボットもベンチに座ることぐらいありますよ。"
+                                "\\n<Cleaning Robot>Robots can sit on benches too, you know."
                             ]
                         },
                         {
@@ -9340,7 +9270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>……というか、よく見つけましたね。"
+                                "\\n<Cleaning Robot>...Or rather, you found me quite well."
                             ]
                         },
                         {
@@ -9366,14 +9296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -9551,7 +9474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -9723,14 +9646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>掃除ロボといっても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掃除以外のこともできますよ。"
+                                "\\n<Cleaning Robot>Even though it's called a cleaning robot, it can do more\nthan just clean."
                             ]
                         },
                         {
@@ -9747,7 +9663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>清掃とか、クリーニングとか、洗い物とか……。"
+                                "\\n<Cleaning Robot>Like sweeping, cleaning, doing the dishes..."
                             ]
                         },
                         {
@@ -9773,14 +9689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -9958,7 +9867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -10130,7 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>……スパー、スパー。"
+                                "\\n<Worker>...Puff-, Puff-."
                             ]
                         },
                         {
@@ -10147,7 +10056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>え？私が呼ばれてる？"
+                                "\\n<Worker>Huh? Am I being called?"
                             ]
                         },
                         {
@@ -10164,14 +10073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>タバコ休憩中だったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ行くつもりだったわ、ほんとほんと。"
+                                "\\n<Worker>I was just on a cigarette break. I was planning to go right\naway, really, really."
                             ]
                         },
                         {
@@ -10188,14 +10090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>すぐ行くって言っておいて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと１本だけ吸うから。"
+                                "\\n<Worker>I said I'd go right away. Just one more cigarette."
                             ]
                         },
                         {
@@ -10282,7 +10177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>……スパー、スパー。"
+                                "\\n<Worker>...Spa-, Spa-."
                             ]
                         },
                         {
@@ -10461,14 +10356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>ショタを食ったら解体される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがセクサロイドのルールなのよ～ん。"
+                                "\\n<Sexaroid>\"If a sexaroid eats up a shota, they get dismantled. That's\nthe rule for sexaroids~\""
                             ]
                         },
                         {
@@ -10485,14 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>……でも、「最後の輝き」としては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとありな気がしちゃうわん。"
+                                "\\n<Sexaroid>\"...But as a 'final sparkle,' it kind of feels a bit\npossible, doesn't it?\""
                             ]
                         },
                         {
@@ -10781,14 +10662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>最近、公園の治安が悪いみたいなので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もここに設置されることになりました。"
+                                "\\n<Patrol Robot>It seems that the security in the park has been poor\nrecently, so I've been installed here as well."
                             ]
                         },
                         {
@@ -10805,7 +10679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>公園での性的行為は犯罪ですよ！"
+                                "\\n<Patrol Robot>Sexual acts in the park are a crime, you know!"
                             ]
                         },
                         {
@@ -10831,14 +10705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<パトロールロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Patrol Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -11016,7 +10883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>充電中。"
+                                "\\n<Patrol Robot>Charging."
                             ]
                         },
                         {
@@ -11188,14 +11055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>子どもが落ちると危ないので、井戸の位置を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変えませんか？とマリオン博士に提案したことがあります。"
+                                "\\n<Cleaning Robot>\"I once suggested to Dr. Marion that we should move the well\nbecause it's dangerous for children to fall in.\""
                             ]
                         },
                         {
@@ -11212,14 +11072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>すると博士は「井戸を移動ｗｗｗ」とツボにハマり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話が全く進まなくなりました。"
+                                "\\n<Cleaning Robot>\"Then, the doctor burst into laughter at 'moving the well'\nand we couldn't get any further in the conversation.\""
                             ]
                         },
                         {
@@ -11236,7 +11089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>なにがあんなにおもしろかったんでしょう……。"
+                                "\\n<Cleaning Robot>\"I wonder what was so funny about that...\""
                             ]
                         },
                         {
@@ -11262,14 +11115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>\"This is for you, Eury-san. Please take it.\""
                             ]
                         },
                         {
@@ -11447,7 +11293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {

@@ -1581,28 +1581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>お、エウリィちゃん！良いところに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Master>Oh, Eury-chan! Perfect timing!"
                             ]
                         },
                         {
@@ -1635,28 +1614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なんでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>What is it?"
                             ]
                         },
                         {
@@ -1689,28 +1647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>改造少女にお願いしたいことがあればなんなりと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>If there's anything you'd like to ask of a modified girl,\nplease feel free!"
                             ]
                         },
                         {
@@ -1727,28 +1664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>よかったらうちの酒場で働かない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Master>Would you like to work at my tavern, if it's okay with you?"
                             ]
                         },
                         {
@@ -1765,28 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>新型ちゃんがいたら絶対お客さん増えると思うんだ！頼むよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Master>I'm sure having a new model girl around would definitely\nbring in more customers! Please!"
                             ]
                         },
                         {
@@ -1819,28 +1714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……なるほど！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>...I see!"
                             ]
                         },
                         {
@@ -1873,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ふふん♪新型の改造少女の話題性で来客数アップ！ですか）"
+                                "\\n<Eury>(Hehe♪ Using the novelty of a new model modified girl to\nincrease the number of visitors!)"
                             ]
                         },
                         {
@@ -1890,14 +1764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（改造少女としてのお仕事とはちょっと違いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の人気で少しでも街が賑わってくれれば良いですね♪）"
+                                "\\n<Eury>(It's a bit different from my usual work as a modified girl,\nbut if my popularity can help liven up the town even a\nlittle, that would be great♪)"
                             ]
                         },
                         {
@@ -1930,28 +1797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>やりましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>Let's do it!"
                             ]
                         },
                         {
@@ -1968,7 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>おお、こりゃ嬉しい！じゃあよろしく頼むよ。"
+                                "\\n<Master>Oh, this is great! Then I'm counting on you."
                             ]
                         },
                         {
@@ -1985,14 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>エウリィちゃんは忙しいと思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "働けるときにいつでも来てくれれば大丈夫だよ。"
+                                "\\n<Master>I know you're busy, Eury-chan, so just come and work\nwhenever you can. It's all good."
                             ]
                         },
                         {
@@ -2025,28 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>了解しましたっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>Understood!"
                             ]
                         },
                         {
@@ -2063,14 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（酒場のお仕事……私、マリオン博士から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくドジって言われるけど大丈夫かな？）"
+                                "\\n<Eury>(Working at the tavern... I often get called clumsy by Dr.\nMarion, but I wonder if I'll be okay?)"
                             ]
                         },
                         {
@@ -2087,7 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（……いいや！ドジじゃない！だって私は改造少女だから！）"
+                                "\\n<Eury>(...No! I'm not clumsy! Because I'm a modified girl!)"
                             ]
                         },
                         {
@@ -2505,14 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>（エウリィちゃんのおかげでだいぶ客が増えてきたな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいぞいいぞ）"
+                                "\\n<Master>(Thanks to Eury-chan, we've seen a significant increase in\ncustomers, good job, good job)"
                             ]
                         },
                         {
@@ -2529,7 +2333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>（おっと……客が増えすぎて品切れがあるな）"
+                                "\\n<Master>(Oops... there are too many customers and we're running out\nof stock)"
                             ]
                         },
                         {
@@ -2546,14 +2350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>エウリィちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくの間だけ留守にするけど大丈夫かい。"
+                                "\\n<Master>Eury-chan, I'll be away for a bit, will you be okay?"
                             ]
                         },
                         {
@@ -2601,7 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>何かあったんですか？"
+                                "\\n<Eury>Is something wrong?"
                             ]
                         },
                         {
@@ -2618,14 +2415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>ちょっと一部の商品が品切れでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "倉庫にまだ在庫があったか見てくるよ。"
+                                "\\n<Master>Just that we're out of some products. I'm going to check if\nwe still have stock in the warehouse."
                             ]
                         },
                         {
@@ -2690,7 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>了解です！いってらっしゃいませ！"
+                                "\\n<Eury>Understood! Take care!"
                             ]
                         },
                         {
@@ -2707,7 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>その間、注文されている品を運んでおいてくれるかい。"
+                                "\\n<Master>In the meantime, could you take care of delivering the\nordered items?"
                             ]
                         },
                         {
@@ -2772,7 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は～い♪"
+                                "\\n<Eury>Yes~♪"
                             ]
                         },
                         {
@@ -2863,7 +2653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お待たせしました！こちら注文の……。"
+                                "\\n<Eury>Sorry to keep you waiting! Here is your order..."
                             ]
                         },
                         {
@@ -2981,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃっ！"
+                                "\\n<Eury>Eek!"
                             ]
                         },
                         {
@@ -2998,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>相変わらずおっぱいでっけぇ～。"
+                                "\\n<Customer 1>As usual, those tits are huge~."
                             ]
                         },
                         {
@@ -3015,7 +2805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>やっぱり新型ちゃんも揉まれて大きくなったりすんの。"
+                                "\\n<Customer 2>So, do the new model's tits get bigger when they're fondled?"
                             ]
                         },
                         {
@@ -3121,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょ、ちょっと！セクハラはダメ……。"
+                                "\\n<Eury>Hey, hey! Sexual harassment is not okay..."
                             ]
                         },
                         {
@@ -3239,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、あぁあんっ！"
+                                "\\n<Eury>Ah, ahhn!"
                             ]
                         },
                         {
@@ -3256,7 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>感度いいねーｗ"
+                                "\\n<Customer 1>You're quite sensitive, huh~w"
                             ]
                         },
                         {
@@ -3273,7 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>マスターがいない間は触り放題じゃん！"
+                                "\\n<Customer 2>With the Master away, it's free touch time!"
                             ]
                         },
                         {
@@ -3391,14 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめですってばぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触らないで！！！"
+                                "\\n<Eury>No, no, that's not okay! Don't touch me!!!"
                             ]
                         },
                         {
@@ -3415,7 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>俺はこっちもらっちゃおっかな。"
+                                "\\n<Customer 2>Maybe I'll take this one for myself."
                             ]
                         },
                         {
@@ -3480,7 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、えぇええっ！？噓でしょ！"
+                                "\\n<Eury>Eh, eeeh!? You're kidding, right?!"
                             ]
                         },
                         {
@@ -3605,7 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ダメ、直に触っちゃ……！！"
+                                "\\n<Eury>Ah, no, don't touch it directly...!!"
                             ]
                         },
                         {
@@ -3622,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>え、何？もしかして濡れてる？"
+                                "\\n<Customer 2>Huh, what? Are you wet?"
                             ]
                         },
                         {
@@ -3639,14 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>おっぱい揉まれながらアソコくちゅくちゅされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸せでしょーｗ"
+                                "\\n<Customer 1>Getting your tits squeezed and your pussy played with must\nfeel great~w"
                             ]
                         },
                         {
@@ -3711,7 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はっ、あぁあっ、んっ、だめ、えぇえ！！"
+                                "\\n<Eury>Haah, ahh, mmm, no, no way!!"
                             ]
                         },
                         {
@@ -3728,7 +3504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（こんな、お店の中で……この人たち、おかしい……！）"
+                                "\\n<Eury>(This is... inside the shop... these people are crazy...!)"
                             ]
                         },
                         {
@@ -3800,7 +3576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、指、入って、えぇえ！！！"
+                                "\\n<Eury>Ahh, your finger is inside, oh nooo!!!"
                             ]
                         },
                         {
@@ -3817,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>うわすっげ、新型ちゃんのアソコびっしょびしょじゃん。"
+                                "\\n<Customer 2>Wow, the new model's pussy is soaking wet."
                             ]
                         },
                         {
@@ -3834,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>えぐい音鳴ってんだけどｗ"
+                                "\\n<Customer 1>It's making such lewd noises w"
                             ]
                         },
                         {
@@ -3899,7 +3675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はっ、ああぁっ、だ、めぇ！！抜いて……！！！"
+                                "\\n<Eury>Haah, ahh, noo!! Pull it out...!!!"
                             ]
                         },
                         {
@@ -3952,14 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（やばいやばいやばい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほ、本当にイっちゃいそう……！！！）"
+                                "\\n<Eury>(This is bad, really bad!! I'm... I'm really going to\ncome...!!!)"
                             ]
                         },
                         {
@@ -4019,14 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、マスター戻ってくるから！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめないと、もう……！！"
+                                "\\n<Eury>The Master is coming back soon!! You have to stop or\nelse...!!"
                             ]
                         },
                         {
@@ -4043,7 +3805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、んんっ、はぁあっ！！！"
+                                "\\n<Eury>Ahh, mmmh, haah!!"
                             ]
                         },
                         {
@@ -4060,7 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>お、イけそう？俺の指テクなかなかだろ。"
+                                "\\n<Customer 2>Oh, you're about to come? My fingering skills aren't too\nshabby, right?"
                             ]
                         },
                         {
@@ -4077,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>接客中にイっちゃうとか流石新型ちゃんだねｗ"
+                                "\\n<Customer 1>Coming while serving customers? That's so like the new model\nw"
                             ]
                         },
                         {
@@ -4142,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、だめだめだめだめっ……！！！"
+                                "\\n<Eury>No, no no no no...!!!"
                             ]
                         },
                         {
@@ -4207,7 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>イク、ぅううっ！！！"
+                                "\\n<Eury>I'm coming, uuuuh!!!"
                             ]
                         },
                         {
@@ -4327,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛ぁ゛っ！！♡"
+                                "\\n<Eury>Aaahh!!♡"
                             ]
                         },
                         {
@@ -4344,7 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>うおっ！？"
+                                "\\n<Customer 1>Whoa!? What?"
                             ]
                         },
                         {
@@ -4409,7 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いや、嫌ぁあ！！！"
+                                "\\n<Eury>No, I don't want this!!!"
                             ]
                         },
                         {
@@ -4474,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめ、見ないで、見ないでっ……！！！"
+                                "\\n<Eury>No, don't look, please don't look...!!!"
                             ]
                         },
                         {
@@ -4527,7 +4289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>絶頂してガチイキかよ、そんなに良かった？"
+                                "\\n<Customer 2>You came hard, did it feel that good?"
                             ]
                         },
                         {
@@ -4544,7 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（最悪……！！これ、ど、どうしたら……！）"
+                                "\\n<Eury>(The worst...!! What should I do...!)"
                             ]
                         },
                         {
@@ -4561,7 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>おいおい、マスター戻ってきたらどうすんのｗ"
+                                "\\n<Customer 1>Hey hey, what are you gonna do when the master comes back?\nlol"
                             ]
                         },
                         {
@@ -4578,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>さっさと服着なよ、新型ちゃん。"
+                                "\\n<Customer 2>Hurry up and get dressed, new model-chan."
                             ]
                         },
                         {
@@ -4595,7 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁ……。"
+                                "\\n<Eury>Haah, haah..."
                             ]
                         },
                         {
@@ -4659,7 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>ん、君たち、何してるんだ。"
+                                "\\n<Master>Hmm, what are you guys doing?"
                             ]
                         },
                         {
@@ -4676,7 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（やば、いつのまに戻って……！）"
+                                "\\n<Eury>(Oh no, when did he come back...!)"
                             ]
                         },
                         {
@@ -4693,7 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>い、いえ、別に何も……。"
+                                "\\n<Eury>N-no, it's nothing..."
                             ]
                         },
                         {
@@ -4710,7 +4472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>おや、なんだか床が濡れてるよな……。"
+                                "\\n<Master>Oh? The floor seems a bit wet here..."
                             ]
                         },
                         {
@@ -4727,7 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、あ、ええっ、これは……！"
+                                "\\n<Eury>Eh, ah, eeh, this is...!"
                             ]
                         },
                         {
@@ -4744,7 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>の、飲み物、こぼしちゃったんです！"
+                                "\\n<Eury>I-I spilled a drink!"
                             ]
                         },
                         {
@@ -4761,7 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>ああ、それなら……。"
+                                "\\n<Master>Ah, if that's the case..."
                             ]
                         },
                         {
@@ -4778,14 +4540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、いえ！替えの飲み物と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拭くもの持ってきますね！！！"
+                                "\\n<Eury>Ah, no! I'll bring a replacement drink and something to wipe\nit up with!!!"
                             ]
                         },
                         {
@@ -4802,7 +4557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>お、そ、そうかい。"
+                                "\\n<Master>Oh, is that so."
                             ]
                         },
                         {
@@ -4819,7 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マスター>やけに動きが速かったね。なんなんだ。"
+                                "\\n<Master>You're moving quite fast. What's the rush?"
                             ]
                         },
                         {
@@ -4836,7 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客１>傑作だなｗ"
+                                "\\n<Customer 1>This is priceless lol"
                             ]
                         },
                         {
@@ -4853,14 +4608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客２>セクサロイドのくせに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感情とか動作が完全に女の子のそれだよな。"
+                                "\\n<Customer 2>For a sexaroid, her emotions and movements are exactly like\na real girl's."
                             ]
                         },
                         {
@@ -4893,7 +4641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マスター>お疲れさん。今日はちょっとドタバタしてごめんね。"
+                                "\\n<Master>Thanks for your hard work. Sorry for the commotion today."
                             ]
                         },
                         {
@@ -4910,7 +4658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>あ、いえ……お気になさらず……。"
+                                "\\n<Eury>Oh, no... don't worry about it..."
                             ]
                         },
                         {
@@ -4927,7 +4675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マスター>これ、今日の分のお礼ね。"
+                                "\\n<Master>Here, this is for today's work."
                             ]
                         },
                         {
@@ -4987,14 +4735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マスター>それなりに高く売れるらしいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マリオンさんが使うのが１番良さそうだからね。"
+                                "\\n<Master>It seems to sell for quite a bit, but it looks like Marion-\nsan would make the best use of it."
                             ]
                         },
                         {
@@ -5011,7 +4752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>ありがとうございます……。"
+                                "\\n<Eury>Thank you very much..."
                             ]
                         },
                         {

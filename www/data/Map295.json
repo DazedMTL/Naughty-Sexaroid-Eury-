@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マリオンの隠れ家",
+    "displayName": "Marion's Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -3050,14 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……人間と魔物は争い続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その優位性は変化し続けていた。"
+                                "\\n<???>...Humans and monsters continued to fight, and the balance\nof power kept shifting."
                             ]
                         },
                         {
@@ -3074,14 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>魔物が生まれたとき、人間たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なすすべもなく生活圏を減退させていった。"
+                                "\\n<???>When monsters were born, humans had no choice but to reduce\ntheir living areas."
                             ]
                         },
                         {
@@ -3132,7 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>そこで、人間は\\C[24]改造少女\\C[0]という存在を生み出した。"
+                                "\\n<???>Therefore, humans created beings known as \\C[24]modified\ngirls\\C[0]."
                             ]
                         },
                         {
@@ -3149,14 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>改造少女は\\C[24]魔物を撃破できる唯一の存在\\C[0]であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "英雄として讃えられた。"
+                                "\\n<???>Modified girls were the only beings capable of defeating\nmonsters and were hailed as heroes."
                             ]
                         },
                         {
@@ -3173,14 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>対する魔物たちは、\\C[24]原初の魔物『エクスデモン』\\C[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動かすことで、１度は改造少女を無力化した。"
+                                "\\n<???>In response, the monsters mobilized the \\C[24]primordial\nmonster \"Exdemon\"\\C[0], which at one point rendered the\nmodified girls powerless."
                             ]
                         },
                         {
@@ -3197,14 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>だが……改造少女は失われた力を取り戻し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エクスデモンを滅ぼすことに成功した。"
+                                "\\n<???>However... the modified girls regained their lost power and\nsucceeded in destroying the Exdemon."
                             ]
                         },
                         {
@@ -3221,14 +3186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>エクスデモン亡き今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物が新しく生まれることはもうない。"
+                                "\\n<???>Now that the Exdemon is gone, no new monsters will be born."
                             ]
                         },
                         {
@@ -3245,7 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>\\C[2]人間は、魔物に勝利した。"
+                                "\\n<???>\\C[2]Humans have triumphed over monsters."
                             ]
                         },
                         {
@@ -3294,7 +3252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……あなたの技術を、認めましょう。"
+                                "\\n<???>...Let's acknowledge your skills."
                             ]
                         },
                         {
@@ -3342,14 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>あなたの怨敵である、改造少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女たちを破滅に導くための取引です。"
+                                "\\n<???>Your sworn enemies, the modified girls. This is a deal to\nlead them to ruin."
                             ]
                         },
                         {
@@ -3366,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>協力してくださりますね？"
+                                "\\n<???>You will cooperate with us, won't you?"
                             ]
                         },
                         {
@@ -3390,7 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>……約束は、守れよ。"
+                                "\\n<Girl>...Keep your promise."
                             ]
                         },
                         {
@@ -3407,7 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>……。"
+                                "\\n<Girl>……。"
                             ]
                         },
                         {
@@ -3424,7 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>……私は。"
+                                "\\n<Girl>...I will."
                             ]
                         },
                         {
@@ -3514,7 +3465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>\\{\\C[18]魔物に、協力する。"
+                                "\\n<Girl>\\C[18]I will cooperate with the monsters."
                             ]
                         },
                         {

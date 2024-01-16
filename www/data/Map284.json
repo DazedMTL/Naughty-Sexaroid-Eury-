@@ -1828,7 +1828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>うぃー、人生つまらねー。"
+                                "\\n<Vagabond>Ugh, life's so boring."
                             ]
                         },
                         {
@@ -1845,7 +1845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<浮浪者>なあセクサロイド。セックスでもしねえか？"
+                                "\\n<Vagabond>Hey, Sexaroid, wanna have sex?"
                             ]
                         },
                         {
@@ -1878,7 +1878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>遠慮しておきます。"
+                                "\\n<Eury>I'll pass, thank you."
                             ]
                         },
                         {
@@ -1902,7 +1902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]30\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]30\\C[0] is required."
                             ]
                         },
                         {
@@ -2215,14 +2215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>あ、セクサロイドのエウリィちゃんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はじめまして。"
+                                "\\n<Vagrant>Ah, you're the sexaroid Eury-chan, right? Nice to meet you."
                             ]
                         },
                         {
@@ -2255,7 +2248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はじめまして！"
+                                "\\n<Eury>Nice to meet you!"
                             ]
                         },
                         {
@@ -2288,7 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……あ、いや、セクサロイドじゃないんですけどね！"
+                                "\\n<Eury>...Ah, no, I'm not a sexaroid though!"
                             ]
                         },
                         {
@@ -2305,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>ねえねえ、ちょっと僕の話聞いてよ。"
+                                "\\n<Vagabond>Hey, hey, listen to my story for a bit."
                             ]
                         },
                         {
@@ -2386,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いいですよ、お困りごとですか？"
+                                "\\n<Eury>Sure, do you have a problem?"
                             ]
                         },
                         {
@@ -2403,14 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>そうそう、困ってるの。僕ぐらいの底辺になるとね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドとすらヤれないんだ。"
+                                "\\n<Vagabond>Yeah, I'm in trouble. Someone at the bottom like me can't\neven get it on with a sexaroid."
                             ]
                         },
                         {
@@ -2443,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なんと！それはどうしてですか？"
+                                "\\n<Eury>What! Why is that?"
                             ]
                         },
                         {
@@ -2460,7 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>こんなふうに家無しで過ごしてるからね、不潔なんだよ。"
+                                "\\n<Vagabond>Because I'm living without a home like this, I'm unclean."
                             ]
                         },
                         {
@@ -2477,14 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>だからセクサロイドが汚れるって理由で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娼館のオーナーから禁止令が出されちゃってね。"
+                                "\\n<Vagabond>So because I'd dirty the sexaroids, the brothel owner has\nbanned me."
                             ]
                         },
                         {
@@ -2565,7 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あらら……それはなんというか……。"
+                                "\\n<Eury>Oh dear... that's quite..."
                             ]
                         },
                         {
@@ -2582,7 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>だからさ、性欲が溜まるんだよね。"
+                                "\\n<Vagabond>That's why I'm getting sexually frustrated."
                             ]
                         },
                         {
@@ -2599,7 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>そろそろそこらへんの女の子を犯しちゃうかもね。"
+                                "\\n<Vagrant>I might just go and rape one of the girls around here soon."
                             ]
                         },
                         {
@@ -2680,7 +2659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！！！それはだめです！"
+                                "\\n<Eury>...!!! That's not okay!"
                             ]
                         },
                         {
@@ -2697,14 +2676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>でもしょうがないよね。治安維持のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドを導入したのに、僕を差別するんだもん。"
+                                "\\n<Vagrant>But it can't be helped. They introduced sexaroids to\nmaintain public order, but they discriminate against me."
                             ]
                         },
                         {
@@ -2721,14 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>僕が性犯罪の１つでも起こした方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題提起になるんじゃないかな？"
+                                "\\n<Vagabond>Maybe it would raise the issue if I committed just one sex\ncrime?"
                             ]
                         },
                         {
@@ -2745,7 +2710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>傷つく人がいる方法は、なんだってダメです！"
+                                "\\n<Eury>Any method that hurts someone is absolutely unacceptable!"
                             ]
                         },
                         {
@@ -2762,7 +2727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>ふーん、じゃあ傷つく人がいなければいいんだね。"
+                                "\\n<Vagabond>Huh, so it's fine as long as no one gets hurt, right?"
                             ]
                         },
                         {
@@ -2779,7 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>それじゃあさ、ここでヤらせてよ。"
+                                "\\n<Vagabond>In that case, let's do it right here."
                             ]
                         },
                         {
@@ -2860,7 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……えっ。"
+                                "\\n<Eury>...Eh?"
                             ]
                         },
                         {
@@ -2877,14 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>新型ちゃんがえっちさせてくれれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕だって犯罪に手をそめることもないよ。"
+                                "\\n<Vagabond>If a new model like you lets me have sex, then I won't have\nto resort to crime."
                             ]
                         },
                         {
@@ -2917,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、いや、それは、ちょっと……。"
+                                "\\n<Eury>Ah, no, that's a bit..."
                             ]
                         },
                         {
@@ -2934,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>拒否するなら犯罪起こしちゃおうかな～。"
+                                "\\n<Vagabond>If you refuse, maybe I'll just commit a crime then~."
                             ]
                         },
                         {
@@ -3015,7 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>う、うう……それは……。"
+                                "\\n<Eury>Ugh, uhh... that's..."
                             ]
                         },
                         {
@@ -3032,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>ヤるってことでいいよね？"
+                                "\\n<Vagabond>That means yes to doing it, right?"
                             ]
                         },
                         {
@@ -3049,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ちょっとたんま、考えますから……。"
+                                "\\n<Eury>Ah, wait a moment, let me think..."
                             ]
                         },
                         {
@@ -3066,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>いいや、待てない。えいやこら！"
+                                "\\n<Vagabond>No way, can't wait. Here goes!"
                             ]
                         },
                         {
@@ -3150,7 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃああっ！？"
+                                "\\n<Eury>Hyaaa!?"
                             ]
                         },
                         {
@@ -3237,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んちゅ、ん、んむっ、んんっ……！"
+                                "\\n<Eury>Nchu, nh, nmuu, nnn...!"
                             ]
                         },
                         {
@@ -3254,14 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（うううう……！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嫌なにおいがします……！！！）"
+                                "\\n<Eury>(Ugh...!!! It smells so bad...!!!)"
                             ]
                         },
                         {
@@ -3278,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んんむっ！！！んんっ！！"
+                                "\\n<Eury>Nn, nnnmuu!!! Nnnn!!"
                             ]
                         },
                         {
@@ -3338,7 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぷはあ、んっ、ゲホッ！ゲホゲホ！"
+                                "\\n<Eury>Phew, nh, cough! Cough cough!"
                             ]
                         },
                         {
@@ -3362,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>エウリィちゃんもヤりまくりだから体が汚れてるよね？"
+                                "\\n<Vagabond>Eury-chan's been screwing around so much that her body's\ndirty too, right?"
                             ]
                         },
                         {
@@ -3379,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、そ、そんなことは……。"
+                                "\\n<Eury>Eh, th-that's not..."
                             ]
                         },
                         {
@@ -3396,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>不潔なもの同士楽しもうよ。"
+                                "\\n<Vagrant>Let's enjoy ourselves together, both of us being filthy."
                             ]
                         },
                         {
@@ -3413,7 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ええぇえ！？そ、それはちょっと……！"
+                                "\\n<Eury>Eeeeh!? Th-that's a bit...!"
                             ]
                         },
                         {
@@ -3478,7 +3429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああっ！？"
+                                "\\n<Eury>Aaahhh!?"
                             ]
                         },
                         {
@@ -3549,7 +3500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、だめ、入れちゃ……！！！"
+                                "\\n<Eury>No, no, don't put it in...!!!"
                             ]
                         },
                         {
@@ -3662,7 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んんっ♡"
+                                "\\n<Eury>Haah, ah, nnn♡"
                             ]
                         },
                         {
@@ -3715,7 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>ふぅ～、久々のまんこだ。気持ち良い～。"
+                                "\\n<Vagrant>Fuu~, it's been a while since I've had pussy. Feels good~."
                             ]
                         },
                         {
@@ -3773,7 +3724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ちょっと、勝手に……！"
+                                "\\n<Eury>Ah, wait a minute, don't just...!"
                             ]
                         },
                         {
@@ -3826,7 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んっ、あぁあっ、はぁ、あっ♡"
+                                "\\n<Eury>Mmm, aah, haa, ah♡"
                             ]
                         },
                         {
@@ -3843,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>どう？くさいおちんちん奥まで入ってるよ～？"
+                                "\\n<Vagrant>How is it? My smelly dick is all the way in, isn't it~?"
                             ]
                         },
                         {
@@ -3860,7 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、もう、嫌、なのにぃ……♡"
+                                "\\n<Eury>Ahh, no more, I hate it, but...♡"
                             ]
                         },
                         {
@@ -3966,7 +3917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、動かしちゃ、あっ、擦れて、んんっ♡"
+                                "\\n<Eury>No, don't move, ah, it's rubbing, mmm♡"
                             ]
                         },
                         {
@@ -4019,7 +3970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>エウリィちゃんの膣がすっごい締め付けてくるよ。"
+                                "\\n<Vagabond>Eury-chan's pussy is clamping down so tight."
                             ]
                         },
                         {
@@ -4036,7 +3987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>もしかして夜の公園での青姦に興奮してる？"
+                                "\\n<Vagabond>Could it be you're getting excited by outdoor sex in the\npark at night?"
                             ]
                         },
                         {
@@ -4053,7 +4004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んっ、はぁ、あっ、そんな、ことぉ♡"
+                                "\\n<Eury>Mmm, haa, ah, not like that♡"
                             ]
                         },
                         {
@@ -4070,7 +4021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（うう……確かに、ちょっと興奮してるかも♡）"
+                                "\\n<Eury>(Ugh... I might be a little excited♡)"
                             ]
                         },
                         {
@@ -4087,7 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（夜に知らない人と公園でえっちしてる……♡）"
+                                "\\n<Eury>(Doing it with a stranger in the park at night...♡)"
                             ]
                         },
                         {
@@ -4104,14 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（こんなのマキナ先輩や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マリオン博士にバレたら……♡）"
+                                "\\n<Eury>(If Makina-senpai or Dr. Marion found out about this...♡)"
                             ]
                         },
                         {
@@ -4128,7 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>やば、久しぶりだからすぐイきそうだ。"
+                                "\\n<Vagrant>Damn, it's been so long I might cum soon."
                             ]
                         },
                         {
@@ -4145,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>中に出すよ、エウリィちゃん。"
+                                "\\n<Vagabond>I'm going to cum inside, Eury-chan."
                             ]
                         },
                         {
@@ -4210,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、あっ、んんっ♡出して、出して♡"
+                                "\\n<Eury>Mmm, ah, mmm♡ Cum, cum♡"
                             ]
                         },
                         {
@@ -4263,7 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>エウリィの中に、精液……♡"
+                                "\\n<Eury>Inside me, your semen...♡"
                             ]
                         },
                         {
@@ -4280,7 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、んんっ、はぁ、あっ、んっ♡"
+                                "\\n<Eury>Ah, mmm, haa, ah, mmm♡"
                             ]
                         },
                         {
@@ -4393,7 +4337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛、あぁあ゛、お゛っ♡"
+                                "\\n<Eury>Agh, aah, ohh♡"
                             ]
                         },
                         {
@@ -4446,7 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、ああぁ……。"
+                                "\\n<Eury>Haa, ah, aah..."
                             ]
                         },
                         {
@@ -4463,7 +4407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<浮浪者>おつかれちゃん。またよろしくね。"
+                                "\\n<Vagrant>Good work. Let's do this again sometime."
                             ]
                         },
                         {
@@ -4480,7 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はい、ぃい……♡"
+                                "\\n<Eury>Haa, yes, please...♡"
                             ]
                         },
                         {
@@ -4693,7 +4637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……昨晩はお楽しみでした♡"
+                                "\\n<Eury>...Last night was enjoyable♡"
                             ]
                         },
                         {

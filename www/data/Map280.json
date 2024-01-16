@@ -1716,7 +1716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>来たわね！さあ、お見せなさい！"
+                                "\\n<Monster Maniac>You've arrived! Now, show me what you've got!"
                             ]
                         },
                         {
@@ -1811,7 +1811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物マニア>今の図鑑登録数は……\\v[225]種類！"
+                                "\\n<Monster Maniac>The current number of registered monsters is...\\v[225]\ntypes!"
                             ]
                         },
                         {
@@ -1859,7 +1859,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<魔物マニア>前回よりも\\v[228]種類増えてるね！"
+                                "\\n<Monster Maniac>That's \\v[228] more types than last time!"
                             ]
                         },
                         {
@@ -1886,7 +1886,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<魔物マニア>前回より\\C[2]\\v[228]種類\\C[0]も増えてるわね！"
+                                "\\n<Monster Maniac>It's increased by \\C[2]\\v[228] types\\C[0] since last time!"
                             ]
                         },
                         {
@@ -1933,14 +1933,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<魔物マニア>新しい魔物３種類ごとに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コアを１つプレゼントするわよ。"
+                                "\\n<Monster Maniac>For every new monster type you find, I'll give you one core\nas a gift."
                             ]
                         },
                         {
@@ -2004,14 +1997,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<魔物マニア>ぐへへへ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\.これでまた私のコレクションが増えた！"
+                                "\\n<Monster Maniac>Hehehe...! My collection has grown once again!"
                             ]
                         },
                         {
@@ -2098,7 +2084,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<魔物マニア>新しい魔物を見つけたら、また見せるのよ！"
+                                "\\n<Monster Maniac>If you find any new monsters, make sure to show them to me!"
                             ]
                         },
                         {
@@ -2135,7 +2121,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>新しい魔物を見つけたら、また見せるのよ！"
+                                "\\n<Monster Maniac>If you find any new monsters, make sure to show them to me!"
                             ]
                         },
                         {
@@ -2231,14 +2217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>魔物のタイプはいっぱいある……と見せかけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "実は\\C[24]２種類しかない\\C[0]わよ！！！"
+                                "\\n<Monster Maniac>There seem to be many types of monsters... but in reality,\nthere are only\\C[24] two types\\C[0]!!!"
                             ]
                         },
                         {
@@ -2255,7 +2234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>言うなれば、\\C[24]ノーマルか、それ以外か\\C[0]ね。"
+                                "\\n<Monster Maniac>In other words, it's either\\C[24] Normal or something\nelse\\C[0]."
                             ]
                         },
                         {
@@ -2272,14 +2251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>ノーマルには特殊な攻撃が通らないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[24]オート攻撃をしてもすべて通常攻撃になってしまう\\C[0]わ！"
+                                "\\n<Monster Maniac>Normal types are immune to special attacks, so even if you\nuse\\C[24] Auto-attack, it will all be converted to normal\nattacks\\C[0]!"
                             ]
                         },
                         {
@@ -2296,14 +2268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>他のタイプは弱点があるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[24]オート攻撃で特殊な攻撃をぶち込める\\C[0]のよ！"
+                                "\\n<Monster Maniac>Other types have weaknesses, so you can\\C[24] hit them with\nspecial attacks using Auto-attack\\C[0]!"
                             ]
                         },
                         {
@@ -2320,14 +2285,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>対空ミサイルや魚雷とかっていう特殊な攻撃は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[24]大ダメージを与えられる代わりに弾を消費する\\C[0]わ！"
+                                "\\n<Monster Maniac>Special attacks like anti-air missiles and torpedoes\ncan\\C[24] deal massive damage but consume ammo\\C[0]!"
                             ]
                         },
                         {
@@ -2344,14 +2302,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>弾がないと通常攻撃になっちゃうから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気を付けなさい！"
+                                "\\n<Monster Maniac>If you run out of ammo, it'll just be a normal attack, so be\ncareful!"
                             ]
                         },
                         {
@@ -2395,14 +2346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>魔物のタイプはいっぱいある……と見せかけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "実は\\C[24]だいたい２種類しかない\\C[0]わよ！！！"
+                                "\\n<Monster Maniac>There seem to be many types of monsters... but actually,\nthere are roughly\\C[24] only two types\\C[0]!!!"
                             ]
                         },
                         {
@@ -2419,7 +2363,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>言うなれば、\\C[24]物理か、魔法か\\C[0]ね。"
+                                "\\n<Monster Maniac>That is to say, it's either\\C[24] physical or magical\\C[0]."
                             ]
                         },
                         {
@@ -2436,14 +2380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>物理攻撃にはカット率が適用されるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[24]モードアイギスにしているとダメージが減る\\C[0]ってわけ！"
+                                "\\n<Monster Maniac>Physical attacks are subject to cut rates! When in\\C[24]\nMode Aegis, damage is reduced\\C[0]!"
                             ]
                         },
                         {
@@ -2460,14 +2397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>逆にモードアレスだとダメージが増えるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "攻めすぎには気を付けなさい！"
+                                "\\n<Monster Maniac>Conversely, in Mode Ares, damage increases! Be careful not\nto overdo it!"
                             ]
                         },
                         {
@@ -2484,7 +2414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>対して、魔法攻撃には\\C[24]カット率が関係しない\\C[0]わね！"
+                                "\\n<Monster Maniac>On the other hand, magical attacks are not affected by\\C[24]\ncut rates\\C[0]!"
                             ]
                         },
                         {
@@ -2501,14 +2431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>アイギスにしててもダメージを減らせない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "言い換えるとアレスにしててもデメリット無しってわけよ！"
+                                "\\n<Monster Maniac>Even if you're in Aegis mode, you can't reduce the damage!\nIn other words, there's no downside to being in Ares mode!"
                             ]
                         },
                         {
@@ -2525,7 +2448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>覚えておきなさい！"
+                                "\\n<Monster Maniac>Remember this!"
                             ]
                         },
                         {
@@ -2555,14 +2478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>やっぱり基本は\\C[24]敵の分析\\C[0]よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "１ターン目が惜しいならアナライザーを使いなさい！"
+                                "\\n<Monster Maniac>After all, the basics are\\C[24] analyzing the enemy\\C[0]! If\nyou don't want to waste a turn, use an Analyzer!"
                             ]
                         },
                         {
@@ -2579,14 +2495,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>ノーマル以外の相手はオート攻撃で弾を使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大ダメージを与えられるわ！弾がなかったら逃げなさい！"
+                                "\\n<Monster Maniac>Against anything other than Normal types, you can deal big\ndamage with Auto-attack using ammo! If you're out of ammo,\nrun away!"
                             ]
                         },
                         {
@@ -2603,14 +2512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>あと、どうしても弾を温存したいときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パワーナックルでとどめをさすのもありよりのあ～り！！"
+                                "\\n<Monster Maniac>Also, if you absolutely want to conserve ammo, finishing\nthem off with a Power Knuckle is also an option!"
                             ]
                         },
                         {
@@ -2627,14 +2529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>格下にはアレスでガン攻め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "回復したいときはアイギスにしてセルフリペア！"
+                                "\\n<Monster Maniac>Against weaker enemies, go on the offensive with Ares mode!\nWhen you need to heal, switch to Aegis mode and use Self\nRepair!"
                             ]
                         },
                         {
@@ -2651,7 +2546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<魔物マニア>モード変更を制するものはバトルを制すわよ！"
+                                "\\n<Monster Mania>He who masters Mode Change commands the battle!"
                             ]
                         },
                         {
@@ -2704,7 +2599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<魔物マニア>私はいつでも待ってるわよ。"
+                                "\\n<Monster Maniac>I'm always waiting for you."
                             ]
                         },
                         {
@@ -2791,14 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>むにゃむにゃ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は魔物と同じで\\C[24]夜型\\C[0]なのよ……。"
+                                "\\n<Monster Maniac>Mumbling... Just like a monster, I'm \\C[24]nocturnal\\C[0]..."
                             ]
                         },
                         {
@@ -2815,7 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物マニア>夜にきてちょうだい……。"
+                                "\\n<Monster Maniac>Please come at night..."
                             ]
                         },
                         {

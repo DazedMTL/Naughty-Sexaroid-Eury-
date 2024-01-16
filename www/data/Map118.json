@@ -1875,14 +1875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プロローグを見る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（５～１０分ほど、戦闘チュートリアルあり）"
+                                "Would you like to view the prologue? (It takes about 5-10\nminutes, with a combat tutorial included)"
                             ]
                         },
                         {
@@ -1921,21 +1914,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このゲームは倍速プレイが可能です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キーボードの\\C[24]Altを押したまま数字の２を押す\\C[0]ことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２倍速になります。"
+                                "This game allows for double-speed play. By pressing\n\\C[24]Alt and the number 2\\C[0] at the same time, you can\nplay at double speed."
                             ]
                         },
                         {
@@ -1952,21 +1931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "同様に、Alt+3では３倍速になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ALt+1を押す、またはゲームを再起動することで等速に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戻ります。"
+                                "Similarly, pressing Alt+3 will set the game to triple speed.\nPressing Alt+1 or restarting the game will return it to\nnormal speed."
                             ]
                         },
                         {
@@ -1983,14 +1948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、見落としたテキストは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[24]マウスホイールを上に回す\\C[0]ことで見直せます。"
+                                "If you miss any text, you can review it by scrolling up with\nthe \\C[24]mouse wheel\\C[0]."
                             ]
                         },
                         {
@@ -2007,7 +1965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲームを快適にプレイするために、活用してください！"
+                                "Please make use of these features for a more comfortable\ngaming experience!"
                             ]
                         },
                         {
@@ -2132,21 +2090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このゲームは倍速プレイが可能です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キーボードの\\C[24]Altを押したまま数字の２を押す\\C[0]ことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "２倍速になります。"
+                                "This game allows for double-speed play. By pressing\n\\C[24]Alt and the number 2\\C[0] at the same time, you can\nplay at double speed."
                             ]
                         },
                         {
@@ -2163,21 +2107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "同様に、Alt+3では３倍速になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ALt+1を押す、またはゲームを再起動することで等速に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戻ります。"
+                                "Similarly, pressing Alt+3 will set the game to triple speed.\nPressing Alt+1 or restarting the game will return it to\nnormal speed."
                             ]
                         },
                         {
@@ -2194,14 +2124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、見落としたテキストは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[24]マウスホイールを上に回す\\C[0]ことで見直せます。"
+                                "If you miss any text, you can review it by scrolling up with\nthe \\C[24]mouse wheel\\C[0]."
                             ]
                         },
                         {
@@ -2218,7 +2141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲームを快適にプレイするために、活用してください！"
+                                "Please make use of these features for a more comfortable\ngaming experience!"
                             ]
                         },
                         {

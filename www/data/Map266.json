@@ -9919,14 +9919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -10031,7 +10024,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>前回ひどい目に遭ったから、ちょっとなあ……。"
+                                "\\n<Eury>After what happened last time, I'm a bit..."
                             ]
                         },
                         {
@@ -10055,7 +10048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -10152,7 +10145,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>前回ひどい目に遭ったから、ちょっとなあ……。"
+                                "\\n<Eury>After what happened last time, I'm a bit..."
                             ]
                         },
                         {
@@ -10176,7 +10169,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]8\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level \\C[27]8\\C[0] is required."
                             ]
                         },
                         {
@@ -10943,7 +10936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ねえねえ、お姉さん……。"
+                                "\\n<Child>Hey, hey, big sister..."
                             ]
                         },
                         {
@@ -11038,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（あっかわいい）"
+                                "\\n<Eury>(Ah, how cute)"
                             ]
                         },
                         {
@@ -11071,7 +11064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>どうしたのな～？ぼくちゃん～♡"
+                                "\\n<Eury>What's wrong? Little boy~♡"
                             ]
                         },
                         {
@@ -11118,7 +11111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ここ……。"
+                                "\\n<Child>Over here..."
                             ]
                         },
                         {
@@ -11203,7 +11196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ボールが飛んでって、中入っちゃった……。"
+                                "\\n<Child>The ball flew over and went inside..."
                             ]
                         },
                         {
@@ -11307,7 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっ。"
+                                "\\n<Eury>Eh?"
                             ]
                         },
                         {
@@ -11324,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>取ってくれる？"
+                                "\\n<Child>Can you get it for me?"
                             ]
                         },
                         {
@@ -11357,7 +11350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、えーっとね……。"
+                                "\\n<Eury>Ah, well, you see..."
                             ]
                         },
                         {
@@ -11390,7 +11383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ここって前にハマっちゃったところだよね？）"
+                                "\\n<Eury>(This is the place I got stuck before, isn't it?)"
                             ]
                         },
                         {
@@ -11407,7 +11400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（さすがに同じあやまちを繰り返すわけには……）"
+                                "\\n<Eury>(I definitely can't make the same mistake again...)"
                             ]
                         },
                         {
@@ -11488,7 +11481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あのー……。"
+                                "\\n<Eury>Umm..."
                             ]
                         },
                         {
@@ -11505,7 +11498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>パパが誕生日にくれたんだ。"
+                                "\\n<Child>Daddy gave it to me for my birthday."
                             ]
                         },
                         {
@@ -11586,7 +11579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっ。"
+                                "\\n<Eury>Eh?"
                             ]
                         },
                         {
@@ -11603,7 +11596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>大事にしてたんだけど……ぐすん。"
+                                "\\n<Child>I've been taking good care of it... *sniffle*"
                             ]
                         },
                         {
@@ -11620,14 +11613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ごめんね、やっぱりいいや……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理なお願いだよね……。"
+                                "\\n<Child>Sorry, never mind... It's too much to ask, isn't it..."
                             ]
                         },
                         {
@@ -11708,14 +11694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いやいやいやいやいや！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取りますよ！任せてください！"
+                                "\\n<Eury>No no no no no!!! I'll get it! Leave it to me!"
                             ]
                         },
                         {
@@ -11732,7 +11711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ほんと！？いいの？"
+                                "\\n<Child>Really!? Is it okay?"
                             ]
                         },
                         {
@@ -11765,14 +11744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私は改造少女エウリィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな仕事でもちゃちゃっとこなしますよ！"
+                                "\\n<Eury>I am the modified girl Eury! I can handle any job with ease!"
                             ]
                         },
                         {
@@ -11863,7 +11835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>とぉう！！！"
+                                "\\n<Eury>Here I go!!!"
                             ]
                         },
                         {
@@ -11880,7 +11852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（大丈夫、前みたいに奥まで入りすぎなければ、多分！）"
+                                "\\n<Eury>(It's okay, as long as I don't go too deep like before,\nprobably!)"
                             ]
                         },
                         {
@@ -11909,7 +11881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（えっ！？）"
+                                "\\n<Eury>(Eh!? What's that?)"
                             ]
                         },
                         {
@@ -11993,7 +11965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（後ろから押し込まれてる！？何！？）"
+                                "\\n<Eury>(I'm being pushed from behind!? What the!?)"
                             ]
                         },
                         {
@@ -12022,7 +11994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（あ、だめだめだめ！！！）"
+                                "\\n<Eury>(No, no, no!!!)"
                             ]
                         },
                         {
@@ -12051,7 +12023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（こ、これのままだと、前みたいに……！）"
+                                "\\n<Eury>(If this keeps up, just like before...!)"
                             ]
                         },
                         {
@@ -12087,7 +12059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>よくやったぞガキ。"
+                                "\\n<Thug 1>Good job, kid."
                             ]
                         },
                         {
@@ -12104,7 +12076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>これ、報酬だ。"
+                                "\\n<Thug 2>Here's your reward."
                             ]
                         },
                         {
@@ -12121,7 +12093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>わーい！ありがと！"
+                                "\\n<Child>Yay! Thank you!"
                             ]
                         },
                         {
@@ -12138,7 +12110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>さてと、お楽しみだ。"
+                                "\\n<Thug 1>Now then, for the fun part."
                             ]
                         },
                         {
@@ -12238,7 +12210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、えぇえ！？騙したんですか！？"
+                                "\\n<Eury>Eh, what!? You tricked me!?"
                             ]
                         },
                         {
@@ -12255,7 +12227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ごめんね、セクサロイドのお姉さん。"
+                                "\\n<Child>Sorry, sexaroid big sister."
                             ]
                         },
                         {
@@ -12320,14 +12292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ！？ち、違います！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はセクサロイドじゃありません！"
+                                "\\n<Eury>What!? No, that's not right! I am not a sexaroid!"
                             ]
                         },
                         {
@@ -12344,14 +12309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>いつまでガキとしゃべってんだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手すんのは俺たちだぞ。"
+                                "\\n<Thug 1>How long are you gonna talk to the brat? You're dealing with\nus now."
                             ]
                         },
                         {
@@ -12368,7 +12326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>前のプレイが忘れられなくてな～。"
+                                "\\n<Thug 2>Can't forget about our last playtime, huh~."
                             ]
                         },
                         {
@@ -12385,7 +12343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ……！！だ、だめです！前みたいなのは！"
+                                "\\n<Eury>No...!! That's not okay! Not like last time!"
                             ]
                         },
                         {
@@ -12402,7 +12360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>思い出して興奮しちまったか？"
+                                "\\n<Thug 1>Remembering it got you all excited, huh?"
                             ]
                         },
                         {
@@ -12467,14 +12425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そ、そんなことありません！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたたちのこと、許してませんから！！"
+                                "\\n<Eury>That's not true at all!! I haven't forgiven you guys!!"
                             ]
                         },
                         {
@@ -12491,14 +12442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>生意気なセクサロイドだな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでも食らえ！"
+                                "\\n<Thug 1>Sassy for a sexaroid... Take this!"
                             ]
                         },
                         {
@@ -12599,7 +12543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お゛っ♡"
+                                "\\n<Eury>Ohh♡"
                             ]
                         },
                         {
@@ -12616,7 +12560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>おら！どうだ！！"
+                                "\\n<Thug 1>Take that! How's that!!"
                             ]
                         },
                         {
@@ -12681,14 +12625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめだめ、だめぇえ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指、やめて、ぇえ、あぁあ、あっ♡"
+                                "\\n<Eury>No, no, stop♡ Fingers, stop it, ah, ah, oh♡"
                             ]
                         },
                         {
@@ -12753,14 +12690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁああっ、んんっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめ、ぇええ♡そこ、だめぇ♡"
+                                "\\n<Eury>Haaah, nnn♡ No, no♡ Not there, please♡"
                             ]
                         },
                         {
@@ -12825,14 +12755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>激し、んんっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音、やだぁ、あっ、ああぁあ♡"
+                                "\\n<Eury>So intense, nnn♡ The sound, I hate it, ah, ah, ahhh♡"
                             ]
                         },
                         {
@@ -12897,7 +12820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁだめ、い、イグっ♡"
+                                "\\n<Eury>Haaah no, I'm, I'm cumming♡"
                             ]
                         },
                         {
@@ -12969,7 +12892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{あ゛っ♡"
+                                "\\n<Eury>Ah♡"
                             ]
                         },
                         {
@@ -13075,7 +12998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ……。"
+                                "\\n<Eury>Haa, ah, ahhh..."
                             ]
                         },
                         {
@@ -13092,7 +13015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>指だけじゃ満足できないよな？"
+                                "\\n<Thug 2>Fingers alone aren't enough for you, are they?"
                             ]
                         },
                         {
@@ -13109,7 +13032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そ、そんな、こと……。"
+                                "\\n<Eury>Th-that's not..."
                             ]
                         },
                         {
@@ -13126,7 +13049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>じゃあ、早速いただきまーす。"
+                                "\\n<Thug 1>Then, let's get started."
                             ]
                         },
                         {
@@ -13143,7 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>た、たんま！！だめ、だめですから！！！"
+                                "\\n<Eury>Wait, wait!! No, that's not okay!!!"
                             ]
                         },
                         {
@@ -13304,7 +13227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、ああぁあんっ♡"
+                                "\\n<Eury>Haa, ahhhhn♡"
                             ]
                         },
                         {
@@ -13321,7 +13244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>うお、相変わらずの名器だぜ。"
+                                "\\n<Thug 1>Whoa, as always, such a fantastic pussy."
                             ]
                         },
                         {
@@ -13338,7 +13261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>さっさとヤれよな、俺も待ってんだから。"
+                                "\\n<Thug 2>Hurry up and fuck her, I'm waiting my turn."
                             ]
                         },
                         {
@@ -13403,7 +13326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あっ、だめ、抜いて、もぅ♡"
+                                "\\n<Eury>Ahh, ah, no, pull it out, please♡"
                             ]
                         },
                         {
@@ -13497,7 +13420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>新型ちゃんさあ、名前なんだっけ？"
+                                "\\n<Thug 1>Hey new model-chan, what was your name again?"
                             ]
                         },
                         {
@@ -13514,7 +13437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、えぇえ、なんですか急に！"
+                                "\\n<Eury>Eh, eehh, why are you asking all of a sudden?!"
                             ]
                         },
                         {
@@ -13531,14 +13454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>セックスする相手の名前ぐらい知りてえだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えろよ。"
+                                "\\n<Thug 1>I wanna know the name of the person I'm having sex with.\nTell me."
                             ]
                         },
                         {
@@ -13555,7 +13471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……エウリィ、です。"
+                                "\\n<Eury>...Eury."
                             ]
                         },
                         {
@@ -13572,14 +13488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>よし、エウリィ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺とちょっとゲームして遊ばねえか？"
+                                "\\n<Thug 1>Alright, Eury. How about playing a little game with me?"
                             ]
                         },
                         {
@@ -13596,7 +13505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、な、なんですかこんな状況で……！"
+                                "\\n<Eury>Wh-what are you talking about in this situation...?!"
                             ]
                         },
                         {
@@ -13613,7 +13522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>俺は今からエウリィを壁尻レイプするけどよ。"
+                                "\\n<Thug 1>I'm going to rape Eury against the wall from behind."
                             ]
                         },
                         {
@@ -13630,14 +13539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>俺がイくまでに１回もエウリィが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イかなかったら勝ちにしてやるよ。"
+                                "\\n<Thug 1>If Eury doesn't cum even once before I do, I'll consider it\nher win."
                             ]
                         },
                         {
@@ -13654,7 +13556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>そんときは壁尻から解放してやる。"
+                                "\\n<Thug 1>And then I'll let her go from the wall fuck."
                             ]
                         },
                         {
@@ -13671,7 +13573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふざけないでください……！！"
+                                "\\n<Eury>Please don't joke about this...!!"
                             ]
                         },
                         {
@@ -13688,14 +13590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>ふざけてねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イかないだけでいいんだぞ？"
+                                "\\n<Thug 1>I'm not joking. Just don't cum and you'll be fine."
                             ]
                         },
                         {
@@ -13712,14 +13607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そんなゲームはしません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやく、解放して……。"
+                                "\\n<Eury>I won't play such a game! Release me quickly..."
                             ]
                         },
                         {
@@ -13736,14 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>なあ、負けた場合のルールを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説明しないから怒ってるんじゃねえのか？"
+                                "\\n<Thug 2>Hey, maybe she's mad because you didn't explain the rules\nfor if she loses?"
                             ]
                         },
                         {
@@ -13760,7 +13641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>おっと、そういうことか。"
+                                "\\n<Thug 1>Oh right, that might be it."
                             ]
                         },
                         {
@@ -13777,7 +13658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ……！勝手に話を進めないで！"
+                                "\\n<Eury>Wha...! Don't decide things on your own!"
                             ]
                         },
                         {
@@ -13794,7 +13675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>エウリィが負けたら、２人目がレイプする。"
+                                "\\n<Thug 1>If Eury loses, the second person gets to rape her."
                             ]
                         },
                         {
@@ -13811,14 +13692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>で、今度は俺と勝負する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ？おもしろいだろ？"
+                                "\\n<Thug 2>And then she'll play the game with me. How's that? Fun,\nright?"
                             ]
                         },
                         {
@@ -13835,7 +13709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>どこが……！！"
+                                "\\n<Eury>How is that...!!"
                             ]
                         },
                         {
@@ -13852,14 +13726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>テンポ悪いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続きのルールはヤりながら話すぞ。"
+                                "\\n<Thug 1>You're killing the mood. I'll explain the rest of the rules\nwhile we fuck."
                             ]
                         },
                         {
@@ -13876,7 +13743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ちょ、ちょっとたんま！"
+                                "\\n<Eury>Ah, wait, just wait a moment!"
                             ]
                         },
                         {
@@ -13989,7 +13856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、ああんっ♡"
+                                "\\n<Eury>Haa, ah, ahhhn♡"
                             ]
                         },
                         {
@@ -14054,7 +13921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、だめ、動かしちゃ、あぁ、あっ♡"
+                                "\\n<Eury>Ah, no, if you move it like that, ahh, ah♡"
                             ]
                         },
                         {
@@ -14071,14 +13938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>で、俺とのセックスでも負けたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は組から別のやつを呼んでくる。"
+                                "\\n<Thug 2>And if she loses to me as well, next we'll call someone else\nfrom the gang."
                             ]
                         },
                         {
@@ -14131,7 +13991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>く、組ぃ、いっ♡って、な、何、ぃい♡"
+                                "\\n<Eury>Th-the gang, ahh♡ What are you saying♡"
                             ]
                         },
                         {
@@ -14148,14 +14008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>３人目にも負けたら同じように４人目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負ければ負けるほど連戦ってわけだ。"
+                                "\\n<Thug 2>If she loses to the third person as well, then comes the\nfourth. The more she loses, the more consecutive battles she\nfaces."
                             ]
                         },
                         {
@@ -14172,7 +14025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>わかったか？"
+                                "\\n<Thug 2>Got it?"
                             ]
                         },
                         {
@@ -14189,7 +14042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あんっ、んん、あっ♡"
+                                "\\n<Eury>Haa, ah, ahhn, mmm, ah♡"
                             ]
                         },
                         {
@@ -14206,7 +14059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>おら、わかったのかって聞いてんだよ。"
+                                "\\n<Thug 1>Hey, did you get that?"
                             ]
                         },
                         {
@@ -14223,7 +14076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、あんっ、はぁ、あっ♡"
+                                "\\n<Eury>Ah, ahn, haa, ah♡"
                             ]
                         },
                         {
@@ -14288,7 +14141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、だめぇ、あっ、ああぁあんっ♡"
+                                "\\n<Eury>No, no way, ah, ahhhn♡"
                             ]
                         },
                         {
@@ -14305,7 +14158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>すっかりマンコのことしか考えてねえなこいつ。"
+                                "\\n<Thug 1>She's completely focused on her pussy now."
                             ]
                         },
                         {
@@ -14370,7 +14223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、はぁ、あっ、だめ、だめ、イクぅ！♡"
+                                "\\n<Eury>Ah, haa, ah, no, no, I'm cumming!♡"
                             ]
                         },
                         {
@@ -14387,7 +14240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>おい、わかってんだろうな。イったら連戦だからな。"
+                                "\\n<Thug 1>Hey, you understand, right? If you cum, it's a consecutive\nbattle."
                             ]
                         },
                         {
@@ -14440,7 +14293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（だめ、そんなのは……！が、我慢しないと！）"
+                                "\\n<Eury>(No, I can't...! I have to endure it!)"
                             ]
                         },
                         {
@@ -14457,7 +14310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あ、んっ、あぁあ、あっ♡"
+                                "\\n<Eury>Haa, ah, nnh, ahh, ah♡"
                             ]
                         },
                         {
@@ -14474,7 +14327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>お、もしかいてイキ我慢してるか？"
+                                "\\n<Thug 1>Oh, are you trying to hold back your orgasm?"
                             ]
                         },
                         {
@@ -14491,7 +14344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あっ……！"
+                                "\\n<Eury>Haa, ah, ah...!"
                             ]
                         },
                         {
@@ -14508,7 +14361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>イキ我慢でマンコ絞めてんだろ？"
+                                "\\n<Thug 1>You're tightening your pussy because you're holding back an\norgasm, aren't you?"
                             ]
                         },
                         {
@@ -14525,7 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あっ……！"
+                                "\\n<Eury>Ahh, ah...!"
                             ]
                         },
                         {
@@ -14542,7 +14395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>うおお～！エウリィのマンコ気持ちい～！"
+                                "\\n<Thug 1>Uooo~! Eury's pussy feels so good~!"
                             ]
                         },
                         {
@@ -14559,7 +14412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>もうちょっとでイキそうだぜ。"
+                                "\\n<Thug 1>I'm about to cum any minute now."
                             ]
                         },
                         {
@@ -14576,7 +14429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁ……！"
+                                "\\n<Eury>Haa, ah, ahh...!"
                             ]
                         },
                         {
@@ -14593,14 +14446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（だ、大丈夫、我慢できる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐイくなら、私の方が遅いはず……！）"
+                                "\\n<Eury>(It's okay, I can endure it...! If he's about to cum, I\nshould be able to last longer...!)"
                             ]
                         },
                         {
@@ -14617,7 +14463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>やばいやばい、もう出るわ。"
+                                "\\n<Thug 1>Damn, damn, I'm gonna cum."
                             ]
                         },
                         {
@@ -14634,7 +14480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>おいおい、まさかセクサロイドに負けないよな？"
+                                "\\n<Thug 2>Hey hey, don't tell me you're going to lose to a sexaroid?"
                             ]
                         },
                         {
@@ -14651,14 +14497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（１回で終わらせて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　壁から解放してもらうんだから……！）"
+                                "\\n<Eury>(I have to finish this in one go and get released from this\nwall...!)"
                             ]
                         },
                         {
@@ -14675,7 +14514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>じゃあ、ラストスパートで一気に激しくするぞ。"
+                                "\\n<Thug 1>Then, for the last spurt, I'm going to go at it hard."
                             ]
                         },
                         {
@@ -14740,7 +14579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっ……あ、だ、だめ！"
+                                "\\n<Eury>Eh...ah, no, stop!"
                             ]
                         },
                         {
@@ -14757,7 +14596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぁ、あっ、あぁあ♡"
+                                "\\n<Eury>Haa, ahh, ah, ahh♡"
                             ]
                         },
                         {
@@ -14774,7 +14613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、無理ぃ、いっ、いぃい♡"
+                                "\\n<Eury>No way, it's impossible, I'm cumming, ahhh♡"
                             ]
                         },
                         {
@@ -14839,7 +14678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>い、イク、ぅうう♡"
+                                "\\n<Eury>I'm cumming, uuu♡"
                             ]
                         },
                         {
@@ -14856,7 +14695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>あーやばい、もうすぐ出る。"
+                                "\\n<Thug 1>Ah- damn it, I'm about to cum."
                             ]
                         },
                         {
@@ -14921,14 +14760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、はぁあ、あっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く、イ、イってぇえ♡"
+                                "\\n<Eury>Ha, haaa, ah♡ Hurry up and cum♡"
                             ]
                         },
                         {
@@ -14993,7 +14825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、だめ、だめ、もう、ああぁっ♡"
+                                "\\n<Eury>Ah, no way, no way, I'm already, ahhh♡"
                             ]
                         },
                         {
@@ -15058,7 +14890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、中、イ、イク、ぅうう♡"
+                                "\\n<Eury>Inside, I'm cumming, uuu♡"
                             ]
                         },
                         {
@@ -15178,7 +15010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、はぁあ、あんっ♡"
+                                "\\n<Eury>Ah, haaa, ahn♡"
                             ]
                         },
                         {
@@ -15195,7 +15027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>お、イったな？"
+                                "\\n<Thug 1>Oh, did you cum?"
                             ]
                         },
                         {
@@ -15248,7 +15080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁ、ああ……。"
+                                "\\n<Eury>Haa, ah, ahh, ahh..."
                             ]
                         },
                         {
@@ -15306,7 +15138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>イ、イって、な、ないです……！"
+                                "\\n<Eury>I didn't cum...!"
                             ]
                         },
                         {
@@ -15323,7 +15155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>嘘つけ、腰が思いっきりビクンってなってたぞ。"
+                                "\\n<Thug 1>Don't lie; your hips jerked big time."
                             ]
                         },
                         {
@@ -15340,7 +15172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>嘘はよくねえな。"
+                                "\\n<Thug 2>Lying isn't good."
                             ]
                         },
                         {
@@ -15357,7 +15189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、そ、そんな……！"
+                                "\\n<Eury>Haa, ah, that's not...!"
                             ]
                         },
                         {
@@ -15374,14 +15206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（我慢してた反動ですごい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　足、ガクガクしてるよぉ……）"
+                                "\\n<Eury>(The backlash from holding back is intense... My legs are\nshaking...)"
                             ]
                         },
                         {
@@ -15398,7 +15223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>まあ先に嘘ついたのは俺なんだけどよ。"
+                                "\\n<Thug 1>Well, the first one to lie was me though."
                             ]
                         },
                         {
@@ -15415,7 +15240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……え？"
+                                "\\n<Eury>...Eh?"
                             ]
                         },
                         {
@@ -15432,14 +15257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>俺があとちょっとで出るとか言ったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら勝てるかもって思っただろ？"
+                                "\\n<Thug 1>When I said I was about to cum earlier, you thought maybe\nyou could win, right?"
                             ]
                         },
                         {
@@ -15456,7 +15274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、まさか……！"
+                                "\\n<Eury>You can't be serious...!"
                             ]
                         },
                         {
@@ -15473,14 +15291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>必死にイキ我慢するエウリィ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "滑稽でおもしろかったぜ。"
+                                "\\n<Thug 1>Eury desperately trying not to cum was so funny and\npathetic."
                             ]
                         },
                         {
@@ -15497,7 +15308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>最低……！"
+                                "\\n<Eury>You're the worst...!"
                             ]
                         },
                         {
@@ -15514,14 +15325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>じゃ、俺の勝ちな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはウイニングランだ。"
+                                "\\n<Thug 1>So, I win. Now for my victory run."
                             ]
                         },
                         {
@@ -15538,7 +15342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめ！嫌……！！！"
+                                "\\n<Eury>No, no! Please...!!!"
                             ]
                         },
                         {
@@ -15639,7 +15443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、ああぁあんっ♡"
+                                "\\n<Eury>Haa, ahh, ahhn♡"
                             ]
                         },
                         {
@@ -15656,7 +15460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、だめ、もうだめぇえ♡"
+                                "\\n<Eury>Ah, no, I can't take it anymore♡"
                             ]
                         },
                         {
@@ -15673,14 +15477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>このあと２人目だからなー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のうちにイっておいた方がいいんじゃねえの？"
+                                "\\n<Thug 1>Since you've got another one after me, you might as well cum\nnow, right?"
                             ]
                         },
                         {
@@ -15697,7 +15494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あっ、あぁあ♡"
+                                "\\n<Eury>Haa, ah, ah, ahh♡"
                             ]
                         },
                         {
@@ -15714,7 +15511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>嫌、あぁ！もう、解放して、えぇえ♡"
+                                "\\n<Eury>No, ahh! Please, let me go, eeh♡"
                             ]
                         },
                         {
@@ -15731,7 +15528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>うるせえな、セクサロイドのくせに文句言うな。"
+                                "\\n<Thug 1>Shut up, don't complain like a sexaroid."
                             ]
                         },
                         {
@@ -15748,7 +15545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぅう、あっ、はぁあっ♡"
+                                "\\n<Eury>Auu, ah, haaah♡"
                             ]
                         },
                         {
@@ -15827,7 +15624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁぁああっ♡"
+                                "\\n<Eury>Aahhhaaah♡"
                             ]
                         },
                         {
@@ -15880,7 +15677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ……。"
+                                "\\n<Eury>Haa, ah, ahh..."
                             ]
                         },
                         {
@@ -15897,7 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>よし、中出し終わりっと。"
+                                "\\n<Thug 1>Alright, I'm done cumming inside."
                             ]
                         },
                         {
@@ -15967,7 +15764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>使っていいぞ。"
+                                "\\n<Thug 1>She's all yours."
                             ]
                         },
                         {
@@ -15984,7 +15781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>よっしゃ。"
+                                "\\n<Thug 2>Hell yeah."
                             ]
                         },
                         {
@@ -16049,7 +15846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、だめ、今、だめ……。"
+                                "\\n<Eury>Haa, ah, no, not now..."
                             ]
                         },
                         {
@@ -16155,7 +15952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁあんっ♡"
+                                "\\n<Eury>Ahhahn♡"
                             ]
                         },
                         {
@@ -16172,7 +15969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>じゃあ２回戦だ、行くぜ。"
+                                "\\n<Thug 2>Then it's round two for me, let's go."
                             ]
                         },
                         {
@@ -16237,7 +16034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、お願い、抜いて……。"
+                                "\\n<Eury>Please, pull it out..."
                             ]
                         },
                         {
@@ -16345,7 +16142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んんっ、はぁ、あっ、あんっ♡"
+                                "\\n<Eury>Nnnh, haa, ah, ahhn♡"
                             ]
                         },
                         {
@@ -16362,7 +16159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>俺結構早漏なんだよな。"
+                                "\\n<Thug 2>I'm actually pretty quick to cum."
                             ]
                         },
                         {
@@ -16379,7 +16176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>大丈夫だろ、セクサロイドは簡単にイくしな。"
+                                "\\n<Thug 1>It's fine, sexaroids cum easily anyway."
                             ]
                         },
                         {
@@ -16396,7 +16193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あんっ♡"
+                                "\\n<Eury>Haa, ah, ahhn♡"
                             ]
                         },
                         {
@@ -16413,7 +16210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>やべえ、もう出る。"
+                                "\\n<Thug 2>Damn, I'm gonna cum already."
                             ]
                         },
                         {
@@ -16430,7 +16227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>おいおい、いくらなんでも早すぎだろ。"
+                                "\\n<Thug 1>Hey hey, that's way too fast even for you."
                             ]
                         },
                         {
@@ -16447,7 +16244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（はぁ、あ……これも、嘘かも……）"
+                                "\\n<Eury>(Haa, ah... this could also be a lie...)"
                             ]
                         },
                         {
@@ -16464,7 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（で、でも、本当なら、２人目で解放されるはず……！）"
+                                "\\n<Eury>(But if it's true, I should be released after the second\none...!)"
                             ]
                         },
                         {
@@ -16481,7 +16278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、はぁ、あんっ、あぁあっ♡"
+                                "\\n<Eury>Ah, haa, ahhn, ahh♡"
                             ]
                         },
                         {
@@ -16498,7 +16295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>だめだ、本当にもう出る。"
+                                "\\n<Thug 2>No use, I'm really gonna cum now."
                             ]
                         },
                         {
@@ -16515,7 +16312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、出して、は、はやく……んっ♡"
+                                "\\n<Eury>Do it, hurry up and cum...nn♡"
                             ]
                         },
                         {
@@ -16532,7 +16329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>おら、中に出すぞ！"
+                                "\\n<Thug 2>Here I go, I'm cumming inside!"
                             ]
                         },
                         {
@@ -16549,7 +16346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あんっ♡"
+                                "\\n<Eury>Haa, ah, ahhn♡"
                             ]
                         },
                         {
@@ -16628,7 +16425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁぁああ、ああんっ♡"
+                                "\\n<Eury>Aahhaaahh, ahhn♡"
                             ]
                         },
                         {
@@ -16681,7 +16478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ……。"
+                                "\\n<Eury>Haa, ah, ahh..."
                             ]
                         },
                         {
@@ -16698,14 +16495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ほ、ほんとに出された……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、私、イってないよね……？）"
+                                "\\n<Eury>(He really did cum inside... but I didn't cum... right?)"
                             ]
                         },
                         {
@@ -16722,14 +16512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>よく我慢したじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、相手が弱すぎたか。"
+                                "\\n<Thug 1>You held out well. Maybe the guy was just too weak."
                             ]
                         },
                         {
@@ -16746,7 +16529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>ふう、気持ちよかった。"
+                                "\\n<Thug 2>Phew, that felt good."
                             ]
                         },
                         {
@@ -16816,7 +16599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あ、ああ……。"
+                                "\\n<Eury>Haa, ah, ahh..."
                             ]
                         },
                         {
@@ -16833,7 +16616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>も、もういいですよね……解放してください……。"
+                                "\\n<Eury>It's over now, right...? Please let me go..."
                             ]
                         },
                         {
@@ -16850,7 +16633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>ん、ああ。そういうルールだったな。"
+                                "\\n<Thug 1>Hmm, ah, that's right. That was the rule."
                             ]
                         },
                         {
@@ -16867,14 +16650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなたたちのことは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許すから……早く抜いて……。"
+                                "\\n<Eury>I'll forgive you... so please pull out quickly..."
                             ]
                         },
                         {
@@ -16891,7 +16667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>しょうがねえなあ、ちょっとまっとけよ。"
+                                "\\n<Thug 2>Can't be helped, wait a sec."
                             ]
                         },
                         {
@@ -16958,7 +16734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ３>おい。"
+                                "\\n<Thug 3>Hey."
                             ]
                         },
                         {
@@ -16975,7 +16751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ３>俺抜きで何楽しそうなことしてんだよ？"
+                                "\\n<Thug 3>What's this fun you're having without me?"
                             ]
                         },
                         {
@@ -16992,14 +16768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>お、久しぶりだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前も使うか？便器穴。"
+                                "\\n<Thug 1>Oh, it's been a while. You want to use her too? The toilet\nhole."
                             ]
                         },
                         {
@@ -17016,7 +16785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……え？"
+                                "\\n<Eury>...Eh?"
                             ]
                         },
                         {
@@ -17033,14 +16802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ３>２人の中古かよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあいっか、ケツでかくて気持ちよさそうだし。"
+                                "\\n<Thug 3>She's second-hand from the two of you, huh. Well, whatever,\nher ass looks big and comfy."
                             ]
                         },
                         {
@@ -17057,7 +16819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>う、うそ……！？話が違います！"
+                                "\\n<Eury>No, that's not right...! That's not what you said!"
                             ]
                         },
                         {
@@ -17074,7 +16836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>うるせえな、２人も３人も変わらねえだろ。"
+                                "\\n<Thug 2>Shut up, it doesn't make a difference if it's two or three."
                             ]
                         },
                         {
@@ -17139,7 +16901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>待って！！やめて、お願いだから……！"
+                                "\\n<Eury>Wait!! Please stop, I'm begging you...!"
                             ]
                         },
                         {
@@ -17156,7 +16918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ３>うるせえ！メス穴が口答えすんな！"
+                                "\\n<Thug 3>Shut up! Don't talk back with your pussy mouth!"
                             ]
                         },
                         {
@@ -17228,7 +16990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、ああぁあ！！♡"
+                                "\\n<Eury>Haa, aahhaaahh!!♡"
                             ]
                         },
                         {
@@ -17245,14 +17007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後もしばらく解放されず、代わる代わる犯された。"
+                                "In the end... she was not released for a while longer, being\nviolated over and over by different men."
                             ]
                         },
                         {
@@ -17312,7 +17067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぅう……。"
+                                "\\n<Eury>Haa, ahh..."
                             ]
                         },
                         {
@@ -17329,7 +17084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ１>ふう、もう出ねえわ。"
+                                "\\n<Thug 1>Phew, I can't cum anymore."
                             ]
                         },
                         {
@@ -17346,7 +17101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ２>さて、今日はもう帰るか。"
+                                "\\n<Thug 2>Well then, I guess I'll head home for today."
                             ]
                         },
                         {
@@ -17363,7 +17118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、ぁあ……。"
+                                "\\n<Eury>Ahh, aah..."
                             ]
                         },
                         {
@@ -17380,7 +17135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゴロツキ３>気持ちよかったぜ。ほら、お礼やるよ。"
+                                "\\n<Thug 3>That felt good. Here, take this as thanks."
                             ]
                         },
                         {
@@ -17445,7 +17200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んぐ、んっ♡"
+                                "\\n<Eury>Nn, ngh, nn♡"
                             ]
                         },
                         {
@@ -17462,7 +17217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アソコにグロウコアを押し込められた……。"
+                                "A Glow Core was pressed into her pussy..."
                             ]
                         },
                         {
@@ -17774,7 +17529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {

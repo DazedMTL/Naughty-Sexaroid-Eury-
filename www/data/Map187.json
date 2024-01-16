@@ -1630,14 +1630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「ゴミを分別しない、決まった場所に捨てない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この街の住民が本当のゴミ」"
+                                "\\n<Cleaning Robot>\"Those who don't sort their trash, who don't dispose of it\nin the designated areas, are the real trash of this city.\""
                             ]
                         },
                         {
@@ -1654,14 +1647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>マリオン様の録音データです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに人が近づいたら自動で再生されます。"
+                                "\\n<Cleaning Robot>This is a recording from Lady Marion. It will play\nautomatically when someone approaches."
                             ]
                         },
                         {
@@ -1687,14 +1673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -1850,7 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -2022,14 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「忙しいときはどのタスクからやってもいいから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むしろ精神的に落ち着いてくるまである」"
+                                "\\n<Cleaning Robot>\"When you're busy, it's okay to start with any task. In\nfact, it's better to wait until you're mentally settled\ndown.\""
                             ]
                         },
                         {
@@ -2046,14 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>マリオン様の録音データです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メモリ使用率が９９％を超えてると自動で再生されます。"
+                                "\\n<Cleaning Robot>\"This is a recording data for Lady Marion. It will\nautomatically play when the memory usage exceeds 99%.\""
                             ]
                         },
                         {
@@ -2079,14 +2044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>\"This is for you, Eury-san. Please take this.\""
                             ]
                         },
                         {
@@ -2242,7 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -2702,7 +2660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>えっほ、えっほ、えっほ……。"
+                                "\\n<Cleaning Robot>Heave-ho, heave-ho, heave-ho..."
                             ]
                         },
                         {
@@ -2719,14 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>こうして左右に動くことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かしてる感」を出しています。"
+                                "\\n<Cleaning Robot>By moving side to side like this, I'm giving off the\nimpression that I'm doing something."
                             ]
                         },
                         {
@@ -2752,14 +2703,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<掃除ロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Cleaning Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -2915,7 +2859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -3087,14 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>ちんすこう♡　アナリスト♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マンホール♡　マンチカン♡　ペンション♡"
+                                "\\n<Sexaroid>Chinsuko♡Analyst♡Manhole♡Munchkin♡Pension♡"
                             ]
                         },
                         {
@@ -3111,14 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セクサロイド>……うふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然えっちなこと言ってないのにニヤけちゃうわね。"
+                                "\\n<Sexaroid>...Ufufu. I can't help but grin, even though I'm not saying\nanything naughty."
                             ]
                         },
                         {
@@ -3407,7 +3337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>……すぴー、すぴー。"
+                                "\\n<Worker>...zzz, zzz."
                             ]
                         },
                         {
@@ -3424,7 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>……あ、寝てたわ。"
+                                "\\n<Worker>...Ah, I was asleep."
                             ]
                         },
                         {
@@ -3441,14 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>そっか、そろそろ作業の時間か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん－、あとちょっとゴロゴロしたらがんばるぞー。"
+                                "\\n<Worker>I see, it's about time to start working. Hmm, I'll roll\naround a bit more and then I'll get to it."
                             ]
                         },
                         {
@@ -3535,7 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<作業員>……ゴロゴロ。"
+                                "\\n<Worker>...*rumble rumble*."
                             ]
                         },
                         {
@@ -3714,7 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<不審者>へへへ……儲けた儲けた。"
+                                "\\n<Suspicious person>Hehehe... I made a killing."
                             ]
                         },
                         {
@@ -3731,14 +3654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<不審者>……何見てんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっちいけ！"
+                                "\\n<Suspicious person>...What are you looking at?! Get lost!"
                             ]
                         },
                         {
@@ -3785,7 +3701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>怪しい！！怪しすぎる！！！！"
+                                "\\n<Eury>Suspicious!! Way too suspicious!!!!"
                             ]
                         },
                         {
@@ -3802,7 +3718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>資材を盗んだのはあなたですね！！"
+                                "\\n<Eury>You're the one who stole the materials, aren't you?!!"
                             ]
                         },
                         {
@@ -3819,7 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<不審者>……っち、面倒なことになったな。"
+                                "\\n<Suspicious person>...Tch, this just got annoying."
                             ]
                         },
                         {
@@ -3862,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、待ちなさい！"
+                                "\\n<Eury>Ah, wait!"
                             ]
                         },
                         {
@@ -3923,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>逃げられちゃいました……。"
+                                "\\n<Eury>She got away..."
                             ]
                         },
                         {
@@ -3956,14 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\C[2]テンゲツ街の出口\\C[0]の方に行ったみたいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追いかけましょう！"
+                                "\\n<Eury>It looks like she went towards the \\C[2]exit of Tengeki\nStreet\\C[0]. Let's chase after her!"
                             ]
                         },
                         {
@@ -4098,7 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>植物を見ているとなんだか落ち着きますね。"
+                                "\\n<Patrol Robot>Looking at plants somehow makes you feel at ease, doesn't\nit?"
                             ]
                         },
                         {
@@ -4115,14 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>……こういう「ロボットと植物」みたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組み合わせ、みんな好きかなって思ってやってみました。"
+                                "\\n<Patrol Robot>...I wondered if everyone would like this kind of \"robots\nand plants\" combination, so I decided to try it out."
                             ]
                         },
                         {
@@ -4148,14 +4050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<パトロールロボ>エウリィさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これをどうぞ。"
+                                "\\n<Patrol Robot>You're Eury-san, right? Please take this."
                             ]
                         },
                         {
@@ -4333,7 +4228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<パトロールロボ>充電中。"
+                                "\\n<Patrol Robot>Charging."
                             ]
                         },
                         {

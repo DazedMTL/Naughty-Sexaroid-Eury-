@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マリオンの隠れ家",
+    "displayName": "Marion's Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -3128,7 +3128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……話ってなんだよ。というか、お前誰だよ。"
+                                "\\n<Ruin>...What are you talking about? And who are you, anyway?"
                             ]
                         },
                         {
@@ -3152,14 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>私が誰か。そんなこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたにとってはどうでも良いことです。"
+                                "\\n<Gargan>Who I am? Such things are irrelevant to you."
                             ]
                         },
                         {
@@ -3176,7 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>……あなたの技術を認めましょう。"
+                                "\\n<Gargan>...I will acknowledge your technology."
                             ]
                         },
                         {
@@ -3209,7 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>なっ……！？"
+                                "\\n<Ruin>What...!?"
                             ]
                         },
                         {
@@ -3226,14 +3219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>ルイン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの全てを調べさせて頂きました。"
+                                "\\n<Gargan>Ruin. I have thoroughly investigated everything about you."
                             ]
                         },
                         {
@@ -3250,14 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの技術は生物からエネルギーを取り出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意思を持つかのように振舞う機械を作ること。"
+                                "\\n<Gargan>Your technology extracts energy from living beings and\ncreates machines that behave as if they have a will of their\nown."
                             ]
                         },
                         {
@@ -3274,14 +3253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>それは危険なものとされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰からも認められることはなかった。"
+                                "\\n<Gargan>It has been deemed dangerous and has never been recognized\nby anyone."
                             ]
                         },
                         {
@@ -3298,7 +3270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>だけど、その技術を、私が認めましょう。"
+                                "\\n<Gargan>However, I will recognize that technology."
                             ]
                         },
                         {
@@ -3346,7 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの力が必要です。"
+                                "\\n<Gargan>Your power is needed."
                             ]
                         },
                         {
@@ -3379,7 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……それで、私に何のメリットがある。"
+                                "\\n<Ruin>...So, what's in it for me?"
                             ]
                         },
                         {
@@ -3396,14 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの怨敵である、改造少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女たちを破滅に導くための取引です。"
+                                "\\n<Gargan>A deal to lead your sworn enemies, the modified girls, to\nruin."
                             ]
                         },
                         {
@@ -3436,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……くだらない。"
+                                "\\n<Ruin>...Ridiculous."
                             ]
                         },
                         {
@@ -3453,14 +3418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>確かに私はマリオンが憎い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ、それは一方的な逆恨みだ。"
+                                "\\n<Ruin>Indeed, I hate Marion. But that's just one-sided resentment."
                             ]
                         },
                         {
@@ -3493,7 +3451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>そんな取引には応じられないな。"
+                                "\\n<Ruin>I can't agree to such a deal."
                             ]
                         },
                         {
@@ -3510,7 +3468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>……それなら、こうしましょう。"
+                                "\\n<Gargan>...Then let's do this instead."
                             ]
                         },
                         {
@@ -3527,14 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの母親の体を蝕む、魔物の毒素。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを治療する方法を教えましょう。"
+                                "\\n<Gargan>The poison of a demon that is corroding your mother's body.\nI shall teach you the method to cure it."
                             ]
                         },
                         {
@@ -3567,7 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\{……！？"
+                                "\\n<Ruin>\\{……！?"
                             ]
                         },
                         {
@@ -3584,14 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>ただし、成功報酬です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたには、私が指示した通りに動いて頂きます。"
+                                "\\n<Gargan>However, it will be a success fee. You will have to act as I\ninstruct you."
                             ]
                         },
                         {
@@ -3608,14 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの作る魔物が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女に勝つこと。それが条件です。"
+                                "\\n<Gargan>The condition is that the monsters you create must defeat\nthe modified girls."
                             ]
                         },
                         {
@@ -3632,7 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>協力してくださりますね？"
+                                "\\n<Gargan>You will cooperate, won't you?"
                             ]
                         },
                         {
@@ -3665,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……。"
+                                "\\n<Ruin>……。"
                             ]
                         },
                         {
@@ -3712,7 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……約束は、守れよ。"
+                                "\\n<Ruin>...Keep your promise."
                             ]
                         },
                         {
@@ -3729,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あなたの母親は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたにとって唯一の味方だった。"
+                                "\\n<Gargan>Your mother was your only ally."
                             ]
                         },
                         {
@@ -3753,7 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>約束は必ず守りましょう。"
+                                "\\n<Gargan>I will certainly keep my promise."
                             ]
                         },
                         {
@@ -3786,7 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……。"
+                                "\\n<Ruin>……。"
                             ]
                         },
                         {
@@ -3803,7 +3733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……私は。"
+                                "\\n<Ruin>...I will."
                             ]
                         },
                         {
@@ -3836,7 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>魔物に、協力する。"
+                                "\\n<Ruin>Cooperate with the monsters."
                             ]
                         },
                         {

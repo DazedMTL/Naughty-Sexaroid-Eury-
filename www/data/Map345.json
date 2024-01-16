@@ -6025,21 +6025,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル１０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：フォルトゥ\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "敵の\\C[27]エロ攻撃\\C[0]を回避することができる！"
+                                "【Level 10 Achievement Bonus】Mode: Fortitude has been\nunlocked! You can now evade enemy erotic attacks!"
                             ]
                         },
                         {
@@ -6086,21 +6072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル２０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：カウンター\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "拘束状態を解除しつつ攻撃できる！"
+                                "【Level 20 Achievement Bonus】Skill: Counter has been\nunlocked! You can attack while releasing yourself from\nrestraints!"
                             ]
                         },
                         {
@@ -6147,21 +6119,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル３０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：オールグリーン\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "バイタル、快感度を完全回復しながら拘束状態を解除！"
+                                "【Level 30 Achievement Bonus】Skill: All-Green has been\nunlocked! Fully recover Vitality and Pleasure while\nreleasing restraints!"
                             ]
                         },
                         {
@@ -6208,21 +6166,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル４０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：デウス\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "毎ターンエナジーを消費するが、全ての能力が高いモード！"
+                                "【Level 40 Achievement Bonus】Mode: Deus has been unlocked! It\nconsumes energy every turn, but all abilities are enhanced!"
                             ]
                         },
                         {
@@ -6269,21 +6213,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル５０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：メタバースト\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "弾とエナジーを消費し、拘束状態を抜けながら大ダメージ！"
+                                "【Level 50 Achievement Bonus】Skill: Metaburst has been\nunlocked! Consumes bullets and energy to deal massive damage\nwhile escaping restraints!"
                             ]
                         },
                         {
@@ -6339,14 +6269,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【バイタル最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "セルフリペアでの回復量が増加した！"
+                                "【Maximum Vitality Achievement Bonus】The amount healed by\nSelf-Repair has increased!"
                             ]
                         },
                         {
@@ -6412,14 +6335,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【エナジー最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・デウスでのエナジー消費量が１０に減少した！"
+                                "【Maximum Energy Achievement Bonus】Energy consumption in Deus\nMode has been reduced to 10!"
                             ]
                         },
                         {
@@ -6485,14 +6401,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【攻撃最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "パワーナックルの威力が増加した！"
+                                "【Maximum Attack Achievement Bonus】The power of Power Knuckle\nhas increased!"
                             ]
                         },
                         {
@@ -6558,14 +6467,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【弾数最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "弾を消費する攻撃の威力が増加した！"
+                                "【Maximum Bullet Count Achievement Bonus】The power of attacks\nthat consume bullets has increased!"
                             ]
                         },
                         {
@@ -6631,14 +6533,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【煙幕最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・フォルトゥでの回避率が上昇した！"
+                                "【Maximum Smoke Screen Achievement Bonus】Evasion rate in\nFortitude Mode has increased!"
                             ]
                         },
                         {
@@ -6943,7 +6838,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>きちゃぁぁぁあああ！！！"
+                                "\\n<Marion>I've finally reached the maximum level upgrade with the Grow\nCore!!!"
                             ]
                         },
                         {
@@ -6976,7 +6871,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>わ、どうしたんですか！？"
+                                "\\n<Eury>What, what happened?!"
                             ]
                         },
                         {
@@ -7009,14 +6904,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>グロウコアでレベルアップできる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "最大値まで達成したぜ！"
+                                "\\n<Marion>I've achieved the maximum value for leveling up with the\nGrow Core!"
                             ]
                         },
                         {
@@ -7097,14 +6985,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>おおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "やった～！"
+                                "\\n<Eury>Oh my!! Yay!!!"
                             ]
                         },
                         {
@@ -7121,14 +7002,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>とりあえず、現状エウリィが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "強くなれるのはここまでだね。"
+                                "\\n<Marion>For now, this is as strong as Eury can get."
                             ]
                         },
                         {
@@ -7209,14 +7083,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……なんかそうやって聞くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "限界値って感じがして悲しいですね。"
+                                "\\n<Eury>...When you put it that way, it feels sad to think there's a\nlimit."
                             ]
                         },
                         {
@@ -7249,14 +7116,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>まあまだ改造少女になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そんな長くないし、そんなもんでしょ。"
+                                "\\n<Marion>Well, you haven't been a modified girl for long, so it's to\nbe expected."
                             ]
                         },
                         {
@@ -7289,14 +7149,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ちなみに、今の戦闘能力でマキナ先輩に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "勝てる可能性ってありますか？"
+                                "\\n<Eury>By the way, do you think I have a chance of beating Senior\nMakina with my current combat abilities?"
                             ]
                         },
                         {
@@ -7313,7 +7166,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>うーん……。"
+                                "\\n<Marion>Hmm..."
                             ]
                         },
                         {
@@ -7330,7 +7183,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>まあマキナが完全に棒立ちしてたら勝てるんじゃね？"
+                                "\\n<Marion>Well, if Makina was completely standing still, maybe you\ncould win?"
                             ]
                         },
                         {
@@ -7363,7 +7216,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……無理ってことですよね。"
+                                "\\n<Eury>...So you're saying it's impossible."
                             ]
                         },
                         {
@@ -7396,7 +7249,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>ポテンシャルはあるからこれからもがんばりな。"
+                                "\\n<Marion>You have potential, so keep at it."
                             ]
                         },
                         {
@@ -7477,7 +7330,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……はい！"
+                                "\\n<Eury>...Yes!"
                             ]
                         },
                         {
@@ -8318,7 +8171,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全てのグロウコアを使用した。"
+                                "All of the Grow Cores have been used."
                             ]
                         },
                         {
@@ -8567,14 +8420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レベルが１に戻り、下がったレベル分のグロウコアが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抽出されます。メンテナンスしますか？"
+                                "The level has returned to 1, and the Grow Cores for the\ndecreased levels have been extracted. Would you like to\nperform maintenance?"
                             ]
                         },
                         {
@@ -8632,7 +8478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>えーっと、ここをこうして……。"
+                                "\\n<Marion>Uh, if I do this here..."
                             ]
                         },
                         {
@@ -9116,14 +8962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>ほい、メンテナンス完了。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今まで使ったコアは全部抽出したよ。"
+                                "\\n<Marion>Voila, maintenance complete. I've extracted all the cores\nwe've used so far."
                             ]
                         },
                         {
@@ -9140,14 +8979,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>今の状態だと\\C[24]レベル１のクソザコナメクジ\\C[0]だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "このまま魔物退治に行かないように注意しな。"
+                                "\\n<Marion>Right now, you're just a Level 1 weakling, so be careful not\nto go monster hunting in this state."
                             ]
                         },
                         {
@@ -13081,21 +12913,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル１０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：フォルトゥ\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "敵の\\C[27]エロ攻撃\\C[0]を回避することができる！"
+                                "【Level 10 Achievement Bonus】Mode: Fortitude has been\nunlocked! You can now evade erotic attacks!"
                             ]
                         },
                         {
@@ -13142,21 +12960,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル２０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：カウンター\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "拘束状態を解除しつつ攻撃できる！"
+                                "【Level 20 Achievement Bonus】Skill: Counter has been\nunlocked! You can attack while breaking free from\nrestraints!"
                             ]
                         },
                         {
@@ -13203,21 +13007,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル３０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：オールグリーン\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "バイタル、快感度を完全回復しながら拘束状態を解除！"
+                                "【Level 30 Achievement Bonus】Skill: All-Green has been\nunlocked! Fully recover Vitality and Pleasure while breaking\nfree from restraints!"
                             ]
                         },
                         {
@@ -13264,21 +13054,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル４０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：デウス\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "毎ターンエナジーを消費するが、全ての能力が高いモード！"
+                                "【Level 40 Achievement Bonus】Mode: Deus has been unlocked! It\nconsumes energy every turn, but all abilities are enhanced!"
                             ]
                         },
                         {
@@ -13325,21 +13101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル５０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：メタバースト\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "弾とエナジーを消費し、拘束状態を抜けながら大ダメージ！"
+                                "【Level 50 Achievement Bonus】Skill: Meta-Burst has been\nunlocked! Use bullets and energy to deal massive damage\nwhile escaping restraints!"
                             ]
                         },
                         {
@@ -13395,14 +13157,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【バイタル最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "セルフリペアでの回復量が増加した！"
+                                "【Max Vitality Achievement Bonus】The amount healed by Self-\nRepair has increased!"
                             ]
                         },
                         {
@@ -13468,14 +13223,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【エナジー最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・デウスでのエナジー消費量が１０に減少した！"
+                                "【Max Energy Achievement Bonus】Energy consumption in Mode\nDeus has been reduced to 10!"
                             ]
                         },
                         {
@@ -13541,14 +13289,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【攻撃最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "パワーナックルの威力が増加した！"
+                                "【Max Attack Achievement Bonus】The power of Power Knuckle has\nincreased!"
                             ]
                         },
                         {
@@ -13614,14 +13355,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【弾数最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "弾を消費する攻撃の威力が増加した！"
+                                "【Max Ammo Achievement Bonus】The power of attacks that\nconsume bullets has increased!"
                             ]
                         },
                         {
@@ -13687,14 +13421,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【煙幕最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・フォルトゥでの回避率が上昇した！"
+                                "【Max Smoke Screen Achievement Bonus】Evasion rate in Mode\nFortitude has increased!"
                             ]
                         },
                         {
@@ -13999,7 +13726,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>きちゃぁぁぁあああ！！！"
+                                "\\n<Marion>I've finally reached the maximum level upgrade with the Grow\nCores!"
                             ]
                         },
                         {
@@ -14032,7 +13759,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>わ、どうしたんですか！？"
+                                "\\n<Eury>What, what happened?!"
                             ]
                         },
                         {
@@ -14065,14 +13792,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>グロウコアでレベルアップできる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "最大値まで達成したぜ！"
+                                "\\n<Marion>I've achieved the maximum value for leveling up with Grow\nCores!"
                             ]
                         },
                         {
@@ -14153,14 +13873,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>おおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "やった～！"
+                                "\\n<Eury>Oh my goodness!! Yay~!"
                             ]
                         },
                         {
@@ -14177,14 +13890,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>とりあえず、現状エウリィが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "強くなれるのはここまでだね。"
+                                "\\n<Marion>For now, this is as strong as Eury can get."
                             ]
                         },
                         {
@@ -14265,14 +13971,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……なんかそうやって聞くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "限界値って感じがして悲しいですね。"
+                                "\\n<Eury>...When you put it that way, it feels a bit sad to hit the\nlimit."
                             ]
                         },
                         {
@@ -14305,14 +14004,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>まあまだ改造少女になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そんな長くないし、そんなもんでしょ。"
+                                "\\n<Marion>Well, you haven't been a modified girl for long, so that's\nhow it goes."
                             ]
                         },
                         {
@@ -14345,14 +14037,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ちなみに、今の戦闘能力でマキナ先輩に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "勝てる可能性ってありますか？"
+                                "\\n<Eury>By the way, do I stand a chance against Senior Makina with\nmy current combat abilities?"
                             ]
                         },
                         {
@@ -14369,7 +14054,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>うーん……。"
+                                "\\n<Marion>Hmm..."
                             ]
                         },
                         {
@@ -14386,7 +14071,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>まあマキナが完全に棒立ちしてたら勝てるんじゃね？"
+                                "\\n<Marion>Well, if Makina was completely standing still, maybe you\ncould win?"
                             ]
                         },
                         {
@@ -14419,7 +14104,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……無理ってことですよね。"
+                                "\\n<Eury>...So it's impossible, isn't it."
                             ]
                         },
                         {
@@ -14452,7 +14137,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<マリオン>ポテンシャルはあるからこれからもがんばりな。"
+                                "\\n<Marion>You've got potential, so keep at it."
                             ]
                         },
                         {
@@ -14533,7 +14218,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……はい！"
+                                "\\n<Eury>...Yes!"
                             ]
                         },
                         {
@@ -15374,7 +15059,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全てのグロウコアを使用した。"
+                                "All Grow Cores have been used."
                             ]
                         },
                         {
@@ -15623,14 +15308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レベルが１に戻り、下がったレベル分のグロウコアが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抽出されます。メンテナンスしますか？"
+                                "Your level has returned to 1, and the Grow Cores for the\ndecreased levels will be extracted. Would you like to\nperform maintenance?"
                             ]
                         },
                         {
@@ -15688,7 +15366,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>えーっと、ここをこうして……。"
+                                "\\n<Marion>Let's see, if I do this here..."
                             ]
                         },
                         {
@@ -16172,14 +15850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>ほい、メンテナンス完了。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今まで使ったコアは全部抽出したよ。"
+                                "\\n<Marion>Voila, maintenance complete. I've extracted all the cores\nwe've used so far."
                             ]
                         },
                         {
@@ -16196,14 +15867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<マリオン>今の状態だと\\C[24]レベル１のクソザコナメクジ\\C[0]だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "このまま魔物退治に行かないように注意しな。"
+                                "\\n<Marion>Right now, you're like a Level 1 weakling, so be careful not\nto go monster hunting in this state."
                             ]
                         },
                         {

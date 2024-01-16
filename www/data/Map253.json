@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１階トイレ",
+    "displayName": "1st Floor Bathroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4484,7 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふんふんふ～ん♪"
+                                "\\n<Eury>Humming a tune♪"
                             ]
                         },
                         {
@@ -4549,14 +4549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……よ～し！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか慣れてきたんじゃないかな～！"
+                                "\\n<Eury>...Alright! I think I'm getting the hang of this～!"
                             ]
                         },
                         {
@@ -4573,7 +4566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>今までよりも早くお掃除が終わりそう！"
+                                "\\n<Eury>I might finish cleaning faster than before!"
                             ]
                         },
                         {
@@ -4638,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふんふんふ～ん♪"
+                                "\\n<Eury>Humming a tune♪"
                             ]
                         },
                         {
@@ -4662,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>エウリィちゃーん、お待たせ―。"
+                                "\\n<Mister>Eury-chan, sorry to keep you waiting."
                             ]
                         },
                         {
@@ -4734,7 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はっ！？"
+                                "\\n<Eury>Huh!? What?"
                             ]
                         },
                         {
@@ -4833,7 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>１週間経ったし、本番解禁だね。"
+                                "\\n<Mister>It's been a week, so it's time for the real deal."
                             ]
                         },
                         {
@@ -4928,7 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、な、何言ってるんですか！"
+                                "\\n<Eury>Wh-what are you talking about?!"
                             ]
                         },
                         {
@@ -4945,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>セクサロイドちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お掃除するのはおトイレだけじゃないよねー？"
+                                "\\n<Old man>A Sexaroid's job isn't just to clean toilets, right?"
                             ]
                         },
                         {
@@ -5033,7 +5019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私はセクサロイドじゃありません！"
+                                "\\n<Eury>I am not a Sexaroid!"
                             ]
                         },
                         {
@@ -5050,7 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>変なこと言っちゃってー。"
+                                "\\n<Old man>Saying such strange things."
                             ]
                         },
                         {
@@ -5067,14 +5053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>普通の女の子は犯されることを期待して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おトイレに入ったりしないよ？"
+                                "\\n<Mister>Normal girls don't go into toilets expecting to be violated,\ndo they?"
                             ]
                         },
                         {
@@ -5091,7 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私はただ掃除をしてるだけで！"
+                                "\\n<Eury>I'm just here to clean!"
                             ]
                         },
                         {
@@ -5108,14 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ここで２回も前戯したんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続きが欲しくなったんだよね。"
+                                "\\n<Mister>Since we've already had foreplay twice here, you must want\nto continue, right?"
                             ]
                         },
                         {
@@ -5196,7 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ……！"
+                                "\\n<Eury>Wha...!"
                             ]
                         },
                         {
@@ -5213,7 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>じゃあご期待の通りに。"
+                                "\\n<Mister>Then, as you wish."
                             ]
                         },
                         {
@@ -5294,7 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょ、待って！来ないで……！"
+                                "\\n<Eury>Wait, stop! Don't come any closer...!"
                             ]
                         },
                         {
@@ -5450,7 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃんっ！"
+                                "\\n<Eury>Eek!"
                             ]
                         },
                         {
@@ -5467,7 +5439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>セクサロイドは前戯無しでも入るんだよね？"
+                                "\\n<Mister>A Sexaroid can take it without any foreplay, right?"
                             ]
                         },
                         {
@@ -5484,7 +5456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だから、私はセクサロイドじゃなくて……！"
+                                "\\n<Eury>That's because I'm not a Sexaroid...!"
                             ]
                         },
                         {
@@ -5631,7 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああああぁ♡"
+                                "\\n<Eury>Ahhhhh♡"
                             ]
                         },
                         {
@@ -5648,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>うお、思ったよりもキツキツマンコだ。"
+                                "\\n<Mister>Whoa, your pussy is tighter than I thought."
                             ]
                         },
                         {
@@ -5713,7 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、いきなりぃ、だめっ！！"
+                                "\\n<Eury>Ahh, not so suddenly, stop it!!"
                             ]
                         },
                         {
@@ -5730,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>痛いから、ぁああ！！！"
+                                "\\n<Eury>It hurts, ahhh!!!"
                             ]
                         },
                         {
@@ -5747,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>そっかそっか、新品だもんね。"
+                                "\\n<Mister>Right, right, you're brand new after all."
                             ]
                         },
                         {
@@ -5764,7 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>じゃあ最初はゆっくーり動かすよ。"
+                                "\\n<Mister>Then I'll start off moving slowly."
                             ]
                         },
                         {
@@ -5888,7 +5860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、はぁあ、あぁっ、抜け、えぇえ！"
+                                "\\n<Eury>Ahh, ohh, ah, pull out, please!"
                             ]
                         },
                         {
@@ -5905,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>抜いたらセクサロイドの意味がないじゃん。"
+                                "\\n<Mister>If I pull out, there's no point in having a Sexaroid."
                             ]
                         },
                         {
@@ -5970,7 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だから、ぁああ！！"
+                                "\\n<Eury>But, ahhh!!"
                             ]
                         },
                         {
@@ -6083,7 +6055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あん、んっ、はうっ♡"
+                                "\\n<Eury>Ahn, mmm, ohh♡"
                             ]
                         },
                         {
@@ -6100,14 +6072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>うおぉ～さすがセクサロイド、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣が良く締まって気持ち良いぃ～！"
+                                "\\n<Mister>Wow～ as expected of a Sexaroid, your vagina clenches so well\nand feels amazing～!"
                             ]
                         },
                         {
@@ -6172,7 +6137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、はぁ、あぅ、はぁっ！！♡"
+                                "\\n<Eury>Ahh, ohh, ouch, ohh!!♡"
                             ]
                         },
                         {
@@ -6189,7 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（完全に、道具みたいに扱われちゃってるぅ……！）"
+                                "\\n<Eury>(I'm being treated completely like a tool...!)"
                             ]
                         },
                         {
@@ -6247,7 +6212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、お、おじさん、ちょっと、たんま、あぁあ♡"
+                                "\\n<Eury>Mister, please wait a moment, ahhaa♡"
                             ]
                         },
                         {
@@ -6264,7 +6229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ん～？どうしたのかな～？"
+                                "\\n<Mister>Hmm? What's wrong?"
                             ]
                         },
                         {
@@ -6281,7 +6246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ま、腰は止めないけどね。"
+                                "\\n<Mister>Well, I'm not stopping though."
                             ]
                         },
                         {
@@ -6346,14 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、あっ、で、出る、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出ちゃうから、ぬ、抜いてぇ♡"
+                                "\\n<Eury>No, ah, it's coming out, I'm going to leak, so pull out\nplease♡"
                             ]
                         },
                         {
@@ -6370,7 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>え、何？おしっこ漏らしそうってこと？"
+                                "\\n<Mister>Eh? What? You mean you're about to pee?"
                             ]
                         },
                         {
@@ -6435,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、やだ、いやぁあ！"
+                                "\\n<Eury>Ahh, no, I don't want to, nooo!"
                             ]
                         },
                         {
@@ -6452,14 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>そっかー、ここおトイレだもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条件反射ってやつかな？"
+                                "\\n<Old man>I see- this is a toilet after all. Maybe it's a conditioned\nreflex?"
                             ]
                         },
                         {
@@ -6476,7 +6427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>いいよ、そこの小便器に出しなよ。"
+                                "\\n<Mister>It's fine, just let it out in that urinal over there."
                             ]
                         },
                         {
@@ -6582,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、ええぇえっ！？いや、いやぁあ！！！"
+                                "\\n<Eury>Eh, eeeehhh!? No, nooo！！！"
                             ]
                         },
                         {
@@ -6647,7 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぬ、抜いてぇ！抜いて……ぇええ！！♡"
+                                "\\n<Eury>Please pull out, pull out...eeehhh！！♡"
                             ]
                         },
                         {
@@ -6664,7 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>いいよいいよ、気にしないから。"
+                                "\\n<Mister>It's okay, it's okay, don't worry about it."
                             ]
                         },
                         {
@@ -6681,14 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>おマンコぱんぱんされながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前の小便器に出せばいいよ。"
+                                "\\n<Mister>Just let it out into the urinal in front of you while your\npussy is being pounded."
                             ]
                         },
                         {
@@ -6753,7 +6697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>嫌、それだけは、嫌ぁああ！！"
+                                "\\n<Eury>No, anything but that, nooooo！！"
                             ]
                         },
                         {
@@ -6818,14 +6762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んっ、あぁっ、こ、個室で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おしっこしてくるから、あぁあ！！"
+                                "\\n<Eury>Nn, ahh, I'll go to the stall and pee, ahhh！！"
                             ]
                         },
                         {
@@ -6842,14 +6779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そのあと、んっ、せ、セックスの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続き、してあげる、からぁあ！！"
+                                "\\n<Eury>After that, nn, I'll continue with the sex, so please！！"
                             ]
                         },
                         {
@@ -6866,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>やだねー、交渉決裂。"
+                                "\\n<Mister>No way- negotiation breakdown."
                             ]
                         },
                         {
@@ -6883,7 +6813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>このままおしっこ出してるところ見ーせて。"
+                                "\\n<Mister>Just let me see you pee like this."
                             ]
                         },
                         {
@@ -6900,7 +6830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>い、嫌、ぁあ、ぁああっ！！"
+                                "\\n<Eury>No, ahh, ahhh！！"
                             ]
                         },
                         {
@@ -6917,14 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>というかさー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドなのにおしっこ出るんだね。"
+                                "\\n<Mister>By the way- it's interesting that a Sexaroid like you can\npee."
                             ]
                         },
                         {
@@ -6941,7 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>潮吹き機能ならみんなあるけどさ。"
+                                "\\n<Mister>I mean, all of them have squirting functions though."
                             ]
                         },
                         {
@@ -7006,7 +6929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、だめ、出る、出るぅう！！！"
+                                "\\n<Eury>Ah, no, it's coming out, it's coming out！！！"
                             ]
                         },
                         {
@@ -7071,7 +6994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>見ないで、見ないでぇ！！！"
+                                "\\n<Eury>Don't look, don't look！！！"
                             ]
                         },
                         {
@@ -7198,7 +7121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、あぁああぁあ♡"
+                                "\\n<Eury>Ahh, ahhhahh♡"
                             ]
                         },
                         {
@@ -7263,7 +7186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>うわ、女の子なのに小便器におしっこしてるー。"
+                                "\\n<Mister>Wow, a girl peeing into a urinal-."
                             ]
                         },
                         {
@@ -7280,7 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、あぁあ、あっ……。"
+                                "\\n<Eury>Ahh, ahh, ah..."
                             ]
                         },
                         {
@@ -7297,14 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>でも思いっきりこぼれて床汚しちゃってるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり女の子には難しいのかな？"
+                                "\\n<Mister>But you're spilling it all over the floor. I guess it's\ndifficult for a girl after all?"
                             ]
                         },
                         {
@@ -7321,14 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ねえねえエウリィちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぱんぱんされて気持ちよくなって出しちゃった？"
+                                "\\n<Mister>Hey hey Eury-chan. Did getting pounded make you feel good\nand let it all out?"
                             ]
                         },
                         {
@@ -7434,7 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>う、ううぅう……。"
+                                "\\n<Eury>Uu, uuuu..."
                             ]
                         },
                         {
@@ -7451,14 +7360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（なにこれ……おしっこしててこんなに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちよかったことないのに……♡）"
+                                "\\n<Eury>(What is this... I've never felt so good peeing before...♡)"
                             ]
                         },
                         {
@@ -7475,7 +7377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（この状況に……興奮しちゃってるのかも……）"
+                                "\\n<Eury>(Maybe I'm getting excited by this situation...)"
                             ]
                         },
                         {
@@ -7492,14 +7394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ねえねえ新型ちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も便器に出しちゃっていいかな？"
+                                "\\n<Mister>Hey hey new model-chan, is it okay if I let it out in the\nurinal too?"
                             ]
                         },
                         {
@@ -7516,7 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぅ、ぅう……勝手にしてください。"
+                                "\\n<Eury>Uu, uuu... do as you please."
                             ]
                         },
                         {
@@ -7533,7 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>オッケー。"
+                                "\\n<Mister>Okay-."
                             ]
                         },
                         {
@@ -7646,7 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃあ、あぁあん♡"
+                                "\\n<Eury>Hyaa, ahhhn♡"
                             ]
                         },
                         {
@@ -7663,7 +7558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ラストスパートだから、激しくするよ。"
+                                "\\n<Mister>It's the final spurt, so I'm going to go hard."
                             ]
                         },
                         {
@@ -7728,14 +7623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、なんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレするんじゃないん、ですかあぁ、あっ♡"
+                                "\\n<Eury>Why, aren't you going to use the toilet, ahh♡"
                             ]
                         },
                         {
@@ -7752,14 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>新型ちゃんっていう肉便器に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白いおしっこ出すんだよ。"
+                                "\\n<Mister>Because I'm going to let out white pee in the new model-chan\nmeat urinal."
                             ]
                         },
                         {
@@ -7776,7 +7657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>き、きもっ……あっ、んんっ♡"
+                                "\\n<Eury>Disgusting... ah, nnn♡"
                             ]
                         },
                         {
@@ -7841,7 +7722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>中、だめ、外に出してぇ♡"
+                                "\\n<Eury>Inside, no, let it out outside♡"
                             ]
                         },
                         {
@@ -7906,14 +7787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>なんで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドなんだからいいじゃん。"
+                                "\\n<Mister>Why? You're a Sexaroid so it's fine."
                             ]
                         },
                         {
@@ -7930,7 +7804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だから私は、あぁっ、あ゛っ！！"
+                                "\\n<Eury>That's why I am, ahh, ah！！"
                             ]
                         },
                         {
@@ -8086,7 +7960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああぁああ゛っ！！！♡"
+                                "\\n<Eury>Ahhahhahhaa！！！♡"
                             ]
                         },
                         {
@@ -8151,7 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>ふー出た出た。気持ちよかったー。"
+                                "\\n<Mister>Phew- there it is. Felt good-."
                             ]
                         },
                         {
@@ -8168,7 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、ぁあ、ぁああ……。"
+                                "\\n<Eury>Ha, ahh, ahhh..."
                             ]
                         },
                         {
@@ -8233,14 +8107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（おしっこ見られた上に……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　便器みたいに使われた……）"
+                                "\\n<Eury>(On top of being watched peeing... I was used like a\nurinal...)"
                             ]
                         },
                         {
@@ -8271,7 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>さーてと、すっきりしたしおじさんはもう行くね。"
+                                "\\n<Mister>Well then, I'm refreshed and the old man is going to leave\nnow."
                             ]
                         },
                         {
@@ -8288,14 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>あ、こぼれたおしっこは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと掃除しておくんだよ。"
+                                "\\n<Mister>Oh, make sure to clean up the spilled pee properly."
                             ]
                         },
                         {
@@ -8312,7 +8172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ううぅ……ひどいです……。"
+                                "\\n<Eury>Uuu... that's terrible..."
                             ]
                         },
                         {
@@ -8329,14 +8189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>新型ちゃんが悪いんだよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなえっちな体型のくせにトイレにいるんだもん。"
+                                "\\n<Old man>It's the fault of you new models, having such a lewd body\nand being in the toilet."
                             ]
                         },
                         {
@@ -8353,7 +8206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>そりゃ肉便器にもなるよ。"
+                                "\\n<Mister>Of course you'd also become a meat toilet."
                             ]
                         },
                         {
@@ -8406,7 +8259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（り、理不尽だ……！！！）"
+                                "\\n<Eury>(This is so unreasonable...!!!)"
                             ]
                         },
                         {
@@ -8423,7 +8276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>今度もまた一緒におしっこしようね、じゃあね。"
+                                "\\n<Mister>Let's pee together again next time, see ya."
                             ]
                         },
                         {
@@ -8494,7 +8347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<青年>あ、お掃除してくれたんですね。"
+                                "\\n<Young man>Oh, you cleaned up for me, didn't you?"
                             ]
                         },
                         {
@@ -8511,7 +8364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……はい。"
+                                "\\n<Eury>...Yes."
                             ]
                         },
                         {
@@ -8528,7 +8381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<青年>どうぞ、こちらお礼です！"
+                                "\\n<Young man>Here you go, this is a token of my thanks!"
                             ]
                         },
                         {
@@ -8581,7 +8434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -8598,7 +8451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（人として……大事なものを失った気がする……）"
+                                "\\n<Eury>(I feel like I've lost something important as a person...)"
                             ]
                         },
                         {
@@ -8615,14 +8468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（で、でも……羞恥絶頂立ちション……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちょっと良かったかも……）"
+                                "\\n<Eury>(But... the shameful ecstasy of standing peeing... might\nhave been a little good...)"
                             ]
                         },
                         {
@@ -8639,7 +8485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>ありがとう、ございます。"
+                                "\\n<Eury>Thank you very much."
                             ]
                         },
                         {

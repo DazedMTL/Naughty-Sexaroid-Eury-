@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "回想機能",
+    "displayName": "Recollection Function",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1711,21 +1711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・１章のとある場所でイベントを発生させる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・１章をクリアする"
+                                "Unlock Conditions (either one will unlock): Trigger an event\nat a certain location in Chapter 1 or Clear Chapter 1"
                             ]
                         },
                         {
@@ -1821,14 +1807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員ナカムラに騙されて犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being deceived and violated by\nResearcher Nakamura? (A memory that doesn't exist)"
                             ]
                         },
                         {
@@ -1997,7 +1976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員ナカムラに騙されて犯される　を回想しますか？"
+                                "Would you like to recall being deceived and violated by\nResearcher Nakamura?"
                             ]
                         },
                         {
@@ -2147,7 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想機能を終了しますか？"
+                                "Would you like to exit the memory recall function?"
                             ]
                         },
                         {
@@ -2315,21 +2294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・１章のボスに敗北する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・１章をクリアする"
+                                "Unlock Condition (either one will unlock): Defeat the boss\nin Chapter 1 or Clear Chapter 1"
                             ]
                         },
                         {
@@ -2425,14 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレクトに敗北して犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being defeated and violated by\nElect? (Nonexistent Memory)"
                             ]
                         },
                         {
@@ -2601,7 +2559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレクトに敗北して犯される　を回想しますか？"
+                                "Would you like to recall being defeated and violated by\nElect?"
                             ]
                         },
                         {
@@ -2751,14 +2709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・１章で研究員に襲われる"
+                                "Unlock Condition: Attacked by a researcher in Chapter 1"
                             ]
                         },
                         {
@@ -2838,7 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員に襲われる　を回想しますか？"
+                                "Would you like to recall being attacked by the researcher?"
                             ]
                         },
                         {
@@ -3081,21 +3032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２章のとある場所でイベントを発生させる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２章をクリアする"
+                                "Unlock Conditions (either one will unlock): Trigger an event\nat a certain location in Chapter 2 or Clear Chapter 2"
                             ]
                         },
                         {
@@ -3191,14 +3128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒たちに犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being violated by the students?\n(Memory does not exist)"
                             ]
                         },
                         {
@@ -3367,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒たちに犯される　を回想しますか？"
+                                "Do you want to reminisce about being violated by the\nstudents?"
                             ]
                         },
                         {
@@ -3517,21 +3447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２章のボスに敗北する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２章をクリアする"
+                                "Unlock Condition (either one will unlock): Defeat the boss\nin Chapter 2 or Clear Chapter 2"
                             ]
                         },
                         {
@@ -3627,14 +3543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メターフに敗北して犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being defeated and violated by\nMeta-F? (Nonexistent Memory)"
                             ]
                         },
                         {
@@ -3803,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メターフに敗北して犯される　を回想しますか？"
+                                "Would you like to recall being defeated and violated by\nMeta-F?"
                             ]
                         },
                         {
@@ -3953,21 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・３章のとある場所でイベントを発生させる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・３章をクリアする"
+                                "Unlock Condition (either one will unlock): Trigger an event\nat a certain location in Chapter 3 or Clear Chapter 3"
                             ]
                         },
                         {
@@ -4063,14 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠でフェラをさせられる　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall the memory of being made to give a\nblowjob under hypnosis? (A memory that doesn't exist)"
                             ]
                         },
                         {
@@ -4239,7 +4127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠でフェラをさせられる　を回想しますか？"
+                                "Would you like to recall the fellatio under hypnosis?"
                             ]
                         },
                         {
@@ -4389,21 +4277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・３章のボスに敗北する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・３章をクリアする"
+                                "Unlock Condition (either one will unlock): Defeat the boss\nin Chapter 3 or Clear Chapter 3"
                             ]
                         },
                         {
@@ -4499,14 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルガンに敗北して犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being defeated and violated by\nGargan? (Nonexistent memory)"
                             ]
                         },
                         {
@@ -4675,7 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルガンに敗北して犯される　を回想しますか？"
+                                "Would you like to recall being defeated and violated by\nGargan?"
                             ]
                         },
                         {
@@ -4825,14 +4692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・３章で野次馬に襲われる"
+                                "Unlock Condition: Attacked by onlookers in Chapter 3"
                             ]
                         },
                         {
@@ -4912,7 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "野次馬に襲われる　を回想しますか？"
+                                "Would you like to recall being attacked by onlookers?"
                             ]
                         },
                         {
@@ -5155,21 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章のとある場所でイベントを発生させる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章をクリアする"
+                                "Unlock Condition (either one will unlock): Trigger an event\nat a certain location in Chapter 4 or Clear Chapter 4"
                             ]
                         },
                         {
@@ -5265,14 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男優に犯される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall being ravished by a male actor? (A\nmemory that doesn't exist)"
                             ]
                         },
                         {
@@ -5441,7 +5280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男優に犯される　を回想しますか？"
+                                "Would you like to recall being fucked by the male actor?"
                             ]
                         },
                         {
@@ -5591,14 +5430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２章で学生に襲われる"
+                                "Unlock Condition: Attacked by a student in Chapter 2"
                             ]
                         },
                         {
@@ -5678,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生に襲われる　を回想しますか？"
+                                "Would you like to recall being attacked by the student?"
                             ]
                         },
                         {
@@ -5914,21 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・魔物に２回敗北する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章をクリアする"
+                                "Unlock Condition (either one will unlock): Defeat by\nmonsters twice or Clear Chapter 4"
                             ]
                         },
                         {
@@ -6024,14 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物に輪姦される　を回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall the memory of being gangbanged by\nmonsters? (Nonexistent Memory)"
                             ]
                         },
                         {
@@ -6200,7 +6011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物に輪姦される　を回想しますか？"
+                                "Would you like to recall being gangbanged by monsters?"
                             ]
                         },
                         {
@@ -6350,14 +6161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章で魔物の従者に襲われる"
+                                "Unlock Condition: Attacked by a monster's servant in Chapter\n4"
                             ]
                         },
                         {
@@ -6437,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物の従者に襲われる　を回想しますか？"
+                                "Do you want to recall being attacked by the monster's\nservant?"
                             ]
                         },
                         {
@@ -6680,21 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章のボスに敗北する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・４章をクリアする"
+                                "Unlock Condition (either one will unlock) Defeat the boss in\nChapter 4 Clear Chapter 4"
                             ]
                         },
                         {
@@ -6790,14 +6580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンドを回想しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（存在しない記憶）"
+                                "Would you like to recall the bad ending? (A memory that\ndoesn't exist)"
                             ]
                         },
                         {
@@ -6966,7 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンドを回想しますか？"
+                                "Would you like to recall the bad ending?"
                             ]
                         },
                         {
@@ -7117,14 +6900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解放条件（どちらか一方で解放）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・２つ目のエンディングを見る"
+                                "Unlock Condition (either one): View the second ending"
                             ]
                         },
                         {
@@ -7220,7 +6996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マキナの過去を回想しますか？"
+                                "Would you like to reminisce about Makina's past?"
                             ]
                         },
                         {
@@ -7389,7 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マキナの過去を回想しますか？"
+                                "Would you like to reminisce about Makina's past?"
                             ]
                         },
                         {

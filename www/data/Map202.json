@@ -2965,7 +2965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんな人が泊まっているんでしょう……？"
+                                "I wonder who is staying here...?"
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>今日はもう外に出る元気は残ってないよ……。"
+                                "\\n<Eury>I don't have the energy to go out anymore today..."
                             ]
                         },
                         {
@@ -3417,21 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【もみほぐし！テンゲツ☆マッサージ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料金：この宿をご利用頂いてる方なら、特別にタダ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間：夜間に受け付けております！"
+                                "[Relaxing Massage! Tengeki☆Massage] Price: For those staying\nat our inn, it's specially free! Hours: We accept customers\nduring the night!"
                             ]
                         },
                         {
@@ -3448,7 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日頃のお仕事にお疲れの方、お気軽にご依頼ください♪"
+                                "If you're tired from your daily work, please feel free to\nrequest a massage♪"
                             ]
                         },
                         {
@@ -3490,14 +3476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>マッサージ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさに今の私が求めていたもの！"
+                                "\\n<Eury>A massage! That's exactly what I need right now!"
                             ]
                         },
                         {
@@ -3562,7 +3541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>お願いしよっと♪"
+                                "\\n<Eury>I'll ask for one♪"
                             ]
                         },
                         {
@@ -3727,14 +3706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>夜限定みたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.今度お願いしてみようかな？"
+                                "\\n<Eury>It seems to be night-time only. Maybe I should try asking\nfor one next time?"
                             ]
                         },
                         {
@@ -3846,14 +3818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... I'll go back to my room and rest."
                             ]
                         },
                         {
@@ -3887,21 +3852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【もみほぐし！テンゲツ☆マッサージ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "料金：この宿をご利用頂いてる方なら、特別にタダ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時間：夜間に受け付けております！"
+                                "[Tengeki☆Massage! Free of charge for guests of this inn!\nAvailable during nighttime!]"
                             ]
                         },
                         {
@@ -3918,7 +3869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "日頃のお仕事にお疲れの方、お気軽にご依頼ください♪"
+                                "If you're tired from your daily work, please feel free to\nrequest our service♪"
                             ]
                         },
                         {
@@ -3969,7 +3920,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……気が引ける。"
+                                "\\n<Eury>...I'm a bit hesitant."
                             ]
                         },
                         {
@@ -3993,7 +3944,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]16\\C[0]必要です。"
+                                "\\C[27]Lewdness\\C[0] level of \\C[27]16\\C[0] is required."
                             ]
                         },
                         {
@@ -4036,7 +3987,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……あのセクハラマッサージ師を放っておけないよね。"
+                                "\\n<Eury>...I can't just leave that sexual harassment masseur alone."
                             ]
                         },
                         {
@@ -4069,7 +4020,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>予約を取ってあの人に会おうかな？"
+                                "\\n<Eury>Should I make a reservation to meet that person?"
                             ]
                         },
                         {
@@ -4172,7 +4123,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ガツンと言ってやらないと！"
+                                "\\n<Eury>I have to give them a piece of my mind!"
                             ]
                         },
                         {
@@ -4324,7 +4275,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……またセクハラされたら嫌だもんね。"
+                                "\\n<Eury>...I'd hate to be sexually harassed again."
                             ]
                         },
                         {
@@ -4394,14 +4345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>他のお客さんにもあんなことしてるのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だとしたら許さないんだから！"
+                                "\\n<Eury>I wonder if they do that sort of thing to other customers\ntoo? If so, I won't forgive them!"
                             ]
                         },
                         {
@@ -4418,14 +4362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>また夜に予約を取れば同じマッサージ師さんが来るかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そのときにしっかり怒らないと！"
+                                "\\n<Eury>If I make another reservation at night, will the same\nmasseur come? I'll have to make sure to scold them properly\nthen!"
                             ]
                         },
                         {
@@ -4547,14 +4484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... I'll go back to my room and rest."
                             ]
                         },
                         {
@@ -4588,21 +4518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【もみほぐし！テンゲツ☆マッサージ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "料金：この宿をご利用頂いてる方なら、特別にタダ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時間：夜間に受け付けております！"
+                                "[Relaxing Tengoku☆Massage] Price: Free of charge for guests\nstaying at this inn! Hours: Available during the night!"
                             ]
                         },
                         {
@@ -4619,7 +4535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "日頃のお仕事にお疲れの方、お気軽にご依頼ください♪"
+                                "If you're tired from your daily work, please feel free to\nrequest our service♪"
                             ]
                         },
                         {
@@ -4672,7 +4588,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……あんなの、もうしないから！！！"
+                                "\\n<Eury>...I'm not doing that sort of thing ever again!!!"
                             ]
                         },
                         {
@@ -4696,7 +4612,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\C[27]Lewdness Level\\C[0] of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {
@@ -4739,7 +4655,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ずっと前に受けた、あのセクハラマッサージだよね。"
+                                "\\n<Eury>...That's the sexual harassment massage I received a long\ntime ago, isn't it."
                             ]
                         },
                         {
@@ -4756,7 +4672,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……またあれを体験したいと思っちゃってる自分がいる。"
+                                "\\n<Eury>...There's a part of me that wants to experience it again."
                             ]
                         },
                         {
@@ -4773,7 +4689,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>予約しちゃう？"
+                                "\\n<Eury>Should I make a reservation?"
                             ]
                         },
                         {
@@ -4828,7 +4744,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>ついに自分から求めに行っちゃった……♡"
+                                "\\n<Eury>I finally went and asked for it myself...♡"
                             ]
                         },
                         {
@@ -4980,7 +4896,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5050,7 +4966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5172,14 +5088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to my room and\nrest."
                             ]
                         },
                         {
@@ -5213,21 +5122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【もみほぐし！テンゲツ☆マッサージ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "料金：この宿をご利用頂いてる方なら、特別にタダ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時間：夜間に受け付けております！"
+                                "[Soothing! Tengeki☆Massage] Price: Free of charge for guests\nstaying at the inn! Hours: Available during the night!"
                             ]
                         },
                         {
@@ -5244,7 +5139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "日頃のお仕事にお疲れの方、お気軽にご依頼ください♪"
+                                "For those who are tired from their daily work, please feel\nfree to request our service♪"
                             ]
                         },
                         {
@@ -5270,7 +5165,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>予約しちゃう？"
+                                "\\n<Eury>Should I make a reservation?"
                             ]
                         },
                         {
@@ -5325,7 +5220,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>ついに自分から求めに行っちゃった……♡"
+                                "\\n<Eury>I finally went to ask for it myself...♡"
                             ]
                         },
                         {
@@ -5477,7 +5372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5537,7 +5432,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5964,14 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>はじめまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の名前は\\C[24]魔物アンチ\\C[0]。魔物が大嫌い。"
+                                "\\n<Monster Ante>Nice to meet you. My name is \\C[24]Monster Ante\\C[0]. I hate\nmonsters."
                             ]
                         },
                         {
@@ -6004,7 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だいたい誰もそうだと思うんですけど……。"
+                                "\\n<Eury>I think pretty much everyone feels that way..."
                             ]
                         },
                         {
@@ -6021,7 +5909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>いいや、\\C[2]私は誰よりも魔物が嫌いな自信がある。"
+                                "\\n<Monster Ante>No, \\C[2]I am confident that I hate monsters more than\nanyone else."
                             ]
                         },
                         {
@@ -6038,14 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>嫌いすぎてネットの魔物アンチスレが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の書き込みだけですぐに１０００レスに達するわ。"
+                                "\\n<Monster Antchi>I hate them so much that the monster hate threads on the net\nreach 1000 posts just from my comments alone."
                             ]
                         },
                         {
@@ -6078,7 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>アンチスレ、あるんだ……。"
+                                "\\n<Eury>There's a hate thread...?"
                             ]
                         },
                         {
@@ -6095,14 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>魔物をたくさん倒したら教えてちょうだい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もちろん、敵前逃亡はカウントされないわよ。"
+                                "\\n<Monster Ante>Let me know when you've defeated a lot of monsters. Of\ncourse, running away from the enemy doesn't count."
                             ]
                         },
                         {
@@ -6119,7 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物アンチ>魔物を駆逐するのよ。改造少女ならね。"
+                                "\\n<Monster Ante>You must exterminate the monsters. That's what modified\ngirls are for."
                             ]
                         },
                         {
@@ -6205,7 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>同じ宿に住んでる人のキャラが濃いですね……。"
+                                "\\n<Eury>The characters of the people living in the same inn are\nquite... unique, aren't they?"
                             ]
                         },
                         {

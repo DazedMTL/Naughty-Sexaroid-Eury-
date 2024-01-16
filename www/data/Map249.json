@@ -3027,7 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>きゃああっ！？"
+                                "\\n<Eury>Kyaaah!?"
                             ]
                         },
                         {
@@ -3044,14 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>う、うう……だ、だめ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が、倒れたら、街のみんなが……！"
+                                "\\n<Eury>Ugh... No, this can't be happening, if I fall, everyone in\nthe town...!"
                             ]
                         },
                         {
@@ -3091,7 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>終わりだなァ、エウリィ。"
+                                "\\n<Gargan>It's over, Eury."
                             ]
                         },
                         {
@@ -3108,14 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、まだ終わらない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に、あなたを倒す！"
+                                "\\n<Eury>No, it's not over yet!! I will defeat you, no matter what!"
                             ]
                         },
                         {
@@ -3132,7 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>へえ、威勢がいいじゃねえか。"
+                                "\\n<Gargan>Heh, you've got some spirit."
                             ]
                         },
                         {
@@ -3149,14 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>いいぜェ、お前がまだやる気なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラウンド２と行こうじゃねえか。"
+                                "\\n<Gargan>Alright then, if you're still up for it, let's move on to\nround two."
                             ]
                         },
                         {
@@ -3173,7 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ラウンド２……？"
+                                "\\n<Eury>Round two...?"
                             ]
                         },
                         {
@@ -3231,7 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひぃっ……！！"
+                                "\\n<Eury>Hii...!!"
                             ]
                         },
                         {
@@ -3248,14 +3227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>殴り合いは俺の勝ちだなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、ラウンド２は別の勝負だ。"
+                                "\\n<Gargan>The fistfight was my win. Now, round two will be a different\nkind of battle."
                             ]
                         },
                         {
@@ -3272,14 +3244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふ、ふざけないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はまだ、戦える……！"
+                                "\\n<Eury>Don't joke with me! I can still fight...!"
                             ]
                         },
                         {
@@ -3296,7 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>おいおい、もうボロボロじゃねえか。"
+                                "\\n<Townspeople>Hey, hey, you're already beaten to a pulp."
                             ]
                         },
                         {
@@ -3313,14 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>エウリィが負けたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちどうなっちまうんだ？"
+                                "\\n<Townspeople>What's going to happen to us if Eury loses?"
                             ]
                         },
                         {
@@ -3337,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>負け惜しみは要らねえなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことで時間稼ぎしても無駄だぜェ。"
+                                "\\n<Gargan>Save your excuses. Trying to buy time with that kind of talk\nis useless."
                             ]
                         },
                         {
@@ -3361,14 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>それじゃあ始めるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラウンド２の勝負はなァ……。"
+                                "\\n<Gargan>Let's get started. The match for round two is..."
                             ]
                         },
                         {
@@ -3433,7 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃあ、あぁあああっ！？"
+                                "\\n<Eury>Hyaaah, aaaaahhh!?"
                             ]
                         },
                         {
@@ -3534,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>痛い゛ぃ゛、痛い゛ぃ゛い゛！！！！"
+                                "\\n<Eury>It hurts, it hurts so much!!!!"
                             ]
                         },
                         {
@@ -3551,14 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お前が俺の中出しを受けても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識を保ってたら勝ちにしてやるぜ。"
+                                "\\n<Gargan>If you can stay conscious after taking my creampie, you win."
                             ]
                         },
                         {
@@ -3575,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>わかりやすいよなァ？"
+                                "\\n<Gargan>Simple enough, right?"
                             ]
                         },
                         {
@@ -3681,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぬ、抜いて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの……！"
+                                "\\n<Eury>Take it out...! This is too much...!"
                             ]
                         },
                         {
@@ -3741,7 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>やべえ、公然でレイプしてやがる。"
+                                "\\n<Townspeople>Damn, he's raping her in public."
                             ]
                         },
                         {
@@ -3758,7 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>魔物エグいな。"
+                                "\\n<Townspeople>Monsters are brutal."
                             ]
                         },
                         {
@@ -3775,7 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お前にチャンスをやるって言ってんだよ。"
+                                "\\n<Gargan>I'm giving you a chance here."
                             ]
                         },
                         {
@@ -3792,7 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>別にいつでも殺せるんだぜ？"
+                                "\\n<Gargan>After all, I can kill you anytime, right?"
                             ]
                         },
                         {
@@ -3809,7 +3739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……くっ。"
+                                "\\n<Eury>...Grr."
                             ]
                         },
                         {
@@ -3826,14 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>中出しは１発だけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを耐えれば勝ち。簡単な話だろ？"
+                                "\\n<Gargan>Just one creampie. If you can withstand that, you win.\nSimple, isn't it?"
                             ]
                         },
                         {
@@ -3850,14 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（みんなの前で魔物に犯されてる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな屈辱って……！）"
+                                "\\n<Eury>(Being violated by a monster in front of everyone... such\nhumiliation...!)"
                             ]
                         },
                         {
@@ -3874,14 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（それに、こいつのやつ、大きすぎ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなので動かれたら、お腹が破れる……）"
+                                "\\n<Eury>(And his thing is too big... if he moves like that, my\nstomach will tear apart...)"
                             ]
                         },
                         {
@@ -3898,7 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ……！"
+                                "\\n<Eury>Haah, ah...!"
                             ]
                         },
                         {
@@ -3915,7 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>私が、負けたら、どうする気……？"
+                                "\\n<Eury>If I lose, what are you planning to do...?"
                             ]
                         },
                         {
@@ -3932,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>どうすんだろうなァ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのときにはお前の意識はねえからなァ。"
+                                "\\n<Gargan>What am I going to do? By that time, you won't be conscious\nanymore."
                             ]
                         },
                         {
@@ -3956,7 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……答えて！"
+                                "\\n<Eury>...Answer me!"
                             ]
                         },
                         {
@@ -3973,14 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>安心しろ、テンゲツ街の連中を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆殺しにするほどヒマじゃねえ。"
+                                "\\n<Gargan>Relax, I'm not so free that I'd go around killing everyone\nin Tengeki Street."
                             ]
                         },
                         {
@@ -3997,7 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>俺はマキナとリベンジマッチがしてえんだよ。"
+                                "\\n<Gargan>I want a rematch with Makina."
                             ]
                         },
                         {
@@ -4055,7 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マキナ先輩と……！？"
+                                "\\n<Eury>With Senior Makina...!?"
                             ]
                         },
                         {
@@ -4072,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>俺はあいつと１勝２敗だからなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負けっぱなしなわけにはいかねえ。"
+                                "\\n<Gargan>Yeah, I'm 1 win and 2 losses against her. I can't let it end\nlike that."
                             ]
                         },
                         {
@@ -4096,14 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>さ、させない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは、この場で、私が倒す……！"
+                                "\\n<Eury>I won't let you! You'll be defeated right here by me...!"
                             ]
                         },
                         {
@@ -4120,14 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>虚勢を張って時間を稼ごうとしても無駄だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始めるぞ。"
+                                "\\n<Gargan>Pretending to be strong and trying to stall for time is\nfutile. Let's begin."
                             ]
                         },
                         {
@@ -4144,14 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめ、待って！"
+                                "\\n<Eury>No...! Wait, please!"
                             ]
                         },
                         {
@@ -4264,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あんっ、はぁあっ！！！"
+                                "\\n<Eury>Ahh, ahhn, haaah!!!"
                             ]
                         },
                         {
@@ -4329,7 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、これだめ、裂けちゃう、うぅう！！！"
+                                "\\n<Eury>No, this is bad, it's going to tear me apart, ughhh!!!"
                             ]
                         },
                         {
@@ -4382,7 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>やべえぞ、本気で犯してやがる。"
+                                "\\n<Townspeople>This is bad, he's seriously raping her."
                             ]
                         },
                         {
@@ -4399,7 +4266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>でも俺たちに助ける方法なんかねえしな……。"
+                                "\\n<Townspeople>But there's nothing we can do to help..."
                             ]
                         },
                         {
@@ -4416,14 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>懐かしいなァ、マキナはこうやって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯されながら何度も降参を求めてきたんだぜ。"
+                                "\\n<Gargan>Ah, this takes me back. Makina begged for mercy many times\nwhile being raped like this."
                             ]
                         },
                         {
@@ -4440,7 +4300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あいつは２回の中出しで完全に堕ちたけどなァ。"
+                                "\\n<Gargan>She completely fell after being creampied twice."
                             ]
                         },
                         {
@@ -4457,7 +4317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、だめ、んっ、はあぁあっ！！"
+                                "\\n<Eury>Haa, ah, no, nnh, haaaah!!"
                             ]
                         },
                         {
@@ -4474,14 +4334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お前はそうとうのヤリマンみてえだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マキナと違ってガバガバだ。"
+                                "\\n<Gargan>You seem like quite the slut. Unlike Makina, you're all\nloose."
                             ]
                         },
                         {
@@ -4498,14 +4351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>まあ、そうなった要因は俺が輸送中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新型セクサロイドを破壊したことなんだけどなァ。"
+                                "\\n<Gargan>Well, the reason for that is because I destroyed the new\nmodel sexaroid in transit."
                             ]
                         },
                         {
@@ -4522,14 +4368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>まさかあれのせいでお前が誤解されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイド扱いされるとはなァ。"
+                                "\\n<Gargan>Who would have thought that because of that, you'd be\nmistaken and treated as a sexaroid."
                             ]
                         },
                         {
@@ -4546,7 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んっ、あなたの、せいでっ……！！！"
+                                "\\n<Eury>Haa, ah, nnh, it's your fault...!!!"
                             ]
                         },
                         {
@@ -4563,14 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>狙ったわけじゃねえしなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにお前も受け入れたんだろ？"
+                                "\\n<Gargan>It's not like I targeted you. Besides, you accepted it,\ndidn't you?"
                             ]
                         },
                         {
@@ -4587,7 +4419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ、んっ！！そ、そんな、ことっ……！"
+                                "\\n<Eury>Wha-, nnh!! That's not...!"
                             ]
                         },
                         {
@@ -4604,7 +4436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>街でそこら中の男とヤんのは楽しかったか？なァ？"
+                                "\\n<Gargan>Was it fun being fucked by every guy in town? Huh?"
                             ]
                         },
                         {
@@ -4705,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>う、あぁ、はっ、んんっ、あっ……！"
+                                "\\n<Eury>Ugh, aah, hah, nnh, ah...!"
                             ]
                         },
                         {
@@ -4722,14 +4554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>なァ、さすがに俺よりデカいのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れられたことはねえよなァ？"
+                                "\\n<Gargan>Hey, you've never had anything bigger than me inside you,\nright?"
                             ]
                         },
                         {
@@ -4746,7 +4571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、んっ、ああっ、んんっ……！"
+                                "\\n<Eury>Haa, nnh, aah, nnh...!"
                             ]
                         },
                         {
@@ -4763,14 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>質問に答えろ、お前の顔面を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "握りつぶしてもいいんだぜ？"
+                                "\\n<Gargan>Answer the question, or do you want me to crush your face?"
                             ]
                         },
                         {
@@ -4787,7 +4605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……！んっ、あぁ、はっ……！"
+                                "\\n<Eury>...! Nnh, aah, hah...!"
                             ]
                         },
                         {
@@ -4852,7 +4670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>い、いちばん、おっきぃ、です、ぅう、あっ！"
+                                "\\n<Eury>It's the biggest, yes, ugh, ah!"
                             ]
                         },
                         {
@@ -4905,14 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>そうだよなァ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理押し広げられてるもんなァ？"
+                                "\\n<Gargan>Right? It's being forcibly stretched open, isn't it?"
                             ]
                         },
                         {
@@ -4929,7 +4740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、ぁあ、んっ、だめ、痛い、ぃ゛い゛い゛！！！"
+                                "\\n<Eury>Ah, aah, nnh, no, it hurts, eeeek!!!"
                             ]
                         },
                         {
@@ -4946,7 +4757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（体の、中から、壊されちゃう……！！！！）"
+                                "\\n<Eury>(I'm being broken from the inside...!!!!)"
                             ]
                         },
                         {
@@ -4963,7 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>うわあ、完全にオナホ扱いされてんな。"
+                                "\\n<Townspeople>Wow, she's being treated like a complete onahole."
                             ]
                         },
                         {
@@ -4980,7 +4791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>あんな激しいの初めて見たぜ。"
+                                "\\n<Townspeople>I've never seen anything so intense before."
                             ]
                         },
                         {
@@ -4997,14 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>エウリィ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は散々街のやつらに輪姦されてるよなァ？"
+                                "\\n<Gargan>Eury. You've been gangbanged by the guys in town a lot,\nhaven't you?"
                             ]
                         },
                         {
@@ -5021,7 +4825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>気ぃ失うまでセックスしたことはあるか？"
+                                "\\n<Gargan>Have you ever had sex until you lost consciousness?"
                             ]
                         },
                         {
@@ -5038,7 +4842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、そ、そんなの……！"
+                                "\\n<Eury>Haa, ah, that's...!"
                             ]
                         },
                         {
@@ -5055,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>あるよなァ？"
+                                "\\n<Gargan>You have, right?"
                             ]
                         },
                         {
@@ -5072,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うっ、あっ、はぁ、……う、うう……！"
+                                "\\n<Eury>Ugh, ah, haa, ...uh, uuu...!"
                             ]
                         },
                         {
@@ -5089,7 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>このセックスはそれどころじゃねえぜ。"
+                                "\\n<Gargan>This sex is nothing like that."
                             ]
                         },
                         {
@@ -5106,14 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>俺は何度も出したりはしねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前を中出し１発ＫＯしてやるよ。"
+                                "\\n<Gargan>I won't cum multiple times. I'll knock you out with a single\ncreampie."
                             ]
                         },
                         {
@@ -5130,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んんっ、あぁあっ……！"
+                                "\\n<Eury>Haa, ah, nnh, aahhh...!"
                             ]
                         },
                         {
@@ -5147,14 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お前の絶頂と同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最大の精力を中に叩き込んでやるからなァ。"
+                                "\\n<Gargan>I'll slam my maximum energy inside you at the same time as\nyour climax."
                             ]
                         },
                         {
@@ -5171,14 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>気持ちよすぎて１発で飛ぶぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤったことないだろ？"
+                                "\\n<Gargan>It'll feel so good you'll pass out in one go. You've never\nexperienced that before, have you?"
                             ]
                         },
                         {
@@ -5279,7 +5062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、そ、そんなの、しちゃ、ああぁっ！！！"
+                                "\\n<Eury>No, don't do that to me, aahhh!!!"
                             ]
                         },
                         {
@@ -5296,14 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（無理矢理犯されてるのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奥に何度も当たって、もうイきそう……！）"
+                                "\\n<Eury>(Even though I'm being raped against my will, it keeps\nhitting deep inside and I'm about to cum...!)"
                             ]
                         },
                         {
@@ -5320,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お、そろそろイきそうか？"
+                                "\\n<Gargan>Oh, are you about to cum soon?"
                             ]
                         },
                         {
@@ -5337,7 +5113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、んんっ……！"
+                                "\\n<Eury>Haa, ah, nnh...!"
                             ]
                         },
                         {
@@ -5354,14 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>マキナと違ってしっかり膣が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開発されてるからイかせんのが楽だなァ？"
+                                "\\n<Gargan>Unlike Makina, your vagina has been well developed so it's\neasy to make you cum?"
                             ]
                         },
                         {
@@ -5378,7 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>膣の締まりですぐに絶頂が近いのもわかったぜェ？"
+                                "\\n<Gargan>The tightness of your vagina tells me your climax is near\ntoo, huh?"
                             ]
                         },
                         {
@@ -5395,14 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、だめ、だめぇ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突くの、やめて、ぇえ！！"
+                                "\\n<Eury>Haa, ah, no, don't!! Stop thrusting, eeeh!!"
                             ]
                         },
                         {
@@ -5419,7 +5181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>お前が絶頂するまでのカウントダウンだ。いいな？"
+                                "\\n<Gargan>It's a countdown until you climax. Got it?"
                             ]
                         },
                         {
@@ -5436,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、ぁああっ、だめ、やめでぇっ！！！"
+                                "\\n<Eury>Ah, aahhh, no, stop it, eeeh!!!"
                             ]
                         },
                         {
@@ -5453,14 +5215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（中で信じられないぐらい大きくなってる、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対やばい……！！！！）"
+                                "\\n<Eury>(It's unbelievably big inside me, this is definitely\nbad...!!!!)"
                             ]
                         },
                         {
@@ -5477,7 +5232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>３……。"
+                                "\\n<Gargan>３……。"
                             ]
                         },
                         {
@@ -5535,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、お願いだから、あぁあ、許してぇえ！！！"
+                                "\\n<Eury>No, please, aahh, forgive meee!!!"
                             ]
                         },
                         {
@@ -5552,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>２……。"
+                                "\\n<Gargan>２……。"
                             ]
                         },
                         {
@@ -5617,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ほ、ほんとに、だめ、イっぢゃ、ぅううっ！！！"
+                                "\\n<Eury>It's really, no good, I'm gonna cum, uuuuh!!!"
                             ]
                         },
                         {
@@ -5634,7 +5389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>１……。"
+                                "\\n<Gargan>１……。"
                             ]
                         },
                         {
@@ -5699,7 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>出しちゃ、だめぇええっ！！！！！"
+                                "\\n<Eury>Don't cum inside, no wayyyy!!!"
                             ]
                         },
                         {
@@ -5819,7 +5574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁぁあ、ぁぁあああっ！！！！！♡"
+                                "\\n<Eury>Haa, ah, aahh, aahhaaaa!!!!♡"
                             ]
                         },
                         {
@@ -5884,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁあ、あっ、お゛ぉ゛お゛お゛お゛お゛！！！！"
+                                "\\n<Eury>Aahh, ah, oooohhhhh!!!!"
                             ]
                         },
                         {
@@ -5937,7 +5692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛ぁ゛っ！！！！！！♡♡♡"
+                                "\\n<Eury>Aaahhh!!!!♡♡♡"
                             ]
                         },
                         {
@@ -5954,7 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>やっば……なんだあの射精の量……。"
+                                "\\n<Townspeople>Wow... what's with that amount of ejaculation..."
                             ]
                         },
                         {
@@ -5971,14 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<街の住人>あんなデカいの入ってたのかよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ壊れたんじゃないか？"
+                                "\\n<Townspeople>Something that big was inside her? Isn't she broken?"
                             ]
                         },
                         {
@@ -6072,7 +5820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぁ、ぁあ……。"
+                                "\\n<Eury>Ah, aah..."
                             ]
                         },
                         {
@@ -6089,7 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>改造女。立てるか、なァ？"
+                                "\\n<Gargan>Modified woman. Can you stand up, huh?"
                             ]
                         },
                         {
@@ -6106,7 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……わ、わたし……。"
+                                "\\n<Eury>...I, I..."
                             ]
                         },
                         {
@@ -6171,7 +5919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……もう……………だめ………。"
+                                "\\n<Eury>...it's no use..."
                             ]
                         },
                         {
@@ -6188,14 +5936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>おい、エウリィ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しでも意識があったらお前の勝ちにしてやるよ。"
+                                "\\n<Gargan>Hey, Eury. If you have even a bit of consciousness left,\nI'll consider it your win."
                             ]
                         },
                         {
@@ -6212,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>俺の声が聞こえるか？"
+                                "\\n<Gargan>Can you hear my voice?"
                             ]
                         },
                         {
@@ -6229,7 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>…………。"
+                                "\\n<Eury>…………。"
                             ]
                         },
                         {
@@ -6246,7 +5987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -6296,14 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エウリィは膣から大量の精液を溢れさせながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピクリとも動かなくなった。"
+                                "Eury lay motionless, overflowing with a large amount of\nsemen from her pussy.\\n<Eury>"
                             ]
                         },
                         {
@@ -6320,14 +6054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>勝負あったなァ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラウンド２は俺の１発KO勝ちだ。"
+                                "\\n<Gargan>The match is set. Round 2 is my one-hit KO win."
                             ]
                         },
                         {
@@ -6344,14 +6071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>なんの手ごたえもねェ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやくマキナと戦わせやがれ！"
+                                "\\n<Gargan>No resistance at all. Hurry up and let me fight Makina!"
                             ]
                         },
                         {
@@ -6368,14 +6088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルガンは他のことには全く目もくれず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンゲツ街を去っていった……。"
+                                "Gargan left Tenge Street without paying any attention to\nanything else..."
                             ]
                         },
                         {
@@ -6415,7 +6128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルインと会話する直前の状態に戻ります。"
+                                "You will return to the state just before talking to Ruin."
                             ]
                         },
                         {
@@ -6787,7 +6500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {

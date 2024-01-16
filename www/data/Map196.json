@@ -5864,7 +5864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>はぁっ！！！"
+                                "\\n<Makina>\"Haaah!!!\""
                             ]
                         },
                         {
@@ -6051,7 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>わー！マキナ先輩すごいですね！"
+                                "\\n<Eury>\"Wow! Makina-senpai, you're amazing!\""
                             ]
                         },
                         {
@@ -6084,7 +6084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……。"
+                                "\\n<Makina>……。"
                             ]
                         },
                         {
@@ -6117,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>いや、すごいですね、ではなくてな……。"
+                                "\\n<Makina>\"No, it's not about being amazing or not...\""
                             ]
                         },
                         {
@@ -6150,7 +6150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、すごくないんですか？"
+                                "\\n<Eury>\"Eh, isn't it amazing?\""
                             ]
                         },
                         {
@@ -6183,14 +6183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>そういうことじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィ、今魔物の存在に気づいていたか？"
+                                "\\n<Makina>\"That's not what I mean. Eury, did you notice the presence\nof the monster just now?\""
                             ]
                         },
                         {
@@ -6223,7 +6216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いいえ、さっぱり！"
+                                "\\n<Eury>\"No, not at all!\""
                             ]
                         },
                         {
@@ -6256,7 +6249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……はあ。"
+                                "\\n<Makina>\"...sigh.\""
                             ]
                         },
                         {
@@ -6273,14 +6266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>なんというか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィはところどころ抜けていて、心配だ。"
+                                "\\n<Makina>\"How should I put it... Eury, you're a bit absent-minded at\ntimes, and it worries me.\""
                             ]
                         },
                         {
@@ -6361,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ええぇっ！？私って抜けてるんですか！？"
+                                "\\n<Eury>\"Eeeh!? Am I really that absent-minded!?\""
                             ]
                         },
                         {
@@ -6394,7 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>自覚もなかったのか……。"
+                                "\\n<Makina>\"You weren't even aware of it...?\""
                             ]
                         },
                         {
@@ -6475,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うう……言われてみれば、抜けてるかもしれないです。"
+                                "\\n<Eury>\"Ugh... Now that you mention it, maybe I am a bit.\""
                             ]
                         },
                         {
@@ -6508,7 +6494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>改造少女である以上、いつ魔物と交戦するかわからない。"
+                                "\\n<Makina>\"As a modified girl, you never know when you'll have to\nfight monsters.\""
                             ]
                         },
                         {
@@ -6525,14 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>１秒でも早く魔物の存在に気づくことが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有利な状況を生むかもしれない。"
+                                "\\n<Makina>\"Noticing the presence of monsters even a second earlier\ncould create an advantageous situation.\""
                             ]
                         },
                         {
@@ -6549,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい……気を付けます……。"
+                                "\\n<Eury>\"Yes... I'll be careful...\""
                             ]
                         },
                         {
@@ -6650,7 +6629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……はっ！？魔物！？"
+                                "\\n<Eury>\"...Huh!? A monster!?\""
                             ]
                         },
                         {
@@ -6683,7 +6662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>何、どこだ！？"
+                                "\\n<Makina>\"What, where!?\""
                             ]
                         },
                         {
@@ -6748,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>てぇい！！！"
+                                "\\n<Eury>\"Take this!!!\""
                             ]
                         },
                         {
@@ -7014,7 +6993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……岩でした。"
+                                "\\n<Eury>\"...It was just a rock.\""
                             ]
                         },
                         {
@@ -7092,7 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……エウリィ、大丈夫か？"
+                                "\\n<Makina>\"...Eury, are you okay?\""
                             ]
                         },
                         {
@@ -7125,14 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、大丈夫ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってただの岩だったので。"
+                                "\\n<Eury>\"Eh, I'm fine. It was just a rock after all.\""
                             ]
                         },
                         {
@@ -7165,14 +7137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>それはそうだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]エウリィの腕は私と違って、生身の腕だろう。"
+                                "\\n<Makina>\"That may be so but...\\C[2]Eury's arms are flesh and blood\nunlike mine, right?\""
                             ]
                         },
                         {
@@ -7205,7 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あんなふうに岩を破壊したら腕が痛まないのか？"
+                                "\\n<Makina>\"Aren't your arms hurt after smashing a rock like that?\""
                             ]
                         },
                         {
@@ -7238,7 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いえ、全然！"
+                                "\\n<Eury>\"No, not at all!\""
                             ]
                         },
                         {
@@ -7255,7 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……。"
+                                "\\n<Makina>……。"
                             ]
                         },
                         {
@@ -7272,14 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>（さっきの動きと、あのすさまじいパワー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確実にエウリィには、\\C[2]改造少女としての素質がある\\C[0]）"
+                                "\\n<Makina>\"(With that movement and that incredible power... Eury\ndefinitely has the potential as a modified girl.)\\C[0]\""
                             ]
                         },
                         {
@@ -7296,14 +7254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>（最初はどうなるかと思ったが、戦闘能力の成長は著しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしたら、私以上になれるかもしれない）"
+                                "\\n<Makina>\"(I was worried at first, but her combat abilities have\ngrown remarkably. She might even surpass me someday.)\""
                             ]
                         },
                         {
@@ -7320,7 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>（だが……）"
+                                "\\n<Makina>\"(But...)\""
                             ]
                         },
                         {
@@ -7353,7 +7304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁああっ！？"
+                                "\\n<Eury>\"Aaaaah!?\""
                             ]
                         },
                         {
@@ -7370,14 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>さっきの衝撃で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お昼ごはんの入ったお弁当箱がぐしゃぐしゃに……。"
+                                "\\n<Eury>\"The impact just now squished the lunchbox with my lunch in\nit...\""
                             ]
                         },
                         {
@@ -7406,7 +7350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{うわぁあ～～ん！！！！"
+                                "\\n<Eury>\"Waaaahhhhh!!!\""
                             ]
                         },
                         {
@@ -7446,7 +7390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>（……あまりにもドジだ。不安すぎる）"
+                                "\\n<Makina>\"(...She's such a klutz. It's too worrying.)\""
                             ]
                         },
                         {
@@ -7463,14 +7407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>（マリオン。こいつを１人で任務に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行かせられる日は来るのか……？）"
+                                "\\n<Makina>\"(Marion. Will there ever come a day when I can send her on\na mission alone...?)\""
                             ]
                         },
                         {
@@ -7635,7 +7572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>\"Faaah, I slept well...\""
                             ]
                         },
                         {
@@ -7668,14 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>\"It's been \\v[224] days since we arrived in Tengeki Street.\nLet's do our best today too!\""
                             ]
                         },
                         {

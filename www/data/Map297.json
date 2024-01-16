@@ -3225,14 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルインに話しかけると選択肢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」→ガルガンと戦闘、その後エンディング"
+                                "If you talk to Ruin and choose \"Yes\" → you'll battle Gargan,\nand then it's on to the ending."
                             ]
                         },
                         {
@@ -3278,14 +3271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガルガンと戦闘、負けると戦闘前に戻る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝つとエンディングへ。"
+                                "If you battle Gargan and lose, you'll return to before the\nbattle. If you win, you'll proceed to the ending."
                             ]
                         },
                         {
@@ -3772,7 +3758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ルインさん！"
+                                "\\n<Eury>Ruin-san!"
                             ]
                         },
                         {
@@ -3805,7 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……エウリィか。"
+                                "\\n<Ruin>...Eury, huh."
                             ]
                         },
                         {
@@ -3838,14 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>どうせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マリオンに連れてこいと言われたんだろ。"
+                                "\\n<Ruin>Anyway, you're here to tell me to go to Marion, right?"
                             ]
                         },
                         {
@@ -3878,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ギク！！"
+                                "\\n<Eury>Giku!!"
                             ]
                         },
                         {
@@ -3911,14 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……わかりやすいな、お前。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初代の改造少女とは大違いだ。"
+                                "\\n<Ruin>...You're so transparent. You're nothing like the original\nmodified girl."
                             ]
                         },
                         {
@@ -3951,14 +3923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>と、とにかく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てくれますよね！？"
+                                "\\n<Eury>Anyway! You'll come with us, right!?"
                             ]
                         },
                         {
@@ -3991,7 +3956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……あいつは、なんと言っていた？"
+                                "\\n<Ruin>...What did she say?"
                             ]
                         },
                         {
@@ -4024,14 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マリオン博士は、あなたを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けたがっていました。間違いありません！"
+                                "\\n<Eury>Dr. Marion wants to help you. There's no mistake about it!"
                             ]
                         },
                         {
@@ -4064,7 +4022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……そうか。"
+                                "\\n<Ruin>...I see."
                             ]
                         },
                         {
@@ -4081,14 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>私が作ったマモノコアは破壊された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、私が魔物側についてできることはない。"
+                                "\\n<Ruin>The Monster Core I created has been destroyed. There's\nnothing more I can do on the side of the monsters."
                             ]
                         },
                         {
@@ -4105,14 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>くだらない劣等感で始めた愚行だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に、本当に愚かしい……。"
+                                "\\n<Ruin>It was a foolish act that started from a petty sense of\ninferiority. Truly, truly foolish..."
                             ]
                         },
                         {
@@ -4145,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ルインさん……。"
+                                "\\n<Eury>Ruin-san..."
                             ]
                         },
                         {
@@ -4178,14 +4122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>わかった、行くよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マリオンのところに。"
+                                "\\n<Ruin>Alright, I'll go. To Marion's place."
                             ]
                         },
                         {
@@ -4228,7 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>おやおや、勝手に話が進んでいるようですね。"
+                                "\\n<???>Oh my, it seems like the conversation is moving along\nwithout me."
                             ]
                         },
                         {
@@ -4412,7 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>ルインさん、それで良いのですか？"
+                                "\\n<???>Ruin-san, is that alright with you?"
                             ]
                         },
                         {
@@ -4445,7 +4382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\{……！！！"
+                                "\\n<Ruin>\\{……！！！"
                             ]
                         },
                         {
@@ -4478,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなたは！？"
+                                "\\n<Eury>Who are you!?"
                             ]
                         },
                         {
@@ -4495,14 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>ルイン。あなたは、何もかもが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うまくいっているマリオンが憎かった。"
+                                "\\n<???>Ruin. You hated Marion because everything was going well for\nher."
                             ]
                         },
                         {
@@ -4519,14 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>輸送中の新型セクサロイドを破壊し、エウリィが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誤解されるように仕向けたのも、あなたじゃないですか。"
+                                "\\n<???>You're the one who destroyed the new model Sexaroid in\ntransit and framed Eury, weren't you?"
                             ]
                         },
                         {
@@ -4543,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ……！？"
+                                "\\n<Eury>Wha...!?"
                             ]
                         },
                         {
@@ -4576,7 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>……。"
+                                "\\n<Ruin>……。"
                             ]
                         },
                         {
@@ -4593,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>今度は魔物を裏切るわけですか。"
+                                "\\n<???>Now you're betraying the monsters, huh?"
                             ]
                         },
                         {
@@ -4610,7 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>今更になって人間に戻ろうとしても、もう無駄ですよ。"
+                                "\\n<???>Even if you try to return to being human now, it's already\ntoo late."
                             ]
                         },
                         {
@@ -4627,7 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>それは……。"
+                                "\\n<Ruin>That is..."
                             ]
                         },
                         {
@@ -4644,14 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>それに、あなたとのあの約束も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかったことになりますからね。"
+                                "\\n<???>Besides, that promise you made with me will now be null and\nvoid."
                             ]
                         },
                         {
@@ -4684,7 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\{！！！"
+                                "\\n<Ruin>\\{！！！"
                             ]
                         },
                         {
@@ -4701,7 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>いいのですか？"
+                                "\\n<???>Is that alright with you?"
                             ]
                         },
                         {
@@ -4734,7 +4650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>\\C[18]いいわけが、ないだろ……！"
+                                "\\n<Ruin>\\C[18]There's no way that's alright...!"
                             ]
                         },
                         {
@@ -4796,14 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた誰なんですか！"
+                                "\\n<Eury>Wait a minute! Who are you exactly!?"
                             ]
                         },
                         {
@@ -4820,7 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ルインさんに手は出させませんよ！"
+                                "\\n<Eury>I won't let you lay a hand on Ruin-san!"
                             ]
                         },
                         {
@@ -4837,7 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>クックック……。"
+                                "\\n<???>Kukukuku..."
                             ]
                         },
                         {
@@ -4854,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>私の正体ですか？"
+                                "\\n<???>My true identity, you ask?"
                             ]
                         },
                         {
@@ -4871,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>私は……。"
+                                "\\n<???>I am..."
                             ]
                         },
                         {
@@ -4888,7 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>\\{私はなァ……！"
+                                "\\n<???>No, I am..."
                             ]
                         },
                         {
@@ -4905,7 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>\\{いいや、俺はなァ……！"
+                                "\\n<???>No, I am..."
                             ]
                         },
                         {
@@ -5026,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>剛腕のガルガン様だぜェェェェェエエエ！！！"
+                                "\\n<Gargan>The mighty Gargan-samaaaaaa!!!"
                             ]
                         },
                         {
@@ -5043,14 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>マキナと再戦したくてなァ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地獄の底から這いあがったぜェ！！"
+                                "\\n<Gargan>I've crawled up from the depths of hell because I want a\nrematch with Makina!!"
                             ]
                         },
                         {
@@ -5097,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>魔物……！！！"
+                                "\\n<Eury>A monster...!!!"
                             ]
                         },
                         {
@@ -5114,14 +5016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>させない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場であなたを倒す！"
+                                "\\n<Eury>I won't let you! I will defeat you right here!"
                             ]
                         },
                         {
@@ -5267,7 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>新型ァ、お前は前座だ。"
+                                "\\n<Gargan>New model, you're just an appetizer."
                             ]
                         },
                         {
@@ -5284,14 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ガルガン>俺はさっさとお前を殺して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マキナと戦いにいくぜェ！！！"
+                                "\\n<Gargan>I'll kill you quickly and then go fight Makina!!!"
                             ]
                         },
                         {
@@ -5389,14 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなたのような危険な存在を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街の中で野放しにするわけにはいきません！"
+                                "\\n<Eury>I can't let a dangerous being like you roam free in the\ncity!"
                             ]
                         },
                         {
@@ -5509,14 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>気を付けて、エウリィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつ強い！"
+                                "\\n<Ruin>Be careful, Eury! He's strong!"
                             ]
                         },
                         {
@@ -5533,14 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイン>援助する、だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとかしてあいつを倒して……！！！"
+                                "\\n<Ruin>I'll assist you, so somehow defeat that guy...!!!"
                             ]
                         },
                         {
@@ -6114,7 +5981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>ちぃ！やるじゃねえか！！！"
+                                "\\n<Gargan>Tch! Not bad at all!!!"
                             ]
                         },
                         {
@@ -6147,7 +6014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>これで、とどめです！！！"
+                                "\\n<Eury>This is the finishing blow!!!"
                             ]
                         },
                         {
@@ -6164,7 +6031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>はぁああっ！！！！"
+                                "\\n<Eury>Haaaah!!!!"
                             ]
                         },
                         {
@@ -6181,7 +6048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>マキナと戦うまでは地獄には堕ちれねぇなァ！！！"
+                                "\\n<Gargan>I can't fall to hell until I fight Makina!!!"
                             ]
                         },
                         {
@@ -6198,7 +6065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>おい、ルイン！"
+                                "\\n<Gargan>Hey, Ruin!"
                             ]
                         },
                         {
@@ -6254,7 +6121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>……！！！"
+                                "\\n<Ruin>……！！！"
                             ]
                         },
                         {
@@ -6350,7 +6217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>エウリィ、待って！"
+                                "\\n<Ruin>Eury, wait!"
                             ]
                         },
                         {
@@ -6383,7 +6250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>え、る、ルインさん！？"
+                                "\\n<Eury>Eh, Ru-Ruin-san!?"
                             ]
                         },
                         {
@@ -6400,7 +6267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>とどめを刺しちゃダメ、こいつがいないと……！！！"
+                                "\\n<Ruin>Don't deliver the final blow, we need him for...!!!"
                             ]
                         },
                         {
@@ -6417,7 +6284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>隙を見せたなメス共！！！"
+                                "\\n<Gargan>You showed an opening, you bitches!!!"
                             ]
                         },
                         {
@@ -6434,7 +6301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>死ねぇぇえええっ！！！！"
+                                "\\n<Gargan>Dieeeeeee!!!!"
                             ]
                         },
                         {
@@ -6627,14 +6494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>はっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しまった！！！"
+                                "\\n<Eury>Huh!? Damn it!!!"
                             ]
                         },
                         {
@@ -6651,7 +6511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（だめ、ルインさんを守れない！）"
+                                "\\n<Eury>(No good, I can't protect Ruin-san!)"
                             ]
                         },
                         {
@@ -6675,7 +6535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（そんな、あと少しだったのに……！）"
+                                "\\n<Eury>(Such a pity, we were so close...!)"
                             ]
                         },
                         {
@@ -6692,14 +6552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（ごめんなさい、私は……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　誰も、助けてあげられなかった……）"
+                                "\\n<Eury>(I'm sorry, I couldn't save anyone...)"
                             ]
                         },
                         {
@@ -6735,7 +6588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マリオン>\\{ばっっっっかヤロー！！"
+                                "\\n<Marion>You idiotic foooool!!"
                             ]
                         },
                         {
@@ -6904,7 +6757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>ま、マリオン！？"
+                                "\\n<Ruin>Ma-Marion!?"
                             ]
                         },
                         {
@@ -6937,7 +6790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マリオン>マキナ、早くそいつぶっ殺せ！"
+                                "\\n<Marion>Makina, hurry up and kill that bastard!"
                             ]
                         },
                         {
@@ -6968,7 +6821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マキナ>ガルガン、よかったな。"
+                                "\\n<Makina>Gargan, thank goodness."
                             ]
                         },
                         {
@@ -6985,7 +6838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マキナ>お望み通り、私が葬ってやる。"
+                                "\\n<Makina>As you wish, I'll be the one to bury you."
                             ]
                         },
                         {
@@ -7002,7 +6855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>……！！！"
+                                "\\n<Gargan>……！！！"
                             ]
                         },
                         {
@@ -7094,7 +6947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>……へへへ、マキナぁ。"
+                                "\\n<Gargan>...Hehehe, Makina."
                             ]
                         },
                         {
@@ -7111,14 +6964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ガルガン>互いに、ベストコンディションのときに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦うってのはどうだ？"
+                                "\\n<Gargan>How about we fight when we're both in the best condition?"
                             ]
                         },
                         {
@@ -7142,7 +6988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マキナ>……もう、蘇るなよ。"
+                                "\\n<Makina>...Just don't come back to life again."
                             ]
                         },
                         {
@@ -7277,7 +7123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>マリオン……。"
+                                "\\n<Ruin>Marion..."
                             ]
                         },
                         {
@@ -7310,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マリオン>……生きてたんだな。"
+                                "\\n<Marion>...So you were alive."
                             ]
                         },
                         {
@@ -7343,7 +7189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>……お前のおかげでな。"
+                                "\\n<Ruin>...Thanks to you."
                             ]
                         },
                         {
@@ -7388,14 +7234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マリオン>バカアホマヌケ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういう意味じゃねえよ。"
+                                "\\n<Marion>You dumbass moron! That's not what I mean."
                             ]
                         },
                         {
@@ -7428,14 +7267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<マリオン>聞きたいことは山ほどある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とりあえず、基地に来てもらうぞ。"
+                                "\\n<Marion>There's a ton of things I want to ask. For starters, come to\nthe base."
                             ]
                         },
                         {
@@ -7468,7 +7300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイン>……好きにしてくれ。"
+                                "\\n<Ruin>...Do as you like."
                             ]
                         },
                         {

@@ -1808,7 +1808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>新型のお姉さん！こんにちは！"
+                                "\\n<child>Hello, new Onee-san!"
                             ]
                         },
                         {
@@ -1841,28 +1841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こんにちは～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>Hello~!"
                             ]
                         },
                         {
@@ -1895,28 +1874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（か、かわいいいいぃ～～～！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>(She's so cuuute~~~!)"
                             ]
                         },
                         {
@@ -1933,28 +1891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ねえねえ、よかったら一緒に遊ばない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<child>Hey hey, if it's okay with you, do you want to play\ntogether?"
                             ]
                         },
                         {
@@ -1987,28 +1924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、遊ぶ？うーん、どうしよっかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>Oh, play? Hmm, what should I do."
                             ]
                         },
                         {
@@ -2041,14 +1957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（楽しそうだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の任務とはちょっと違うような……）"
+                                "\\n<Eury>(It seems fun, but it's a bit different from my mission...)"
                             ]
                         },
                         {
@@ -2065,28 +1974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>ごめんね、お姉さん忙しいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<child>Sorry, Onee-san must be busy, huh."
                             ]
                         },
                         {
@@ -2103,14 +1991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子ども>それじゃあ、ヒマなとき教えて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもいいから！"
+                                "\\n<child>Then, let me know when you're free! Anytime is fine!"
                             ]
                         },
                         {
@@ -2143,28 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うん、わかった。ありがとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<Eury>Yeah, got it. Thanks."
                             ]
                         },
                         {
@@ -2197,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（か、か、か、かわいい～～～～！！）"
+                                "\\n<Eury>(So, so, so cute~~~~!!)"
                             ]
                         },
                         {

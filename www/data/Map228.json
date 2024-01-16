@@ -1880,7 +1880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>みなさん、今日はよろしくお願いします。"
+                                "\\n<Eury>Ladies and gentlemen, I ask for your cooperation today."
                             ]
                         },
                         {
@@ -1897,7 +1897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>（え、また来たの？）"
+                                "\\n<Apprentice 1>(Eh, she's back again?)"
                             ]
                         },
                         {
@@ -1914,7 +1914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>（あんなことあったのにまた来るとか……）"
+                                "\\n<Apprentice 2>(After what happened last time, she's still coming back...)"
                             ]
                         },
                         {
@@ -1931,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>（こいつ相当のド変態だな）"
+                                "\\n<Apprentice 3>(This girl must be a real pervert.)"
                             ]
                         },
                         {
@@ -1948,14 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>今日はマジメにやりますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは魔物被害から命を守るためのものですから！"
+                                "\\n<Eury>Today, I will conduct this seriously. This is to protect our\nlives from monster attacks, after all!"
                             ]
                         },
                         {
@@ -1972,7 +1965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>はいはい。"
+                                "\\n<Apprentice 1>Yeah, yeah."
                             ]
                         },
                         {
@@ -1989,7 +1982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょっと！返事はちゃんとしてください。"
+                                "\\n<Eury>Hey! Please respond properly."
                             ]
                         },
                         {
@@ -2006,7 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>あーい。"
+                                "\\n<Apprentice 2>Alright."
                             ]
                         },
                         {
@@ -2023,7 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……もしかして私のことバカにしてますか！"
+                                "\\n<Eury>...Are you making fun of me?!"
                             ]
                         },
                         {
@@ -2040,7 +2033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>だって、全然師範の代わり勤まってないし。"
+                                "\\n<Apprentice 3>Well, you're not really cut out to be a substitute\ninstructor."
                             ]
                         },
                         {
@@ -2057,7 +2050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なっ！"
+                                "\\n<Eury>What?!"
                             ]
                         },
                         {
@@ -2074,7 +2067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>前回揉まれてるだけだったじゃん。"
+                                "\\n<Apprentice 1>Last time, you just got fondled."
                             ]
                         },
                         {
@@ -2091,7 +2084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そ、それはあなたたちが！"
+                                "\\n<Eury>That's because you guys...!"
                             ]
                         },
                         {
@@ -2108,7 +2101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>あんな拘束からも抜けれない人が指導とかできんの。"
+                                "\\n<Apprentice 2>Someone who can't even escape from that kind of restraint\ncan't possibly teach."
                             ]
                         },
                         {
@@ -2125,7 +2118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>うううう……！！！"
+                                "\\n<Eury>Ugh...!!!"
                             ]
                         },
                         {
@@ -2142,7 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（すっかり舐められてますね……！これは許せない！）"
+                                "\\n<Eury>(I'm being completely underestimated...! I can't allow\nthis!)"
                             ]
                         },
                         {
@@ -2159,7 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いいですか、これでも私は魔物を何体も……！"
+                                "\\n<Eury>Listen, I have defeated many monsters...!"
                             ]
                         },
                         {
@@ -2188,7 +2181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>じゃあ今日は実践演習にしますか。"
+                                "\\n<Apprentice 1>So, shall we do a practical exercise today?"
                             ]
                         },
                         {
@@ -2205,7 +2198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、ちょっと何勝手に……。"
+                                "\\n<Eury>Eh, wait, what are you deciding on your own..."
                             ]
                         },
                         {
@@ -2222,7 +2215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>いいねいいね、そうしよう。"
+                                "\\n<Apprentice 2>Sounds good, let's do that."
                             ]
                         },
                         {
@@ -2239,7 +2232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>いや、いやいや！まずは防御の仕方から……。"
+                                "\\n<Eury>No, no no! First, we should start with how to defend..."
                             ]
                         },
                         {
@@ -2256,14 +2249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>じゃあさ、相撲形式にしようよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面に倒れた方が負けで。"
+                                "\\n<Apprentice 3>Then let's do it sumo style. The one who falls to the ground\nloses."
                             ]
                         },
                         {
@@ -2280,7 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>おっけー、じゃあ俺と新型先生の組手から始めよっか。"
+                                "\\n<Apprentice 1>Okay, then let's start with a bout between me and the new\ninstructor."
                             ]
                         },
                         {
@@ -2297,7 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめです！勝手にルールを決めちゃ！"
+                                "\\n<Eury>No, that's not allowed! You can't just make up rules!"
                             ]
                         },
                         {
@@ -2314,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>隙あり！"
+                                "\\n<Apprentice 1>Opening!"
                             ]
                         },
                         {
@@ -2331,7 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃぁああっ！？♡"
+                                "\\n<Eury>Hyaaahhh!?♡"
                             ]
                         },
                         {
@@ -2348,14 +2334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>先生はお強い方ですからね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手を抜かずに弱点を攻めますよ！"
+                                "\\n<Apprentice 1>Since you're a strong person, teacher, I won't hold back and\nwill go for your weak points!"
                             ]
                         },
                         {
@@ -2372,7 +2351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃあっ！？あっ、だめ、そこっ♡"
+                                "\\n<Eury>Hyaaah!? Ah, no, not there♡"
                             ]
                         },
                         {
@@ -2389,7 +2368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>手を抜くどころか指を入れてんじゃんｗ。"
+                                "\\n<Apprentice 2>You're not holding back at all, you're putting fingers in\nlol."
                             ]
                         },
                         {
@@ -2406,7 +2385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>先生、今おマンコ直に触れてますか。"
+                                "\\n<Apprentice 3>Teacher, are you touching your pussy directly now?"
                             ]
                         },
                         {
@@ -2423,7 +2402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、ちょ、だめ、反則、だからっ♡"
+                                "\\n<Eury>Ah, wait, no, that's a foul, because♡"
                             ]
                         },
                         {
@@ -2440,7 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>そんなルールないですよ。"
+                                "\\n<Apprentice 2>There's no such rule."
                             ]
                         },
                         {
@@ -2457,7 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>おらおら、連続攻撃だ！"
+                                "\\n<Apprentice 1>Here we go, continuous attack!"
                             ]
                         },
                         {
@@ -2474,7 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃ、あっ、ああぁあっ♡"
+                                "\\n<Eury>Hyah, ah, aahhh♡"
                             ]
                         },
                         {
@@ -2491,7 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>クリ、だめ、剥いちゃ……あぁっ♡"
+                                "\\n<Eury>The clit, no, don't peel it...ahh♡"
                             ]
                         },
                         {
@@ -2508,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>お、先生の弱点が剥きだし！今がチャンス！"
+                                "\\n<Apprentice 1>Oh, teacher's weak point is exposed! Now's the chance!"
                             ]
                         },
                         {
@@ -2525,14 +2504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、待って待って待って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかった、降参だから、ぁああ♡"
+                                "\\n<Eury>Wait, wait a minute! I understand, I surrender, aahhh♡"
                             ]
                         },
                         {
@@ -2549,7 +2521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>え、でも先生まだ立ってますよね。"
+                                "\\n<Apprentice 2>But teacher, you're still standing, right?"
                             ]
                         },
                         {
@@ -2566,7 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>だから試合続行ですよ。"
+                                "\\n<Apprentice 3>That's why the match continues."
                             ]
                         },
                         {
@@ -2583,7 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>なに言って……いぃ、ぃっ！イグッ♡"
+                                "\\n<Eury>What are you saying... eeh, eeh! I'm cumming♡"
                             ]
                         },
                         {
@@ -2600,14 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>先生はやっぱり強敵ですね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはイかせて体力を削らないと！"
+                                "\\n<Apprentice 1>Teacher is indeed a formidable opponent, we have to make her\ncum to drain her stamina!"
                             ]
                         },
                         {
@@ -2624,7 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>や、やめ、やだ、ほんとにイっ、イグっ、あっ♡"
+                                "\\n<Eury>No, stop, I don't want to, I'm really going to cum, ahh♡"
                             ]
                         },
                         {
@@ -2641,7 +2606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あうぅ♡だめ、えぇええぇ♡"
+                                "\\n<Eury>Ahh♡ No, no way, eeeeh♡"
                             ]
                         },
                         {
@@ -2658,7 +2623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あんっ♡"
+                                "\\n<Eury>Ahn♡"
                             ]
                         },
                         {
@@ -2675,7 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>うわ、びくつきすっご。"
+                                "\\n<Apprentice 1>Wow, she's twitching so much."
                             ]
                         },
                         {
@@ -2692,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>完全に絶頂しましたね。"
+                                "\\n<Apprentice 2>She's definitely climaxing."
                             ]
                         },
                         {
@@ -2709,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ♡"
+                                "\\n<Eury>Haa, ah, aahhh♡"
                             ]
                         },
                         {
@@ -2726,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>指導中に絶頂って先生としてどうなんですか。"
+                                "\\n<Apprentice 3>Climaxing during instruction, what kind of teacher does\nthat?"
                             ]
                         },
                         {
@@ -2743,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぁ、も、もう、好き放題言って……！"
+                                "\\n<Eury>Haa, ahh, enough, say whatever you want...!"
                             ]
                         },
                         {
@@ -2760,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>おら！"
+                                "\\n<Apprentice 1>Take this!"
                             ]
                         },
                         {
@@ -2777,7 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃあぁあっ♡"
+                                "\\n<Eury>Hyaaaah♡"
                             ]
                         },
                         {
@@ -2794,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>おマンコの弱点わかっちゃった～。"
+                                "\\n<Apprentice 1>Found the weak spot in your pussy~."
                             ]
                         },
                         {
@@ -2811,7 +2776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ♡"
+                                "\\n<Eury>Haa, ah, aahhh♡"
                             ]
                         },
                         {
@@ -2828,7 +2793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>いけいけ、敵の弱点がわかったらそこを攻めるんだ。"
+                                "\\n<Apprentice 2>Go for it, when you find the enemy's weak spot, that's where\nyou attack."
                             ]
                         },
                         {
@@ -2845,7 +2810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>新型先生の指導は役に立つなあ。"
+                                "\\n<Apprentice 3>The new teacher's guidance is really useful."
                             ]
                         },
                         {
@@ -2862,7 +2827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、だめ、今敏感、だから、そこっ、あっ♡"
+                                "\\n<Eury>Ah, no, I'm sensitive right now, so not there, ah♡"
                             ]
                         },
                         {
@@ -2879,7 +2844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>膣壁ぬるぬるで大洪水なんだけどｗ"
+                                "\\n<Apprentice 1>The vaginal walls are slippery and it's a flood down there\nlol"
                             ]
                         },
                         {
@@ -2896,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぁ、あっ♡"
+                                "\\n<Eury>Haa, ahh, ah♡"
                             ]
                         },
                         {
@@ -2913,7 +2878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、またイク、イクイクイクぅ……！！！"
+                                "\\n<Eury>No, I'm going to cum again, cumming cumming cumming...!!!"
                             ]
                         },
                         {
@@ -2930,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛っ！！♡"
+                                "\\n<Eury>Ahh!!♡"
                             ]
                         },
                         {
@@ -2947,7 +2912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>声でっか。"
+                                "\\n<Apprentice 2>What a loud voice."
                             ]
                         },
                         {
@@ -2964,7 +2929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>外まで聞こえちゃいますよ、先生。"
+                                "\\n<Apprentice 3>Everyone outside can hear you, teacher."
                             ]
                         },
                         {
@@ -2981,7 +2946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、ぁあ……。"
+                                "\\n<Eury>Haa, ah, aah..."
                             ]
                         },
                         {
@@ -2998,7 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>まだ痙攣してるわ、やっば。"
+                                "\\n<Apprentice 1>She's still convulsing, wow."
                             ]
                         },
                         {
@@ -3015,7 +2980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>も、もうぅ……だめ……。"
+                                "\\n<Eury>Enough... I can't..."
                             ]
                         },
                         {
@@ -3032,7 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い１>はい、先生の負け～。"
+                                "\\n<Apprentice 1>That's it, teacher loses~."
                             ]
                         },
                         {
@@ -3049,7 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>次俺の番！"
+                                "\\n<Apprentice 2>My turn next!"
                             ]
                         },
                         {
@@ -3066,7 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、あ、ま、待って……！！！"
+                                "\\n<Eury>Eh, wait...!!!"
                             ]
                         },
                         {
@@ -3083,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁあ♡"
+                                "\\n<Eury>Haaa♡"
                             ]
                         },
                         {
@@ -3100,7 +3065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い３>指入ったときの声かわいいー。"
+                                "\\n<Apprentice 3>The voice she makes when fingers go in is cute."
                             ]
                         },
                         {
@@ -3117,14 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見習い２>やっば、既にマンコびしょぬれで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パンツ機能してないんだけど。"
+                                "\\n<Apprentice 2>Damn, her pussy is already soaking wet and her panties\naren't functioning anymore."
                             ]
                         },
                         {
@@ -3141,7 +3099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あああぁっ♡"
+                                "\\n<Eury>Haa, ah, aaaaah♡"
                             ]
                         },
                         {
@@ -3158,7 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３人に指でおマンコを弄ばれてしまった……。"
+                                "She ended up being played with by the three apprentices'\nfingers..."
                             ]
                         },
                         {
@@ -3217,7 +3175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<見習い>エウリィさん、ご指導お疲れ様でした！"
+                                "\\n<Apprentice>Eury-san, thank you for your guidance!"
                             ]
                         },
                         {
@@ -3234,7 +3192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<見習い>３人はまた強くなりましたか。"
+                                "\\n<Apprentice>Have the three of us gotten stronger?"
                             ]
                         },
                         {
@@ -3267,7 +3225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁ……なったんじゃないでしょうか。"
+                                "\\n<Eury>Haa, haa... I suppose you have."
                             ]
                         },
                         {
@@ -3284,7 +3242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<見習い>それなら何よりです！こちらをどうぞ！"
+                                "\\n<Apprentice>That's great to hear! Please accept this!"
                             ]
                         },
                         {
@@ -3324,7 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {

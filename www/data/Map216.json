@@ -10256,7 +10256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……誰も来てないよね。"
+                                "\\n<Eury>...No one's here, right?"
                             ]
                         },
                         {
@@ -10337,14 +10337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>もう。前みたいに非常識な従業員がいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "速攻逃げるから！"
+                                "\\n<Eury>Seriously. If there's an employee as unreasonable as before,\nI'll run away immediately!"
                             ]
                         },
                         {
@@ -10565,7 +10558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>ちーっす。"
+                                "\\n<Guest>Yo."
                             ]
                         },
                         {
@@ -10646,7 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ようこそおいでませ！"
+                                "\\n<Eury>Ah, welcome!"
                             ]
                         },
                         {
@@ -10663,7 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>あ、噂の新型ちゃん？"
+                                "\\n<Customer>Oh, are you the rumored new model?"
                             ]
                         },
                         {
@@ -10744,7 +10737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はい、新型改造少女のエウリィです！"
+                                "\\n<Eury>Yes, I am Eury, the new model modified girl!"
                             ]
                         },
                         {
@@ -10761,7 +10754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>まだ本番はダメなんだよね～。"
+                                "\\n<Customer>But we can't go all the way yet, huh~."
                             ]
                         },
                         {
@@ -10778,7 +10771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>じゃあちょっと味見っと。"
+                                "\\n<Customer>Then let's have a little taste."
                             ]
                         },
                         {
@@ -10859,7 +10852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え？"
+                                "\\n<Eury>Eh?"
                             ]
                         },
                         {
@@ -10965,7 +10958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んむぅ！んんっ！"
+                                "\\n<Eury>Mmm, mmmh! Mnnn!"
                             ]
                         },
                         {
@@ -10982,7 +10975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（はわ、はわわ……！？いきなりキスって……！！！）"
+                                "\\n<Eury>(Gasp, gasp...!? A kiss out of nowhere...!!!)"
                             ]
                         },
                         {
@@ -11035,7 +11028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んちゅう、ん！"
+                                "\\n<Eury>Mmm, mmmchu, mmm!"
                             ]
                         },
                         {
@@ -11093,7 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（な、なにこの味……！？）"
+                                "\\n<Eury>(What is this taste...!? )"
                             ]
                         },
                         {
@@ -11110,7 +11103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（変な薬、口の中に塗られて……！！！）"
+                                "\\n<Eury>(Some weird drug, it's been smeared inside my mouth...!!!)"
                             ]
                         },
                         {
@@ -11186,7 +11179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ぷはぁ！"
+                                "\\n<Eury>Phewah!"
                             ]
                         },
                         {
@@ -11251,14 +11244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょ、ちょっと！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうつもりですか！！！"
+                                "\\n<Eury>Hey, wait a minute!!! What do you think you're doing!!!"
                             ]
                         },
                         {
@@ -11275,14 +11261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>これね～、新型ちゃんには効くのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感情あるし。"
+                                "\\n<Customer>This thing~ I wonder if it works on the new model? She does\nhave emotions after all."
                             ]
                         },
                         {
@@ -11315,7 +11294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ど、どういうこと……。"
+                                "\\n<Eury>What do you mean..."
                             ]
                         },
                         {
@@ -11384,7 +11363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん……はぁ、あっ♡"
+                                "\\n<Eury>Mmm...ahh, ah♡"
                             ]
                         },
                         {
@@ -11401,7 +11380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（なにこれ、体、あつ……）"
+                                "\\n<Eury>(What's this, my body feels so hot...)"
                             ]
                         },
                         {
@@ -11418,7 +11397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<客>お、効いてきたか？"
+                                "\\n<Guest>Oh, is it taking effect?"
                             ]
                         },
                         {
@@ -11487,7 +11466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、あっ……♡"
+                                "\\n<Eury>Ahh, ahh...♡"
                             ]
                         },
                         {
@@ -11504,14 +11483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（え、何！？すごい勢いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あそこが濡れてるんだけど……♡）"
+                                "\\n<Eury>(Eh, what!? My pussy is getting wet so fast...♡)"
                             ]
                         },
                         {
@@ -11580,7 +11552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょ、ちょ、ちょっとタンマ！！！"
+                                "\\n<Eury>Wait, wait a minute!!!"
                             ]
                         },
                         {
@@ -12077,7 +12049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<従業員>……あ？あいつどこ行くんだ？"
+                                "\\n<Employee>...Huh? Where did that girl go?"
                             ]
                         },
                         {
@@ -12185,7 +12157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こ、ここなら誰も来ないよね……。"
+                                "\\n<Eury>This place should be safe from anyone coming..."
                             ]
                         },
                         {
@@ -12286,7 +12258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んんっ、あっ、はぁっ、あ♡"
+                                "\\n<Eury>Mnnn, ahh, haaah, ah♡"
                             ]
                         },
                         {
@@ -12303,7 +12275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（クリトリスの感度がすごいことになってる……♡）"
+                                "\\n<Eury>(My clit sensitivity is off the charts...♡)"
                             ]
                         },
                         {
@@ -12409,14 +12381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、だめ、ちょっと触っただけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、イク、イクっ！♡"
+                                "\\n<Eury>Ahh, no, just a little touch and I'm gonna cum, cumming♡"
                             ]
                         },
                         {
@@ -12541,7 +12506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁん♡は、ぁあ♡"
+                                "\\n<Eury>Aaahn♡ Haah♡"
                             ]
                         },
                         {
@@ -12635,7 +12600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はぁあ……イっちゃった……。"
+                                "\\n<Eury>Haa, haaa... I came..."
                             ]
                         },
                         {
@@ -12652,7 +12617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（な、なにこれ……？変な薬の効果……）"
+                                "\\n<Eury>(What is this...? The effect of that strange drug...)"
                             ]
                         },
                         {
@@ -12753,7 +12718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ゆ、指、止まらないんだけどぉ……♡"
+                                "\\n<Eury>My fingers won't stop...♡"
                             ]
                         },
                         {
@@ -12770,7 +12735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ダメ、自分でヤってないみたい♡"
+                                "\\n<Eury>Ah, no good, it's like I'm not the one doing it♡"
                             ]
                         },
                         {
@@ -12835,7 +12800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ～♡今までで１番気持ち良いよぉ……♡"
+                                "\\n<Eury>Aaah♡ This is the best feeling ever...♡"
                             ]
                         },
                         {
@@ -12900,7 +12865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>またイク、あっ♡自分の指で、またっ♡"
+                                "\\n<Eury>I'm cumming again, ahh♡ With my own fingers, again♡"
                             ]
                         },
                         {
@@ -13025,7 +12990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁぁ♡"
+                                "\\n<Eury>Aaah♡"
                             ]
                         },
                         {
@@ -13078,7 +13043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あっ……♡"
+                                "\\n<Eury>Haa, ahh, ahh...♡"
                             ]
                         },
                         {
@@ -13136,7 +13101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>に、２回でも満足できない……♡"
+                                "\\n<Eury>Two times and still not satisfied...♡"
                             ]
                         },
                         {
@@ -13153,7 +13118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>も、もう１回だけ……♡"
+                                "\\n<Eury>Just one more time...♡"
                             ]
                         },
                         {
@@ -13220,14 +13185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぅ、あっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリトリスの感度、すごい、いぃい♡"
+                                "\\n<Eury>Hau, ah♡ My clit sensitivity is amazing, it feels so good♡"
                             ]
                         },
                         {
@@ -13244,7 +13202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ♡あぁあ♡"
+                                "\\n<Eury>Haa, ah♡ Ahh♡"
                             ]
                         },
                         {
@@ -13309,7 +13267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>イク、イク、またイっちゃう、ぅう♡"
+                                "\\n<Eury>I'm cumming, cumming, I'm going to cum again, uuh♡"
                             ]
                         },
                         {
@@ -13416,7 +13374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{はぁっ♡"
+                                "\\n<Eury>Haa♡"
                             ]
                         },
                         {
@@ -13469,7 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ……はぁ……。"
+                                "\\n<Eury>Haa... haa..."
                             ]
                         },
                         {
@@ -13486,14 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（結局、５回もイっちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなにオナニーしたの初めて……）"
+                                "\\n<Eury>(In the end, I came five times... I've never masturbated\nthis much before...)"
                             ]
                         },
                         {
@@ -13585,7 +13536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……っは！お仕事中でした！？"
+                                "\\n<Eury>...Hah! I was supposed to be working!?"
                             ]
                         },
                         {
@@ -13618,7 +13569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>戻らなきゃ……！"
+                                "\\n<Eury>I have to get back...!"
                             ]
                         },
                         {
@@ -13700,7 +13651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<従業員>おい、てめえどこで何してたんだよ。"
+                                "\\n<Employee>Hey, where the hell have you been and what have you been\ndoing."
                             ]
                         },
                         {
@@ -13747,7 +13698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、あぁ、ご、ごめんなさい！"
+                                "\\n<Eury>Ah, ahh, I'm sorry!"
                             ]
                         },
                         {
@@ -13764,7 +13715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>おなかが痛くなって……。"
+                                "\\n<Eury>My stomach started hurting..."
                             ]
                         },
                         {
@@ -13781,14 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<従業員>クソみてえな言い訳だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道具の分際で仕事も出来ねえのか。"
+                                "\\n<Employee>What a shitty excuse. Can't even do your job, you're just a\ntool."
                             ]
                         },
                         {
@@ -13869,7 +13813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ど、道具って……！"
+                                "\\n<Eury>A tool...!"
                             ]
                         },
                         {
@@ -13902,7 +13846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（働いてる人を道具扱い！？なんて店なの……！）"
+                                "\\n<Eury>(Treating working people like tools!? What kind of place is\nthis...!)"
                             ]
                         },
                         {
@@ -13919,7 +13863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<従業員>このことは後でオーナーに伝えるからな。"
+                                "\\n<Employee>I'll be reporting this to the owner later."
                             ]
                         },
                         {
@@ -14000,7 +13944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……うう。"
+                                "\\n<Eury>...Uuu."
                             ]
                         },
                         {
@@ -14073,7 +14017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<オーナー>今日もお疲れ様。これお礼。"
+                                "\\n<Owner>You worked hard today as well. This is for you, as thanks."
                             ]
                         },
                         {
@@ -14142,7 +14086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……はい。"
+                                "\\n<Eury>...Yes."
                             ]
                         },
                         {
@@ -14159,7 +14103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<オーナー>どうかしたか？"
+                                "\\n<Owner>Something wrong?"
                             ]
                         },
                         {
@@ -14176,7 +14120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……なんでもないです。"
+                                "\\n<Eury>...It's nothing."
                             ]
                         },
                         {
@@ -14193,7 +14137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（まだ、私のサボりは報告されてないみたいですね……）"
+                                "\\n<Eury>(It seems my slacking off hasn't been reported yet...)"
                             ]
                         },
                         {
@@ -14258,7 +14202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>（でも、次来たときはヤバいかも……）"
+                                "\\n<Eury>(But next time I come in, it might be bad...)"
                             ]
                         },
                         {

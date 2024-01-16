@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マキナ基地",
+    "displayName": "Machina Base",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3165,7 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>じゃ、どする？"
+                                "\\n<Marion>So, what will we do?"
                             ]
                         },
                         {
@@ -8353,21 +8353,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル１０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：フォルトゥ\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "敵の\\C[27]エロ攻撃\\C[0]を回避することができる！"
+                                "[Level 10 Achievement Bonus] Mode: Fortu has been unlocked!\nYou can now evade erotic attacks!"
                             ]
                         },
                         {
@@ -8405,21 +8391,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル２０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：カウンター\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "直前に受けたダメージをそのまま与えることができる！"
+                                "[Level 20 Achievement Bonus] Skill: Counter has been\nunlocked! You can now return the damage you just received!"
                             ]
                         },
                         {
@@ -8457,21 +8429,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル３０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：オールグリーン\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "バイタルを全回復しながら拘束状態を１段階解除できる！"
+                                "[Level 30 Achievement Bonus] Skill: All-Green has been\nunlocked! You can fully recover your vitals while reducing\nrestraint by one level!"
                             ]
                         },
                         {
@@ -8509,21 +8467,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル４０到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]モード：デウス\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "毎ターンエナジーを消費するが、全ての能力が高いモード！"
+                                "[Level 40 Achievement Bonus] Mode: Deus has been unlocked!\nIt consumes energy every turn, but all abilities are\nenhanced!"
                             ]
                         },
                         {
@@ -8561,21 +8505,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【レベル５１到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[14]スキル：メタバースト\\C[0]が解禁された！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "弾とエナジーを消費し、拘束状態を抜けながら大ダメージ！"
+                                "[Level 51 Achievement Bonus] Skill: Metaburst has been\nunlocked! Consumes bullets and energy to deal massive damage\nwhile escaping restraints!"
                             ]
                         },
                         {
@@ -8622,14 +8552,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【バイタル最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "セルフリペアでの回復量が増加した！"
+                                "[Max Vital Achievement Bonus] The amount healed by Self\nRepair has increased!"
                             ]
                         },
                         {
@@ -8695,14 +8618,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【エナジー最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・デウスでのエナジー消費量が１０に減少した！"
+                                "[Max Energy Achievement Bonus] Energy consumption in Mode\nDeus has been reduced to 10!"
                             ]
                         },
                         {
@@ -8768,14 +8684,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【攻撃最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "パワーナックルの威力が増加した！"
+                                "[Max Attack Achievement Bonus] The power of Power Knuckle\nhas increased!"
                             ]
                         },
                         {
@@ -8841,14 +8750,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【弾数最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "弾を消費する攻撃の威力が増加した！"
+                                "[Max Ammo Achievement Bonus] The power of attacks that\nconsume bullets has increased!"
                             ]
                         },
                         {
@@ -8914,14 +8816,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【煙幕最大到達ボーナス】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "モード・フォルトゥでの回避率が上昇した！"
+                                "[Max Smoke Achievement Bonus] Evasion rate in Mode Fortu has\nincreased!"
                             ]
                         },
                         {
@@ -9755,7 +9650,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全てのグロウコアを使用した。"
+                                "All Grow Cores have been used."
                             ]
                         },
                         {
@@ -10189,7 +10084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>やっべえ。寝れねえ。"
+                                "\\n<Marion>Damn, I can't sleep."
                             ]
                         },
                         {
@@ -10206,14 +10101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>原初の魔物倒して気が抜けてたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然魔物の数が減らねえじゃねえか。"
+                                "\\n<Marion>I let my guard down after defeating the primordial monster.\nThe number of monsters hasn't decreased at all."
                             ]
                         },
                         {
@@ -10230,14 +10118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>マキナもがんばってくれてるけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ２人で過労死だぞ。"
+                                "\\n<Marion>Makina is working hard too, but... at this rate, the two of\nus will die from overwork."
                             ]
                         },
                         {
@@ -10327,7 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>どうも。"
+                                "\\n<???>Excuse me."
                             ]
                         },
                         {
@@ -10405,7 +10286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……あ？誰？"
+                                "\\n<Marion>...Huh? Who's there?"
                             ]
                         },
                         {
@@ -10488,28 +10369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>君がマリオンさんかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\n<???>Are you Marion-san?"
                             ]
                         },
                         {
@@ -10645,14 +10505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>質問に答えろや。誰だよお前。こっちは忙しい上に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝てなくてイライラしてんだぶっ飛ばすぞ。"
+                                "\\n<Marion>Answer my question. Who are you? I'm busy and haven't slept,\nso I'm irritable and ready to knock someone out."
                             ]
                         },
                         {
@@ -10669,7 +10522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>これは失礼、私はこういうもので……。"
+                                "\\n<???>My apologies, I am this person..."
                             ]
                         },
                         {
@@ -10824,7 +10677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……うわ、エグいデカい企業の社長じゃん。"
+                                "\\n<Marion>...Wow, a big-shot corporate president."
                             ]
                         },
                         {
@@ -10857,14 +10710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ぱぁぁぁ！！もしかして資金援助！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきは厳しく当たってごめんね！"
+                                "\\n<Marion>Wow!! Could it be financial support!? Sorry for being harsh\nearlier!"
                             ]
                         },
                         {
@@ -10881,14 +10727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>ああ、いや、気にしていないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちこそいきなり訪ねてすまないね。"
+                                "\\n<President>Ah, no, don't worry about it. I apologize for visiting so\nsuddenly."
                             ]
                         },
                         {
@@ -10905,14 +10744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>君の助手のシストという子に許可をもらってね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別にここに入れてもらったんだ。"
+                                "\\n<President>I got permission from your assistant named Syst to enter\nhere specially."
                             ]
                         },
                         {
@@ -10945,14 +10777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>勝手だなあいつ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、エグいデカい企業の社長さんが何の用ですか。"
+                                "\\n<Marion>That's presumptuous of them. So, what does the big-shot\ncorporate president want?"
                             ]
                         },
                         {
@@ -10969,7 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>ああ、単刀直入に言おう。"
+                                "\\n<President>Let me get straight to the point."
                             ]
                         },
                         {
@@ -10993,7 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>\\C[2]私の娘を、改造少女にしてくれないか。"
+                                "\\n<President>\\C[2]Could you turn my daughter into a modified girl?"
                             ]
                         },
                         {
@@ -11033,7 +10858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……詳しく。"
+                                "\\n<Marion>...Tell me more."
                             ]
                         },
                         {
@@ -11050,14 +10875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>私の娘が魔物被害でケガをしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は、かつてそういう人を改造少女にしたのだろう？"
+                                "\\n<President>My daughter was injured by a monster. You've turned someone\ninto a modified girl before, haven't you?"
                             ]
                         },
                         {
@@ -11074,14 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>うちは病院じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、簡単に改造少女にするとか言うのヤバいよ。"
+                                "\\n<Marion>This isn't a hospital. And casually turning someone into a\nmodified girl is dangerous."
                             ]
                         },
                         {
@@ -11098,14 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>マキナみたいに死ぬ気で戦えるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親の勝手で決めれることじゃないと思うんだけど。"
+                                "\\n<Marion>Can she fight to the death like Makina? It's not something a\nparent can decide on their own whim."
                             ]
                         },
                         {
@@ -11122,14 +10926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>本人の希望なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[27]エウリィ\\C[0]は、マキナに憧れていてね。"
+                                "\\n<President>It's her own wish. \\C[27]Eury\\C[0] admires Makina, you see."
                             ]
                         },
                         {
@@ -11146,7 +10943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>エウリィ。それが娘の名前？"
+                                "\\n<Marion>Eury. Is that your daughter's name?"
                             ]
                         },
                         {
@@ -11163,14 +10960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>ああ。小さいころからヒーローになるのが夢だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の子みたいにね。"
+                                "\\n<President>Yes. She's dreamed of becoming a hero since she was little,\njust like a boy."
                             ]
                         },
                         {
@@ -11187,14 +10977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>マリオン博士、お願いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金ならいくらでも出そう。あの子の夢を叶えたいんだ。"
+                                "\\n<President>Dr. Marion, please. I'll pay whatever it takes. I want to\nmake her dream come true."
                             ]
                         },
                         {
@@ -11211,14 +10994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（……無茶苦茶だなオイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなことで簡単に受け入れて良いもんじゃねえぞ）"
+                                "\\n<Marion>(...This is crazy. It's not something to be agreed upon\nlightly.)"
                             ]
                         },
                         {
@@ -11235,14 +11011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（でも、改造少女がもう１人いれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しは仕事も楽になるか？）"
+                                "\\n<Marion>(But if there was another modified girl, it might make our\nwork a bit easier?)"
                             ]
                         },
                         {
@@ -11259,14 +11028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（命を懸けても悪に挑みたいやつなんかいないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思って、改造少女を増やす考えすらなかったが……）"
+                                "\\n<Marion>(I never thought about increasing the number of modified\ngirls because I didn't think anyone would want to risk their\nlife to fight evil...)"
                             ]
                         },
                         {
@@ -11283,14 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>あんたの言ってることは無理がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっきり言ってヤバい。"
+                                "\\n<Marion>What you're asking for is unreasonable. To be blunt, it's\ndangerous."
                             ]
                         },
                         {
@@ -11307,7 +11062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>そ、そんな……。"
+                                "\\n<President>Is that so..."
                             ]
                         },
                         {
@@ -11324,7 +11079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>だけど、全員が得をする考え方でもある。"
+                                "\\n<Marion>But it's an idea that could benefit everyone."
                             ]
                         },
                         {
@@ -11341,14 +11096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>魔物退治はマキナ１人では人手が足りない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改造少女が増えるのは良いことだ。"
+                                "\\n<Marion>We're short-handed in fighting monsters with just Makina.\nHaving more modified girls is a good thing."
                             ]
                         },
                         {
@@ -11365,7 +11113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>それに、そのエウリィとやらの夢も叶う。"
+                                "\\n<Marion>Plus, it would fulfill Eury's dream."
                             ]
                         },
                         {
@@ -11382,14 +11130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……ただ、本当に良いのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある日いきなり魔物に殺されるかもしれない。"
+                                "\\n<Marion>...But are you really okay with it? She could be killed by\nmonsters out of the blue one day."
                             ]
                         },
                         {
@@ -11406,14 +11147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ただ殺されてるだけならまだマシ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとひどいことをされるかもしれない。"
+                                "\\n<Marion>Being killed is still better than what worse things could\nhappen to her."
                             ]
                         },
                         {
@@ -11430,7 +11164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>それでもいいの？"
+                                "\\n<Marion>Are you okay with that?"
                             ]
                         },
                         {
@@ -11447,7 +11181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>……正直、私がそのとき耐えられるとは宣言できません。"
+                                "\\n<President>...Honestly, I can't say I would be able to endure that\nmoment."
                             ]
                         },
                         {
@@ -11464,7 +11198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>だけど、それでもエウリィの夢を叶えたい。"
+                                "\\n<President>But still, I want to make Eury's dream come true."
                             ]
                         },
                         {
@@ -11481,14 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>あの子なら、絶対に強き改造少女になり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界のために役立てます。"
+                                "\\n<President>She will definitely become a strong modified girl and\ncontribute to this world."
                             ]
                         },
                         {
@@ -11505,14 +11232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>……今度、エウリィを連れてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのときに最終決定をしても良いでしょうか？"
+                                "\\n<President>...Next time, I'll bring Eury along. Can we make the final\ndecision then?"
                             ]
                         },
                         {
@@ -11545,7 +11265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>いいよ。じゃ、それでよろしく。"
+                                "\\n<Marion>Sure. Let's do that then."
                             ]
                         },
                         {
@@ -11562,7 +11282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>悪いけど私は忙しいので。あんまり長話はできない。"
+                                "\\n<Marion>Sorry, but I'm busy. I can't talk for long."
                             ]
                         },
                         {
@@ -11673,7 +11393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>マリオン博士、貴重なお時間をありがとうございます。"
+                                "\\n<President>Dr. Marion, thank you for your valuable time."
                             ]
                         },
                         {
@@ -11735,7 +11455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社長>……失礼します。"
+                                "\\n<President>...Excuse me."
                             ]
                         },
                         {
@@ -11886,7 +11606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>Faa~ I slept well..."
                             ]
                         },
                         {
@@ -11919,14 +11639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エルリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>It's the \\v[224] day since I've come to Tengeki Street.\nLet's do our best today too!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マリオンの隠れ家",
+    "displayName": "Marion's Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1601,7 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>テンゲツテレビをご覧のみなさん！はろこんちん！"
+                                "\\n<Streamer>Hello everyone watching Tengoku TV! Harokonchin!"
                             ]
                         },
                         {
@@ -1682,7 +1682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えへへ、これもう映ってますか？"
+                                "\\n<Eury>Ehehe, are we on air already?"
                             ]
                         },
                         {
@@ -1699,7 +1699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>新型ちゃんおるやんけ！"
+                                "\\n<Comment>There's a new model here!"
                             ]
                         },
                         {
@@ -1716,7 +1716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>やっば、顔の時点でエロすぎる。"
+                                "\\n<Comment>Damn, she's too erotic just by her face."
                             ]
                         },
                         {
@@ -1733,7 +1733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>今日はなんと、特別ゲストとして新型ちゃん！"
+                                "\\n<Streamer>Today, we have a special guest, the new model!"
                             ]
                         },
                         {
@@ -1750,7 +1750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>もとい、エウリィちゃんに来て頂いています！"
+                                "\\n<Streamer>I mean, we have Eury-chan with us!"
                             ]
                         },
                         {
@@ -1831,7 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>テンゲツ街のみなさんこんにちは～！"
+                                "\\n<Eury>Hello everyone in Tengoku City~!"
                             ]
                         },
                         {
@@ -1864,7 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、じゃなかった！はろこんちん！"
+                                "\\n<Eury>Oh, I mean! Harokonchin!"
                             ]
                         },
                         {
@@ -1881,7 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>はろこんちん！"
+                                "\\n<Comment>Harokonchin!"
                             ]
                         },
                         {
@@ -1898,7 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>えっちな子が出てると聞いて。"
+                                "\\n<Comment>I heard there's an erotic girl appearing."
                             ]
                         },
                         {
@@ -1915,7 +1915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>じゃあ早速エウリィちゃんに、質問コーナー！"
+                                "\\n<Streamer>So let's dive right into the question corner with Eury-chan!"
                             ]
                         },
                         {
@@ -1996,7 +1996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、はい！なんでもどうぞ！"
+                                "\\n<Eury>Yes, yes! Ask me anything!"
                             ]
                         },
                         {
@@ -2013,14 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>ズバリ、エウリィちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンゲツ街でやりたいことは！？"
+                                "\\n<Streamer>Straight to the point, what does Eury-chan want to do in\nTengoku City!?"
                             ]
                         },
                         {
@@ -2053,14 +2046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>それはもちろん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "与えられた使命を全うすることです！"
+                                "\\n<Eury>Of course, it's to fulfill the mission I've been given!"
                             ]
                         },
                         {
@@ -2077,7 +2063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>新型ちゃんヤる気に満ち溢れててワロタ。"
+                                "\\n<Comment>The new model is brimming with enthusiasm, lol."
                             ]
                         },
                         {
@@ -2094,7 +2080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>これいつ脱ぐの？"
+                                "\\n<Comment>When is she going to strip?"
                             ]
                         },
                         {
@@ -2127,14 +2113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、でもでも、遊びたいって気持ちも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとあるかも。"
+                                "\\n<Eury>Ah, but, maybe I also feel a little bit like playing."
                             ]
                         },
                         {
@@ -2215,14 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>マリオンさんのところを離れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来たので、今までより自由なんです。"
+                                "\\n<Eury>Since I left Marion-san's place to come here, I have more\nfreedom now."
                             ]
                         },
                         {
@@ -2239,7 +2211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>なるほどなるほど！"
+                                "\\n<Streamer>I see, I see!"
                             ]
                         },
                         {
@@ -2256,7 +2228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>じゃあ、ちょっとディープな質問行っちゃおうかな！"
+                                "\\n<Streamer>Then, how about we go for a deep question!"
                             ]
                         },
                         {
@@ -2289,7 +2261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>でぃ、ディープですか？"
+                                "\\n<Eury>Deep, you say?"
                             ]
                         },
                         {
@@ -2306,7 +2278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>エウリィちゃんの得意なプレイを教えてください！"
+                                "\\n<Streamer>Tell us about your specialty in play, Eury-chan!"
                             ]
                         },
                         {
@@ -2323,7 +2295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>ｷﾁｬｧｧｧｱ！！！"
+                                "\\n<Comment>ｷﾁｬｧｧｧｱ！！！"
                             ]
                         },
                         {
@@ -2340,7 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>神　回　確　定"
+                                "\\n<Comment>This is going to be legendary."
                             ]
                         },
                         {
@@ -2421,7 +2393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>得意なプレイ、ですか？"
+                                "\\n<Eury>My specialty in play?"
                             ]
                         },
                         {
@@ -2454,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（何のことだろう……私の戦闘スタイルのこと？）"
+                                "\\n<Eury>(What does she mean... Is she talking about my combat\nstyle?)"
                             ]
                         },
                         {
@@ -2487,7 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そうですね、相手と距離をつめて……。"
+                                "\\n<Eury>Well, I would close the distance with my opponent and..."
                             ]
                         },
                         {
@@ -2504,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>恥じらいなく語り始める女。"
+                                "\\n<Comment>She starts talking without any shyness."
                             ]
                         },
                         {
@@ -2521,7 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>さすが本物やでえ。"
+                                "\\n<Comment>As expected from the real deal."
                             ]
                         },
                         {
@@ -2554,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こう、相手の弱点を……。"
+                                "\\n<Eury>Target their weak points like this..."
                             ]
                         },
                         {
@@ -2571,7 +2543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>へぇ～、じゃあさ～。"
+                                "\\n<Streamer>Ohh~, so you like that sort of thing?"
                             ]
                         },
                         {
@@ -2609,7 +2581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>こういうのが好きってこと？"
+                                "\\n<Streamer>You like this kind of thing?"
                             ]
                         },
                         {
@@ -2686,7 +2658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>へ？え、あ、ちょっと！？"
+                                "\\n<Eury>Huh? Eh, wait a minute!?"
                             ]
                         },
                         {
@@ -2773,7 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はう、んむ、んんっ……！"
+                                "\\n<Eury>Hau, mmm, mmmh...!"
                             ]
                         },
                         {
@@ -2831,7 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（え、ちょ、ちょっと、何！？）"
+                                "\\n<Eury>(Eh, wait, what the...!?)"
                             ]
                         },
                         {
@@ -2848,7 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（いきなり無理矢理キス！？しかも配信で！？）"
+                                "\\n<Eury>(A sudden forced kiss!? And on stream!?)"
                             ]
                         },
                         {
@@ -2902,7 +2874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んむ、うぅ、んっ！"
+                                "\\n<Eury>Mmm, mmmh, uhh, mmm!"
                             ]
                         },
                         {
@@ -2919,7 +2891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>えっっっっっっっっっ。"
+                                "\\n<Comment>Whaaaaat."
                             ]
                         },
                         {
@@ -2936,7 +2908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>高評価１０１回押した。"
+                                "\\n<Comment>Hit the like button 101 times."
                             ]
                         },
                         {
@@ -2953,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んんっ、ん、んちゅ、んっ！"
+                                "\\n<Eury>Mmmh, mmm, mmmchu, mmm!"
                             ]
                         },
                         {
@@ -2970,7 +2942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（口の中の隅々まで舐めてくる、キモ……！）"
+                                "\\n<Eury>(He's licking every corner of my mouth, gross...!)"
                             ]
                         },
                         {
@@ -3076,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>んっ……ぷはあ！！！"
+                                "\\n<Eury>Nn... puhah!!!"
                             ]
                         },
                         {
@@ -3093,14 +3065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ありえない……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでいきなり、こんな人と……！！！）"
+                                "\\n<Eury>(Impossible...!! Why all of a sudden, with this\nperson...!!!)"
                             ]
                         },
                         {
@@ -3117,7 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>どう？こういうのが好き？"
+                                "\\n<Streamer>You like this kind of thing?"
                             ]
                         },
                         {
@@ -3223,7 +3188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>き、聞いてないですこんなこと！"
+                                "\\n<Eury>I-I didn't hear anything about this!"
                             ]
                         },
                         {
@@ -3240,14 +3205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>まあまあ、いいじゃんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっき、使命を全うしたいって言ってたでしょ？"
+                                "\\n<Streamer>Come on, it's fine. You said you wanted to fulfill your\nmission earlier, right?"
                             ]
                         },
                         {
@@ -3264,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>こ、こんなのは使命のうちに入りません！"
+                                "\\n<Eury>T-This isn't part of the mission!"
                             ]
                         },
                         {
@@ -3281,7 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>セクハラですよ！これは立派なセクハラです！"
+                                "\\n<Eury>This is sexual harassment! This is definitely sexual\nharassment!"
                             ]
                         },
                         {
@@ -3298,7 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>へぇ～、結構それらしい反応してくれるじゃん。"
+                                "\\n<Streamer>Heh, you're giving quite the appropriate reaction."
                             ]
                         },
                         {
@@ -3315,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>いいぞもっとやれ。"
+                                "\\n<Comment>Good, do more."
                             ]
                         },
                         {
@@ -3332,7 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>まだいける。まだやれる。"
+                                "\\n<Comment>You can still go on. Keep doing it."
                             ]
                         },
                         {
@@ -3349,7 +3307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>期待されてるみたいなので、続きいきまーす！！"
+                                "\\n<Streamer>Looks like the audience is expecting more, so let's\ncontinue!!"
                             ]
                         },
                         {
@@ -3414,7 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>つ、続き……？"
+                                "\\n<Eury>C-Continue...?"
                             ]
                         },
                         {
@@ -3532,7 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{ひゃああっ！？"
+                                "\\n<Eury>Hyaaaah!?"
                             ]
                         },
                         {
@@ -3549,7 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>おおっ！すごい弾力！！最高の揉み心地です！！"
+                                "\\n<Streamer>Oh! Such amazing elasticity!! The best feeling to grope!!"
                             ]
                         },
                         {
@@ -3614,7 +3572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、な、な、何してるんですか！？！？！？"
+                                "\\n<Eury>W-What are you doing?!?!"
                             ]
                         },
                         {
@@ -3631,7 +3589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>うらやまけしからん。"
+                                "\\n<Comment>I'm so jealous, that's outrageous."
                             ]
                         },
                         {
@@ -3648,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>俺も早く楽しみてえよ！！！"
+                                "\\n<Comment>I want to have fun too soon!!!"
                             ]
                         },
                         {
@@ -3713,14 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>手、どけてください！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめですよ、こんなこと！！！"
+                                "\\n<Eury>Please remove your hands!!! It's not okay to do this!!!"
                             ]
                         },
                         {
@@ -3737,7 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>俺結構揉むのうまいよ？"
+                                "\\n<Streamer>I'm pretty good at groping, you know?"
                             ]
                         },
                         {
@@ -3754,7 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>関係ありませんから！！！"
+                                "\\n<Eury>That's irrelevant!!!"
                             ]
                         },
                         {
@@ -3771,7 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>ほら、もにゅもにゅっと。"
+                                "\\n<Streamer>Look, squish squish."
                             ]
                         },
                         {
@@ -3889,7 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃぁあああっ！？！？"
+                                "\\n<Eury>Hyaaaah!?!?"
                             ]
                         },
                         {
@@ -3906,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>感じてる？"
+                                "\\n<Streamer>Are you feeling it?"
                             ]
                         },
                         {
@@ -3923,7 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>な、な、な、何を言って……！！！"
+                                "\\n<Eury>W-What are you talking about...!!!"
                             ]
                         },
                         {
@@ -3940,7 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>感度良いんだねえ、さすが新型。"
+                                "\\n<Streamer>You're quite sensitive, as expected of the new model."
                             ]
                         },
                         {
@@ -4005,14 +3956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>か、関係ありませんそんなこと！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、やめてください！！"
+                                "\\n<Eury>T-That has nothing to do with it!!! Please, stop already!!"
                             ]
                         },
                         {
@@ -4029,14 +3973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>このままさあ、本番までヤっちゃう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンゲツ街の初体験は配信で！！ってのもおもしろくない？"
+                                "\\n<Streamer>How about we go all the way right now? \"First experience in\nTenge Street live on stream!!\" Wouldn't that be interesting?"
                             ]
                         },
                         {
@@ -4053,7 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>い、いい加減に……！！！"
+                                "\\n<Eury>Enough already...!!!"
                             ]
                         },
                         {
@@ -4070,7 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>おい、まだルール違反だろ！！"
+                                "\\n<Comment>Hey, this is still against the rules!!"
                             ]
                         },
                         {
@@ -4087,7 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>また炎上するぞ。"
+                                "\\n<Comment>You're going to start another firestorm."
                             ]
                         },
                         {
@@ -4104,7 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>冗談だよ、冗談。"
+                                "\\n<Streamer>Just kidding, just kidding."
                             ]
                         },
                         {
@@ -4121,7 +4058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -4138,14 +4075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>エウリィちゃんがご立腹なので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はここんところで１度配信切りますか。"
+                                "\\n<Streamer>Eury-chan seems quite upset, so maybe we should cut the\nstream here for today."
                             ]
                         },
                         {
@@ -4162,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>も～！"
+                                "\\n<Eury>Geez!"
                             ]
                         },
                         {
@@ -4179,7 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>じゃ、最後に視聴者プレゼント！"
+                                "\\n<Streamer>So, as a final gift to the viewers!"
                             ]
                         },
                         {
@@ -4196,7 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>エウリィちゃん、カメラに向かって締めのあいさつお願い！"
+                                "\\n<Streamer>Eury-chan, please give a closing greeting to the camera!"
                             ]
                         },
                         {
@@ -4213,7 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -4230,7 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>その……じゃあ、お疲れさまでした。"
+                                "\\n<Eury>Well then... thank you for watching."
                             ]
                         },
                         {
@@ -4247,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>違うでしょ～！"
+                                "\\n<Streamer>That's not right~!"
                             ]
                         },
                         {
@@ -4365,7 +4295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ひゃんっ！ちょ、ちょっと！！"
+                                "\\n<Eury>Hyahn! Wait, stop!!"
                             ]
                         },
                         {
@@ -4418,7 +4348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>揉みしだかれてて草。"
+                                "\\n<Comment>LOL she's getting groped."
                             ]
                         },
                         {
@@ -4435,7 +4365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コメント>普通に勃ってきた。"
+                                "\\n<Comment>I'm honestly getting hard."
                             ]
                         },
                         {
@@ -4452,14 +4382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>最後のあいさつは～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとテンゲツテレビ式で言わないと～！"
+                                "\\n<Streamer>For the final greeting, you have to say it properly in\nTengatsu TV style~!"
                             ]
                         },
                         {
@@ -4476,7 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、ぁあ、あっ、んんっ、はいっ♡"
+                                "\\n<Eury>Ha, aah, ah, mmm, yes♡"
                             ]
                         },
                         {
@@ -4493,7 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、おつんぽ……ん、ひゃあっ！♡"
+                                "\\n<Eury>O-otsunpo... n, hyah!♡"
                             ]
                         },
                         {
@@ -4510,7 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>ちゃんと言わなきゃ配信終われないよ～？"
+                                "\\n<Streamer>If you don't say it properly, we can't end the stream~?"
                             ]
                         },
                         {
@@ -4527,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>おっ、あっ、んっ、あぁっ！♡"
+                                "\\n<Eury>O-oh, ah, mmm, aah!♡"
                             ]
                         },
                         {
@@ -4544,7 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、おつんぽ、つんつん……。"
+                                "\\n<Eury>O-otsunpo, tsun tsun..."
                             ]
                         },
                         {
@@ -4613,7 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配信者>視聴者のみなさん、おつんぽつんつーん！"
+                                "\\n<Streamer>To all the viewers, otsunpo tsun tsu-n!"
                             ]
                         },
                         {
@@ -4702,7 +4625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……どういうことですか。"
+                                "\\n<Eury>...What does that mean?"
                             ]
                         },
                         {
@@ -4719,7 +4642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>え、何かまずいことあった？"
+                                "\\n<Streamer>Eh, was there something wrong?"
                             ]
                         },
                         {
@@ -4736,7 +4659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>まずいことしかないですよ！もう来ないですからね！"
+                                "\\n<Eury>There's nothing but wrong here! I'm not coming back again!"
                             ]
                         },
                         {
@@ -4753,7 +4676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>あ、ちょっと！なんでぇ～！"
+                                "\\n<Streamer>Ah, wait! Why~!"
                             ]
                         },
                         {
@@ -4770,7 +4693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<配信者>ほら、出演料の品もちゃんと渡すから……。"
+                                "\\n<Streamer>Look, I'll make sure to give you your appearance fee..."
                             ]
                         },
                         {
@@ -4823,7 +4746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……ふん！"
+                                "\\n<Eury>...Hmph!"
                             ]
                         },
                         {

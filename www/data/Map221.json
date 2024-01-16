@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "回想機能",
+    "displayName": "Recollection Function",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5677,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想機能を終了しますか？"
+                                "Would you like to exit the memory recall function?"
                             ]
                         },
                         {
@@ -13213,21 +13213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリア特典として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前作「改造少女マキナ-敗北の英雄-」の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マキナのエロシーンが見れます。"
+                                "As a clear bonus, you can view the erotic scene of Makina\nfrom the previous game \"Kaisou Shoujo Makina - Haiboku no\nEiyuu.\""
                             ]
                         },
                         {

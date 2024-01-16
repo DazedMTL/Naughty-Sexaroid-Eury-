@@ -1755,7 +1755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>リピートありがとうございます。"
+                                "\\n<Masseur>Thank you for being a repeat customer."
                             ]
                         },
                         {
@@ -1772,7 +1772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょっと！前のことなんですけど……！"
+                                "\\n<Eury>Wait a minute! About what happened before...!"
                             ]
                         },
                         {
@@ -1789,7 +1789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>どうかしましたか？"
+                                "\\n<Masseur>Is there something wrong?"
                             ]
                         },
                         {
@@ -1806,14 +1806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>２０分も、その、ずっと、触って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許しません！"
+                                "\\n<Eury>For 20 minutes, you just kept touching! I won't forgive\nthat!"
                             ]
                         },
                         {
@@ -1830,7 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>いえ、触るのが私の仕事なので……。"
+                                "\\n<Masseur>Well, touching is part of my job..."
                             ]
                         },
                         {
@@ -1895,7 +1888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>そういうことじゃないんです！"
+                                "\\n<Eury>That's not what I'm talking about!"
                             ]
                         },
                         {
@@ -1912,7 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>とりあえず、ベッドに寝てもらえますか？"
+                                "\\n<Masseur>For now, could you please lie down on the bed?"
                             ]
                         },
                         {
@@ -1929,7 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>セクハラマッサージをしないって約束しますか？"
+                                "\\n<Eury>Do you promise not to give me a sexual harassment massage?"
                             ]
                         },
                         {
@@ -1946,7 +1939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>……ははあ。"
+                                "\\n<Masseur>...Haha."
                             ]
                         },
                         {
@@ -1963,14 +1956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あなたみたいに立場を使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうことする人、許しませんから！"
+                                "\\n<Eury>I won't allow someone like you to use their position to do\nsuch things!"
                             ]
                         },
                         {
@@ -1987,7 +1973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>……あの。"
+                                "\\n<Masseur>...Um."
                             ]
                         },
                         {
@@ -2004,7 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>俺からしたら新型さんの方がよくわかりません。"
+                                "\\n<Masseur>From my perspective, it's you who are hard to understand,\nMiss Newcomer."
                             ]
                         },
                         {
@@ -2097,7 +2083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>えっ！？"
+                                "\\n<Eury>What!?"
                             ]
                         },
                         {
@@ -2114,7 +2100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>とりあえず寝てください。"
+                                "\\n<Masseur>Just lie down for now, please."
                             ]
                         },
                         {
@@ -2131,7 +2117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、話はまだ終わってません！"
+                                "\\n<Eury>But, our conversation isn't over yet!"
                             ]
                         },
                         {
@@ -2148,7 +2134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>ほら、サボってると思われるので。"
+                                "\\n<Masseur>Look, if you keep this up, people will think you're slacking\noff."
                             ]
                         },
                         {
@@ -2213,7 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ちょ、ちょっと！"
+                                "\\n<Eury>Oh, wait a minute!"
                             ]
                         },
                         {
@@ -2253,14 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>（面倒な客だな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アレをヤって黙らせるか）"
+                                "\\n<Masseur>(What a troublesome customer... Maybe I should do that thing\nto shut her up.)"
                             ]
                         },
                         {
@@ -2277,7 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ま、また無理矢理やる気ですか！？"
+                                "\\n<Eury>Are you planning to force yourself on me again!?"
                             ]
                         },
                         {
@@ -2294,14 +2273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>新型さんは最近テンゲツ街に来た"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんなので、サービスしますよ。"
+                                "\\n<Masseur>Since you're a newcomer to Tenge Street, I'll give you\nspecial service."
                             ]
                         },
                         {
@@ -2318,7 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>今回は手に特別な道具を使いますね。"
+                                "\\n<Masseur>This time, I'll be using a special tool in my hand."
                             ]
                         },
                         {
@@ -2335,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ど、道具！？"
+                                "\\n<Eury>A tool!?"
                             ]
                         },
                         {
@@ -2393,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>とりあえず最初はいつも通り、と。"
+                                "\\n<Masseur>First, as usual, I'll start by loosening up with my fingers."
                             ]
                         },
                         {
@@ -2410,14 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ちょ、ちょっと待ってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話はまだ終わってませんよ！"
+                                "\\n<Eury>Wait, just a moment! Our conversation isn't finished yet!"
                             ]
                         },
                         {
@@ -2434,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>前みたいなの、許しませんから！"
+                                "\\n<Eury>I won't allow the same thing as before!"
                             ]
                         },
                         {
@@ -2552,7 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{きゃあっ！？"
+                                "\\n<Eury>Kyaa!?"
                             ]
                         },
                         {
@@ -2569,7 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>そんなこと言われてもねえ。"
+                                "\\n<Masseur>Even if you say that..."
                             ]
                         },
                         {
@@ -2586,7 +2551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>わ、私以外にもこんなことしてるんですか！？"
+                                "\\n<Eury>Are you doing this kind of thing to others as well!?"
                             ]
                         },
                         {
@@ -2603,7 +2568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>いやいや、いくらなんでもしませんよ。"
+                                "\\n<Masseur>No, no, of course not."
                             ]
                         },
                         {
@@ -2721,7 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{ひゃああん！？"
+                                "\\n<Eury>Hyaaan!?"
                             ]
                         },
                         {
@@ -2738,7 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>まあ、お客さんは特別なんでね。"
+                                "\\n<Masseur>Well, you are a special customer after all."
                             ]
                         },
                         {
@@ -2755,14 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……い、言っておきますけど！私は改造少女！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物と戦い、街の平和を守るのが仕事です！"
+                                "\\n<Eury>...Just so you know! I am a modified girl!! It's my job to\nfight monsters and protect the peace of the city!"
                             ]
                         },
                         {
@@ -2779,14 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>その私に向かってこんなことを……！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただでは済まされませんからね！！"
+                                "\\n<Eury>And for you to do such things to me...!!! You won't get away\nwith it so easily!!"
                             ]
                         },
                         {
@@ -2803,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>はいはい。"
+                                "\\n<Masseur>Yes, yes."
                             ]
                         },
                         {
@@ -2921,7 +2872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{あぁあああっ♡"
+                                "\\n<Eury>Aaaaah♡"
                             ]
                         },
                         {
@@ -2938,14 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>そういうのいいんで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあそろそろ本格的に始めますよ。"
+                                "\\n<Masseur>That's enough of that. Now let's get started for real."
                             ]
                         },
                         {
@@ -2962,7 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>まずは前と同じように指でほぐしますね。"
+                                "\\n<Masseur>First, I'll loosen you up with my fingers, just like before."
                             ]
                         },
                         {
@@ -2979,14 +2923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（ま、まずいです……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これじゃ、前と同じ展開に……！）"
+                                "\\n<Eury>(This is bad... It's turning out just like last time...!)"
                             ]
                         },
                         {
@@ -3106,7 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{はぁ、ぁああん♡"
+                                "\\n<Eury>Haa, aahhaan♡"
                             ]
                         },
                         {
@@ -3171,14 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あ、ぁあっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐちゅぐちゅ、だめぇえ♡"
+                                "\\n<Eury>Ahh, ah, aahh♡ So wet, nooo♡"
                             ]
                         },
                         {
@@ -3195,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>すごい音しますね。溜まってますか？"
+                                "\\n<Masseur>It's making quite the sound. Have you been holding back?"
                             ]
                         },
                         {
@@ -3212,14 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>前回の気持ち良いポイントは覚えてますよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロなんでね。"
+                                "\\n<Masseur>I remember the spots that felt good last time. I am a\nprofessional, after all."
                             ]
                         },
                         {
@@ -3272,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちょ、ちょっと、話を聞いて……！！！"
+                                "\\n<Eury>Wait, just listen to me...!!!"
                             ]
                         },
                         {
@@ -3289,7 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>よし、じゃあ本番行きますか。"
+                                "\\n<Masseur>Alright, shall we get to the main event?"
                             ]
                         },
                         {
@@ -3306,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ほ、本番……？"
+                                "\\n<Eury>The main event...?"
                             ]
                         },
                         {
@@ -3323,7 +3246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>大きすぎたら言ってくださいね。"
+                                "\\n<Masseur>Please let me know if it's too big."
                             ]
                         },
                         {
@@ -3340,14 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、大き……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうことですか？"
+                                "\\n<Eury>Too big...? What do you mean?"
                             ]
                         },
                         {
@@ -3364,7 +3280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>よいしょっと。"
+                                "\\n<Masseur>Here we go."
                             ]
                         },
                         {
@@ -3484,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お゛ぉ゛っ！？♡"
+                                "\\n<Eury>Ohh!?♡"
                             ]
                         },
                         {
@@ -3501,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>ずっぽり入りましたね。さすがです。"
+                                "\\n<Masseur>It's in all the way. As expected."
                             ]
                         },
                         {
@@ -3554,7 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ゛、あが、あっ……♡"
+                                "\\n<Eury>Ah, ah, ahh...♡"
                             ]
                         },
                         {
@@ -3571,7 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>指でヤるよりもずっと奥までほぐれますんで。"
+                                "\\n<Masseur>This will loosen you up much deeper than just fingers."
                             ]
                         },
                         {
@@ -3588,7 +3504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめです、こ、こんなのっ……！！♡"
+                                "\\n<Eury>No, this is bad, something like this...!!♡"
                             ]
                         },
                         {
@@ -3605,14 +3521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（な、なにこれ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　中に入れられただけで、んっ……♡）"
+                                "\\n<Eury>(What is this...!! Just by putting it inside, mmm...♡)"
                             ]
                         },
                         {
@@ -3629,7 +3538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>スイッチ入れますね。"
+                                "\\n<Masseur>I'm turning on the switch now."
                             ]
                         },
                         {
@@ -3646,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だ、だめ、動かさないでっ！？"
+                                "\\n<Eury>No, don't move it!?"
                             ]
                         },
                         {
@@ -3759,7 +3668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お゛ぉ゛、あ゛っ♡"
+                                "\\n<Eury>Ohh, ahh♡"
                             ]
                         },
                         {
@@ -3776,7 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{な、なにこれぇえ゛♡"
+                                "\\n<Eury>What is this!?♡"
                             ]
                         },
                         {
@@ -3793,14 +3702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>健康器具ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "振動で中をほぐしてくれるんです。"
+                                "\\n<Masseur>It's a health device. The vibrations will loosen up your\ninsides."
                             ]
                         },
                         {
@@ -3865,7 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、だめ、だめだめっ……！！♡"
+                                "\\n<Eury>No, no, no, no...!!♡"
                             ]
                         },
                         {
@@ -3930,7 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ご、ごれ、おかしくなるぅう♡"
+                                "\\n<Eury>This is going to make me go crazy♡"
                             ]
                         },
                         {
@@ -3947,7 +3849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>好評なようで何よりですね。"
+                                "\\n<Masseur>Glad to see you're enjoying it."
                             ]
                         },
                         {
@@ -4000,14 +3902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>と、止めて、ぇええ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スイッチ、だめ、あ゛っ♡"
+                                "\\n<Eury>Stop it, please♡ The switch, no, ahh♡"
                             ]
                         },
                         {
@@ -4024,14 +3919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>おやおや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スイッチ押しましょうか？"
+                                "\\n<Masseur>Oh dear. Shall I press the switch?"
                             ]
                         },
                         {
@@ -4048,7 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お、押しで、あ゛っ、あぁあ♡"
+                                "\\n<Eury>Pressing it, ahh, ahhh♡"
                             ]
                         },
                         {
@@ -4065,7 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>しょうがないですねえ。"
+                                "\\n<Masseur>Can't be helped then."
                             ]
                         },
                         {
@@ -4171,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{んあ゛ぁ゛っ！？♡"
+                                "\\n<Eury>Nnahh!?♡"
                             ]
                         },
                         {
@@ -4188,14 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>もう１回押すとモードが「強」になるんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちの方がお好みですか？"
+                                "\\n<Masseur>If I press it again, the mode changes to 'strong'. Do you\nprefer this one?"
                             ]
                         },
                         {
@@ -4248,7 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（さっきよりも振動早くて、な、何か来ちゃう……！）"
+                                "\\n<Eury>(The vibrations are faster than before, something's\ncoming...!)"
                             ]
                         },
                         {
@@ -4265,7 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ち、ちが、そうじゃなくて、とめ、止めでぇ♡"
+                                "\\n<Eury>It's not that, stop, please stop♡"
                             ]
                         },
                         {
@@ -4282,7 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぁあっ、頭、おかしくなる、ぅうう♡"
+                                "\\n<Eury>Haa, aahh, my head's going crazy, uuu♡"
                             ]
                         },
                         {
@@ -4299,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あっ、ああぁ、あんっ♡はぁ、あんっ♡"
+                                "\\n<Eury>Ahh, aahh, ahn♡ Haa, ahn♡"
                             ]
                         },
                         {
@@ -4316,7 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>イきそうなときは好きなだけイって大丈夫です。"
+                                "\\n<Masseur>When you feel like you're about to come, you can let it out\nas much as you want."
                             ]
                         },
                         {
@@ -4333,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あっ、ぁあああ、お゛ぉ゛っ♡"
+                                "\\n<Eury>Ahh, ah, aahaa, ohh♡"
                             ]
                         },
                         {
@@ -4350,7 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、あぁあ、あ゛ぁ゛、はぁ、あん、あぁあ♡"
+                                "\\n<Eury>No good, aahh, ahh, haa, ahn, aahh♡"
                             ]
                         },
                         {
@@ -4367,7 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、ぁあ、ん゛っ♡"
+                                "\\n<Eury>Ah, aah, nh♡"
                             ]
                         },
                         {
@@ -4432,7 +4313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{い、イグぅう♡"
+                                "\\n<Eury>I'm coming♡"
                             ]
                         },
                         {
@@ -4545,7 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{あ゛っ、あ゛ぁっ♡"
+                                "\\n<Eury>Ahh, ahh♡"
                             ]
                         },
                         {
@@ -4598,7 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あん、ああぁあんっ♡"
+                                "\\n<Eury>Ahn, aahhaan♡"
                             ]
                         },
                         {
@@ -4615,7 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ……♡"
+                                "\\n<Eury>Haa, ah, aahh...♡"
                             ]
                         },
                         {
@@ -4632,14 +4513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>オイルなのか愛液なのかわからないぐらい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おマンコが大洪水ですよ。"
+                                "\\n<Masseur>It's such a flood down there, I can't tell if it's the oil\nor your love juices."
                             ]
                         },
                         {
@@ -4752,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\}あっ、はぁ、ぁあ、はぁ……。"
+                                "\\n<Eury>Ah, haa, aah, haa..."
                             ]
                         },
                         {
@@ -4769,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、ああぁあ、あ゛ぁ゛♡"
+                                "\\n<Eury>Haa, ah, aahhaa, aah♡"
                             ]
                         },
                         {
@@ -4786,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あぁ、あっ、ぁあ……。"
+                                "\\n<Eury>Haa, ahh, ah, aah..."
                             ]
                         },
                         {
@@ -4803,14 +4677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マッサージ師>さて、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１回目と志向を変えてみましたが、どうでしたか？"
+                                "\\n<Masseur>Well then. I tried something different for the first time,\nhow was it?"
                             ]
                         },
                         {
@@ -4827,7 +4694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……も、もう、だめぇ……。"
+                                "\\n<Eury>...I can't, anymore..."
                             ]
                         },
                         {
@@ -4844,14 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（もともと、この人をなんとかするつもりで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来たはずなのに……）"
+                                "\\n<Eury>(I originally came here with the intention of dealing with\nthis person...)"
                             ]
                         },
                         {
@@ -4868,7 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（また……好き勝手されちゃった……）"
+                                "\\n<Eury>(And yet... I let him do whatever he wanted again...)"
                             ]
                         },
                         {
@@ -4885,7 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>（……気持ち良かったけど……）"
+                                "\\n<Eury>(...It felt good though...)"
                             ]
                         },
                         {
@@ -5035,7 +4895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エルリィ>……ひどい目に遭った。"
+                                "\\n<Eury>...I had a terrible experience."
                             ]
                         },
                         {
@@ -5052,7 +4912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エルリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -5100,7 +4960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エルリィ>今日はもう寝よっと。"
+                                "\\n<Eury>I'm going to sleep for today."
                             ]
                         },
                         {
@@ -5769,7 +5629,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エルリィ>ふぁ～、よく寝た……。"
+                                "\\n<Eury>Faa~, I slept well..."
                             ]
                         },
                         {
@@ -5802,14 +5662,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<エルリィ>テンゲツ街に来て\\v[224]日目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日もがんばろう！"
+                                "\\n<Eury>It's my \\v[224]th day in Tengeitsu City. Let's do our best\ntoday too!"
                             ]
                         },
                         {

@@ -4324,7 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -5000,14 +5000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>今日はもう疲れちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宿屋に戻って休もう。"
+                                "\\n<Eury>I'm already tired today... Let's go back to the inn and\nrest."
                             ]
                         },
                         {
@@ -5052,7 +5045,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……レイのもとを訪ねようか？"
+                                "...Should I visit Rei?"
                             ]
                         },
                         {
@@ -5147,7 +5140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……レイのもとを訪ねようか？"
+                                "...Should I visit Rei?"
                             ]
                         },
                         {
@@ -5242,7 +5235,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……レイのもとを訪ねようか？"
+                                "...Should I visit Rei?"
                             ]
                         },
                         {
@@ -5337,7 +5330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……レイのもとを訪ねようか？"
+                                "...Should I visit Rei?"
                             ]
                         },
                         {
@@ -5432,7 +5425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レイに会おうかな？♡"
+                                "Eury: Should I go see Rei?♡"
                             ]
                         },
                         {
@@ -5527,7 +5520,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レイに会おうかな？♡"
+                                "Eury: Should I go see Rei?♡"
                             ]
                         },
                         {
@@ -5573,7 +5566,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>……ただいま♡"
+                                "\\n<Eury>...I'm home♡"
                             ]
                         },
                         {
@@ -5590,7 +5583,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<レイ>会いたかったよ、エウリィ。"
+                                "\\n<Rei>I've missed you, Eury."
                             ]
                         },
                         {
@@ -5607,7 +5600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>セックスしよ♡"
+                                "\\n<Eury>Let's have sex♡"
                             ]
                         },
                         {
@@ -5624,7 +5617,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>あぁ゛っ、ん゛っ、あ゛っ♡"
+                                "\\n<Eury>Ahh, mmm, ahh♡"
                             ]
                         },
                         {
@@ -5641,7 +5634,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>好き、好きぃ♡"
+                                "\\n<Eury>I love you, I love you♡"
                             ]
                         },
                         {
@@ -5658,7 +5651,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>イグ、うっ、あ゛っ♡"
+                                "\\n<Eury>I'm coming, uh, ahh♡"
                             ]
                         },
                         {
@@ -5675,7 +5668,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<エウリィ>あ゛ん゛っ♡"
+                                "\\n<Eury>Ahnn♡"
                             ]
                         },
                         {
@@ -5692,7 +5685,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いちゃらぶセックスをした……。"
+                                "We made love..."
                             ]
                         },
                         {
@@ -6234,7 +6227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あのー……。"
+                                "\\n<Eury>Um..."
                             ]
                         },
                         {
@@ -6281,7 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>ん、君は新型セクサロイドのエウリィちゃん？"
+                                "\\n<Old Man 1>Hm, are you the new model sexaroid, Eury-chan?"
                             ]
                         },
                         {
@@ -6298,7 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>はじめまして。"
+                                "\\n<Old Man 2>Nice to meet you."
                             ]
                         },
                         {
@@ -6315,7 +6308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>そういえば、僕もまだこの子を使ったことないな。"
+                                "\\n<Old Man 3>Now that you mention it, I haven't had the chance to use\nthis model yet."
                             ]
                         },
                         {
@@ -6348,7 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>お三方はお暇ですか？"
+                                "\\n<Eury>Are you three gentlemen free right now?"
                             ]
                         },
                         {
@@ -6365,7 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>ん、まあ暇っちゃ暇だけど。"
+                                "\\n<Old Man 1>Well, I guess I'm free."
                             ]
                         },
                         {
@@ -6382,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>酒場で飲んだから、そろそろ解散かなってところ。"
+                                "\\n<Old Man 2>We've been drinking at the bar, so we were about to call it\na night."
                             ]
                         },
                         {
@@ -6415,7 +6408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……よかったら、その。"
+                                "\\n<Eury>If it's alright with you..."
                             ]
                         },
                         {
@@ -6496,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ホテル、行きませんか？"
+                                "\\n<Eury>Would you like to go to a hotel?"
                             ]
                         },
                         {
@@ -6594,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、んんっ、あんっ、はぁっ♡"
+                                "\\n<Eury>Ah, mmm, ahn, haa♡"
                             ]
                         },
                         {
@@ -6611,14 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>ラッキーだなぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィちゃんから誘ってもらえるなんて。"
+                                "\\n<Old Man 1>Lucky me, to be invited by Eury-chan herself."
                             ]
                         },
                         {
@@ -6658,14 +6644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>エウリィちゃんのおまんこ最高だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜は楽しもうね。"
+                                "\\n<Old Man 3>Eury-chan's pussy is the best. Let's enjoy tonight."
                             ]
                         },
                         {
@@ -6682,7 +6661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、そこ、良い、好きっ♡"
+                                "\\n<Eury>Ah, there, that's good, I love it♡"
                             ]
                         },
                         {
@@ -6699,14 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あぁあ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３人に、されて、幸せぇ♡"
+                                "\\n<Eury>Haa, ah, aah♡ Being done by three people, I'm so happy♡"
                             ]
                         },
                         {
@@ -6723,14 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>もしかしてさぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクサロイドも性欲が溜まったりするのかな？"
+                                "\\n<Old Man 2>I wonder if sexaroids also accumulate sexual desire?"
                             ]
                         },
                         {
@@ -6747,7 +6712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>こんなおじさん３人を誘っちゃうんだもんね。"
+                                "\\n<Old Man 3>You're inviting three old guys like us, after all."
                             ]
                         },
                         {
@@ -6764,14 +6729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>は、はいっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっちしたくて、仕方なかったんですっ♡"
+                                "\\n<Eury>Yes♡ I just couldn't help wanting to have sex♡"
                             ]
                         },
                         {
@@ -6877,7 +6835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あんっ、おっぱい、触れてる♡"
+                                "\\n<Eury>Ahn, my breasts, you're touching them♡"
                             ]
                         },
                         {
@@ -6894,7 +6852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>感情のあるセクサロイドってすごいなあ。"
+                                "\\n<Uncle 2>It's amazing how sexaroids have emotions."
                             ]
                         },
                         {
@@ -6911,14 +6869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はんっ、ん♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "揉まれるの、好きぃ♡"
+                                "\\n<Eury>Hn, mmm♡ I love being fondled♡"
                             ]
                         },
                         {
@@ -6935,7 +6886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>乳首におちんちんの先っぽすりすりされるのどう？"
+                                "\\n<Old Man 2>How does it feel to have a cock rubbing against your\nnipples?"
                             ]
                         },
                         {
@@ -6952,14 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あん、んっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮、します♡"
+                                "\\n<Eury>Ahn, mmm♡ It excites me♡"
                             ]
                         },
                         {
@@ -7053,7 +6997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>おっぱい大きいし、揉みごたえも最高だよ。"
+                                "\\n<Old Man 1>Your breasts are big and feel so good to squeeze."
                             ]
                         },
                         {
@@ -7070,14 +7014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ありがとう、ございますぅ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんっ、んんっ、３人に、攻められるの、好きぃ♡"
+                                "\\n<Eury>Thank you so much♡ Ahn, mmm, I love being ravished by three\npeople♡"
                             ]
                         },
                         {
@@ -7094,7 +7031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、んっ、おちんちん、気持ち、良いっ♡"
+                                "\\n<Eury>Ah, mmm, your cock feels good♡"
                             ]
                         },
                         {
@@ -7111,7 +7048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>まんこも完全に本物のそれだよ。"
+                                "\\n<Old Man 3>Your pussy is just like the real thing."
                             ]
                         },
                         {
@@ -7128,14 +7065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>パコられながらおててでシコシコできるのも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがセクサロイドだね。"
+                                "\\n<Old Man 1>Being able to jerk off while getting fucked is truly a\nsexaroid trait."
                             ]
                         },
                         {
@@ -7152,14 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>エウリィの、手で、気持ち良く、んっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なって、ください、ね♡"
+                                "\\n<Eury>Please feel good with Eury's hand too, mmm♡"
                             ]
                         },
                         {
@@ -7176,7 +7099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>エウリィちゃん、お口開けてみて。"
+                                "\\n<Old Man 3>Eury-chan, open your mouth for me."
                             ]
                         },
                         {
@@ -7193,7 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あ、んっ、んっ、はい、んっ♡"
+                                "\\n<Eury>Ah, mmm, yes♡"
                             ]
                         },
                         {
@@ -7299,14 +7222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はむっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んっ、んんっ♡"
+                                "\\n<Eury>Hamu! Mmm, mmmm♡"
                             ]
                         },
                         {
@@ -7323,14 +7239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>お口の中あったかいねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指突っ込まれると興奮する？"
+                                "\\n<Old Man 3>Your mouth is so warm. Does it excite you when fingers are\nthrust inside?"
                             ]
                         },
                         {
@@ -7383,14 +7292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ちゅぱ、んんっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、んむっ、ちゅぱ♡"
+                                "\\n<Eury>Chupa, mmmm♡ Mmm, muku, chupa♡"
                             ]
                         },
                         {
@@ -7407,7 +7309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>すごいなあ、夢中になって舐めてるよ。"
+                                "\\n<Old Man 1>Amazing, you're really into sucking."
                             ]
                         },
                         {
@@ -7424,7 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>こういうプレイ好きなんだ。"
+                                "\\n<Old Man 2>You like this kind of play, huh?"
                             ]
                         },
                         {
@@ -7441,7 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ふっ、んん、んむっ、ん♡"
+                                "\\n<Eury>Fuu, mmm, muku, mmm♡"
                             ]
                         },
                         {
@@ -7458,14 +7360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>エウリィちゃん、最高だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に好きになっちゃったかも。"
+                                "\\n<Old Man 3>Eury-chan, you're the best. I might have really fallen for\nyou."
                             ]
                         },
                         {
@@ -7482,14 +7377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はふ、んっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来て、いいですよ♡"
+                                "\\n<Eury>Hafu, mmm♡ Come inside if you want♡"
                             ]
                         },
                         {
@@ -7583,7 +7471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、ちゅ、ちゅぱ、んむっ♡"
+                                "\\n<Eury>Mmm, chu, chupa, muku♡"
                             ]
                         },
                         {
@@ -7600,7 +7488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>うわあ、キスえっろ。"
+                                "\\n<Old Man 1>Wow, that's an erotic kiss."
                             ]
                         },
                         {
@@ -7617,14 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>すごいえっちなキス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れてるよね、さすが。"
+                                "\\n<Old Man 2>That's an incredibly erotic kiss. You're quite experienced,\nas expected."
                             ]
                         },
                         {
@@ -7641,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ん、んむっ、ちゅぱ、ん♡"
+                                "\\n<Eury>Mmm, nmu, chupa, mmm♡"
                             ]
                         },
                         {
@@ -7706,7 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、だめ、そろそろ、イっちゃうぅう♡"
+                                "\\n<Eury>Haa, ah, no, I'm going to cum soon♡"
                             ]
                         },
                         {
@@ -7771,7 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、あっ、あんっ、んんっ♡"
+                                "\\n<Eury>Haa, ah, ahn, mmm♡"
                             ]
                         },
                         {
@@ -7836,7 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁあぁああっ♡"
+                                "\\n<Eury>Aaahhh♡"
                             ]
                         },
                         {
@@ -7853,14 +7734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>僕もそろそろ出すよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にイこうね、エウリィちゃん！"
+                                "\\n<Old Man 3>I'm about to cum too! Let's cum together, Eury-chan!"
                             ]
                         },
                         {
@@ -7913,14 +7787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>エウリィに、精液くださいぃ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３人分の、精液ぃ♡"
+                                "\\n<Eury>Please give Eury your semen♡ All three of your semen♡"
                             ]
                         },
                         {
@@ -8040,7 +7907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{はぁあ、んんっ♡"
+                                "\\n<Eury>Haaa, mmm♡"
                             ]
                         },
                         {
@@ -8105,14 +7972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あぁ、あっ、んんっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出てる、３人の、精液ぃ……♡"
+                                "\\n<Eury>Ahh, ah, mmm♡ It's coming out, the semen from all three of\nyou...♡"
                             ]
                         },
                         {
@@ -8165,7 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん１>次、自分がまんこ行っていいかな？"
+                                "\\n<Old Man 1>Next, may I go into your pussy?"
                             ]
                         },
                         {
@@ -8182,7 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん２>エウリィちゃん相手だと何度でもイけるよ。"
+                                "\\n<Old Man 2>With Eury-chan, I can cum over and over again."
                             ]
                         },
                         {
@@ -8199,7 +8059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん３>今日は眠れないね、エウリィちゃん。"
+                                "\\n<Old Man 3>I won't be able to sleep tonight, Eury-chan."
                             ]
                         },
                         {
@@ -8216,14 +8076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はぁ、はい、はぃい♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしく、お願いします……♡"
+                                "\\n<Eury>Haa, yes, please♡ I'm looking forward to it...♡"
                             ]
                         },
                         {
@@ -8297,14 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>あんっ、んん、あっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごい、そこ、当たってるぅ♡"
+                                "\\n<Eury>Ahn, mmm, ah♡ That's amazing, you're hitting the right spot♡"
                             ]
                         },
                         {
@@ -8321,7 +8167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>だめ、あっ、イっちゃう、イっちゃいます♡"
+                                "\\n<Eury>No, ah, I'm going to cum, I'm cumming♡"
                             ]
                         },
                         {
@@ -8338,14 +8184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>はむ、んっ、お゛ぉ゛♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ゛、しゅごい、ぃいい♡"
+                                "\\n<Eury>Hamu, mmm, ohhh♡ Ahh, that's amazing, so good♡"
                             ]
                         },
                         {
@@ -8458,7 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝まで輪姦されて楽しんだ……。"
+                                "She enjoyed being gangbanged until morning..."
                             ]
                         },
                         {
@@ -8675,7 +8514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……昨晩はお楽しみでした♡"
+                                "\\n<Eury>...Last night was a pleasure♡"
                             ]
                         },
                         {
@@ -8863,7 +8702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん１>暇だなあ。"
+                                "\\n<Old Man 1>I'm bored."
                             ]
                         },
                         {
@@ -8880,7 +8719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん２>また別の店で飲む？"
+                                "\\n<Old Man 2>Should we go drink at another place?"
                             ]
                         },
                         {
@@ -8897,7 +8736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん３>うーん、でもお金がちょっと。"
+                                "\\n<Old Man 3>Hmm, but I'm a bit short on money."
                             ]
                         },
                         {
@@ -8930,7 +8769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -8954,7 +8793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\n<Eury>\\C[27]Lewdness\\C[0] level of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {
@@ -9043,14 +8882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>「テンゲツ街にまともな人間はいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まともなふりをしてるやつはたまにいる」"
+                                "\\n<Cleaning Robot>\"There are no decent humans in Tenge Street. Sometimes there\nare those who pretend to be decent.\""
                             ]
                         },
                         {
@@ -9067,14 +8899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>マリオン様の録音データです。西エリアの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治安の良さで勘違いを起こさないように、とのことです。"
+                                "\\n<Cleaning Robot>\"This is a recording from Lady Marion. It's about not being\nmisled by the good public order in the western area.\""
                             ]
                         },
                         {
@@ -9186,7 +9011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<掃除ロボ>充電中。"
+                                "\\n<Cleaning Robot>Charging."
                             ]
                         },
                         {
@@ -9340,7 +9165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん１>暇だなあ。"
+                                "\\n<Old Man 1>I'm bored."
                             ]
                         },
                         {
@@ -9357,7 +9182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん２>また別の店で飲む？"
+                                "\\n<Old Man 2>Should we go drink at another place?"
                             ]
                         },
                         {
@@ -9374,7 +9199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん３>うーん、でもお金がちょっと。"
+                                "\\n<Old Man 3>Hmm, but I'm a bit short on money."
                             ]
                         },
                         {
@@ -9407,7 +9232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -9431,7 +9256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\n<Eury>\\C[27]Lewdness\\C[0] level of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {
@@ -9551,7 +9376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん１>暇だなあ。"
+                                "\\n<Old Man 1>I'm bored."
                             ]
                         },
                         {
@@ -9568,7 +9393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん２>また別の店で飲む？"
+                                "\\n<Old Man 2>Should we go drink at another place?"
                             ]
                         },
                         {
@@ -9585,7 +9410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<おじさん３>うーん、でもお金がちょっと。"
+                                "\\n<Old Man 3>Hmm, but I'm a bit short on money."
                             ]
                         },
                         {
@@ -9618,7 +9443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -9642,7 +9467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]が\\C[27]40\\C[0]必要です。"
+                                "\\n<Eury>\\C[27]Lewdness\\C[0] level of \\C[27]40\\C[0] is required."
                             ]
                         },
                         {

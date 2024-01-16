@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マキナ基地",
+    "displayName": "Machina Base",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2396,14 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>マキナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.気を付けてね。"
+                                "\\n<Marion>Makina, be careful."
                             ]
                         },
                         {
@@ -2436,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……ああ。"
+                                "\\n<Makina>...Yeah."
                             ]
                         },
                         {
@@ -2654,7 +2647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>はあ。魔物の残党処理も楽じゃないね。"
+                                "\\n<Marion>Sigh. Dealing with the remnants of the monsters isn't easy."
                             ]
                         },
                         {
@@ -2671,14 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>確実に数は減ってるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ魔物被害出まくりでワロタ。いやワロえない。"
+                                "\\n<Marion>The numbers are definitely decreasing, but we're still\nseeing a lot of monster-related incidents. It's laughable.\nNo, it's not funny at all."
                             ]
                         },
                         {
@@ -2729,7 +2715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>魔物を唯一倒せる存在、改造少女マキナ。"
+                                "\\n<Marion>The only being capable of defeating the monsters, the\nmodified girl Makina."
                             ]
                         },
                         {
@@ -2746,14 +2732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>そのマキナが、魔物を生み出す原初の魔物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エクスデモンに負けたときは焦ったけど……。"
+                                "\\n<Marion>When Makina was defeated by the primordial monster, the Ex-\nDemon, I was really worried..."
                             ]
                         },
                         {
@@ -2811,14 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>少しずつ力を取り戻して、リベンジに成功。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで魔物が新たに生み出されることはない。"
+                                "\\n<Marion>But she gradually regained her strength and succeeded in her\nrevenge. Now no new monsters will be born."
                             ]
                         },
                         {
@@ -2835,7 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>だけど……。"
+                                "\\n<Marion>But..."
                             ]
                         },
                         {
@@ -2877,14 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>魔物の残党多すぎ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処理すんのにどんだけかかるんだ、これ？"
+                                "\\n<Marion>There are still too many monster stragglers. How long is it\ngoing to take to deal with all of them?"
                             ]
                         },
                         {
@@ -2901,14 +2866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まあ、あの\\c[27]脳内お花畑なお嬢様\\C[0]も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばってくれてるわけだが……。"
+                                "\\n<Marion>Well, that \\c[27]airhead lady\\C[0] is doing her best too..."
                             ]
                         },
                         {
@@ -2925,7 +2883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>そろそろ本格的に働いてもらうか。"
+                                "\\n<Marion>Maybe it's time for her to start working for real."
                             ]
                         },
                         {
@@ -3051,7 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お疲れ様でぇ～す♪"
+                                "\\n<Eury>Good work everyone♪"
                             ]
                         },
                         {
@@ -3290,7 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>お、噂をすればバカ。じゃなくて影。"
+                                "\\n<Marion>Oh, speak of the devil. Or should I say, speak of the fool."
                             ]
                         },
                         {
@@ -3307,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>エウリィ、お前に新しい任務を与える。"
+                                "\\n<Marion>Eury, I have a new mission for you."
                             ]
                         },
                         {
@@ -3340,14 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>来た来たぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもござれ、ですよ！"
+                                "\\n<Eury>Here it comes! I'm ready for anything!"
                             ]
                         },
                         {
@@ -3380,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>お前には、\\C[14]テンゲツ街\\C[0]に行ってもらう。"
+                                "\\n<Marion>You're going to \\C[14]Tengeki Street\\C[0]."
                             ]
                         },
                         {
@@ -3397,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>周囲で魔物被害が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに伴って街の治安も悪化している。"
+                                "\\n<Marion>The area has seen a lot of monster damage. Consequently, the\npublic order in the city has deteriorated."
                             ]
                         },
                         {
@@ -3421,14 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>エウリィにはテンゲツ街を活動拠点として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物退治やトラブルの解決に勤しんでほしい。"
+                                "\\n<Marion>Eury, I want you to use Tengeki Street as your base of\noperations to exterminate monsters and resolve any troubles."
                             ]
                         },
                         {
@@ -3461,7 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ってことは！？"
+                                "\\n<Eury>Does that mean...!?"
                             ]
                         },
                         {
@@ -3494,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>つつつついに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私１人で任務をやらせて頂けるんですね～！"
+                                "\\n<Eury>Finally! I get to undertake a mission all by myself!"
                             ]
                         },
                         {
@@ -3534,7 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ああ。今回は先輩改造少女のマキナは一緒じゃない。"
+                                "\\n<Marion>Yes. This time you won't be accompanied by Makina, the\nsenior modified girl."
                             ]
                         },
                         {
@@ -3567,7 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……ドジをしても守ってくれる人がいないのが心配だな。"
+                                "\\n<Marion>...I'm worried about you making a blunder without anyone to\nprotect you."
                             ]
                         },
                         {
@@ -3600,14 +3530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ドジなんてしないですよ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、さっそく行ってきますね！"
+                                "\\n<Eury>I won't make any blunders! Well then, I'll be off now!"
                             ]
                         },
                         {
@@ -3860,7 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>あ、ちょ、待て。"
+                                "\\n<Marion>Wait, hold on a sec..."
                             ]
                         },
                         {
@@ -4028,14 +3951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>行っちまったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歩いていくよりもポッドで転送した方が速いだろうが。"
+                                "\\n<Marion>She's gone. She would have been faster if she used the pod\nto teleport."
                             ]
                         },
                         {
@@ -4099,14 +4015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まいっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつドジでバカだけど足は速いし。"
+                                "\\n<Marion>Oh well. She may be a klutz and a fool, but she's quick on\nher feet."
                             ]
                         },
                         {
@@ -4123,7 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ドジでバカだけどな。"
+                                "\\n<Marion>A klutz and a fool, though."
                             ]
                         },
                         {
@@ -4260,14 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>マリオン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィがすごい勢いで出て行ったが、何があった？"
+                                "\\n<Makina>Marion. Eury just rushed out of here. What happened?"
                             ]
                         },
                         {
@@ -4300,7 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>あ、マキナ。そのことなんだけどさ。"
+                                "\\n<Marion>Oh, Makina. About that..."
                             ]
                         },
                         {
@@ -4317,7 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>かくかくしかじかで……。"
+                                "\\n<Marion>So here's what happened..."
                             ]
                         },
                         {
@@ -4350,7 +4252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>エウリィを１人でテンゲツ街に？危険じゃないか？"
+                                "\\n<Makina>You're sending Eury to Tengeki Street alone? Isn't that\ndangerous?"
                             ]
                         },
                         {
@@ -4367,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>なんで？"
+                                "\\n<Marion>Why?"
                             ]
                         },
                         {
@@ -4400,14 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あの街は治安が悪すぎる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィが何かされたらどうする？"
+                                "\\n<Makina>That city's public order is too poor. What if something\nhappens to Eury?"
                             ]
                         },
                         {
@@ -4424,14 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あいつだって改造少女だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]人間に攻撃をすることはできない。"
+                                "\\n<Makina>She's a modified girl too. She can't attack humans.\\C[2]"
                             ]
                         },
                         {
@@ -4448,14 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>マリオンだってわかっているはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１番恐ろしいのは魔物ではなく人間、だと。"
+                                "\\n<Makina>You know that, Marion. The most terrifying thing isn't\nmonsters; it's humans."
                             ]
                         },
                         {
@@ -4488,14 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>その点なら大丈夫。テンゲツ街には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が作った\\C[27]セクサロイド\\C[0]が普及している。"
+                                "\\n<Marion>That's not a problem. Tengeki Street has seen widespread use\nof the \\C[27]Sexaroids\\C[0] I created."
                             ]
                         },
                         {
@@ -4528,7 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>せくさ……ろいど？"
+                                "\\n<Makina>Sexa...roids?"
                             ]
                         },
                         {
@@ -4561,14 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>セックスするためのアンドロイドってこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから男どもの性欲は制御できてる。"
+                                "\\n<Marion>Androids for sex. That's why we've been able to control the\nmen's sexual desires."
                             ]
                         },
                         {
@@ -4601,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……！"
+                                "\\n<Makina>……！"
                             ]
                         },
                         {
@@ -4634,14 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>私がドローンでセクサロイドを大量に送り付けるまでは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性犯罪が絶えなかったらしくてね。"
+                                "\\n<Marion>Before I flooded the market with Sexaroids using drones, sex\ncrimes were rampant."
                             ]
                         },
                         {
@@ -4658,14 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まー魔物被害で荒れてるから仕方ないとは言え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんまカスって感じ。"
+                                "\\n<Marion>Well, it's understandable given the monster damage, but\nthose guys are really scum."
                             ]
                         },
                         {
@@ -4698,14 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……男どもは、その、セクサロイド？なんてもので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足するのか？"
+                                "\\n<Makina>...Men are satisfied with those, Sexaroids?"
                             ]
                         },
                         {
@@ -4722,7 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まあ、現に犯罪は減ってるし。"
+                                "\\n<Marion>Well, crime rates have dropped indeed."
                             ]
                         },
                         {
@@ -4773,14 +4619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（それに、あのときこぞって魔物側に寝返った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間どもがマキナに欲情した事実があるしな）"
+                                "\\n<Marion>(Besides, there's the fact that those humans who betrayed us\nfor the monsters lusted after Makina...)"
                             ]
                         },
                         {
@@ -4797,14 +4636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（この事実を私が知っていること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マキナには話してないけど……）"
+                                "\\n<Marion>(I know this fact, but I haven't told Makina...)"
                             ]
                         },
                         {
@@ -4862,7 +4694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>どうした？"
+                                "\\n<Makina>What's wrong?"
                             ]
                         },
                         {
@@ -4895,14 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>なんでもないよ。とにかく、男はバカだから人間だろうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械だろうが同様に性の対象にできるってこと。"
+                                "\\n<Marion>Nothing. Anyway, men are idiots, whether it's with humans or\nmachines, they can objectify them sexually just the same."
                             ]
                         },
                         {
@@ -4935,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>そうか……それなら良いが。"
+                                "\\n<Makina>I see... Well, as long as that's the case."
                             ]
                         },
                         {
@@ -5165,14 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>うわ、またエグい数の魔物の反応出てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに対処しないとヤバいぞこれ。"
+                                "\\n<Marion>Ugh, there's a nasty number of monster signals popping up.\nWe need to deal with this quickly or it's going to be bad."
                             ]
                         },
                         {
@@ -5205,7 +5023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>はあ。魔物の残党処理も楽じゃないね。"
+                                "\\n<Marion>Sigh. Cleaning up these monster remnants is no easy task."
                             ]
                         },
                         {
@@ -5222,14 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>確実に数は減ってるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ魔物被害出まくりでワロタ。いやワロえない。"
+                                "\\n<Marion>The numbers are definitely decreasing, but we're still\nseeing a ridiculous amount of monster damage. It's\nlaughable. No, it's not laughable at all."
                             ]
                         },
                         {
@@ -5280,7 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>魔物を唯一倒せる存在、改造少女マキナ。"
+                                "\\n<Marion>The only being capable of defeating monsters, the modified\ngirl Makina."
                             ]
                         },
                         {
@@ -5297,14 +5108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>そのマキナが、魔物を生み出す原初の魔物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エクスデモンに負けたときは焦ったけど……。"
+                                "\\n<Marion>When Makina lost to the primordial monster, the Ex-Demon, I\npanicked, but..."
                             ]
                         },
                         {
@@ -5362,14 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>少しずつ力を取り戻して、リベンジに成功。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで魔物が新たに生み出されることはない。"
+                                "\\n<Marion>She gradually regained her strength and successfully took\nher revenge. Now no new monsters will be born."
                             ]
                         },
                         {
@@ -5386,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>だけど……。"
+                                "\\n<Marion>But..."
                             ]
                         },
                         {
@@ -5428,14 +5225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>魔物の残党多すぎ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処理すんのにどんだけかかるんだ、これ？"
+                                "\\n<Marion>There are still too many monster remnants. How long is it\ngoing to take to deal with all of this?"
                             ]
                         },
                         {
@@ -5452,14 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まあ、\\C[24]第２の改造少女\\C[0]である\\c[27]エウリィ\\C[0]も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばってくれてるわけだが……。"
+                                "\\n<Marion>Well, Eury, the second modified girl, is also doing her\nbest..."
                             ]
                         },
                         {
@@ -5476,14 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>そろそろあの脳内お花畑なお嬢様も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本格的に動くときか。"
+                                "\\n<Marion>Maybe it's about time for that daydreaming lady to start\nmoving for real."
                             ]
                         },
                         {
@@ -5609,7 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>\\{お疲れ様でぇ～す♪"
+                                "\\n<Eury>Good work everyone♪"
                             ]
                         },
                         {
@@ -5848,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>お、噂をすればバカ。じゃなくて影。"
+                                "\\n<Marion>Oh, speak of the devil... I mean, shadow."
                             ]
                         },
                         {
@@ -5881,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>え、何の話ですか？"
+                                "\\n<Eury>Eh, what are you talking about?"
                             ]
                         },
                         {
@@ -5898,7 +5674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>なんでもない。こっちの話。"
+                                "\\n<Marion>Nothing. It's just us talking here."
                             ]
                         },
                         {
@@ -5915,14 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ところでエウリィ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に新しい任務を与える。"
+                                "\\n<Marion>By the way, Eury, I have a new mission for you."
                             ]
                         },
                         {
@@ -5955,14 +5724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>来た来たぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもござれ、ですよ！"
+                                "\\n<Eury>Here it comes! I'm ready for anything!"
                             ]
                         },
                         {
@@ -5979,14 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>お前には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１人でテンゲツ街へ行ってもらう。"
+                                "\\n<Marion>You're going to Tengeki Street by yourself."
                             ]
                         },
                         {
@@ -6019,14 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>テンゲツ街って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、あの……！？"
+                                "\\n<Eury>Tengeki Street? Could it be... that place...!?"
                             ]
                         },
                         {
@@ -6059,7 +5807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>……。"
+                                "\\n<Eury>……。"
                             ]
                         },
                         {
@@ -6092,7 +5840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>初めて聞きました。"
+                                "\\n<Eury>This is the first time I've heard of it."
                             ]
                         },
                         {
@@ -6125,7 +5873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>いや前情報あるふりしなくていいから。"
+                                "\\n<Marion>No need to pretend like you have prior information."
                             ]
                         },
                         {
@@ -6158,14 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>周囲で魔物被害が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに伴って街の治安も悪化している。"
+                                "\\n<Marion>The area has been suffering from a lot of monster damage.\nConsequently, the town's public order has also deteriorated."
                             ]
                         },
                         {
@@ -6182,14 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>エウリィにはテンゲツ街を活動拠点として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物退治やトラブルの解決に勤しんでほしい。"
+                                "\\n<Marion>I want you to use Tengeki Street as your base of operations\nand dedicate yourself to monster extermination and resolving\ntroubles."
                             ]
                         },
                         {
@@ -6222,7 +5956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ってことは！？"
+                                "\\n<Eury>Does that mean...!?"
                             ]
                         },
                         {
@@ -6255,14 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>つつつついに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私１人で任務をやらせて頂けるんですね～！"
+                                "\\n<Eury>Finally! I get to undertake a mission all by myself!"
                             ]
                         },
                         {
@@ -6295,7 +6022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ああ。今回は先輩改造少女のマキナは一緒じゃない。"
+                                "\\n<Marion>Yes. This time you won't be accompanied by Makina, the\nsenior modified girl."
                             ]
                         },
                         {
@@ -6328,7 +6055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>……ドジをしても守ってくれる人がいないのが心配だな。"
+                                "\\n<Marion>...I'm worried about you making a blunder without anyone\nthere to protect you."
                             ]
                         },
                         {
@@ -6361,14 +6088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エウリィ>ドジなんてしないですよ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、さっそく行ってきますね！"
+                                "\\n<Eury>I won't make any blunders! Well then, I'll be off right\naway!"
                             ]
                         },
                         {
@@ -6621,7 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>あ、ちょ、待て。"
+                                "\\n<Marion>Ah, wait a sec..."
                             ]
                         },
                         {
@@ -6769,14 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>行っちまったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歩いていくよりもポッドで転送した方が速いだろうが。"
+                                "\\n<Marion>She's gone. She'd get there faster if she used the pod for\ntransport instead of walking."
                             ]
                         },
                         {
@@ -6840,14 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まいっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつドジでバカだけど足は速いし。"
+                                "\\n<Marion>Whatever. She may be clumsy and silly, but she's fast on her\nfeet."
                             ]
                         },
                         {
@@ -6864,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>ドジでバカだけどな。"
+                                "\\n<Marion>Clumsy and silly though she may be."
                             ]
                         },
                         {
@@ -7001,14 +6707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>マリオン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィがすごい勢いで出て行ったが、何があった？"
+                                "\\n<Makina>Marion. Eury just rushed out of here. What happened?"
                             ]
                         },
                         {
@@ -7041,7 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>あ、マキナ。そのことなんだけどさ。"
+                                "\\n<Marion>Oh, Makina. About that..."
                             ]
                         },
                         {
@@ -7058,7 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>かくかくしかじかで……。"
+                                "\\n<Marion>So here's what happened..."
                             ]
                         },
                         {
@@ -7091,7 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>エウリィを１人でテンゲツ街に？危険じゃないか？"
+                                "\\n<Makina>Eury is going to Tengeki Street alone? Isn't that dangerous?"
                             ]
                         },
                         {
@@ -7108,7 +6807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>なんで？"
+                                "\\n<Marion>Why?"
                             ]
                         },
                         {
@@ -7141,14 +6840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あの街は治安が悪すぎる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エウリィが何かされたらどうする？"
+                                "\\n<Makina>That town has terrible public order. What if something\nhappens to Eury?"
                             ]
                         },
                         {
@@ -7165,14 +6857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>あいつだって改造少女だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]人間に攻撃をすることはできない。"
+                                "\\n<Makina>She's a modified girl too. She can't attack humans."
                             ]
                         },
                         {
@@ -7189,14 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>マリオンだってわかっているはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１番恐ろしいのは魔物ではなく人間、だと。"
+                                "\\n<Makina>You know that too, Marion. The most terrifying thing isn't\nmonsters; it's humans."
                             ]
                         },
                         {
@@ -7229,14 +6907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>その点なら大丈夫。テンゲツ街には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が作った\\C[27]セクサロイド\\C[0]が普及している。"
+                                "\\n<Marion>That's not a problem. Tengeki Street has been flooded with\nSexaroids that I created."
                             ]
                         },
                         {
@@ -7269,7 +6940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>せくさ……ろいど？"
+                                "\\n<Makina>Sexaroids?"
                             ]
                         },
                         {
@@ -7302,14 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>セックスするためのアンドロイドってこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから男どもの性欲は制御できてる。"
+                                "\\n<Marion>Androids made for sex. That's why I can control the sexual\ndesires of men."
                             ]
                         },
                         {
@@ -7342,7 +7006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……！"
+                                "\\n<Makina>……！"
                             ]
                         },
                         {
@@ -7375,14 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>私がドローンでセクサロイドを大量に送り付けるまでは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性犯罪が絶えなかったらしくてね。"
+                                "\\n<Marion>Until I sent a flood of Sexaroids with my drones, there used\nto be endless sexual crimes."
                             ]
                         },
                         {
@@ -7399,14 +7056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まー魔物被害で荒れてるから仕方ないとは言え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんまカスって感じ。"
+                                "\\n<Marion>Well, it's no surprise given the monster damage and the\nstate of things, but really, it's just trashy."
                             ]
                         },
                         {
@@ -7439,14 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>……男どもは、その、セクサロイド？なんてもので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足するのか？"
+                                "\\n<Makina>...Do men really get satisfied with those, Sexaroids?"
                             ]
                         },
                         {
@@ -7463,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>まあ、現に犯罪は減ってるし。"
+                                "\\n<Marion>Well, crime has indeed decreased."
                             ]
                         },
                         {
@@ -7514,14 +7157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（それに、あのときこぞって魔物側に寝返った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間どもがマキナに欲情した事実があるしな）"
+                                "\\n<Marion>(Besides, there's the fact that humans who turned to the\nmonster side en masse lusted after Makina at that time.)"
                             ]
                         },
                         {
@@ -7538,14 +7174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>（この事実を私が知っていること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マキナには話してないけど……）"
+                                "\\n<Marion>(The fact that I know this. I haven't told Makina though...)"
                             ]
                         },
                         {
@@ -7603,7 +7232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>どうした？"
+                                "\\n<Makina>What's wrong?"
                             ]
                         },
                         {
@@ -7636,14 +7265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マリオン>なんでもないよ。とにかく、男はバカだから人間だろうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械だろうが同様に性の対象にできるってこと。"
+                                "\\n<Marion>It's nothing. Anyway, men are stupid; whether it's a human\nor a machine, they can make either into a sexual object."
                             ]
                         },
                         {
@@ -7676,7 +7298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<マキナ>そうか……それなら良いが。"
+                                "\\n<Makina>I see... If that's the case, then good."
                             ]
                         },
                         {
@@ -7881,7 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物の現れた場所へ行きますか？"
+                                "Shall we go to the place where the monster appeared?"
                             ]
                         },
                         {
