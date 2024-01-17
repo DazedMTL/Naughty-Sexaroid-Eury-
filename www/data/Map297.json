@@ -5890,7 +5890,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[87]\\C[14]清純改造少女の証\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[87]\\C[14]Certificate_of_Pure_Girl_Modification\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -5947,7 +5947,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[87]\\C[14]２週間以内クリアの証\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[87]\\C[14]Proof_of_Clearing_Within_2_Weeks\\C[0] 120 auto auto 0"
                             ]
                         },
                         {

@@ -2859,7 +2859,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:街の出入口>"
+                                "<ActiveMessage:Town_Entrance/Gate>"
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:北エリア>"
+                                "<ActiveMessage:North_Area>"
                             ]
                         },
                         {
@@ -3168,7 +3168,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:西エリア>"
+                                "<ActiveMessage:West_Area>"
                             ]
                         },
                         {
@@ -3507,7 +3507,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:人手が欲しい>"
+                                "<ActiveMessage:I_need_a_hand>"
                             ]
                         },
                         {
@@ -4604,7 +4604,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:東エリア通路>"
+                                "<ActiveMessage:East_Area_Passage>"
                             ]
                         },
                         {
@@ -4896,7 +4896,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ゲームしない？>"
+                                "<ActiveMessage:Won't_you_play_a_game?>"
                             ]
                         },
                         {

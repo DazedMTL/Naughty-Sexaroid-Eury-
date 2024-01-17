@@ -2859,7 +2859,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:街の出入口>"
+                                "<ActiveMessage:Town's_Entrance/Exit>"
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:北エリア>"
+                                "<ActiveMessage:North_Area>"
                             ]
                         },
                         {
@@ -3168,7 +3168,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:西エリア>"
+                                "<ActiveMessage:West_Area>"
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:人手が欲しい>"
+                                "<ActiveMessage:I_want_some_help>"
                             ]
                         },
                         {
@@ -6212,7 +6212,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:東エリア通路>"
+                                "<ActiveMessage:East_Area_Passage>"
                             ]
                         },
                         {
@@ -7494,7 +7494,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ゲームしない？>"
+                                "<ActiveMessage:Won't_you_play_a_game?>"
                             ]
                         },
                         {
@@ -11873,7 +11873,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ちゃんと復興作業を……>"
+                                "<ActiveMessage:Make_sure_to_carry_out_the_reconstruction_work_properly>"
                             ]
                         },
                         {
@@ -12024,7 +12024,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:資源が欲しいな……>"
+                                "<ActiveMessage:I_want_resources>"
                             ]
                         },
                         {
@@ -12308,7 +12308,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -12558,7 +12558,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:魔物が……>"
+                                "<ActiveMessage:Monsters_are>"
                             ]
                         },
                         {
@@ -13129,7 +13129,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -13368,7 +13368,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:道具が欲しいな……>"
+                                "<ActiveMessage:I_want_some_tools>"
                             ]
                         },
                         {
@@ -13655,7 +13655,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -13922,7 +13922,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:みんなどこだ……？>"
+                                "<ActiveMessage:Where_is_everyone?>"
                             ]
                         },
                         {
@@ -14287,7 +14287,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -14537,7 +14537,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:資源が欲しいな……>"
+                                "<ActiveMessage:I_want_resources>"
                             ]
                         },
                         {
@@ -14821,7 +14821,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -15071,7 +15071,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:魔物が……>"
+                                "<ActiveMessage:The_monsters>"
                             ]
                         },
                         {
@@ -15642,7 +15642,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -15881,7 +15881,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:道具が欲しいな……>"
+                                "<ActiveMessage:I_want_some_tools>"
                             ]
                         },
                         {
@@ -16168,7 +16168,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -16435,7 +16435,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:道具はどこだ……？>"
+                                "<ActiveMessage:Where_are_the_tools?>"
                             ]
                         },
                         {
@@ -16757,7 +16757,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -17007,7 +17007,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:資源が欲しいな……>"
+                                "<ActiveMessage:I_want_resources>"
                             ]
                         },
                         {
@@ -17291,7 +17291,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -17541,7 +17541,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:魔物が……>"
+                                "<ActiveMessage:The_monsters>"
                             ]
                         },
                         {
@@ -18112,7 +18112,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -18351,7 +18351,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:道具が欲しいな……>"
+                                "<ActiveMessage:I_want_some_tools>"
                             ]
                         },
                         {
@@ -18638,7 +18638,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -18905,7 +18905,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:泥棒はどこだ……？>"
+                                "<ActiveMessage:Where_is_the_thief?>"
                             ]
                         },
                         {
@@ -19220,7 +19220,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -19487,7 +19487,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:さてと……>"
+                                "<ActiveMessage:Well_then>"
                             ]
                         },
                         {
@@ -19567,7 +19567,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {

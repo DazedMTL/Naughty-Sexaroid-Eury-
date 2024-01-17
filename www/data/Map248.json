@@ -2506,7 +2506,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[192]\\C[14]手紙\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Obtained:_\\i[192]\\C[14]Letter\\C[0] 120 auto auto 0"
                             ]
                         },
                         {

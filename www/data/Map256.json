@@ -4367,7 +4367,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -4520,7 +4520,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:遊びたいー！>"
+                                "<ActiveMessage:I_want_to_play!>"
                             ]
                         },
                         {
@@ -4899,7 +4899,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:遊びたいー！>"
+                                "<ActiveMessage:I_want_to_play!>"
                             ]
                         },
                         {

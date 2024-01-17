@@ -65,7 +65,7 @@
           var x = args[3] === "auto" ? "auto" : Number(args[3] || 0);
           var y = args[4] === "auto" ? "auto" : Number(args[4] || 60);
 
-          exInfoWindowText = String(args[1] || "");
+          exInfoWindowText = String(args[1].replace(/_/g, ' ') || "");
           exInfoWindowShowCount = Number(args[2] || 180);
           exInfoWindowPosition = { x: x, y: y };
           exInfoWindowSe = { name: "", volume: 90, pitch: 100, pan: 0 };

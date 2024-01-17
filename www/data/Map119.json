@@ -3274,7 +3274,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 解放：\\i[87]\\C[14]雷が落ちる森\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Unlocked:_\\i[87]\\C[14]The_Forest_Where_Lightning_Strikes\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -3850,7 +3850,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 解放：\\i[87]\\C[14]魑魅魍魎の廃校\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Unlocked:_\\i[87]\\C[14]Haunted_School\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -4474,7 +4474,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 解放：\\i[87]\\C[14]禍々しき深淵\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Unleashing:_\\i[87]\\C[14]The_Sinister_Abyss\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -5114,7 +5114,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 解放：\\i[87]\\C[14]マモノ基地\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Liberation:_\\i[87]\\C[14]Monster_Base\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -8920,7 +8920,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中央エリア>"
+                                "<ActiveMessage:Central_Area>"
                             ]
                         },
                         {
@@ -10158,7 +10158,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:転送ポッド？>"
+                                "<ActiveMessage:Transfer_Pod?>"
                             ]
                         },
                         {
@@ -17352,7 +17352,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：資材 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_Materials 120 auto auto 0"
                             ]
                         },
                         {

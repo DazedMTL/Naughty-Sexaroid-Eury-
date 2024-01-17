@@ -9549,7 +9549,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中央エリア>"
+                                "<ActiveMessage:Central_Area>"
                             ]
                         },
                         {
@@ -14035,7 +14035,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:嬢が欲しい>"
+                                "<ActiveMessage:I_Want_a_Girl>"
                             ]
                         },
                         {
@@ -14960,7 +14960,7 @@
                             "code": 108,
                             "indent": 3,
                             "parameters": [
-                                "<ActiveMessage:嬢が欲しい>"
+                                "<ActiveMessage:I_Want_a_Girl>"
                             ]
                         },
                         {
@@ -17043,7 +17043,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:配信のネタ！！>"
+                                "<ActiveMessage:Material_for_the_Stream!!>"
                             ]
                         },
                         {
@@ -20183,7 +20183,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：作業道具 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_Work_Tools 120 auto auto 0"
                             ]
                         },
                         {
@@ -22414,7 +22414,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:出演者が欲しい>"
+                                "<ActiveMessage:The_performers_are_wanted>"
                             ]
                         },
                         {

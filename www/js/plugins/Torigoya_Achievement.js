@@ -275,13 +275,13 @@
         } else if (!icon && (match = line.match(/^\s*icon:\s*(\d+)/))) {
           icon = ~~match[1];
         } else if (!title && (match = line.match(/^\s*title:\s*(.+)\s*$/))) {
-          title = match[1];
+          title = match[1].replace(/_/g, ' ');
         } else if ((match = line.match(/^\s*secret:\s*(.+)\s*$/))) {
           secret = match[1] === "true";
         } else if ((match = line.match(/^\s*secretTitle:\s*(.+)\s*$/))) {
-          secretTitle = match[1];
+          secretTitle = match[1].replace(/_/g, ' ');
         } else if ((match = line.match(/^\s*secretText:\s*(.+)\s*$/))) {
-          secretDescription = match[1];
+          secretDescription = match[1].replace(/_/g, ' ');
         } else {
           description += line + "\n";
         }

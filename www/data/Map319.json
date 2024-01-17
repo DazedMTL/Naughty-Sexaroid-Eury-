@@ -9549,7 +9549,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中央エリア>"
+                                "<ActiveMessage:Central_Area>"
                             ]
                         },
                         {
@@ -19557,7 +19557,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：作業道具 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_Work_Tools 120 auto auto 0"
                             ]
                         },
                         {

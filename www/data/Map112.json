@@ -10707,7 +10707,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[208]\\C[14]バレットパック\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[208]\\C[14]Bullet_Pack\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -11302,7 +11302,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 解放：\\i[82]\\C[14]ダッシュモード\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Unlocked:_\\i[82]\\C[14]Dash_Mode\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -12154,7 +12154,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {
@@ -13778,7 +13778,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow 入手：\\i[307]\\C[14]グロウコア\\C[0] 120 auto auto 0"
+                                "LL_InfoPopupWIndowMV showWindow Acquired:_\\i[307]\\C[14]Glow_Core\\C[0] 120 auto auto 0"
                             ]
                         },
                         {

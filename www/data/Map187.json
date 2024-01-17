@@ -1395,7 +1395,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中央エリア>"
+                                "<ActiveMessage:Central_Area>"
                             ]
                         },
                         {
@@ -1474,7 +1474,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:東エリア>"
+                                "<ActiveMessage:East_Area>"
                             ]
                         },
                         {
