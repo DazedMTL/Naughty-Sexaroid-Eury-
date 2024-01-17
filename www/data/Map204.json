@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\n<Eury>It's the \\v[224]th day since we've come to Tengeki Street.\nLet's do our best today too!"
+                                "\\n<Eury>It's the \\v[224]th day since we've come to Tengen Street.\nLet's do our best today too!"
                             ]
                         },
                         {
@@ -8453,7 +8453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>Eury, it's been a week since the mission started. How's\neverything going in Tengeki Street?"
+                                "\\n<Makina>Eury, it's been a week since the mission started. How's\neverything going in Tengen Street?"
                             ]
                         },
                         {
@@ -9190,7 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>The most important thing to be careful of is not monsters,\nbut human malice. Tengeki Street has bad security."
+                                "\\n<Makina>The most important thing to be careful of is not monsters,\nbut human malice. Tengen Street has bad security."
                             ]
                         },
                         {

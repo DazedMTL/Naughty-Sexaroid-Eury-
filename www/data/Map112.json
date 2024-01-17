@@ -10135,7 +10135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Eury>...He said he was in Tenge Street."
+                                "\\n<Eury>...He said he was in Tengen Street."
                             ]
                         },
                         {
@@ -12026,7 +12026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>Eury, another directive. There's a den of monsters near\nTengeki Street."
+                                "\\n<Makina>Eury, another directive. There's a den of monsters near\nTengen Street."
                             ]
                         },
                         {
@@ -12294,7 +12294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>Eury. Are there any people suffering from poison in Tengeki\nStreet?"
+                                "\\n<Makina>Eury. Are there any people suffering from poison in Tengen\nStreet?"
                             ]
                         },
                         {
@@ -12682,7 +12682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>Eury, it's an emergency. \\C[2]A suspicious base has been\nspotted in the vicinity of Tengeki Street."
+                                "\\n<Makina>Eury, it's an emergency. \\C[2]A suspicious base has been\nspotted in the vicinity of Tengen Street."
                             ]
                         },
                         {

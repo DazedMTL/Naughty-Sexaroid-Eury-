@@ -3331,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>You're going to \\C[14]Tengeki Street\\C[0]."
+                                "\\n<Marion>You're going to \\C[14]Tengen Street\\C[0]."
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>Eury, I want you to use Tengeki Street as your base of\noperations to exterminate monsters and resolve any troubles."
+                                "\\n<Marion>Eury, I want you to use Tengen Street as your base of\noperations to exterminate monsters and resolve any troubles."
                             ]
                         },
                         {
@@ -4252,7 +4252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>You're sending Eury to Tengeki Street alone? Isn't that\ndangerous?"
+                                "\\n<Makina>You're sending Eury to Tengen Street alone? Isn't that\ndangerous?"
                             ]
                         },
                         {
@@ -4369,7 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>That's not a problem. Tengeki Street has seen widespread use\nof the \\C[27]Sexaroids\\C[0] I created."
+                                "\\n<Marion>That's not a problem. Tengen Street has seen widespread use\nof the \\C[27]Sexaroids\\C[0] I created."
                             ]
                         },
                         {
@@ -5741,7 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>You're going to Tengeki Street by yourself."
+                                "\\n<Marion>You're going to Tengen Street by yourself."
                             ]
                         },
                         {
@@ -5774,7 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Eury>Tengeki Street? Could it be... that place...!?"
+                                "\\n<Eury>Tengen Street? Could it be... that place...!?"
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>I want you to use Tengeki Street as your base of operations\nand dedicate yourself to monster extermination and resolving\ntroubles."
+                                "\\n<Marion>I want you to use Tengen Street as your base of operations\nand dedicate yourself to monster extermination and resolving\ntroubles."
                             ]
                         },
                         {
@@ -6790,7 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Makina>Eury is going to Tengeki Street alone? Isn't that dangerous?"
+                                "\\n<Makina>Eury is going to Tengen Street alone? Isn't that dangerous?"
                             ]
                         },
                         {
@@ -6907,7 +6907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Marion>That's not a problem. Tengeki Street has been flooded with\nSexaroids that I created."
+                                "\\n<Marion>That's not a problem. Tengen Street has been flooded with\nSexaroids that I created."
                             ]
                         },
                         {
