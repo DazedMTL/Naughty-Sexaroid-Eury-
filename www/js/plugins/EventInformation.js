@@ -71,7 +71,6 @@ _PD_EventInfomation.setupCommand = function (event) {
   var index = 0;
   while (list[index].code === 108 || list[index].code === 408) {
     var command = list[index].parameters[0]
-      .toLowerCase()
       .replace(/　/g, " ")
       .split(" ");
     for (var i = 0, len = command.length; i < len; i++) {
@@ -84,7 +83,7 @@ _PD_EventInfomation.setupCommand = function (event) {
             _PD_EventInfomation.changeVariables[event._eventId] = true;
           _PD_EventInfomation.setInformation(
             event._eventId,
-            newText,
+            newText.replace(/_/g, ' '),
             parseInt(param[2])
           );
           break;
